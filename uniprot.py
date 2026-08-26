@@ -1,41 +1,72 @@
-import requests
 import time
+import requests
 
-print("Lendo o arquivo de genes...")
-with open("genes.txt", "r") as f:
+# 1. Carrega os genes do arquivo genes.txt
+with open("genes.txt", "r", encoding="utf-8") as f:
     genes = [line.strip() for line in f if line.strip()]
 
-print(f"{len(genes)} genes encontrados. Consultando o UniProt...")
+genes_faltantes = []
 
-with open("resultados_uniprot.tsv", "w") as out:
-    out.write("Gene_Pesquisado\tUniProt_ID\tProtein_Name\tOrganism\tLength\n")
+url = "https://rest.uniprot.org/uniprotkb/search"
+
+# 2. Executa a busca e grava o arquivo TSV
+with open("resultados_uniprot.tsv", "w", encoding="utf-8") as out:
+    out.write(
+        "Gene_Original\tID_UniProt\tNome_Proteina\tOrganismo\tStatus\n"
+    )
 
     for gene in genes:
-        url = f"https://rest.uniprot.org/uniprotkb/search?query=gene:{gene}+AND+organism_id:9606&size=1"
-        
         try:
-            response = requests.get(url)
+            # Query flexível com taxID humano (9606)
+            query = f"(gene:{gene}) AND (organism_id:9606)"
+            params = {
+                "query": query,
+                "fields": "accession,protein_name,organism_name",
+                "format": "json",
+            }
+
+            response = requests.get(url, params=params)
+
             if response.status_code == 200:
                 data = response.json()
                 results = data.get("results", [])
-                
+
                 if results:
-                    entry = results[0]
-                    uniprot_id = entry.get("primaryAccession", "N/A")
-                    protein_name = entry.get("proteinDescription", {}).get("recommendedName", {}).get("fullName", {}).get("value", "N/A")
-                    organism = entry.get("organism", {}).get("scientificName", "N/A")
-                    length = str(entry.get("sequence", {}).get("length", "N/A"))
-                    
-                    out.write(f"{gene}\t{uniprot_id}\t{protein_name}\t{organism}\t{length}\n")
+                    uniprot_id = results[0]["primaryAccession"]
+                    protein_name = results[0]["proteinDescription"][
+                        "recommendedName"
+                    ]["fullName"]["value"]
+                    organism = results[0]["organism"]["scientificName"]
+
+                    out.write(
+                        f"{gene}\t{uniprot_id}\t{protein_name}\t{organism}\tEncontrado\n"
+                    )
                     print(f"[SUCESSO] {gene} -> {uniprot_id}")
                 else:
-                    out.write(f"{gene}\tNA\tNA\tNA\tNA\n")
+                    out.write(f"{gene}\tNA\tNA\tNA\tNão Encontrado\n")
                     print(f"[AVISO] {gene} não encontrado.")
+                    genes_faltantes.append(gene)
             else:
                 print(f"[ERRO] Falha na API para {gene}")
+                genes_faltantes.append(gene)
+
         except Exception as e:
             print(f"[ERRO] {e} em {gene}")
-            
-        time.sleep(0.3)
+            genes_faltantes.append(gene)
 
-print("\nPronto! Arquivo 'resultados_uniprot.tsv' gerado com sucesso.")
+        time.sleep(0.2)
+
+# 3. Salva os genes faltantes em um novo arquivo TXT
+with open("genes_nao_identificados.txt", "w", encoding="utf-8") as f_out:
+    for g in genes_faltantes:
+        f_out.write(f"{g}\n")
+
+# 4. Imprime o resumo final no terminal
+print("\n" + "=" * 40)
+print("RELATÓRIO DE EXECUÇÃO")
+print("=" * 40)
+print(f"Total de genes processados: {len(genes)}")
+print(f"Total de não encontrados: {len(genes_faltantes)}")
+print(
+    "A lista dos genes ausentes foi salva em: 'genes_nao_identificados.txt'\n"
+)
