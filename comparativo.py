@@ -1,9 +1,57 @@
 import os
+import re
 import pandas as pd
 
+AA_PROPS = {
+    "Arg": "Básico/Carga Positiva",
+    "Lys": "Básico/Carga Positiva",
+    "His": "Básico/Carga Positiva",
+    "Asp": "Ácido/Carga Negativa",
+    "Glu": "Ácido/Carga Negativa",
+    "Ser": "Polar Neutro",
+    "Thr": "Polar Neutro",
+    "Asn": "Polar Neutro",
+    "Gln": "Polar Neutro",
+    "Cys": "Especial/Reativo",
+    "Gly": "Especial/Flexível",
+    "Pro": "Especial/Rígido",
+    "Ala": "Apolar/Hidrofóbico",
+    "Val": "Apolar/Hidrofóbico",
+    "Ile": "Apolar/Hidrofóbico",
+    "Leu": "Apolar/Hidrofóbico",
+    "Met": "Apolar/Hidrofóbico",
+    "Phe": "Apolar/Aromático",
+    "Tyr": "Apolar/Aromático",
+    "Trp": "Apolar/Aromático",
+}
 
-def gerar_tabela_enriquecida_tsv():
-    print("Iniciando consolidação exaustiva com Links e Proteína...")
+
+def analisar_tipo_modificacao(prot_var):
+    if str(prot_var) in ["-", "nan", "NA", "", "None"]:
+        return "-", "Desconhecido"
+
+    match_3 = re.search(r"p\.([A-Z][a-z]{2})\d+([A-Z][a-z]{2})", str(prot_var))
+    if match_3:
+        aa_ref, aa_alt = match_3.group(1), match_3.group(2)
+        prop_ref = AA_PROPS.get(aa_ref, "Desconhecido")
+        prop_alt = AA_PROPS.get(aa_alt, "Desconhecido")
+
+        if prop_ref == prop_alt:
+            tipo = f"Conservativa ({prop_ref})"
+        else:
+            tipo = f"Não-Conservativa ({prop_ref} -> {prop_alt})"
+
+        return f"{aa_ref} -> {aa_alt}", tipo
+
+    match_1 = re.search(r"([A-Z])\d+([A-Z])", str(prot_var))
+    if match_1:
+        return f"{match_1.group(1)} -> {match_1.group(2)}", "Substituição Missense"
+
+    return "-", "Substituição Missense"
+
+
+def gerar_tabela_completa_proteina_tsv():
+    print("Iniciando mapeamento detalhado de proteína e modificações...")
 
     pasta_resultados = "resultados"
     os.makedirs(pasta_resultados, exist_ok=True)
@@ -15,7 +63,7 @@ def gerar_tabela_enriquecida_tsv():
         print(f"[ERRO] Arquivo não encontrado: {e}")
         return
 
-    # Normalização de IDs
+    # Normalização de chaves
     for df in [df_dbsnp, df_am]:
         if "rsID_dbSNP" in df.columns:
             df["rsID_dbSNP"] = df["rsID_dbSNP"].astype(str).str.strip()
@@ -32,7 +80,6 @@ def gerar_tabela_enriquecida_tsv():
         & (~df_am["rsID_dbSNP"].isin(["NA", "nan", ""]))
     ].copy()
 
-    # Merge Completo (Outer Merge)
     df_merged = pd.merge(
         dbsnp_validos,
         am_validos,
@@ -41,7 +88,53 @@ def gerar_tabela_enriquecida_tsv():
         suffixes=("_dbSNP", "_AlphaMissense"),
     )
 
-    # 1. Status de Presença da Fonte
+    # 1. Nome da Proteína / ID UniProt
+    col_uniprot = [
+        c
+        for c in df_merged.columns
+        if any(
+            k in c.lower()
+            for k in ["uniprot", "protein_name", "protein_id", "transcript"]
+        )
+    ]
+    if col_uniprot:
+        df_merged["Nome_Proteina_UniProt"] = df_merged[col_uniprot[0]].fillna(
+            "-"
+        )
+    else:
+        df_merged["Nome_Proteina_UniProt"] = df_merged["Gene"].apply(
+            lambda g: f"Proteína de {g}" if pd.notna(g) else "-"
+        )
+
+    # 2. Busca da coluna de variante da proteína com fallback seguro
+    col_var_prot = [
+        c
+        for c in df_merged.columns
+        if any(
+            k in c.lower()
+            for k in [
+                "hgvs.p",
+                "protein_variant",
+                "aa_change",
+                "prot_change",
+                "protein",
+            ]
+        )
+    ]
+
+    var_prot_col = (
+        col_var_prot[0] if col_var_prot else "Proteina_Alteracao_Original"
+    )
+
+    if var_prot_col not in df_merged.columns:
+        df_merged[var_prot_col] = "-"
+
+    # 3. Aplicação da Análise Físico-Química
+    trocas_e_tipos = df_merged[var_prot_col].apply(analisar_tipo_modificacao)
+    df_merged["Troca_Aminoacido"] = [t[0] for t in trocas_e_tipos]
+    df_merged["Tipo_Modificacao_FisicoQuimica"] = [t[1] for t in trocas_e_tipos]
+
+    # Status de Fonte
     em_dbsnp = df_merged["rsID_dbSNP"].isin(dbsnp_validos["rsID_dbSNP"])
     em_am = df_merged["rsID_dbSNP"].isin(am_validos["rsID_dbSNP"])
 
@@ -50,146 +143,40 @@ def gerar_tabela_enriquecida_tsv():
     df_merged.loc[em_dbsnp & ~em_am, "Presenca_Fonte"] = "Apenas dbSNP"
     df_merged.loc[~em_dbsnp & em_am, "Presenca_Fonte"] = "Apenas AlphaMissense"
 
-    # 2. Link Direto para Consulta Externa
-    def gerar_link_dbsnp(rsid):
-        rsid_str = str(rsid).strip()
-        if rsid_str.startswith("rs"):
-            return f"https://www.ncbi.nlm.nih.gov/snp/{rsid_str}"
-        return "-"
-
-    df_merged["Link_dbSNP"] = df_merged["rsID_dbSNP"].apply(gerar_link_dbsnp)
-
-    # 3. Consolidação de Informação de Proteína / Alteração de Aminoácido
-    cols_prot = [
-        c
-        for c in df_merged.columns
-        if any(
-            k in c.lower()
-            for k in [
-                "protein",
-                "uniprot",
-                "hgvs.p",
-                "aa_change",
-                "protein_variant",
-            ]
+    # Link Direto
+    df_merged["Link_dbSNP"] = df_merged["rsID_dbSNP"].apply(
+        lambda x: (
+            f"https://www.ncbi.nlm.nih.gov/snp/{str(x).strip()}"
+            if str(x).startswith("rs")
+            else "-"
         )
-    ]
+    )
 
-    if cols_prot:
-        df_merged["Proteina_Alteracao"] = df_merged[cols_prot[0]].fillna("-")
-    else:
-        df_merged["Proteina_Alteracao"] = "-"
-
-    # 4. Mapeamento dos Scores e Padrões
-    col_score = [
-        c
-        for c in df_merged.columns
-        if "am_pathogenicity" in c.lower() or "score" in c.lower()
-    ]
-    col_am_class = [c for c in df_merged.columns if "am_class" in c.lower()]
-    col_clin = [
-        c
-        for c in df_merged.columns
-        if "clinical" in c.lower() or "significance" in c.lower()
-    ]
-
-    score_col = col_score[0] if col_score else None
-    am_class_col = col_am_class[0] if col_am_class else None
-    clin_col = col_clin[0] if col_clin else None
-
-    def categorizar_score(val):
-        try:
-            s = float(val)
-            if s >= 0.564:
-                return (
-                    "Patogênico Forte (>=0.74)"
-                    if s >= 0.74
-                    else "Provável Patogênico (0.564-0.74)"
-                )
-            elif s <= 0.34:
-                return "Provável Benigno (<=0.34)"
-            else:
-                return "Zona Ambígua (0.34-0.564)"
-        except (ValueError, TypeError):
-            return "Sem Score"
-
-    if score_col:
-        df_merged["AM_Score_Faixa"] = df_merged[score_col].apply(
-            categorizar_score
-        )
-
-    def classificar_status_e_alerta(row):
-        fonte = row["Presenca_Fonte"]
-        if fonte != "Em Ambos":
-            return fonte, False
-
-        val_clin = str(row[clin_col]).lower() if clin_col else ""
-        val_am = str(row[am_class_col]).lower() if am_class_col else ""
-        s_am = row[score_col] if score_col else None
-
-        c_path = any(
-            x in val_clin for x in ["pathogenic", "likely_pathogenic"]
-        )
-        c_benign = any(
-            x in val_clin for x in ["benign", "likely_benign"]
-        )
-        c_vus = "uncertain" in val_clin or "vus" in val_clin or val_clin == ""
-
-        am_path = "likely_pathogenic" in val_am or "pathogenic" in val_am
-        am_benign = "likely_benign" in val_am or "benign" in val_am
-
-        if (c_path and am_benign) or (c_benign and am_path):
-            return "Discordância Direta (ClinVar vs AM)", True
-
-        if c_vus and s_am is not None:
-            try:
-                score_num = float(s_am)
-                if score_num >= 0.564:
-                    return (
-                        "Reclassificação: VUS ClinVar -> AM Patogênico",
-                        False,
-                    )
-                elif score_num <= 0.34:
-                    return "Reclassificação: VUS ClinVar -> AM Benigno", False
-            except (ValueError, TypeError):
-                pass
-
-        if c_path and am_path:
-            return "Concordante (Patogênico)", False
-        if c_benign and am_benign:
-            return "Concordante (Benigno)", False
-
-        return "Outros / Inconclusivos", False
-
-    res = df_merged.apply(classificar_status_e_alerta, axis=1)
-    df_merged["Padrao_Comparacao"] = [r[0] for r in res]
-    df_merged["Alerta_Conflito_Direto"] = [r[1] for r in res]
-
-    # Reordenação
+    # Reordenação Prioritária
     cols_prioridade = [
         "Gene",
+        "Nome_Proteina_UniProt",
         "rsID_dbSNP",
-        "Proteina_Alteracao",
+        var_prot_col,
+        "Troca_Aminoacido",
+        "Tipo_Modificacao_FisicoQuimica",
         "Link_dbSNP",
         "Presenca_Fonte",
-        "Padrao_Comparacao",
-        "Alerta_Conflito_Direto",
     ]
-    if score_col:
-        cols_prioridade.extend([score_col, "AM_Score_Faixa"])
 
-    outras_colunas = [c for c in df_merged.columns if c not in cols_prioridade]
-    df_merged = df_merged[cols_prioridade + outras_colunas]
+    cols_existentes = [c for c in cols_prioridade if c in df_merged.columns]
+    outras_cols = [c for c in df_merged.columns if c not in cols_existentes]
+    df_merged = df_merged[cols_existentes + outras_cols]
 
-    # 5. Nome do NOVO ARQUIVO alterado aqui:
+    # Salva no arquivo final em resultados/
     output_path = os.path.join(
-        pasta_resultados, "tabela_comparativa_enriquecida.tsv"
+        pasta_resultados, "tabela_comparativa_detalhada_proteinas.tsv"
     )
     df_merged.to_csv(output_path, sep="\t", index=False)
     print(
-        f"[SUCESSO] Novo arquivo salvo em: '{output_path}' ({len(df_merged)} linhas)!"
+        f"[SUCESSO] Arquivo salvo sem erros em '{output_path}' ({len(df_merged)} linhas)!"
     )
 
 
 if __name__ == "__main__":
-    gerar_tabela_enriquecida_tsv()
+    gerar_tabela_completa_proteina_tsv()
