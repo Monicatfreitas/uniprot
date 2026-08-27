@@ -2,10 +2,9 @@ import os
 import pandas as pd
 
 
-def gerar_tabela_completa_e_exaustiva():
-    print("Iniciando consolidação exaustiva de todos os atributos...")
+def gerar_tabela_enriquecida_tsv():
+    print("Iniciando consolidação exaustiva com Links e Proteína...")
 
-    # 1. Definição e criação da pasta de saída
     pasta_resultados = "resultados"
     os.makedirs(pasta_resultados, exist_ok=True)
 
@@ -42,7 +41,7 @@ def gerar_tabela_completa_e_exaustiva():
         suffixes=("_dbSNP", "_AlphaMissense"),
     )
 
-    # 2. Presença de Fonte
+    # 1. Status de Presença da Fonte
     em_dbsnp = df_merged["rsID_dbSNP"].isin(dbsnp_validos["rsID_dbSNP"])
     em_am = df_merged["rsID_dbSNP"].isin(am_validos["rsID_dbSNP"])
 
@@ -51,7 +50,37 @@ def gerar_tabela_completa_e_exaustiva():
     df_merged.loc[em_dbsnp & ~em_am, "Presenca_Fonte"] = "Apenas dbSNP"
     df_merged.loc[~em_dbsnp & em_am, "Presenca_Fonte"] = "Apenas AlphaMissense"
 
-    # Mapeamento dinâmico de colunas
+    # 2. Link Direto para Consulta Externa
+    def gerar_link_dbsnp(rsid):
+        rsid_str = str(rsid).strip()
+        if rsid_str.startswith("rs"):
+            return f"https://www.ncbi.nlm.nih.gov/snp/{rsid_str}"
+        return "-"
+
+    df_merged["Link_dbSNP"] = df_merged["rsID_dbSNP"].apply(gerar_link_dbsnp)
+
+    # 3. Consolidação de Informação de Proteína / Alteração de Aminoácido
+    cols_prot = [
+        c
+        for c in df_merged.columns
+        if any(
+            k in c.lower()
+            for k in [
+                "protein",
+                "uniprot",
+                "hgvs.p",
+                "aa_change",
+                "protein_variant",
+            ]
+        )
+    ]
+
+    if cols_prot:
+        df_merged["Proteina_Alteracao"] = df_merged[cols_prot[0]].fillna("-")
+    else:
+        df_merged["Proteina_Alteracao"] = "-"
+
+    # 4. Mapeamento dos Scores e Padrões
     col_score = [
         c
         for c in df_merged.columns
@@ -68,7 +97,6 @@ def gerar_tabela_completa_e_exaustiva():
     am_class_col = col_am_class[0] if col_am_class else None
     clin_col = col_clin[0] if col_clin else None
 
-    # 3. Categorização do Score
     def categorizar_score(val):
         try:
             s = float(val)
@@ -90,7 +118,6 @@ def gerar_tabela_completa_e_exaustiva():
             categorizar_score
         )
 
-    # 4. Padrão Biológico e Alerta
     def classificar_status_e_alerta(row):
         fonte = row["Presenca_Fonte"]
         if fonte != "Em Ambos":
@@ -142,6 +169,8 @@ def gerar_tabela_completa_e_exaustiva():
     cols_prioridade = [
         "Gene",
         "rsID_dbSNP",
+        "Proteina_Alteracao",
+        "Link_dbSNP",
         "Presenca_Fonte",
         "Padrao_Comparacao",
         "Alerta_Conflito_Direto",
@@ -152,15 +181,15 @@ def gerar_tabela_completa_e_exaustiva():
     outras_colunas = [c for c in df_merged.columns if c not in cols_prioridade]
     df_merged = df_merged[cols_prioridade + outras_colunas]
 
-    # 5. Exportação para dentro do novo diretório
+    # 5. Nome do NOVO ARQUIVO alterado aqui:
     output_path = os.path.join(
-        pasta_resultados, "tabela_comparativa_completa.tsv"
+        pasta_resultados, "tabela_comparativa_enriquecida.tsv"
     )
     df_merged.to_csv(output_path, sep="\t", index=False)
     print(
-        f"[SUCESSO] Tabela salva em: '{output_path}' ({len(df_merged)} linhas e {len(df_merged.columns)} colunas)!"
+        f"[SUCESSO] Novo arquivo salvo em: '{output_path}' ({len(df_merged)} linhas)!"
     )
 
 
 if __name__ == "__main__":
-    gerar_tabela_completa_e_exaustiva()
+    gerar_tabela_enriquecida_tsv()
