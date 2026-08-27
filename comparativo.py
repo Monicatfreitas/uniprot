@@ -1,5 +1,8 @@
 import os
 import re
+import urllib.parse
+import urllib.request
+import json
 import pandas as pd
 
 AA_PROPS = {
@@ -24,6 +27,49 @@ AA_PROPS = {
     "Tyr": "Apolar/Aromático",
     "Trp": "Apolar/Aromático",
 }
+
+
+def buscar_nomes_proteinas_uniprot(lista_genes):
+    """Consulta a API do UniProtKB para obter o nome oficial da proteína por gene (Humano)."""
+    mapa_proteinas = {}
+    genes_unicos = [
+        g
+        for g in set(lista_genes)
+        if pd.notna(g) and str(g).strip() not in ["", "nan", "NA"]
+    ]
+
+    print(f"Buscando nomes oficiais de proteínas no UniProt para {len(genes_unicos)} genes...")
+
+    # Consulta em blocos para otimizar a requisição
+    for gene in genes_unicos:
+        try:
+            query = f"gene_exact:{gene} AND organism_id:9606 AND reviewed:true"
+            url = f"https://rest.uniprot.org/uniprotkb/search?query={urllib.parse.quote(query)}&fields=protein_name&size=1"
+
+            req = urllib.request.Request(
+                url, headers={"User-Agent": "Python/BioinformaticsScript"}
+            )
+            with urllib.request.urlopen(req, timeout=5) as response:
+                data = json.loads(response.read().decode())
+                results = data.get("results", [])
+
+                if results:
+                    nome_rec = (
+                        results[0]
+                        .get("proteinDescription", {})
+                        .get("recommendedName", {})
+                        .get("fullName", {})
+                        .get("value")
+                    )
+                    if nome_rec:
+                        mapa_proteinas[gene] = nome_rec
+                        continue
+
+            mapa_proteinas[gene] = "-"
+        except Exception:
+            mapa_proteinas[gene] = "-"
+
+    return mapa_proteinas
 
 
 def analisar_tipo_modificacao(prot_var):
@@ -51,7 +97,7 @@ def analisar_tipo_modificacao(prot_var):
 
 
 def gerar_tabela_completa_proteina_tsv():
-    print("Iniciando mapeamento detalhado de proteína e modificações...")
+    print("Iniciando processamento exaustivo com API UniProt...")
 
     pasta_resultados = "resultados"
     os.makedirs(pasta_resultados, exist_ok=True)
@@ -63,7 +109,6 @@ def gerar_tabela_completa_proteina_tsv():
         print(f"[ERRO] Arquivo não encontrado: {e}")
         return
 
-    # Normalização de chaves
     for df in [df_dbsnp, df_am]:
         if "rsID_dbSNP" in df.columns:
             df["rsID_dbSNP"] = df["rsID_dbSNP"].astype(str).str.strip()
@@ -88,25 +133,11 @@ def gerar_tabela_completa_proteina_tsv():
         suffixes=("_dbSNP", "_AlphaMissense"),
     )
 
-    # 1. Nome da Proteína / ID UniProt
-    col_uniprot = [
-        c
-        for c in df_merged.columns
-        if any(
-            k in c.lower()
-            for k in ["uniprot", "protein_name", "protein_id", "transcript"]
-        )
-    ]
-    if col_uniprot:
-        df_merged["Nome_Proteina_UniProt"] = df_merged[col_uniprot[0]].fillna(
-            "-"
-        )
-    else:
-        df_merged["Nome_Proteina_UniProt"] = df_merged["Gene"].apply(
-            lambda g: f"Proteína de {g}" if pd.notna(g) else "-"
-        )
+    # 1. Busca dinâmica do Nome Oficial da Proteína no UniProt
+    mapa_nomes = buscar_nomes_proteinas_uniprot(df_merged["Gene"].unique())
+    df_merged["Nome_Oficial_Proteina"] = df_merged["Gene"].map(mapa_nomes).fillna("-")
 
-    # 2. Busca da coluna de variante da proteína com fallback seguro
+    # 2. Resgate de Variantes de Proteína
     col_var_prot = [
         c
         for c in df_merged.columns
@@ -121,7 +152,6 @@ def gerar_tabela_completa_proteina_tsv():
             ]
         )
     ]
-
     var_prot_col = (
         col_var_prot[0] if col_var_prot else "Proteina_Alteracao_Original"
     )
@@ -129,12 +159,12 @@ def gerar_tabela_completa_proteina_tsv():
     if var_prot_col not in df_merged.columns:
         df_merged[var_prot_col] = "-"
 
-    # 3. Aplicação da Análise Físico-Química
+    # 3. Análise da Modificação
     trocas_e_tipos = df_merged[var_prot_col].apply(analisar_tipo_modificacao)
     df_merged["Troca_Aminoacido"] = [t[0] for t in trocas_e_tipos]
     df_merged["Tipo_Modificacao_FisicoQuimica"] = [t[1] for t in trocas_e_tipos]
 
-    # Status de Fonte
+    # Status e Links
     em_dbsnp = df_merged["rsID_dbSNP"].isin(dbsnp_validos["rsID_dbSNP"])
     em_am = df_merged["rsID_dbSNP"].isin(am_validos["rsID_dbSNP"])
 
@@ -143,7 +173,6 @@ def gerar_tabela_completa_proteina_tsv():
     df_merged.loc[em_dbsnp & ~em_am, "Presenca_Fonte"] = "Apenas dbSNP"
     df_merged.loc[~em_dbsnp & em_am, "Presenca_Fonte"] = "Apenas AlphaMissense"
 
-    # Link Direto
     df_merged["Link_dbSNP"] = df_merged["rsID_dbSNP"].apply(
         lambda x: (
             f"https://www.ncbi.nlm.nih.gov/snp/{str(x).strip()}"
@@ -152,10 +181,10 @@ def gerar_tabela_completa_proteina_tsv():
         )
     )
 
-    # Reordenação Prioritária
+    # Reordenação
     cols_prioridade = [
         "Gene",
-        "Nome_Proteina_UniProt",
+        "Nome_Oficial_Proteina",
         "rsID_dbSNP",
         var_prot_col,
         "Troca_Aminoacido",
@@ -168,13 +197,12 @@ def gerar_tabela_completa_proteina_tsv():
     outras_cols = [c for c in df_merged.columns if c not in cols_existentes]
     df_merged = df_merged[cols_existentes + outras_cols]
 
-    # Salva no arquivo final em resultados/
     output_path = os.path.join(
         pasta_resultados, "tabela_comparativa_detalhada_proteinas.tsv"
     )
     df_merged.to_csv(output_path, sep="\t", index=False)
     print(
-        f"[SUCESSO] Arquivo salvo sem erros em '{output_path}' ({len(df_merged)} linhas)!"
+        f"[SUCESSO] Tabela salva com nomes oficiais de proteínas em: '{output_path}'!"
     )
 
 
