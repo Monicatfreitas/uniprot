@@ -121,6 +121,68 @@ def buscar_dados_uniprot(lista_genes, max_workers=20):
     return mapa_uniprot
 
 
+def consultar_rcsb_pdb_unidade(uniprot_id):
+    """Consulta estruturas 3D no RCSB PDB usando o UniProt ID."""
+    if uniprot_id == "-" or not uniprot_id:
+        return uniprot_id, {"pdb_ids": "-", "link_rcsb": "-"}
+
+    url = "https://search.rcsb.org/rcsbsearch/v2/query"
+    query_json = {
+        "query": {
+            "type": "terminal",
+            "service": "text",
+            "parameters": {
+                "attribute": "rcsb_polymer_entity_container_identifiers.reference_sequence_identifiers.database_accession",
+                "operator": "exact_match",
+                "value": uniprot_id,
+            },
+        },
+        "return_type": "entry",
+        "request_options": {"paginate": {"start": 0, "rows": 10}},
+    }
+
+    try:
+        resp = session.post(url, json=query_json, timeout=10, verify=False)
+        if resp.status_code == 200:
+            data = resp.json()
+            result_set = data.get("result_set", [])
+            if result_set:
+                pdbs = [item["identifier"] for item in result_set]
+                pdb_str = ", ".join(pdbs)
+                primeiro_pdb = pdbs[0]
+                link_rcsb = f"https://www.rcsb.org/structure/{primeiro_pdb}"
+                return uniprot_id, {"pdb_ids": pdb_str, "link_rcsb": link_rcsb}
+    except Exception:
+        pass
+
+    return uniprot_id, {"pdb_ids": "Sem Estrutura PDB", "link_rcsb": "-"}
+
+
+def buscar_estruturas_rcsb_batch(lista_uniprot_ids, max_workers=15):
+    """Consulta em lote dados estruturais do RCSB PDB em paralelo."""
+    uniprot_unicos = [
+        str(u).strip()
+        for u in set(lista_uniprot_ids)
+        if pd.notna(u) and str(u).strip() not in ["", "-", "nan"]
+    ]
+    mapa_pdb = {}
+
+    print(
+        f"Consultando RCSB PDB para {len(uniprot_unicos)} UniProt IDs em paralelo..."
+    )
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {
+            executor.submit(consultar_rcsb_pdb_unidade, u): u
+            for u in uniprot_unicos
+        }
+        for future in as_completed(futures):
+            u_id, res = future.result()
+            mapa_pdb[u_id] = res
+
+    return mapa_pdb
+
+
 def consultar_ncbi_rsid_unidade(rsid):
     """Consulta individual de um rsID na API do dbSNP NCBI mantendo buscas regex originais."""
     clean_id = rsid.lower().replace("rs", "").strip()
@@ -192,10 +254,9 @@ def buscar_aminoácidos_ncbi_batch(lista_rsids, max_workers=30):
             rsid, hgvs = future.result()
             cache_rsid[rsid] = hgvs
 
-            # Feedback periódico idêntico ao console original
             if processed_count % 2000 == 0 or processed_count == total:
                 print(
-                    f"  [{processed_count}/{total}] Processando {rsid}...",
+                    f"   [{processed_count}/{total}] Processando {rsid}...",
                     flush=True,
                 )
 
@@ -294,7 +355,7 @@ def gerar_tabela_completa_proteina_tsv():
         if "Gene" in df.columns:
             df["Gene"] = df["Gene"].astype(str).str.strip()
 
-    # Outer Merge Preservando TODAS as colunas das ferramentas (scores, classificações, etc.)
+    # Outer Merge Preservando TODAS as colunas
     df_merged = pd.merge(
         df_dbsnp,
         df_am,
@@ -317,7 +378,18 @@ def gerar_tabela_completa_proteina_tsv():
         lambda x: f"https://www.uniprot.org/uniprotkb/{x}" if x != "-" else "-"
     )
 
-    # 2. Reconciliação do HGVS de Proteína (Tenta a partir dos inputs ou consulta NCBI)
+    # 2. Mapear Estruturas 3D no RCSB PDB
+    mapa_pdb = buscar_estruturas_rcsb_batch(
+        df_merged["UniProt_ID"].dropna().unique(), max_workers=15
+    )
+    df_merged["PDB_IDs"] = df_merged["UniProt_ID"].map(
+        lambda u: mapa_pdb.get(u, {}).get("pdb_ids", "-")
+    )
+    df_merged["Link_RCSB_PDB"] = df_merged["UniProt_ID"].map(
+        lambda u: mapa_pdb.get(u, {}).get("link_rcsb", "-")
+    )
+
+    # 3. Reconciliação do HGVS de Proteína
     col_prot_input = None
     for c in ["protein_variant", "hgvs_p", "proteina_mudanca", "HGVS_p"]:
         if c in df_merged.columns:
@@ -344,7 +416,7 @@ def gerar_tabela_completa_proteina_tsv():
         obter_hgvs_final, axis=1
     )
 
-    # 3. Detalhamento e Classificação Fisico-Química das Trocas
+    # 4. Detalhamento Fisico-Químico
     detalhes = [
         extrair_detalhes_troca_aminoacido(m)
         for m in df_merged["HGVS_Proteina_Consolidado"]
@@ -359,7 +431,7 @@ def gerar_tabela_completa_proteina_tsv():
         d["Tipo_Modificacao"] for d in detalhes
     ]
 
-    # 4. Análise de Comparação de Presença (dbSNP vs AlphaMissense)
+    # 5. Análise de Comparação de Presença
     set_dbsnp = set(df_dbsnp["rsID_dbSNP"].dropna())
     set_am = set(df_am["rsID_dbSNP"].dropna())
 
@@ -385,11 +457,12 @@ def gerar_tabela_completa_proteina_tsv():
         )
     )
 
-    # 5. Organização Inteligente de Colunas
+    # 6. Organização das Colunas com Informações Estruturais do PDB
     cols_bloco_identificacao = [
         "Gene",
         "UniProt_ID",
         "Nome_Oficial_Proteina",
+        "PDB_IDs",
         "rsID_dbSNP",
         "Comparativo_Fontes",
     ]
@@ -405,6 +478,7 @@ def gerar_tabela_completa_proteina_tsv():
 
     cols_bloco_links = [
         "Link_UniProt",
+        "Link_RCSB_PDB",
         "Link_dbSNP",
     ]
 
