@@ -1,0 +1,490 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ATG16L1	missense_variant		1003986415						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1012594392						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1015504038						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1037064609						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1039413953						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1042991322						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1050018570						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1053953803						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	115732365	Q676U5	rs115732365	R219Q	0.114		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	115732365	Q676U5	rs115732365	R219Q	0.07		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1158657804						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1160571398						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1161003847						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1162232274						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1163365925						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1167354580						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1168559526						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1172644391	Q676U5	rs1172644391	C134Y	0.003		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1172644391	Q676U5	rs1172644391	C134Y	1.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1172644391	Q676U5	rs1172644391	C134Y	0.003		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1172644391	Q676U5	rs1172644391	C134Y	1.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1176846477						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1177722550						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1179291397						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1181429261						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1186911985						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1193226629						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1193444382						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1197262857						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1197443013						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1202569523						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1203904201						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1217878922						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1221301315						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1223606649						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1228545979						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1229034511						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1240290861						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1241145044						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1242949611	Q676U5	rs1242949611	N420S	0.676		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1242949611	Q676U5	rs1242949611	N420S	0.66		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1242949611	Q676U5	rs1242949611	N420S	0.685		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1242949611	Q676U5	rs1242949611	N420S	0.25		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1244860169	Q676U5	rs1244860169	D47E	0.999		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1244860169	Q676U5	rs1244860169	D47E	0.12		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1244860169	Q676U5	rs1244860169	D47E	0.999		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1244860169	Q676U5	rs1244860169	D47E	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1248529688	Q676U5	rs1248529688	T405M	0.991		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1248529688	Q676U5	rs1248529688	T405M	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1248529688	Q676U5	rs1248529688	T405M	0.991		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1248529688	Q676U5	rs1248529688	T405M	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1251193417						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1257199629						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1260250872						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1262479672						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1263385331						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1264075662						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1264366630						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1273002301						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1274406469						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1275977609						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1279096340						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	1279135981						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1279196379						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1280346591						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1281401026						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1288204811						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1289788345						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1299082861	Q676U5	rs1299082861	G360V	0.943		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1299082861	Q676U5	rs1299082861	G360V	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1299082861	Q676U5	rs1299082861	G360V	0.945		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1299082861	Q676U5	rs1299082861	G360V	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1299314612						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1307622211						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1308196334						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1315705068						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1331384066						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1332334493						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1332606137						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1342181384						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1343097320						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1346514567						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1349525910						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1350810591						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1356094467						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1357787345						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1359314594	Q676U5	rs1359314594	S361F	0.941		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1359314594	Q676U5	rs1359314594	S361F	0.19		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1361799971						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1362051933						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1362593101						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1365653356						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1365746582						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1366578843						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1374137385						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1375738998						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1378692996						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1379153582						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1381021124	Q676U5	rs1381021124	G534S	0.015		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1381021124	Q676U5	rs1381021124	G534S	0.08		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1382170516						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1384387635	Q676U5	rs1384387635	R438H	0.835		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1384387635	Q676U5	rs1384387635	R438H	0.03		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1384387635	Q676U5	rs1384387635	R438H	0.832		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1384387635	Q676U5	rs1384387635	R438H	0.05		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1384671195						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		138834219						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1388588234	Q676U5	rs1388588234	R483Q	0.003		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1388588234	Q676U5	rs1388588234	R483Q	0.28		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1388588234	Q676U5	rs1388588234	R483Q	0.003		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1388588234	Q676U5	rs1388588234	R483Q	0.21		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1391375819						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1392429490						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1401939098						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1403145746						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1403277936						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1405291656	Q676U5	rs1405291656	R12C	0.221		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1405291656	Q676U5	rs1405291656	R12C	0.05		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1405291656	Q676U5	rs1405291656	R12C	0.218		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1405291656	Q676U5	rs1405291656	R12C	0.2		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1406128060						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		140671487						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1408101565	Q676U5	rs1408101565	T172A	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1408101565	Q676U5	rs1408101565	T172A	0.68		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1414319378						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1414677706						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	141644283						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1419694524						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1420330153	Q676U5	rs1420330153	R103C	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1420330153	Q676U5	rs1420330153	R103C	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1420330153	Q676U5	rs1420330153	R103C	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1420330153	Q676U5	rs1420330153	R103C	0.02		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1430809407						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1431256321						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1436545472						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1437839970						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1440124759						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1440205069						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1442687725						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1444010194						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		144457166						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1452320301						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1456464509	Q676U5	rs1456464509	K229R	0.993		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1456464509	Q676U5	rs1456464509	K229R	0.42		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1456464509	Q676U5	rs1456464509	K229R	0.993		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1456464509	Q676U5	rs1456464509	K229R	0.16		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1457383255						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		145790851						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1459879903						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		146373997						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1465779098						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1467278849						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1471623952	Q676U5	rs1471623952	A582V	0.025		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1471623952	Q676U5	rs1471623952	A582V	0.1		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1471623952	Q676U5	rs1471623952	A582V	0.025		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1471623952	Q676U5	rs1471623952	A582V	0.02		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		147191546						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1472949582						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		147657453	Q676U5	rs147657453	R286H	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		147657453	Q676U5	rs147657453	R286H	0.17		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		147657453	Q676U5	rs147657453	R286H	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		147657453	Q676U5	rs147657453	R286H	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1480276345						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1481529777						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		148404040						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1485396476						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1486935233						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		149410702						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	149927020						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1559393636						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1574831491						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1574879400						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1574889042						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1574889091						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1672486894						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1696389896						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1696392204						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1696395184						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1696396300						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1696396849						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1696764584						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697333995						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697334451						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697336300						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697338182						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697392997						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697394766						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697465041						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697468037						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697468420						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697469297						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697470784						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697472067						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697472223						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697472908						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697474001						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697477121						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697477510						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1697884555						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698094413						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698095183						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698097956						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698098646						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698144971						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698145891						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698226550						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698227642						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698458873						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698461074						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698461926						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698464487						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698466111						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698692516						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698692735						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698694315						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698695610						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698800308						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698800630						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698801511						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1698801663						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699349584						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699374961						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699377291						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699377405						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699377848						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699505852						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699506791						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699507888						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699508169						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699508528						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699509922						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699510624						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	1699520723						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699521955						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699588834						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699590136						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699591807						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699593308						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699593619						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699594038						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699669529						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699669715						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699671204						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1699671471						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		184757241						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		1866878						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		189068912						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		189479144						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		199912344						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		200219487						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		200355188						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		201538133						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		201582959						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	202029236						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125221558						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125224087						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125226537						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125226805						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125226904						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125239760						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125251917						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125251958						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125296206						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125304395						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125304571						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125307078						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125307089						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		2125307099						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	benign, risk factor	2241880	Q676U5	rs2241880	T300A	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	benign, risk factor	2241880	Q676U5	rs2241880	T300A	0.9		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	2469630293						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	2469630535						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	2469639657						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	2469696948						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	2469696958						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		369850074						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		369878971						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		372324732						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	373044901	Q676U5	rs373044901	D296N	0.687		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	373044901	Q676U5	rs373044901	D296N	0.07		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		373156207						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	373586724	Q676U5	rs373586724	A53S	0.02		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	373586724	Q676U5	rs373586724	A53S	0.59		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	373586724	Q676U5	rs373586724	A53S	0.021		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	373586724	Q676U5	rs373586724	A53S	1.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		375717026						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		376992440						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		542387880						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	543778947						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		548817522						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		553862118						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		557331294						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		572719929						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		574218279						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		576438723	Q676U5	rs576438723	V592I	0.038		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		576438723	Q676U5	rs576438723	V592I	0.16		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		576438723	Q676U5	rs576438723	V592I	0.038		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		576438723	Q676U5	rs576438723	V592I	0.25		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		576750644						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		745391023						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		745680085						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		746275841						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	746379269						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		746720219						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		746840032	Q676U5	rs746840032	R204W	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		746840032	Q676U5	rs746840032	R204W	0.03		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		746840032	Q676U5	rs746840032	R204W	0.039		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		746840032	Q676U5	rs746840032	R204W	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		747005960						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		747428717						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		748005392						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		748179936						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		748405935						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		748546562						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	748890352						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		750531342	Q676U5	rs750531342	D397N	0.424		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		750531342	Q676U5	rs750531342	D397N	0.01		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		750531342	Q676U5	rs750531342	D397N	0.435		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		750531342	Q676U5	rs750531342	D397N	0.01		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		750820589						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		751160626						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		751214302						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		751259779						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	751543614	Q676U5	rs751543614	A421V	0.756		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	751543614	Q676U5	rs751543614	A421V	0.46		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	751543614	Q676U5	rs751543614	A421V	0.752		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	751543614	Q676U5	rs751543614	A421V	0.11		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		751553093						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		752171225						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		752300374						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	752838988						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		753125188						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		753271055	Q676U5	rs753271055	M117I	0.003		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		753271055	Q676U5	rs753271055	M117I	0.42		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		753271055	Q676U5	rs753271055	M117I	0.003		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		753271055	Q676U5	rs753271055	M117I	0.61		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		754014207						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		754870237						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		755011254	Q676U5	rs755011254	R286C	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		755011254	Q676U5	rs755011254	R286C	0.1		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		755011254	Q676U5	rs755011254	R286C	0.998		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		755011254	Q676U5	rs755011254	R286C	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	755588218						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		756137361						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		756414843						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		756750758						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	756788551	Q676U5	rs756788551	A584V	0.342		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	756788551	Q676U5	rs756788551	A584V	0.01		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	756788551	Q676U5	rs756788551	A584V	0.338		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	756788551	Q676U5	rs756788551	A584V	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		757152084						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		757511801	Q676U5	rs757511801	S269L	0.348		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		757511801	Q676U5	rs757511801	S269L	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		757511801	Q676U5	rs757511801	S269L	0.344		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		757511801	Q676U5	rs757511801	S269L	0.05		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	757564400	Q676U5	rs757564400	V63I	0.001		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	757564400	Q676U5	rs757564400	V63I	0.41		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		757941723						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	758048364	Q676U5	rs758048364	S547N	0.006		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	758048364	Q676U5	rs758048364	S547N	0.27		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		758182022						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		758560915						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	758931313						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		759193166						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		759931413						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		760380080						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		760408227						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		760679008						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762004389						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762334682						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762432600						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762578647	Q676U5	rs762578647	R335Q	0.999		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762578647	Q676U5	rs762578647	R335Q	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762578647	Q676U5	rs762578647	R335Q	0.999		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762578647	Q676U5	rs762578647	R335Q	0.03		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		762889446						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		763139228						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		763232823						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		763416099						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		763706397						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		763766714						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		763914303						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		764074593						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		764403791						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	764415292	Q676U5	rs764415292	D47H	1.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	764415292	Q676U5	rs764415292	D47H	0.02		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		764933153						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765096319						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765196973						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765452525	Q676U5	rs765452525	R149C	0.991		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765452525	Q676U5	rs765452525	R149C	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765452525	Q676U5	rs765452525	R149C	0.99		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765452525	Q676U5	rs765452525	R149C	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765666391						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		765873477						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		766262130						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		766364379						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		766621615						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		768003622						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	768289250	Q676U5	rs768289250	A521T	0.015		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	768289250	Q676U5	rs768289250	A521T	0.26		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		768763936						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		769075316						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	769189002	Q676U5	rs769189002	P587S	0.035		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	769189002	Q676U5	rs769189002	P587S	0.02		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		769320310						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		769343970						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		769365805						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		769738554						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		769869872						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		770111022						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	770204917	Q676U5	rs770204917	L42F	1.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	770204917	Q676U5	rs770204917	L42F	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		770963087						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		771149152						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		772225875						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	772982075						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		773069973	Q676U5	rs773069973	N203S	0.836		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		773069973	Q676U5	rs773069973	N203S	0.08		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		773069973	Q676U5	rs773069973	N203S	0.842		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		773069973	Q676U5	rs773069973	N203S	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		773187570						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		773896903						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	774012550	Q676U5	rs774012550	I522V	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	likely benign	774012550	Q676U5	rs774012550	I522V	1.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	774397068	Q676U5	rs774397068	T143M	0.81		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	774397068	Q676U5	rs774397068	T143M	0.09		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	774397068	Q676U5	rs774397068	T143M	0.807		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	774397068	Q676U5	rs774397068	T143M	0.01		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		774590836						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		774688806						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		774776145	Q676U5	rs774776145	G72R	0.919		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		774776145	Q676U5	rs774776145	G72R	0.06		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		774776145	Q676U5	rs774776145	G72R	0.918		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		774776145	Q676U5	rs774776145	G72R	0.1		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		775003704						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	775043053	Q676U5	rs775043053	T137S	0.251		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	775043053	Q676U5	rs775043053	T137S	0.61		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		775091499						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		775535712						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		776024119						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		776269085						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		776387762						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		777056344						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		777258059						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		777616242						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		777897598						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		778085159						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		778720985						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		778756610						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		778821627						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		778932767						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779324948						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779817233						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779877833	Q676U5	rs779877833	Q188H	0.999		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779877833	Q676U5	rs779877833	Q188H	0.01		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779877833	Q676U5	rs779877833	Q188H	0.999		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779877833	Q676U5	rs779877833	Q188H	0.01		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779928715	Q676U5	rs779928715	S590L	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779928715	Q676U5	rs779928715	S590L	0.33		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779928715	Q676U5	rs779928715	S590L	0.0		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779928715	Q676U5	rs779928715	S590L	0.12		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		779992630						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		780587327						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		780646653						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	781331480						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		781407838						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	794727513	Q676U5	rs794727513	D74N	0.959		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	794727513	Q676U5	rs794727513	D74N	0.08		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		866695330						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		878987991						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		892505480						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		896373187						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		901312933						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		903406340						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		904369146						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		914350322						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		959053264	Q676U5	rs959053264	R422Q	0.953		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		959053264	Q676U5	rs959053264	R422Q	0.06		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		959053264	Q676U5	rs959053264	R422Q	0.952		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		959053264	Q676U5	rs959053264	R422Q	0.04		Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		960140288						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		962541839						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		967809762						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		972132006						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		979881084						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant	uncertain significance	981291834						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		993560234						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5
+ATG16L1	missense_variant		996664851						Q676U5	Autophagy-related protein 16-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q676U5

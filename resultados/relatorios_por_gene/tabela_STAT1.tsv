@@ -1,0 +1,883 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+STAT1	missense_variant	uncertain significance	1001844648	P42224	rs1001844648	M746V	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1001844648	P42224	rs1001844648	M746V	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1006259714						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1006936484						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1017740241						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1026125603						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1034889596						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1051397529	P42224	rs1051397529	N185S	0.015		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1051397529	P42224	rs1051397529	N185S	0.11		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1064794955	P42224	rs1064794955	L351F	0.268		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1064794955	P42224	rs1064794955	L351F	0.05		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1064797279	P42224	rs1064797279	T342P	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1064797279	P42224	rs1064797279	T342P	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1085307649	P42224	rs1085307649	D292E	0.713		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1085307649	P42224	rs1085307649	D292E	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		111550607						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	112108750						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		112296854						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		112964697						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		113988352						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		11549696						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1167191557						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1168654767						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1172162395						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1173266737						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1177785137						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1181214715	P42224	rs1181214715	L433V	0.176		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1181214715	P42224	rs1181214715	L433V	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1181571935						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1182880176						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1185249247	P42224	rs1185249247	S503N	0.795		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1185249247	P42224	rs1185249247	S503N	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1187360487						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1190270846						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1192527551						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1192741841						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1201054214						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1205763236						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1209105049						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1209841496	P42224	rs1209841496	R602W	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1209841496	P42224	rs1209841496	R602W	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1209841496	P42224	rs1209841496	R602W	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1209841496	P42224	rs1209841496	R602W	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1210452443						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1215562242						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1217369969						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1219815154						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1227143332	P42224	rs1227143332	R88H	0.333		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1227143332	P42224	rs1227143332	R88H	0.13		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1227143332	P42224	rs1227143332	R88H	0.328		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1227143332	P42224	rs1227143332	R88H	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1233778383						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1238052519						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1239084154						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1241050576						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1241920918						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1243375266						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1245176183	P42224	rs1245176183	R649H	0.581		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1245176183	P42224	rs1245176183	R649H	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1245176183	P42224	rs1245176183	R649H	0.576		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1245176183	P42224	rs1245176183	R649H	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1247630154						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1247965121						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1252790560						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1255172781						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1255466989						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1257979773						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1262943730						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1266546864						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1266970940						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1268196215						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1269987554	P42224	rs1269987554	V134L	0.003		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1269987554	P42224	rs1269987554	V134L	0.15		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1276919339						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1277951041						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1278907475						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1279221079						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1281257744						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1283392901						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1284002507						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1293185041						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1299707690						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1307893887						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1313271807	P42224	rs1313271807	I446V	0.015		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1313271807	P42224	rs1313271807	I446V	0.29		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1318688133						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	1321783813						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1323406480						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1324953258	P42224	rs1324953258	G623R	0.798		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1324953258	P42224	rs1324953258	G623R	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1334611205						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1335842080						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1344221723						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1347113886	P42224	rs1347113886	T419M	0.967		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1347113886	P42224	rs1347113886	T419M	0.29		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1347113886	P42224	rs1347113886	T419M	0.967		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1347113886	P42224	rs1347113886	T419M	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1347113886	P42224	rs1347113886	T419R	0.269		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1347113886	P42224	rs1347113886	T419R	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1348354191						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1354701800						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1355403556						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1355752175						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1357050234						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1357437713						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1360111182						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1364125268	P42224	rs1364125268	T450A	0.206		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1364125268	P42224	rs1364125268	T450A	0.36		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1365931959						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1367797471						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1373329094						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1373946574						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1374373369						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1375484778						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1376158789						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1376208653						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1377870017						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	137852677						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	137852678						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	137852679						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	137852680						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1380385009						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1381054494						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1385773582						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1386912031						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	138723664	P42224	rs138723664	P696H	0.691		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	138723664	P42224	rs138723664	P696H	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1387308488						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1387961263						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1392782450						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1396458544	P42224	rs1396458544	A687P	0.001		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1396458544	P42224	rs1396458544	A687P	0.22		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1397948697						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1398307167	P42224	rs1398307167	P596L	0.701		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1398307167	P42224	rs1398307167	P596L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1398307167	P42224	rs1398307167	P596L	0.593		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1398307167	P42224	rs1398307167	P596L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1398550103						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	140265350						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	benign	140284772						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	140351189	P42224	rs140351189	D447E	0.003		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	140351189	P42224	rs140351189	D447E	0.19		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1405901081						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1410517497	P42224	rs1410517497	N48S	0.001		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1410517497	P42224	rs1410517497	N48S	0.54		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		141091957						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1413502468						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1414150930						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1415162412						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1425455615						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1425474734						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1430662949	P42224	rs1430662949	E183K	0.009		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1430662949	P42224	rs1430662949	E183K	0.35		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1430662949	P42224	rs1430662949	E183K	0.009		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1430662949	P42224	rs1430662949	E183K	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	143131630	P42224	rs143131630	V300L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	143131630	P42224	rs143131630	V300L	0.51		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	143182587	P42224	rs143182587	V426I	0.327		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	143182587	P42224	rs143182587	V426I	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	143182587	P42224	rs143182587	V426I	0.382		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	143182587	P42224	rs143182587	V426I	0.08		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1434958612						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1435470762						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1436603654						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1437317695						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1439705235						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1443499477						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1447437184						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	144788879	P42224	rs144788879	R586Q	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	144788879	P42224	rs144788879	R586Q	0.19		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	144788879	P42224	rs144788879	R586Q	0.015		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	144788879	P42224	rs144788879	R586Q	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1449399439						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1451353776						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1452055282						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1455231935	P42224	rs1455231935	E212Q	0.22		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1455231935	P42224	rs1455231935	E212Q	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1459476471						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1461525045						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign, likely benign	146273341	P42224	rs146273341	R241Q	0.076		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign, likely benign	146273341	P42224	rs146273341	R241Q	0.95		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1462757940						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1462860101						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		146901041						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1472778655						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1473494120	P42224	rs1473494120	R56H	0.846		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1473494120	P42224	rs1473494120	R56H	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1473494120	P42224	rs1473494120	R56H	0.844		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1473494120	P42224	rs1473494120	R56H	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1474567730	P42224	rs1474567730	D672G	0.084		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1474567730	P42224	rs1474567730	D672G	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1474567730	P42224	rs1474567730	D672G	0.087		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1474567730	P42224	rs1474567730	D672G	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1476122023						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1476328098						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		147729470						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	147745434						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1481493660						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1482374494	P42224	rs1482374494	A119T	0.938		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1482374494	P42224	rs1482374494	A119T	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	148573907	P42224	rs148573907	A531T	0.009		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	148573907	P42224	rs148573907	A531T	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1486275875						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1487182042	P42224	rs1487182042	E733K	0.322		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1487182042	P42224	rs1487182042	E733K	0.56		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1487182042	P42224	rs1487182042	E733K	0.318		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1487182042	P42224	rs1487182042	E733K	0.05		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1487426982						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	148775168	P42224	rs148775168	I265V	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	148775168	P42224	rs148775168	I265V	0.35		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		149388191						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1553494436	P42224	rs1553494436	M390R	0.839		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1553494436	P42224	rs1553494436	M390R	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1553494436	P42224	rs1553494436	M390T	0.762		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1553494436	P42224	rs1553494436	M390T	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1553495184	P42224	rs1553495184	N355D	0.774		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1553495184	P42224	rs1553495184	N355D	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1553495576	P42224	rs1553495576	K336M	0.997		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1553495576	P42224	rs1553495576	K336M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	not provided	1553495586	P42224	rs1553495586	T327A	0.323		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	not provided	1553495586	P42224	rs1553495586	T327A	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1553496850	P42224	rs1553496850	Y289C	0.992		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1553496850	P42224	rs1553496850	Y289C	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1553497886	P42224	rs1553497886	K173I	0.576		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1553497886	P42224	rs1553497886	K173I	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1558976398						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1558984622						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1558986214						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1558998632						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1559004835						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1559005879						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1559006976						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1559009086						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1559011859	P42224	rs1559011859	K388Q	0.995		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1559011859	P42224	rs1559011859	K388Q	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1559013693	P42224	rs1559013693	L351W	0.993		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1559013693	P42224	rs1559013693	L351W	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1559018895						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1559019204	P42224	rs1559019204	M202I	0.304		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1559019204	P42224	rs1559019204	M202I	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574598079						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1574601817						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1574607257						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1574607317						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1574607330						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1574607333						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574636674	P42224	rs1574636674	T720I	0.626		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574636674	P42224	rs1574636674	T720I	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1574636688						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574638429	P42224	rs1574638429	A656V	0.449		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574638429	P42224	rs1574638429	A656V	0.08		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574641583	P42224	rs1574641583	E559Q	0.437		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574641583	P42224	rs1574641583	E559Q	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574642464	P42224	rs1574642464	C543W	0.983		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574642464	P42224	rs1574642464	C543W	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1574648919	P42224	rs1574648919	M390V	0.736		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1574648919	P42224	rs1574648919	M390V	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1574648928	P42224	rs1574648928	V389L	0.568		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1574648928	P42224	rs1574648928	V389L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574653439	P42224	rs1574653439	C324R	0.669		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574653439	P42224	rs1574653439	C324R	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574657656	P42224	rs1574657656	L312F	0.825		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574657656	P42224	rs1574657656	L312F	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574657735	P42224	rs1574657735	Y287D	0.017		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574657735	P42224	rs1574657735	Y287D	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574657762	P42224	rs1574657762	L280W	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574657762	P42224	rs1574657762	L280W	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574672718	P42224	rs1574672718	R70P	0.975		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1574672718	P42224	rs1574672718	R70P	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574672739	P42224	rs1574672739	D65N	0.738		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1574672739	P42224	rs1574672739	D65N	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689310785						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689717223						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689721721						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689721830						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689721947						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689722191						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689722626						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689722753						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689724337						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689823508						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689823697						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689840683						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689932246						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689932498						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689933586						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689934203						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689934958						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689937146						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689937271						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1689937516						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690072763						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690073188						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690073635						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690075201						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690075598						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690148818						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690149521						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690149735						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690151016						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690152008						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690152081						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690152156						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690152853						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690776428						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690776600						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690812872						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1690817929						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691035197						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691035387						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691035451						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691036269						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691036333						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691036421						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1691037804						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691037938						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691038051						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691038108						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691038696						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691039350						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691039482						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691040117						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691040245						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691778762						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1691783002	P42224	rs1691783002	P725L	0.311		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1691783002	P42224	rs1691783002	P725L	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1691784621						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691869333						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691943829						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691944080						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691945103						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691950818						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691952798						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691953535						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691954518						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1691956135						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1691957289	P42224	rs1691957289	H629L	0.554		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1691957289	P42224	rs1691957289	H629L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1691957511						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692116580						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692124920						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692219889						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692221314						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692308883						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692309636						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692458828						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692461245						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692560458						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic, pathogenic	1692619276	P42224	rs1692619276	T437I	0.546		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic, pathogenic	1692619276	P42224	rs1692619276	T437I	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1692621311	P42224	rs1692621311	T427N	0.97		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1692621311	P42224	rs1692621311	T427N	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692622810						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692871644						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1692872913	P42224	rs1692872913	A401E	0.222		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1692872913	P42224	rs1692872913	A401E	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692874966						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1692876152	P42224	rs1692876152	V389G	0.993		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1692876152	P42224	rs1692876152	V389G	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1692879439						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1692901262						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693169265	P42224	rs1693169265	R346S	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693169265	P42224	rs1693169265	R346S	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693312253						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693312947	P42224	rs1693312947	Q330R	0.244		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693312947	P42224	rs1693312947	Q330R	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693314120	P42224	rs1693314120	P326S	0.976		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693314120	P42224	rs1693314120	P326S	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693315914	P42224	rs1693315914	V319M	0.921		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693315914	P42224	rs1693315914	V319M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693746927						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693748412						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1693751220	P42224	rs1693751220	T288I	0.323		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	1693751220	P42224	rs1693751220	T288I	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1693752377	P42224	rs1693752377	K286E	0.789		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1693752377	P42224	rs1693752377	K286E	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1693752377	P42224	rs1693752377	K286Q	0.862		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1693752377	P42224	rs1693752377	K286Q	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1693752801	P42224	rs1693752801	E284G	0.217		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	1693752801	P42224	rs1693752801	E284G	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693972745						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693973313						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693976742						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693978877						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693979815						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1693996119	P42224	rs1693996119	R210K	0.994		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	1693996119	P42224	rs1693996119	R210K	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693996687	P42224	rs1693996687	N208S	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693996687	P42224	rs1693996687	N208S	0.8		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693996687	P42224	rs1693996687	N208S	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693996687	P42224	rs1693996687	N208S	0.75		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1693997318						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693998068	P42224	rs1693998068	L199P	0.151		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693998068	P42224	rs1693998068	L199P	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693998248	P42224	rs1693998248	L199F	0.105		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1693998248	P42224	rs1693998248	L199F	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1694000715						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1694113314						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694239561	P42224	rs1694239561	I130T	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694239561	P42224	rs1694239561	I130T	0.74		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1694239967						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694803399	P42224	rs1694803399	Q120E	0.005		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694803399	P42224	rs1694803399	Q120E	0.27		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694805838	P42224	rs1694805838	I99V	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694805838	P42224	rs1694805838	I99V	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694919511						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694920831	P42224	rs1694920831	N82K	0.94		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694920831	P42224	rs1694920831	N82K	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1694923427						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1694995511						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694998227	P42224	rs1694998227	D23V	0.932		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1694998227	P42224	rs1694998227	D23V	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1694999309						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1695000486						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		17853842						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1801892						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		1801893						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1803838	P42224	rs1803838	P538L	0.147		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1803838	P42224	rs1803838	P538L	0.19		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1803838	P42224	rs1803838	P538L	0.144		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	1803838	P42224	rs1803838	P538L	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	183331745						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	190269533	P42224	rs190269533	N515S	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	190269533	P42224	rs190269533	N515S	0.22		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	190269533	P42224	rs190269533	N515S	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	190269533	P42224	rs190269533	N515S	0.08		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	201990840						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124902426						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124915845						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124961728						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124961803						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124993056						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996629						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996634						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996646						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996700						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2124996723	P42224	rs2124996723	Y701C	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2124996723	P42224	rs2124996723	Y701C	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996733						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996748						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996839						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2124996859						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125000077						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125000120						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125000161						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125000268	P42224	rs2125000268	N670S	0.031		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125000268	P42224	rs2125000268	N670S	0.1		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125000371						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125000384	P42224	rs2125000384	I659T	0.723		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125000384	P42224	rs2125000384	I659T	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125000466						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007166						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125007233	P42224	rs2125007233	V617M	0.196		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125007233	P42224	rs2125007233	V617M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007313						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125007332	P42224	rs2125007332	R608W	0.925		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125007332	P42224	rs2125007332	R608W	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125007332	P42224	rs2125007332	R608W	0.923		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125007332	P42224	rs2125007332	R608W	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007363						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007380						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007395						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007462						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007581						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007602						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125007613						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125010416	P42224	rs2125010416	E563Q	0.603		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125010416	P42224	rs2125010416	E563Q	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125013008						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125013089	P42224	rs2125013089	S532G	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125013089	P42224	rs2125013089	S532G	0.29		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125018329	P42224	rs2125018329	L514F	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125018329	P42224	rs2125018329	L514F	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125018329	P42224	rs2125018329	L514F	0.998		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125018329	P42224	rs2125018329	L514F	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125018475	P42224	rs2125018475	P490L	0.993		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125018475	P42224	rs2125018475	P490L	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022307						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022357						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022408						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022432						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022446						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022477						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022542						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022557						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022574						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022606						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022711						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125022769						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125024761						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125024812						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125024881						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125025073						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125029369						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125029392						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125029440						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125034665						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125034737						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125034753						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125034821						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125034829						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125034884						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125034912						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125035132						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043964	P42224	rs2125043964	V360F	0.933		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043964	P42224	rs2125043964	V360F	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043967	P42224	rs2125043967	L358S	0.975		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043967	P42224	rs2125043967	L358S	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043975	P42224	rs2125043975	N357D	0.066		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043975	P42224	rs2125043975	N357D	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043988	P42224	rs2125043988	Y356C	0.127		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125043988	P42224	rs2125043988	Y356C	0.14		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2125048161	P42224	rs2125048161	V339F	0.982		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2125048161	P42224	rs2125048161	V339F	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125061671	P42224	rs2125061671	I313V	0.036		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125061671	P42224	rs2125061671	I313V	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061688						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061727						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061757						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061766						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061775						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061782						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061797						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061808						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061819						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061830						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061843						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061847						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061865						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125061873	P42224	rs2125061873	T305S	0.074		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125061873	P42224	rs2125061873	T305S	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061916						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061933						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061945						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125061987						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062029						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062043						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2125062092	P42224	rs2125062092	T295K	0.003		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2125062092	P42224	rs2125062092	T295K	0.08		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062101						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062127						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062136						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062177	P42224	rs2125062177	P293L	0.422		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062177	P42224	rs2125062177	P293L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062189	P42224	rs2125062189	P293A	0.786		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062189	P42224	rs2125062189	P293A	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062189	P42224	rs2125062189	P293T	0.33		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062189	P42224	rs2125062189	P293T	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062214						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062220						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062232						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062248						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062260	P42224	rs2125062260	H291Y	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125062260	P42224	rs2125062260	H291Y	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062281						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2125062317	P42224	rs2125062317	Y289H	0.99		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2125062317	P42224	rs2125062317	Y289H	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062373						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062398						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	2125062422						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062441						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062453						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062495						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062510						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062527						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062560						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062586						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062601						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062635						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062657						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062665						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062711						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062772						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062784						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062795						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062817						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062871						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062881						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	2125062893						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062937						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062949						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125062992						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125063010						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125063017						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125069735	P42224	rs2125069735	L259P	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125069735	P42224	rs2125069735	L259P	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125070763						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125074995	P42224	rs2125074995	Q178R	0.015		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125074995	P42224	rs2125074995	Q178R	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2125075036						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2125075054	P42224	rs2125075054	D171N	0.738		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2125075054	P42224	rs2125075054	D171N	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125075166						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125075183						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125079464	P42224	rs2125079464	K145R	0.013		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125079464	P42224	rs2125079464	K145R	0.13		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125100774						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	2125100837	P42224	rs2125100837	Q63R	0.867		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	2125100837	P42224	rs2125100837	Q63R	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125100882	P42224	rs2125100882	L60F	0.853		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2125100882	P42224	rs2125100882	L60F	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125100978						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125101035						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125101045						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125101073						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		2125101101						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2470308961						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470309046						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely pathogenic	2470309265						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470309270						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470317423						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470322092						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470413041						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470413176						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470418060						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470418084						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470418258						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2470418264						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470418627						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470427868						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470428123						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, pathogenic	2470432266						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470432506						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470442910						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470442921						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470449139						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470453219	P42224	rs2470453219	S432F	0.774		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470453219	P42224	rs2470453219	S432F	0.11		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2470465165						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470465401						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, pathogenic	2470465465						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470466180						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470466306						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2470477597						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2470484175						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2470484242						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	2470484324						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470516952						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470517177	P42224	rs2470517177	A246T	0.214		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470517177	P42224	rs2470517177	A246T	0.05		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470517432						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	2470526475						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470526541						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470526576						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470526759						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470565317	P42224	rs2470565317	R70C	0.999		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470565317	P42224	rs2470565317	R70C	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470565348						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, pathogenic	2470565369						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470565379						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470570384						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	2470570537						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		34255470						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	benign	35890674						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369060692	P42224	rs369060692	R619Q	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369060692	P42224	rs369060692	R619Q	0.99		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369060692	P42224	rs369060692	R619Q	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369060692	P42224	rs369060692	R619Q	0.17		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369876674	P42224	rs369876674	I648V	0.87		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369876674	P42224	rs369876674	I648V	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369876674	P42224	rs369876674	I648V	0.816		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	369876674	P42224	rs369876674	I648V	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		371056942						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371548986	P42224	rs371548986	I160L	0.036		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371548986	P42224	rs371548986	I160L	0.08		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371982540	P42224	rs371982540	V455F	0.547		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371982540	P42224	rs371982540	V455F	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371982540	P42224	rs371982540	V455I	0.061		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371982540	P42224	rs371982540	V455I	0.24		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371982540	P42224	rs371982540	V455I	0.039		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	371982540	P42224	rs371982540	V455I	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		373727392						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	373784601	P42224	rs373784601	C155R	0.001		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	373784601	P42224	rs373784601	C155R	0.39		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		376387024						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic, pathogenic	387906758	P42224	rs387906758	R274G	0.999		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic, pathogenic	387906758	P42224	rs387906758	R274G	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906759						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906760						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906761						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906762						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic, pathogenic	387906763						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906764						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906765						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906766						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic, pathogenic	387906767						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	387906768						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign, likely benign	41473544	P42224	rs41473544	V266I	0.013		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign, likely benign	41473544	P42224	rs41473544	V266I	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	527393923	P42224	rs527393923	T450M	0.992		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	527393923	P42224	rs527393923	T450M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	527393923	P42224	rs527393923	T450M	0.986		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	527393923	P42224	rs527393923	T450M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	533671897	P42224	rs533671897	R331K	0.971		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	533671897	P42224	rs533671897	R331K	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		535073025						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		541089913						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		541792455						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	546323205						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		548719515						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	552751565						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		554029166						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		554033787						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	benign, likely benign	55891000						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		561581318						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	587776870						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	587777628						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	587777629						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	587777630						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	587777704						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	pathogenic	587777705						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	benign, likely benign	61756197						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	745491762	P42224	rs745491762	A589S	0.003		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	745491762	P42224	rs745491762	A589S	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	745491762	P42224	rs745491762	A589T	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	745491762	P42224	rs745491762	A589T	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		745905955						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		746827074						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		747331848						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		747433655						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		747510156						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	747656964						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		747777429						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		748138919						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		748265365						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, likely benign	748388742						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		748773136						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		749204445						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		749245387						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	749333159						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		750529832						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		750970770						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		751041198						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		751403509						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	751586208	P42224	rs751586208	H58Y	0.778		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	751586208	P42224	rs751586208	H58Y	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		752271918						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		752495493						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		752542806						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		753056987						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		753227579						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		753287741						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	753414973	P42224	rs753414973	T540M	0.294		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	753414973	P42224	rs753414973	T540M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	753414973	P42224	rs753414973	T540M	0.29		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	753414973	P42224	rs753414973	T540M	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	753695026	P42224	rs753695026	V445I	0.015		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	753695026	P42224	rs753695026	V445I	0.24		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		753926142						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		754505021						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		755834379						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		756051270						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		756147217						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		756198898						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		757980776						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		758182245						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		758356174						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		758376836						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		758861387						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		759271255						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		759304986						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		759674353						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign	759722579	P42224	rs759722579	F364L	0.033		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign	759722579	P42224	rs759722579	F364L	0.24		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign	759722579	P42224	rs759722579	F364L	0.034		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, benign	759722579	P42224	rs759722579	F364L	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		760266221						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		760391069						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		760409880						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		760909647						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		761607680						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	761876441	P42224	rs761876441	E6K	0.003		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	761876441	P42224	rs761876441	E6K	0.14		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	761876441	P42224	rs761876441	E6K	0.003		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	761876441	P42224	rs761876441	E6K	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		761917701						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		762250183						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	762390015	P42224	rs762390015	G467S	0.224		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	762390015	P42224	rs762390015	G467S	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		763251579						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		763588438						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign, pathogenic	763759889	P42224	rs763759889	S466R	0.959		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign, pathogenic	763759889	P42224	rs763759889	S466R	0.02		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		763976174						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		764475006						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		766134563						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	766471694						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		766701502						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		766747109						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		767475430						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	767586956						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		767862267						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	768434440	P42224	rs768434440	T373S	0.015		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	768434440	P42224	rs768434440	T373S	0.63		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	768483703	P42224	rs768483703	S127L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	768483703	P42224	rs768483703	S127L	0.31		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	770047438						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770281025						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770315023						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770668865						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770718065						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770809861	P42224	rs770809861	R494Q	0.017		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770809861	P42224	rs770809861	R494Q	0.13		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770809861	P42224	rs770809861	R494Q	0.017		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		770809861	P42224	rs770809861	R494Q	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		771067490						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		771343339						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	771679419	P42224	rs771679419	Y668F	0.735		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	771679419	P42224	rs771679419	Y668F	0.06		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	771750276	P42224	rs771750276	T224S	0.042		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	771750276	P42224	rs771750276	T224S	0.07		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		772774171						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		773618724						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	774306421	P42224	rs774306421	I582V	0.018		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	774306421	P42224	rs774306421	I582V	0.59		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	774611299	P42224	rs774611299	N179S	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	774611299	P42224	rs774611299	N179S	0.61		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		775757418						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		776085220						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		776192196						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	776429557	P42224	rs776429557	N650S	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	776429557	P42224	rs776429557	N650S	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		776655799						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		776666731						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		777025255						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		777426975						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	778254943	P42224	rs778254943	P251L	0.824		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely pathogenic	778254943	P42224	rs778254943	P251L	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		778497256						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	778751233	P42224	rs778751233	N123S	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	778751233	P42224	rs778751233	N123S	0.62		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	778997004						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	779371351	P42224	rs779371351	I248T	1.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	779371351	P42224	rs779371351	I248T	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		779460643						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		779761023						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		780087383						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780156389	P42224	rs780156389	D744N	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780156389	P42224	rs780156389	D744N	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780156389	P42224	rs780156389	D744N	0.007		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780156389	P42224	rs780156389	D744N	0.04		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		780612990						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780801370						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780853224	P42224	rs780853224	D143E	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	780853224	P42224	rs780853224	D143E	0.09		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	781297102	P42224	rs781297102	L488P	0.224		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	781297102	P42224	rs781297102	L488P	0.03		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		781349275						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		781389511	P42224	rs781389511	A46T	0.966		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		781389511	P42224	rs781389511	A46T	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		781389511	P42224	rs781389511	A46T	0.947		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		781389511	P42224	rs781389511	A46T	0.05		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance, pathogenic	796065052						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		865828880						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		865962653	P42224	rs865962653	S51L	0.771		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		865962653	P42224	rs865962653	S51L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		865962653	P42224	rs865962653	S51L	0.778		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		865962653	P42224	rs865962653	S51L	0.0		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		866554932						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		866575541						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		866650146						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		868260695						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		868561754						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		879218108						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		890092776						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		892091487						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		892905088						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	899300977						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	903163208						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		916580554						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		932535296						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		935654762						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		950593451						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	973703621						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		978375887						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		978390820						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	986212030	P42224	rs986212030	E6D	0.009		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	uncertain significance	986212030	P42224	rs986212030	E6D	0.01		P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		988772235						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	990798420						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant		996714565						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224
+STAT1	missense_variant	likely benign	999631915						P42224	Signal transducer and activator of transcription 1-alpha/beta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P42224

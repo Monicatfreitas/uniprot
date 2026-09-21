@@ -1,0 +1,761 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+RUNX2	missense_variant		1000584116						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1001797369						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1001873615						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1003797972						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1013030225						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1013125235						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1013306262						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1022790945	Q13950	rs1022790945	A396V	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1024556116						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1024637963						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1032694844	Q13950	rs1032694844	M408V	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1033729267	Q13950	rs1033729267	D287G	0.03		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1034337369						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1034799474						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1034946852						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1037268116						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1040117474						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1041352009						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1041952480						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1046036307						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1046098857						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1048885121	Q13950	rs1048885121	Q35L	0.024		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1048885121	Q13950	rs1048885121	Q35L	0.03		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	104893989	Q13950	rs104893989	M175T	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic, pathogenic	104893990						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	not provided, pathogenic	104893991	Q13950	rs104893991	R225L	0.956		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	not provided, pathogenic	104893991	Q13950	rs104893991	R225L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	not provided, pathogenic	104893991	Q13950	rs104893991	R225L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	104893992						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	104893993						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic, pathogenic	104893995						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1051044756						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1053285847						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1054946154						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic, pathogenic	1057521068						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		111973698						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		113811745						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		113836922						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		113861074						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	114554762	Q13950	rs114554762	A331G	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29S	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29S	0.011		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29S	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29T	0.014		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29T	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29T	0.015		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	114654066	Q13950	rs114654066	P29T	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	benign, likely benign	11498198						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		11498200	Q13950	rs11498200	R251C	0.985		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		11498200	Q13950	rs11498200	R251C	0.04		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		11498200	Q13950	rs11498200	R251C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	115347084	Q13950	rs115347084	N389S	0.31		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1157891858						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1158008972						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	benign	115974315						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1162838118						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1168392102						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1170026261						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1172059142						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1172413217						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1173869662						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1174426005						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1174985080						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1177692351						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1178914454						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1179560763						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1180264044	Q13950	rs1180264044	R26P	0.014		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1180264044	Q13950	rs1180264044	R26P	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1180336940						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1180944672						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1181014657						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1181960547						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1182337963						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1182756497						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1183019623						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1183896411	Q13950	rs1183896411	H97Q	0.003		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1183896411	Q13950	rs1183896411	H97Q	0.25		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1190085215						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1192865947						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1195139165						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1195717789						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1196892781						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1199475592						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1199502681						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1199568242						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1201625423						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1201891556						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic, pathogenic	1203066173	Q13950	rs1203066173	R169W	0.348		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic, pathogenic	1203066173	Q13950	rs1203066173	R169W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic, pathogenic	1203066173	Q13950	rs1203066173	R169W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1203365599						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1203966568	Q13950	rs1203966568	P276R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1206427637						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1210047580						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1214348056						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1215566079						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1215754855						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1216479084	Q13950	rs1216479084	Y454C	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1216479084	Q13950	rs1216479084	Y454C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1216479084	Q13950	rs1216479084	Y454C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1217642791						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1218682510	Q13950	rs1218682510	R519Q	0.999		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1218682510	Q13950	rs1218682510	R519Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1218682510	Q13950	rs1218682510	R519Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1218831279						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1220365106						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1221616975						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1222286451						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1226275017						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1230936635						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1231971719						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1234539221						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1234937174						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1235041904						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1235285354						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1237145449						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1237890878						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1239186370						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1241791203						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1242010684						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1243134950						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1243976934						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1244915362						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1244922471	Q13950	rs1244922471	A291S	0.21		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1247004200						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1247938998						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1252155186						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1254496350						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1255011742						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1255698663						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1256376561						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1256708103	Q13950	rs1256708103	D514N	0.995		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1256708103	Q13950	rs1256708103	D514N	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1256708103	Q13950	rs1256708103	D514N	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1261811743						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1261964211						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1267337050						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1269813407						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1279512753						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1280503552						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1281614842						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1285618262						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1286291849						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1286909610						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1289456738						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1289838464						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1292121646						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1297434606						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1297710073						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1300316161						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1305087594						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1305465503	Q13950	rs1305465503	A211P	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1306807681						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1308444345						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	1308549222						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1310470522						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1310889814	Q13950	rs1310889814	R245H	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1312487890						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1312686830						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1319186519	Q13950	rs1319186519	T476I	0.836		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1319186519	Q13950	rs1319186519	T476I	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1319186519	Q13950	rs1319186519	T476I	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1319345318						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1319458779						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1322886581						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1325045940						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1328346387						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1332669852						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1336402260						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1338264589						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1339712379						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1341793914						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1342614199						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1345151514						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1345306388						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1349550429						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1352066437						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1354211513						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1354561966						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1356693369						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1356764547						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1360487110						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1362755731						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1363675614						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1366398692	Q13950	rs1366398692	P336L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1369927853						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1371857497						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1371950698						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1374009579	Q13950	rs1374009579	A73E	0.001		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1374009579	Q13950	rs1374009579	A73E	0.48		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1377237744						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1378225599	Q13950	rs1378225599	D463Y	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1378848050						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1380921815						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	138138469						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1382629082						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		138287579						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1383016935						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1384263802	Q13950	rs1384263802	R25Q	0.011		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1384263802	Q13950	rs1384263802	R25Q	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1384371076						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1384375427						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1384459632	Q13950	rs1384459632	S33C	0.446		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1384459632	Q13950	rs1384459632	S33C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1384517929	Q13950	rs1384517929	G448C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1386843651						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1388215851						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1388460369						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1389424238						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1398828360						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1401233132	Q13950	rs1401233132	P373R	0.993		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1401233132	Q13950	rs1401233132	P373R	0.09		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1401233132	Q13950	rs1401233132	P373R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1401522703						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	140165241						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1405128308						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1405556189						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1405645729						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1407250057						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1409037667						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1414266851	Q13950	rs1414266851	M310T	0.199		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1414266851	Q13950	rs1414266851	M310T	0.08		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1414266851	Q13950	rs1414266851	M310T	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1414370387						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		141476380						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1416174031						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1418628831						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1420290243						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	142108189	Q13950	rs142108189	P471L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1421970328	Q13950	rs1421970328	P485S	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1421970328	Q13950	rs1421970328	P485T	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1425832083						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1426085360						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1426595686	Q13950	rs1426595686	V335A	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1426595686	Q13950	rs1426595686	V335A	0.09		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1426595686	Q13950	rs1426595686	V335A	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1428685613						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1428979499	Q13950	rs1428979499	G146R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1429247338						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1429370085						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	143092997						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1432442838						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1440001011						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1441434124	Q13950	rs1441434124	Q15K	0.904		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1441434124	Q13950	rs1441434124	Q15K	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1442575261						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1443036287						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1443188667						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1443448373	Q13950	rs1443448373	A273P	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		144497276						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1445706105						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1446223161						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1446608137						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1447043793						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		144760627						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		144852234						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1450988498						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1451478006						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1452154885						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1457634604						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1458067802						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1460639787						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1461715414						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1462049179						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1462761709						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1463155276						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		146620980						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1466738996	Q13950	rs1466738996	V259I	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1467962591						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		146820226						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1468281184						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	147009083	Q13950	rs147009083	V203I	0.919		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	147009083	Q13950	rs147009083	V203I	0.05		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	147009083	Q13950	rs147009083	V203I	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1470370276						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1471654791						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	147359883	Q13950	rs147359883	N177K	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1473913096						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1476037778						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1477047335	Q13950	rs1477047335	D161N	0.967		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1477047335	Q13950	rs1477047335	D161N	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1477047335	Q13950	rs1477047335	D161N	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1477135017						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1480082466						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	148326029	Q13950	rs148326029	P288L	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1485309580						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1485928187						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		148639759						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1489255608						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1489516989						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1490532126	Q13950	rs1490532126	Q64R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1490532126	Q13950	rs1490532126	Q64R	0.14		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1490639289						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		150088136						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		150415537						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	150962268	Q13950	rs150962268	N99I	0.226		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	150962268	Q13950	rs150962268	N99I	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1554346188						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1554397657	Q13950	rs1554397657	P296S	0.119		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1554397657	Q13950	rs1554397657	P296S	0.18		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1554397657	Q13950	rs1554397657	P296S	0.07		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1561856125						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1563083758						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1563083773						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1563133543	Q13950	rs1563133543	P373S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1581934511						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1581934557						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582094936						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1582095105	Q13950	rs1582095105	C123Y	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582095141						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582105270						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1582191853	Q13950	rs1582191853	A331T	0.2		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582230227						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582232295						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582232402						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582232511						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294329						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294334						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294341						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294343						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294364						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294373						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294426						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1582294503						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1584936285						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1662315966						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1721151030						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763037490						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763037558						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763038174						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763038221						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763038319						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763038497						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039010						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039285						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039516						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039591						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039755						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039790						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039932						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763039974						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763040218						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763040454						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763040779						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763040839						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763040992						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763041081						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763041133						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763041189						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763042967						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043075						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043120						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043181						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043208						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043284						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043391						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763043953						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044026						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044118						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044549						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044756						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044774						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044859						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763044918						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045066						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045155						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045179						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045217						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045339						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045351						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045409						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045536						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045645						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045692						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045872						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045897						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763045926						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046045						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046075						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046138						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046467						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046542						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046698						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046734						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046763						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1763046823						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1786860255						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1786863240						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1794922950						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1794928615						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1794937783						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1794938797						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1796125333						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1796125761						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1796127115						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1798232228						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798233203						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798233532						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798233629						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798234750						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798235660						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798236484						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798236667						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798238310						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798239710						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798241522						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798245105						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1798251422						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798255368						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798255538						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798256753						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798258273						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1798260254	Q13950	rs1798260254	V114I	0.05		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798260377						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798261169						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798262393						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798550777						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798550864						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798552298						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798553087						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798554735						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798555114						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798732998						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798734849						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1798734962						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1798735983	Q13950	rs1798735983	A216E	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1798736243						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	1798736907	Q13950	rs1798736907	D222H	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	1798736907	Q13950	rs1798736907	D222H	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	1798736907	Q13950	rs1798736907	D222H	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800488580						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800488866						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800490025						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800491832						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800492104						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1800492558	Q13950	rs1800492558	S256R	0.09		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800493298						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800493732						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1800495554	Q13950	rs1800495554	S269Y	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800495880						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1800497427						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1801178559						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1801178750						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1801179599	Q13950	rs1801179599	Y299C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1801181767						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1801181855						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1801185119						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1801185976						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802361220						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802361911						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802362386						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1802362718						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802362818						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802363276						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	1802363925	Q13950	rs1802363925	A362V	0.21		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic	1802414251	Q13950	rs1802414251	G363V	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802414888						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802415597						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802415700						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802416636						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1802417971	Q13950	rs1802417971	P402S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802418297						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802418696						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802419337						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802419597						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802420039						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	1802420914	Q13950	rs1802420914	P424Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802422604						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802423734						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802424350						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802428675						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802429000						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802429545						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802429642						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		1802431088						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		180860949						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	182416246						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		185524261						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		186720964						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely benign	189593823						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		199710543						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		200687912						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	201584115	Q13950	rs201584115	P296L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	201647225						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		202042342						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150276421						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150362462						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150362641	Q13950	rs2150362641	L126Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150362645	Q13950	rs2150362645	P127R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic, pathogenic	2150362649	Q13950	rs2150362649	W130R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150362661	Q13950	rs2150362661	L136P	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150362686						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150368229	Q13950	rs2150368229	A180E	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150368246	Q13950	rs2150368246	R190W	0.993		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150368246	Q13950	rs2150368246	R190W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150368246	Q13950	rs2150368246	R190W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, pathogenic	2150368254	Q13950	rs2150368254	R193Q	0.98		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, pathogenic	2150368254	Q13950	rs2150368254	R193Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, pathogenic	2150368254	Q13950	rs2150368254	R193Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150371829	Q13950	rs2150371829	S196G	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic	2150371841	Q13950	rs2150371841	L199F	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic	2150371895	Q13950	rs2150371895	I217S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150371897	Q13950	rs2150371897	K218E	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2150371905	Q13950	rs2150371905	T220I	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	2150371921	Q13950	rs2150371921	D222G	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150407585						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150407602						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150407648						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150407675						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150421317	Q13950	rs2150421317	S312F	0.352		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150421317	Q13950	rs2150421317	S312F	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150421317	Q13950	rs2150421317	S312F	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150421417						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2150454132	Q13950	rs2150454132	P460A	0.03		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150454170						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150454349						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150487380						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150487436						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150487466						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		2150487505						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2481024373						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2481024749						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2481025507	Q13950	rs2481025507	G493D	0.993		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2481025507	Q13950	rs2481025507	G493D	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2481025644						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548582062						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	2548582230						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548582235						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic	2548589112						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548589178						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2548589267						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2548589271						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely pathogenic	2548589285						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548593496						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2548593499						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548593511						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2548593578	Q13950	rs2548593578	G223E	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	pathogenic	2548593578	Q13950	rs2548593578	G223E	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548593601						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548593604						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	2548650437						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		367898326	Q13950	rs367898326	R338H	0.847		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		367898326	Q13950	rs367898326	R338H	0.03		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		367898326	Q13950	rs367898326	R338H	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	368475300	Q13950	rs368475300	Q51K	0.019		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	368475300	Q13950	rs368475300	Q51K	0.04		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		369286886						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		369481795						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	370331024	Q13950	rs370331024	D300H	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	370486033	Q13950	rs370486033	R267W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	370512978						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	benign, likely benign	372138746	Q13950	rs372138746	A85V	0.001		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	benign, likely benign	372138746	Q13950	rs372138746	A85V	0.08		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373029816						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373166327						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373218126	Q13950	rs373218126	R464W	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373218126	Q13950	rs373218126	R464W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373218126	Q13950	rs373218126	R464W	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373430374						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373621180						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		373709122						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	373752642	Q13950	rs373752642	D334N	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		376694142						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	376849024	Q13950	rs376849024	M102V	0.129		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	376849024	Q13950	rs376849024	M102V	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	376891808	Q13950	rs376891808	R251H	0.978		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	376891808	Q13950	rs376891808	R251H	0.05		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	376891808	Q13950	rs376891808	R251H	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		377128508						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		528470044						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	534661233	Q13950	rs534661233	L34V	0.087		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	534661233	Q13950	rs534661233	L34V	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	535706340	Q13950	rs535706340	P313Q	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		541013378						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	541256105	Q13950	rs541256105	S5T	0.934		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	541256105	Q13950	rs541256105	S5T	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		542999615						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		543624992						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		553611141						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		554124503						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		557229443						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		561698935						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	563772449	Q13950	rs563772449	P263L	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely benign	563987595						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		567962701						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		568476296						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		569724942						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	573668161						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely benign	575896136						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		577665369						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		745752587						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	746114073	Q13950	rs746114073	P320L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		746166928						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		746275240						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	746611102						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	746700872	Q13950	rs746700872	P457S	0.074		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	746700872	Q13950	rs746700872	P457S	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	746700872	Q13950	rs746700872	P457S	0.89		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	746897678						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		747380594						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		748242152						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	748640088						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		748644984						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		748962210						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		749040759						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		749283473						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		749426825						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	749565421	Q13950	rs749565421	T311M	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	749974335	Q13950	rs749974335	A78E	0.001		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	749974335	Q13950	rs749974335	A78E	0.38		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		750138653						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		751400416						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		751811026	Q13950	rs751811026	P466S	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		751811026	Q13950	rs751811026	P466S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		751811026	Q13950	rs751811026	P466S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	751887748	Q13950	rs751887748	P436L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		752156180						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		752525068						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		752933596						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	753025447	Q13950	rs753025447	T505A	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		753081035						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	753139240	Q13950	rs753139240	A74E	0.024		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	753139240	Q13950	rs753139240	A74E	0.26		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, benign	753332305	Q13950	rs753332305	V42L	0.057		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, benign	753332305	Q13950	rs753332305	V42L	0.12		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	753780685	Q13950	rs753780685	R386C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		754318665						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	754711247	Q13950	rs754711247	R100S	0.801		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	754711247	Q13950	rs754711247	R100S	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	754963913	Q13950	rs754963913	Y303F	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		755482498						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		755578627						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		756425872						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		757351966						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	758081090	Q13950	rs758081090	A79V	0.005		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	758081090	Q13950	rs758081090	A79V	0.11		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		758173198						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		758294076						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	758626590						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	759100705						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		759530807						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		759679284						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		759738332						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		759833497						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	760049118	Q13950	rs760049118	G37C	0.645		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	760049118	Q13950	rs760049118	G37C	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		760143015						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		760361518						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		760449546						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		760543307						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		761037120						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		761391105						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		761701398						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		762058135						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		762474281						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	762910660	Q13950	rs762910660	T205A	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	763117080	Q13950	rs763117080	Q70H	0.023		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	763117080	Q13950	rs763117080	Q70H	0.06		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	763466386	Q13950	rs763466386	P295L	0.083		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	763466386	Q13950	rs763466386	P295L	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	763466386	Q13950	rs763466386	P295L	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		763852761						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	763860044	Q13950	rs763860044	A414T	0.03		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely benign	765089321	Q13950	rs765089321	G461R	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		765308202						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		765653239						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		766042547						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		766130437						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		766812325						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		767171242						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		767251365						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	767984534	Q13950	rs767984534	E72D	0.001		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	767984534	Q13950	rs767984534	E72D	0.23		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	768149057						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		768220317						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	768473049	Q13950	rs768473049	P460L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		768497827						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		769922027						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	770452837	Q13950	rs770452837	P402L	0.661		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	770452837	Q13950	rs770452837	P402L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	770452837	Q13950	rs770452837	P402L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		770732481						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		770818987						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		771087017						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		771219239						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		771630924						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	771988272						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		772291669						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	772777645	Q13950	rs772777645	R92Q	0.626		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	772777645	Q13950	rs772777645	R92Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		772926106						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		773277224						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		773334040						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	774518258						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		774604105						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		774805163						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		775121825						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		776156260	Q13950	rs776156260	D20N	0.087		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		776156260	Q13950	rs776156260	D20N	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		776156260	Q13950	rs776156260	D20N	0.09		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		776156260	Q13950	rs776156260	D20N	0.01		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		776221631						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	776708490	Q13950	rs776708490	S256I	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		776729949						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		777793369						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		778901535						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		779082630						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	779487649	Q13950	rs779487649	P12S	0.995		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	779487649	Q13950	rs779487649	P12S	0.29		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		779939748						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	779943223	Q13950	rs779943223	Q59R	0.022		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance, likely benign	779943223	Q13950	rs779943223	Q59R	0.14		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	780033324	Q13950	rs780033324	P21L	0.122		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	780033324	Q13950	rs780033324	P21L	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		780062825						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	780524636	Q13950	rs780524636	R391Q	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		780628100						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		780701424						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	780973109	Q13950	rs780973109	T481M	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		781003025						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		781083561						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		781096197						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	781207125						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		78532572						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely pathogenic, pathogenic	864621970	Q13950	rs864621970	G159D	0.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		866927887						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		868388482						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		868562578						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		879231718						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		890650107						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		891078786						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		891974332	Q13950	rs891974332	I315V	0.003		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		891974332	Q13950	rs891974332	I315V	1.0		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		891974332	Q13950	rs891974332	I315V	0.66		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		898150329						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		903244196						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		903662443						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		904836715						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		906195232						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		912526782						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		916032397						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		918594711						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		927410612						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		932622541						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		940656370						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		951539818						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		954003510						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		956370900						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		960387233						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		963269342						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		974159857						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	likely benign	974164696						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		974209465						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		974632756						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		980299110						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		983870571						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	990671181	Q13950	rs990671181	P30A	0.017		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant	uncertain significance	990671181	Q13950	rs990671181	P30A	0.02		Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950
+RUNX2	missense_variant		995215658						Q13950	Runt-related transcription factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q13950

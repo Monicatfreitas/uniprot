@@ -1,0 +1,524 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+MMP3	missense_variant		1024094127						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1041642559						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1052796740						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	likely benign	113453592	P08254	rs113453592	M160L	0.05		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1156265503						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1156528651						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		11606831						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1162092449	P08254	rs1162092449	A390V	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1169574624						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1182056926						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1195022030						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1200652061						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1211155799						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1220025147						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1227842713						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1238621767						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1245134952						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1252024017	P08254	rs1252024017	F449L	0.943		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1252024017	P08254	rs1252024017	F449L	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1252024017	P08254	rs1252024017	F449L	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1266873022						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1274239489						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1283847664						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1284957979						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1300996167						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1309603660	P08254	rs1309603660	G209A	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1312012736	P08254	rs1312012736	L84V	0.098		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1312012736	P08254	rs1312012736	L84V	0.06		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1312012736	P08254	rs1312012736	L84V	0.134		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1312012736	P08254	rs1312012736	L84V	0.05		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1318011555						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1330316570						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1341658484						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1345987969						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	likely benign	1347820056						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1351010097						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1352244221						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1356291876						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1357499164						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1358457873	P08254	rs1358457873	T210S	0.133		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1358457873	P08254	rs1358457873	T210S	0.11		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1358457873	P08254	rs1358457873	T210S	0.13		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1360800439						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1364558361						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1370088939						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		137912924						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1381652352						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1382056600						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		138229802						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1388178949						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		139072785						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	139187731	P08254	rs139187731	P270L	0.05		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	likely benign	139243180	P08254	rs139243180	M160I	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1393459835						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		140614141						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		140794544						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1414397533						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1414816680	P08254	rs1414816680	L8P	0.829		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1414816680	P08254	rs1414816680	L8P	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1415691035						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		141650167						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1420146151						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1420258170						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		142481975						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		142984123						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1433100016						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1437252982						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1440053590						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1440362748						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1443827949	P08254	rs1443827949	L243F	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1443827949	P08254	rs1443827949	L243F	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1443827949	P08254	rs1443827949	L243F	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1450225675						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1453377591						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1453941959	P08254	rs1453941959	K205N	0.051		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1453941959	P08254	rs1453941959	K205N	0.25		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1453941959	P08254	rs1453941959	K205N	0.13		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	145941285	P08254	rs145941285	I159T	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		146212400						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		146504505						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	146875246	P08254	rs146875246	K321N	0.34		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1473230952						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		147533686	P08254	rs147533686	R316C	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		147533686	P08254	rs147533686	R316C	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		147533686	P08254	rs147533686	R316C	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		148047905						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		148285569						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1482872804						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	likely benign	148579119	P08254	rs148579119	Y153H	0.47		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1487605173	P08254	rs1487605173	P59L	0.006		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1487605173	P08254	rs1487605173	P59L	0.72		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1487605173	P08254	rs1487605173	P59L	0.001		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1487605173	P08254	rs1487605173	P59L	0.2		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1489524712						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		149156238	P08254	rs149156238	T286M	0.523		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		149156238	P08254	rs149156238	T286M	0.06		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		149156238	P08254	rs149156238	T286M	0.05		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		150552863						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	151123532						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004516						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1555004517	P08254	rs1555004517	A462G	0.03		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004520						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004525						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004526	P08254	rs1555004526	F446L	0.021		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004526	P08254	rs1555004526	F446L	0.14		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004526	P08254	rs1555004526	F446L	0.19		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004527						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004732						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004734						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004739						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004741						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004742						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004748						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004751						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004753						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004756						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1555004936						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1555004939	P08254	rs1555004939	D389N	0.11		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004944						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004945						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004947						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004957						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004961	P08254	rs1555004961	G365E	0.946		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004961	P08254	rs1555004961	G365E	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004961	P08254	rs1555004961	G365E	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004963						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004965	P08254	rs1555004965	F360L	0.208		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004965	P08254	rs1555004965	F360L	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555004965	P08254	rs1555004965	F360L	0.05		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005037						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005040						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005058						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005193						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005198						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005201						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005209						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005218						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005221						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005267						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005269						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005272						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005283						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1555005290						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005554						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005557	P08254	rs1555005557	G188E	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005557	P08254	rs1555005557	G188E	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005557	P08254	rs1555005557	G188E	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005573						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005576						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005577						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005660						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005664						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005667						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005669						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005676						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005678						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005679						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005682	P08254	rs1555005682	E154K	0.015		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005682	P08254	rs1555005682	E154K	0.12		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005682	P08254	rs1555005682	E154K	0.13		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005687						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005688						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005691						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005695						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005709						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005716						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005747						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1555005757						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005764						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005770						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005777						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005783						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005785						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005800						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005816						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005817						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005822						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005824						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005837						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005838						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005931						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005939						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005944						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005946						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1555005966						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1565224502						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1565225231						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1565225315						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1565226397	P08254	rs1565226397	I64N	0.998		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1565226397	P08254	rs1565226397	I64N	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591101275						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591102670						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591102835						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591102870						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591103135						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591103281						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591104207						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591104218						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591104257						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591105383						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591105800						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591105881						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591105918						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591106202						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1591106345						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1657076887	P08254	rs1657076887	I376F	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		185081958						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858876636						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858876987						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858877272						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858877479						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858901155						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1858901208	P08254	rs1858901208	Q425R	0.55		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858928476						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858929583						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858930235						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858930886						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858931455						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858931957						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858932063						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858932555						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858942268						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858942686						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858942766						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858947170						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858966377						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858966496						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858967635						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858968927						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858969151						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858970098						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858976879						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858977002						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858977585						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858977770						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858978108						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858978177						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1858978922						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859008651						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859008832						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859009461						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859010534						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859011016						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859011461						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859012828						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859012929						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859021021						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859021083						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859021199						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859021311						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859022857						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859022927						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859023303						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859024496						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859024585						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859024789						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859024898						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859028426						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859031935						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859032092						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859032283						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859032875						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1859032947	P08254	rs1859032947	L71V	0.372		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	1859032947	P08254	rs1859032947	L71V	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859034117						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859035155						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859047029						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859047102						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		1859047762						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	200250895	P08254	rs200250895	T272N	0.69		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		200470692						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		201018157						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		201131528						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		201409153						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		201427128						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		201667769						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		202121594						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		202217886						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134397167						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134398274						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134398880						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134399768						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134402252						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134402477						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134402666						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		2134402897						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	2496291267						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	2496295943						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	2496298814						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	2496302347						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	2496302351						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		367715190						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		368598390						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		369213425						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		369959225						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		370164016						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		370303354						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		371658363						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	372498396	P08254	rs372498396	Q50K	0.024		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	372498396	P08254	rs372498396	Q50K	0.34		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		373335227						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		373783506						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		374032529						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		375381761						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		376007624	P08254	rs376007624	V340M	0.066		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		376007624	P08254	rs376007624	V340M	0.11		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		376007624	P08254	rs376007624	V340M	0.09		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	376760953	P08254	rs376760953	A186D	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	377547395	P08254	rs377547395	R88C	0.561		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	377547395	P08254	rs377547395	R88C	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	377547395	P08254	rs377547395	R88C	0.961		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	377547395	P08254	rs377547395	R88C	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	377586699						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		41357345						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	benign	41516350						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		527842934						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	536550929	P08254	rs536550929	V352I	0.533		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	536550929	P08254	rs536550929	V352I	0.22		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	536550929	P08254	rs536550929	V352I	0.24		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		537509437						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		539243624						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	547601378	P08254	rs547601378	V97F	0.341		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	547601378	P08254	rs547601378	V97F	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	547601378	P08254	rs547601378	V97F	0.255		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	547601378	P08254	rs547601378	V97F	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	547601378	P08254	rs547601378	V97I	0.024		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	547601378	P08254	rs547601378	V97I	0.18		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	552104362	P08254	rs552104362	D82N	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	552104362	P08254	rs552104362	D82N	0.32		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		552851744						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		554448579						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		554987933	P08254	rs554987933	T76M	0.996		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		554987933	P08254	rs554987933	T76M	0.07		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		554987933	P08254	rs554987933	T76M	0.993		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		554987933	P08254	rs554987933	T76M	0.09		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		555385493						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		557512280						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	557944630						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	561710994						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		561892904						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	565138607	P08254	rs565138607	T277M	0.04		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		567971149						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	568922671						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		572386210						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		576127996						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		577046877						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	benign	602128						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		61753776						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		767046399						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		778863363						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		780504353	P08254	rs780504353	P460S	0.139		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		780504353	P08254	rs780504353	P460S	0.13		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		780504353	P08254	rs780504353	P460S	0.03		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	781807154	P08254	rs781807154	D434Y	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781846046						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	781850506	P08254	rs781850506	P324S	0.13		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781850826						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781866260						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781869389						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781892488						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781894748						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781897818						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781910577						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781926097						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781930148						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781941674	P08254	rs781941674	A137V	0.999		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781941674	P08254	rs781941674	A137V	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781941674	P08254	rs781941674	A137V	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781952098						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781978075						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781987329						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781991534						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		781997796						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782025917						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782028810						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782071125						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782074937						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782102554						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782108213						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782108389						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782121319						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782127556	P08254	rs782127556	P95S	0.885		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782127556	P08254	rs782127556	P95S	0.05		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782127556	P08254	rs782127556	P95S	0.913		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782127556	P08254	rs782127556	P95S	0.04		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782130715						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782136205						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782137329						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782138485						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782139929						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782146175						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782147410	P08254	rs782147410	A184D	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782147410	P08254	rs782147410	A184D	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782147410	P08254	rs782147410	A184D	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782155762						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782160486						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782173998						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782178458						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782178682						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782182277						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782190144						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782190532						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782196428						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782213429						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782220811						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782223398						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782241431						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782241657	P08254	rs782241657	A195S	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782254329						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782261578						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782267524						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782302199						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782312096						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782326787						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782356418						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782364467						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782380049						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782382218						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782385032						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782386185	P08254	rs782386185	E142K	0.005		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782386185	P08254	rs782386185	E142K	0.08		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782386185	P08254	rs782386185	E142K	0.06		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782392767						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782395032	P08254	rs782395032	P337S	0.881		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782395032	P08254	rs782395032	P337S	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782395032	P08254	rs782395032	P337S	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782403880	P08254	rs782403880	Y263C	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782405107	P08254	rs782405107	T29I	0.148		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782405107	P08254	rs782405107	T29I	0.1		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782405107	P08254	rs782405107	T29I	0.153		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782405107	P08254	rs782405107	T29I	0.12		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782425284						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782433018						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782438889						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782446614						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782465369						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782487068	P08254	rs782487068	E201K	0.956		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782487068	P08254	rs782487068	E201K	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782487068	P08254	rs782487068	E201K	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782487861						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782503307	P08254	rs782503307	P104L	0.856		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782503307	P08254	rs782503307	P104L	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782503307	P08254	rs782503307	P104L	0.01		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782511984						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782524617	P08254	rs782524617	F355C	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782524617	P08254	rs782524617	F355C	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782524617	P08254	rs782524617	F355C	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782531877	P08254	rs782531877	R88H	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782531877	P08254	rs782531877	R88H	0.43		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782531877	P08254	rs782531877	R88H	0.001		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782531877	P08254	rs782531877	R88H	0.45		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782542331						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782547430						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782553242						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782553958						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782555708						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782557530						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782558227						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782558947						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782569082						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782571621	P08254	rs782571621	V97A	0.787		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782571621	P08254	rs782571621	V97A	0.03		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782579657						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782593797						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782598544						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782608620	P08254	rs782608620	E413K	0.996		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782608620	P08254	rs782608620	E413K	0.07		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782608620	P08254	rs782608620	E413K	0.1		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782614229						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782616828						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782621390	P08254	rs782621390	F309S	1.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782621390	P08254	rs782621390	F309S	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782621390	P08254	rs782621390	F309S	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782625834						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782640978						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782642874						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782643785	P08254	rs782643785	R316H	0.997		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782643785	P08254	rs782643785	R316H	0.03		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782643785	P08254	rs782643785	R316H	0.06		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782654888						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782665147						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782666264						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782669256						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782671460						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782683357						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782700324						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782711373						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782720970						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782730037						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	782730264						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782730515						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782731267						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782735258						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782745338						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782754459	P08254	rs782754459	V215I	0.837		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782754459	P08254	rs782754459	V215I	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782754459	P08254	rs782754459	V215I	0.0		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782778748						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782782597						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782806413						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782812551	P08254	rs782812551	P292T	0.08		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782812551	P08254	rs782812551	P292T	0.02		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782812551	P08254	rs782812551	P292T	0.04		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782818059						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782820652						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782821084	P08254	rs782821084	S269F	0.022		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782821084	P08254	rs782821084	S269F	0.04		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		782821084	P08254	rs782821084	S269F	0.03		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		868927210						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		868938663						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		900890332						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	912160925						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		916359137						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		922877596						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		943534673						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		949774544						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		968806051						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		981991768	P08254	rs981991768	K397N	0.007		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		981991768	P08254	rs981991768	K397N	0.31		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		981991768	P08254	rs981991768	K397N	0.2		P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant	uncertain significance	989461395						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		992330140						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254
+MMP3	missense_variant		994597015						P08254	Stromelysin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08254

@@ -1,0 +1,867 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+TYMP	missense_variant		1003394781						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1004918962						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1010204299						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1010840467						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1015150419						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1015620650	P19971	rs1015620650	R109C	0.875		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1015620650	P19971	rs1015620650	R109C	0.06		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1020643764						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1022322270						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1035967828	P19971	rs1035967828	V419M	0.991		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1035967828	P19971	rs1035967828	V419M	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1037027865	P19971	rs1037027865	E413Q	0.003		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1037027865	P19971	rs1037027865	E413Q	0.47		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1042023607	P19971	rs1042023607	H319R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1042023607	P19971	rs1042023607	H319R	0.57		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1044288718						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1055509931						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1060499532	P19971	rs1060499532	L356P	0.994		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1060499532	P19971	rs1060499532	L356P	0.19		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1060499533	P19971	rs1060499533	L371P	0.992		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1060499533	P19971	rs1060499533	L371P	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1060499534	P19971	rs1060499534	G387S	0.997		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1060499534	P19971	rs1060499534	G387S	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792855	P19971	rs1064792855	A216V	0.905		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792855	P19971	rs1064792855	A216V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792857	P19971	rs1064792857	L49R	0.994		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792857	P19971	rs1064792857	L49R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign, pathogenic	1064792858	P19971	rs1064792858	I54M	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign, pathogenic	1064792858	P19971	rs1064792858	I54M	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1064792859	P19971	rs1064792859	M76I	0.852		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1064792859	P19971	rs1064792859	M76I	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792861	P19971	rs1064792861	D114N	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792861	P19971	rs1064792861	D114N	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792862	P19971	rs1064792862	L133P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792862	P19971	rs1064792862	L133P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792863	P19971	rs1064792863	D156G	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792863	P19971	rs1064792863	D156G	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792864	P19971	rs1064792864	S160P	0.954		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792864	P19971	rs1064792864	S160P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792865	P19971	rs1064792865	M173R	0.655		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792865	P19971	rs1064792865	M173R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792866	P19971	rs1064792866	L177P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792866	P19971	rs1064792866	L177P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	1064792867	P19971	rs1064792867	V208G	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	1064792867	P19971	rs1064792867	V208G	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792868	P19971	rs1064792868	F236S	0.972		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792868	P19971	rs1064792868	F236S	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1064792869	P19971	rs1064792869	A239T	0.932		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1064792869	P19971	rs1064792869	A239T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792870	P19971	rs1064792870	T254P	0.754		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1064792870	P19971	rs1064792870	T254P	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1064792871	P19971	rs1064792871	H283D	0.552		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1064792871	P19971	rs1064792871	H283D	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792872	P19971	rs1064792872	G298D	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1064792872	P19971	rs1064792872	G298D	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	1064792873	P19971	rs1064792873	G387D	0.998		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	1064792873	P19971	rs1064792873	G387D	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	1064792874	P19971	rs1064792874	G428S	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	1064792874	P19971	rs1064792874	G428S	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1085307802	P19971	rs1085307802	E344Q	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	1085307802	P19971	rs1085307802	E344Q	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	112723255	P19971	rs112723255	A465T	0.006		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	112723255	P19971	rs112723255	A465T	0.49		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1157560052	P19971	rs1157560052	V392L	0.003		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1157560052	P19971	rs1157560052	V392L	0.09		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1158018478						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1159212438	P19971	rs1159212438	V121M	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1159212438	P19971	rs1159212438	V121M	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1159449172						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1165404070	P19971	rs1165404070	A366V	0.013		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1165404070	P19971	rs1165404070	A366V	0.12		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1168473834						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1171808968						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1175496948						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1175838598	P19971	rs1175838598	R442Q	0.066		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1175838598	P19971	rs1175838598	R442Q	0.04		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1177487732						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1178421926	P19971	rs1178421926	L270P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1178421926	P19971	rs1178421926	L270P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1182049280						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1182708208						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1185739813	P19971	rs1185739813	L251P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1185739813	P19971	rs1185739813	L251P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1186500366						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1188338261						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1189525116						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1190033207						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1190901146	P19971	rs1190901146	M273I	0.997		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1190901146	P19971	rs1190901146	M273I	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1191066227						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1199629120						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1199784789	P19971	rs1199784789	G263E	0.976		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1199784789	P19971	rs1199784789	G263E	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1200984660						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1207543220						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1209463945						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1209644900						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1210034588						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1211589704						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1214742238						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1215664490						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1218279446						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	121913036						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913037						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	121913038						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913039	P19971	rs121913039	V208M	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913039	P19971	rs121913039	V208M	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	121913040	P19971	rs121913040	G311C	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	121913040	P19971	rs121913040	G311C	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	121913040	P19971	rs121913040	G311R	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	121913040	P19971	rs121913040	G311R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	121913040	P19971	rs121913040	G311S	0.994		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	121913040	P19971	rs121913040	G311S	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913041	P19971	rs121913041	R202K	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913041	P19971	rs121913041	R202K	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913041	P19971	rs121913041	R202T	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	121913041	P19971	rs121913041	R202T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic, pathogenic	121913042	P19971	rs121913042	L285P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic, pathogenic	121913042	P19971	rs121913042	L285P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1219356021						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1219597248						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1219950984						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1223312855						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1223686288						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1226740106						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1230760121						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1232370673						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1234223900						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1234427628						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1236277429	P19971	rs1236277429	P193S	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1236277429	P19971	rs1236277429	P193S	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1236297642						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1240133140	P19971	rs1240133140	E38G	0.767		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1240133140	P19971	rs1240133140	E38G	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1244687285	P19971	rs1244687285	R376W	0.391		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1244687285	P19971	rs1244687285	R376W	0.11		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1245466741	P19971	rs1245466741	P479Q	0.647		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1245466741	P19971	rs1245466741	P479Q	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1247699337						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1250109829						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1250541303						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1251044974	P19971	rs1251044974	L334R	0.987		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	1251044974	P19971	rs1251044974	L334R	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1251324128						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1252749706						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1253066888	P19971	rs1253066888	P276L	0.895		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1253066888	P19971	rs1253066888	P276L	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1253283946	P19971	rs1253283946	A385T	0.001		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1253283946	P19971	rs1253283946	A385T	0.39		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1258773019	P19971	rs1258773019	A60T	0.492		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1258773019	P19971	rs1258773019	A60T	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1258985361						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1264668890						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1266406009						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1267775831						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1268413772						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1272086693						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1272187989						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1272282446						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1272477035	P19971	rs1272477035	V281M	0.986		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1272477035	P19971	rs1272477035	V281M	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1272848697						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1275136706						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1275545120						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1276418601	P19971	rs1276418601	Q370L	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1276418601	P19971	rs1276418601	Q370L	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1278045487						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1281491965						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1284139882						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1284702186						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1284840530	P19971	rs1284840530	G8E	0.934		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1284840530	P19971	rs1284840530	G8E	0.09		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1286121132						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1286215362						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1292092630						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1294823677	P19971	rs1294823677	V232A	0.552		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1294823677	P19971	rs1294823677	V232A	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1297424973						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1298807229						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1298908265						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1300577633						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1300623173						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1304644841						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1305604797						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1306775856						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1308023908						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1311160064						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1312378484						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1316277969						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1316453342						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1319104813						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1319323449						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1322674648						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1322877019						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1323146924						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1323432872	P19971	rs1323432872	L313V	0.626		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1323432872	P19971	rs1323432872	L313V	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1324569028						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1324997765						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1325541653						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1326615655						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1326787456						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1327732434						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1329486006						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1331363227	P19971	rs1331363227	G418A	0.011		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1331363227	P19971	rs1331363227	G418A	0.35		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1331586512						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1334190297						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1337382046						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1339991219						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1342088530						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	1344839231						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1345777965						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1348985658						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1349394933						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1350988490	P19971	rs1350988490	P414Q	0.189		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1350988490	P19971	rs1350988490	P414Q	0.06		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1350988490	P19971	rs1350988490	P414R	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1350988490	P19971	rs1350988490	P414R	0.04		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1352265473						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1353097158						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1353696202						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1354432797						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1355825564						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1356229032	P19971	rs1356229032	S19F	0.103		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1356229032	P19971	rs1356229032	S19F	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1357734207						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1358803114						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1359494027	P19971	rs1359494027	G296R	0.997		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1359494027	P19971	rs1359494027	G296R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1359558544						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1361630544						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1361750261						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1363278376						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1366027966						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1366685579						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1367937948						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1368653283						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1369275539						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1369648514						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1372616333						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1373519372	P19971	rs1373519372	G326V	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1373519372	P19971	rs1373519372	G326V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1374485127						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1374755652						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1375578222						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1377801784						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1378212524						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1386267039						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1386628772						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1387086760	P19971	rs1387086760	F164Y	0.28		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1387086760	P19971	rs1387086760	F164Y	0.11		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1387963646						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1388103407						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1388351321						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1388735279						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1388793118						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1389434470						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1394951112	P19971	rs1394951112	A469S	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1394951112	P19971	rs1394951112	A469S	0.33		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1394951112	P19971	rs1394951112	A469T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1394951112	P19971	rs1394951112	A469T	0.39		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1395567253						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1397395087						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1401643572						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1402608859						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		140329664						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1405480505						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1409192064						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1410940861						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1412008628						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1412132331	P19971	rs1412132331	G318R	0.205		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1412132331	P19971	rs1412132331	G318R	0.04		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1413594155	P19971	rs1413594155	G418R	0.668		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1413594155	P19971	rs1413594155	G418R	0.49		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1414577231						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1414925289	P19971	rs1414925289	A394V	0.934		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1414925289	P19971	rs1414925289	A394V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1415931943						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1415980268						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1416304340						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1419699854						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	142027728	P19971	rs142027728	S65R	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	142027728	P19971	rs142027728	S65R	0.13		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1431590015	P19971	rs1431590015	R41G	0.503		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1431590015	P19971	rs1431590015	R41G	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1432744426	P19971	rs1432744426	F467L	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1432744426	P19971	rs1432744426	F467L	0.46		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1433281613						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1434418446						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1434949726						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1435468507						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1435652469						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1436882957						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1437662740						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	143789597	P19971	rs143789597	R81Q	0.028		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	143789597	P19971	rs143789597	R81Q	0.41		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1439900877						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1441242054						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1443174984						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1445149345						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1445298085	P19971	rs1445298085	V389M	0.986		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1445298085	P19971	rs1445298085	V389M	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1446173839						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1449781565	P19971	rs1449781565	A130V	0.582		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1449781565	P19971	rs1449781565	A130V	0.06		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	145056860	P19971	rs145056860	S188T	0.035		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	145056860	P19971	rs145056860	S188T	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1451004345						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1452194925						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1453977578						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1454733117	P19971	rs1454733117	A320G	0.693		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1454733117	P19971	rs1454733117	A320G	0.04		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1455473908						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1455843815						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1455974755						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1456706060						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1458356330						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1458860159						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1459239986						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1461405847	P19971	rs1461405847	P13L	0.722		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1461405847	P19971	rs1461405847	P13L	0.11		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1462515937						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1464940621						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1465566884						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1466150223	P19971	rs1466150223	K124N	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1466150223	P19971	rs1466150223	K124N	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1466905582						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	146835206	P19971	rs146835206	M173I	0.003		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	146835206	P19971	rs146835206	M173I	0.4		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	146922557	P19971	rs146922557	S65G	0.317		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	146922557	P19971	rs146922557	S65G	0.17		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1478117838						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1479100172						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1479566289						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1481929212						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1482607468						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1482910534						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1484371434						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1484920550						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1487581282						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1487808552						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1488068409						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1488729881						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1489657643	P19971	rs1489657643	V477I	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1489657643	P19971	rs1489657643	V477I	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	149977726						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1556486551	P19971	rs1556486551	A394S	0.506		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1556486551	P19971	rs1556486551	A394S	0.12		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1556490053	P19971	rs1556490053	M74K	0.894		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1556490053	P19971	rs1556490053	M74K	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1569522033	P19971	rs1569522033	L424V	0.907		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	1569522033	P19971	rs1569522033	L424V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	1569522106						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1569522325						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1569522879						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	1603441808						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441816						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441846						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441857						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441917						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441929						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441940						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		1603441993						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	17851631						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		187092527						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	188802138	P19971	rs188802138	R146H	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	188802138	P19971	rs188802138	R146H	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	199901350	P19971	rs199901350	A134E	0.993		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	199901350	P19971	rs199901350	A134E	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	199901350	P19971	rs199901350	A134V	0.931		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	199901350	P19971	rs199901350	A134V	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	200497106	P19971	rs200497106	G226R	0.079		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	200497106	P19971	rs200497106	G226R	0.31		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	201513101	P19971	rs201513101	E106Q	0.013		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	201513101	P19971	rs201513101	E106Q	0.19		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069328501	P19971	rs2069328501	A474V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069328501	P19971	rs2069328501	A474V	0.34		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069331076						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069332049						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069332483						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069332918	P19971	rs2069332918	Q456R	0.168		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069332918	P19971	rs2069332918	Q456R	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069333163						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069334805						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069335006						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069335150						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069335961						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069336743	P19971	rs2069336743	R442W	0.317		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069336743	P19971	rs2069336743	R442W	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069346113						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069346350						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069346695						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069348232	P19971	rs2069348232	V425I	0.847		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069348232	P19971	rs2069348232	V425I	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	2069349933	P19971	rs2069349933	L417V	0.048		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	2069349933	P19971	rs2069349933	L417V	0.2		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069351594						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069352300	P19971	rs2069352300	S409G	0.314		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069352300	P19971	rs2069352300	S409G	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069353068	P19971	rs2069353068	A406D	0.994		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069353068	P19971	rs2069353068	A406D	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069354121						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069354583						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069355122						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069356613						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069368080						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069368367						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069369073	P19971	rs2069369073	L381R	0.978		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069369073	P19971	rs2069369073	L381R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069369455						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069370068						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069371942						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069372271						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	2069374700						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069375017						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069376525	P19971	rs2069376525	R345Q	0.001		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069376525	P19971	rs2069376525	R345Q	0.16		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069377075						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069377884						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069378129						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069378823						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	2069380215						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069382662	P19971	rs2069382662	H319Y	0.003		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069382662	P19971	rs2069382662	H319Y	0.16		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069383413						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069393191						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069394186						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069394683						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069395046						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069398561	P19971	rs2069398561	C280R	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069398561	P19971	rs2069398561	C280R	0.44		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	2069399266						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069399940						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069401085	P19971	rs2069401085	R265P	0.07		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069401085	P19971	rs2069401085	R265P	0.08		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069401877						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069402123						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069402201						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069402291	P19971	rs2069402291	V258M	0.979		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069402291	P19971	rs2069402291	V258M	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069402392						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069422394						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069422821						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069423149	P19971	rs2069423149	G237A	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069423149	P19971	rs2069423149	G237A	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069423505						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069425025	P19971	rs2069425025	S220G	0.995		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069425025	P19971	rs2069425025	S220G	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069432334						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069432677						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069433124						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069433206						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069436201						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069436725						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069439084						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069439429						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069440584						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069440745						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069441047						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069441753						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069441994						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069444927						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069445821						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069473933						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069474299						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069476751						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069477358						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069478510						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069479394						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069497761						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069499765						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069501289						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069502461						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069503337						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069504868						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069513538						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069514092						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069516085						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069518794						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069521108						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069521405						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069521736	P19971	rs2069521736	T9S	0.301		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2069521736	P19971	rs2069521736	T9S	0.86		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069522240						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2069522311						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148676206						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148676337						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148676726	P19971	rs2148676726	R433L	0.327		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148676726	P19971	rs2148676726	R433L	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148676922						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148677657						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148678919	P19971	rs2148678919	V258A	0.885		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148678919	P19971	rs2148678919	V258A	0.41		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148680226						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148680240						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148680266						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148680302						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148680412	P19971	rs2148680412	L198P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148680412	P19971	rs2148680412	L198P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148681762						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148681771						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148681781						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	2148682754	P19971	rs2148682754	Q110H	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	2148682754	P19971	rs2148682754	Q110H	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148682826	P19971	rs2148682826	Q93L	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148682826	P19971	rs2148682826	Q93L	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		2148683276						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148683570	P19971	rs2148683570	A2T	0.494		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2148683570	P19971	rs2148683570	A2T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522505736						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522506730						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522507230						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522512895						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	2522513131						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522518036						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522518496						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522519406						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522531026						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522538744						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522539590						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522547768						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522550800						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	2522551145						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	28931613	P19971	rs28931613	R44P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	28931613	P19971	rs28931613	R44P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	3202236						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		369432373						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		369492303						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	369574115						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		370874256	P19971	rs370874256	R109H	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		370874256	P19971	rs370874256	R109H	0.47		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		370910119						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		372766037						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	373893793						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		376372152						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	376867243						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	377572658	P19971	rs377572658	G10R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	377572658	P19971	rs377572658	G10R	0.63		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	benign	470119						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		528141169						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		529308501						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		533787409						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	534302884	P19971	rs534302884	Q429L	0.221		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	534302884	P19971	rs534302884	Q429L	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		537722630						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		540094807						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	540744534						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	541592631	P19971	rs541592631	A2V	0.494		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	541592631	P19971	rs541592631	A2V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	544124225						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		546034590						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		546251361						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		550052283						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	550422674	P19971	rs550422674	A201D	0.681		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	550422674	P19971	rs550422674	A201D	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	551975117	P19971	rs551975117	R432H	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	551975117	P19971	rs551975117	R432H	0.12		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	552829713						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	561429005						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	564457801	P19971	rs564457801	A107T	0.003		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	564457801	P19971	rs564457801	A107T	0.12		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	568773673	P19971	rs568773673	A240G	0.947		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	568773673	P19971	rs568773673	A240G	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	570047465	P19971	rs570047465	S65N	0.037		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	570047465	P19971	rs570047465	S65N	0.15		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	570438867	P19971	rs570438867	D304N	0.707		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	570438867	P19971	rs570438867	D304N	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		573319831						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		574110580						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		574316067						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		577977601						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		745546119						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		745699088						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	benign	745990839						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	benign	746067815	P19971	rs746067815	A324S	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	benign	746067815	P19971	rs746067815	A324S	0.68		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	746978436	P19971	rs746978436	G20R	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	746978436	P19971	rs746978436	G20R	0.07		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		747444904						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		747509269						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	747938170						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		748400510						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		748435618						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		748651674						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		748956685						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	749358951	P19971	rs749358951	I71M	0.989		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	749358951	P19971	rs749358951	I71M	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		749412690						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		749618576						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		749738967						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign, pathogenic	749827433	P19971	rs749827433	E87D	0.584		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign, pathogenic	749827433	P19971	rs749827433	E87D	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		750092332						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		750182241						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	750707642	P19971	rs750707642	L292V	0.261		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	750707642	P19971	rs750707642	L292V	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	750933965	P19971	rs750933965	V256A	0.997		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	750933965	P19971	rs750933965	V256A	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	750933965	P19971	rs750933965	V256G	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	750933965	P19971	rs750933965	V256G	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		751074852						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		751423220						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		751450304	P19971	rs751450304	R79Q	0.745		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		751450304	P19971	rs751450304	R79Q	0.32		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	751544721	P19971	rs751544721	A446T	0.005		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	751544721	P19971	rs751544721	A446T	0.24		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	751642764						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	751803871						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	752028751						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		752049695						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic, pathogenic	752137335	P19971	rs752137335	K43T	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic, pathogenic	752137335	P19971	rs752137335	K43T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		752571355						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	752674133						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	752960104						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		752965552						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753053752						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753244234						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753259380	P19971	rs753259380	S338L	0.602		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753259380	P19971	rs753259380	S338L	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753494518						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753583039						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	753745471	P19971	rs753745471	E379K	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	753745471	P19971	rs753745471	E379K	0.34		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		753991866						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		754063742						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	754410018	P19971	rs754410018	Q370H	0.194		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	754410018	P19971	rs754410018	Q370H	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		754574172						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		754720306						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	754924121	P19971	rs754924121	D443H	0.792		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	754924121	P19971	rs754924121	D443H	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	754924121	P19971	rs754924121	D443N	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	754924121	P19971	rs754924121	D443N	0.22		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		755019755						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	755060408	P19971	rs755060408	E288K	0.418		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	755060408	P19971	rs755060408	E288K	0.26		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		755401488						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		755410626						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	755505673	P19971	rs755505673	I40V	0.325		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	755505673	P19971	rs755505673	I40V	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		755569476						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	755917995	P19971	rs755917995	E403K	0.014		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	755917995	P19971	rs755917995	E403K	0.91		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	756333191						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		756372808						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	756647111						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		757374049						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		757481896						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		758004872						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		758303113						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	758373793						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		759282772						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	759980987	P19971	rs759980987	L461V	0.187		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	759980987	P19971	rs759980987	L461V	0.32		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	760347953	P19971	rs760347953	D274E	0.377		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	760347953	P19971	rs760347953	D274E	0.08		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	760529157	P19971	rs760529157	G68S	0.053		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	760529157	P19971	rs760529157	G68S	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		760541033						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		760902146						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		761635452						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	761665644	P19971	rs761665644	S210R	0.99		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	761665644	P19971	rs761665644	S210R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		762408705						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	762409331	P19971	rs762409331	L262V	0.403		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	762409331	P19971	rs762409331	L262V	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	762630777	P19971	rs762630777	F343C	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	762630777	P19971	rs762630777	F343C	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		762917523						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		763157815						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	763471000	P19971	rs763471000	S228C	0.073		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	763471000	P19971	rs763471000	S228C	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	763685299	P19971	rs763685299	R303K	0.18		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	763685299	P19971	rs763685299	R303K	0.25		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	763810043						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		763819678						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		763909665						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	764275775	P19971	rs764275775	A454P	0.09		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	pathogenic	764275775	P19971	rs764275775	A454P	0.28		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	benign, likely benign	765007158	P19971	rs765007158	R376Q	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	benign, likely benign	765007158	P19971	rs765007158	R376Q	0.71		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		765435346						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		765604179	P19971	rs765604179	G152R	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		765604179	P19971	rs765604179	G152R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		765668421						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	765716244	P19971	rs765716244	A260T	0.001		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	765716244	P19971	rs765716244	A260T	0.37		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		765932857						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		766092528						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		766114705						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	766401914						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	766760434	P19971	rs766760434	K253N	0.012		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	766760434	P19971	rs766760434	K253N	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	767063709	P19971	rs767063709	G64R	0.193		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	767063709	P19971	rs767063709	G64R	0.07		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		767530008						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		767829510						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		767852785						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		767873355						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		767910912						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		767966812						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		768205311						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	768461642						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		768470849						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		768512554						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	768582480	P19971	rs768582480	A468S	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	768582480	P19971	rs768582480	A468S	0.79		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		768876674						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		769277063						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	769568725	P19971	rs769568725	G16R	0.955		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	769568725	P19971	rs769568725	G16R	0.06		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		769601106						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	769658345	P19971	rs769658345	G181D	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	769658345	P19971	rs769658345	G181D	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		770187356						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	770439368	P19971	rs770439368	T435I	0.027		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	770439368	P19971	rs770439368	T435I	0.13		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		770724105						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		770901921						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		771047497						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	771169470						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		771224513						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	771475902						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	771700483						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	771864603						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		771890156						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		772046185	P19971	rs772046185	Q70H	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		772046185	P19971	rs772046185	Q70H	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	772137910						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	772156477	P19971	rs772156477	G321R	0.015		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	772156477	P19971	rs772156477	G321R	0.32		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		772318219						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	772830245	P19971	rs772830245	V175A	0.04		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	772830245	P19971	rs772830245	V175A	0.49		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	772830245	P19971	rs772830245	V175E	0.013		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	772830245	P19971	rs772830245	V175E	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		773296990						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	773626895	P19971	rs773626895	D386Y	0.419		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	773626895	P19971	rs773626895	D386Y	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	773643115	P19971	rs773643115	C361R	0.984		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	773643115	P19971	rs773643115	C361R	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		774159739						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	774416437	P19971	rs774416437	A359V	0.077		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	774416437	P19971	rs774416437	A359V	0.1		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		774814148						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		774894715						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		775253999						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		775511112						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	775841111						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		775857544						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		776356925	P19971	rs776356925	A66T	0.179		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		776356925	P19971	rs776356925	A66T	0.03		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	776496098	P19971	rs776496098	P480A	0.018		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	776496098	P19971	rs776496098	P480A	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		776611670						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		776611679						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		776808969						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		777005301						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	777564992	P19971	rs777564992	L397M	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, benign, likely benign	777564992	P19971	rs777564992	L397M	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	777925061	P19971	rs777925061	S30L	0.028		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	777925061	P19971	rs777925061	S30L	0.18		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	778034388	P19971	rs778034388	R55K	0.067		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	778034388	P19971	rs778034388	R55K	0.62		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	778114165						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	778306525	P19971	rs778306525	A332V	0.021		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	778306525	P19971	rs778306525	A332V	0.27		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		778309978						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, pathogenic	778914092						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	779087780	P19971	rs779087780	L191P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	779087780	P19971	rs779087780	L191P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		779126140						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	779264989						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	780184960	P19971	rs780184960	P470S	0.209		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	780184960	P19971	rs780184960	P470S	0.18		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		780631916						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		780680897						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	780690561						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	780757016						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	780762083	P19971	rs780762083	V231A	0.998		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	780762083	P19971	rs780762083	V231A	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		781031701						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	781064742	P19971	rs781064742	V287M	0.805		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	781064742	P19971	rs781064742	V287M	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	781153870	P19971	rs781153870	H441Y	0.509		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	781153870	P19971	rs781153870	H441Y	0.15		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	781163498	P19971	rs781163498	G16A	0.801		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	781163498	P19971	rs781163498	G16A	0.05		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	781758419						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	786205559	P19971	rs786205559	G119R	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	786205559	P19971	rs786205559	G119R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	863224247	P19971	rs863224247	A272T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	863224247	P19971	rs863224247	A272T	0.24		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	863224248	P19971	rs863224248	E390D	0.203		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	863224248	P19971	rs863224248	E390D	0.43		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	863224249	P19971	rs863224249	A94V	0.592		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	863224249	P19971	rs863224249	A94V	0.04		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224250	P19971	rs863224250	G120S	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224250	P19971	rs863224250	G120S	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	863224251	P19971	rs863224251	E159V	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	863224251	P19971	rs863224251	E159V	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224252	P19971	rs863224252	P299T	0.993		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224252	P19971	rs863224252	P299T	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	863224253	P19971	rs863224253	G363R	0.888		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	863224253	P19971	rs863224253	G363R	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224254	P19971	rs863224254	G407R	0.999		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224254	P19971	rs863224254	G407R	0.02		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224255	P19971	rs863224255	P131S	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224255	P19971	rs863224255	P131S	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224255	P19971	rs863224255	P131T	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	863224255	P19971	rs863224255	P131T	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	863224256	P19971	rs863224256	P480R	0.015		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	863224256	P19971	rs863224256	P480R	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		865961520						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	866018044	P19971	rs866018044	G119E	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	866018044	P19971	rs866018044	G119E	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		867744008						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		868318052						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		868535773						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		879487512						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		888768135						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	891107196	P19971	rs891107196	T92N	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic, pathogenic	891107196	P19971	rs891107196	T92N	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	892141220	P19971	rs892141220	L313P	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely pathogenic	892141220	P19971	rs892141220	L313P	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		893852385						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	likely benign	894634068						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	896269132	P19971	rs896269132	R416C	0.981		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	896269132	P19971	rs896269132	R416C	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	897999639	P19971	rs897999639	D443E	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	897999639	P19971	rs897999639	D443E	0.95		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	898036117						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		898139664						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		899685871						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	915052922	P19971	rs915052922	V427L	0.005		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	915052922	P19971	rs915052922	V427L	0.45		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		919837250						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		922312337						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		923009362						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		926301665						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	929350708						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	932099850						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		933571687						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	934798949	P19971	rs934798949	V306I	0.27		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	934798949	P19971	rs934798949	V306I	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		935164929						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	935752285	P19971	rs935752285	I40M	0.931		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely benign	935752285	P19971	rs935752285	I40M	0.01		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		936314234						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	936432894	P19971	rs936432894	A331T	0.007		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	936432894	P19971	rs936432894	A331T	0.07		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		940407207						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	946234163	P19971	rs946234163	E289K	1.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance, likely pathogenic	946234163	P19971	rs946234163	E289K	0.0		P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		948237404						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		948948391						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		9628204						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		966342643						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		971962978						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		982057999						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant	uncertain significance	982874501						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		995494519						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		997046759						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971
+TYMP	missense_variant		997843753						P19971	Thymidine phosphorylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19971

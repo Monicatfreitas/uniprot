@@ -1,0 +1,413 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CD4	missense_variant		1056122506						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance, benign	11064416	P01730	rs11064416	F123L	0.354		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance, benign	11064416	P01730	rs11064416	F123L	0.01		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance, benign	11064416	P01730	rs11064416	F123L	0.426		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance, benign	11064416	P01730	rs11064416	F123L	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	benign	11064419						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		11064421						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		112126811						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1164548089						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1164622276						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1180024932						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1186818388						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1206040492						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1209335387						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1237234163						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1239818302	P01730	rs1239818302	A80V	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1239818302	P01730	rs1239818302	A80V	1.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1239818302	P01730	rs1239818302	A80V	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1239818302	P01730	rs1239818302	A80V	1.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1254431916						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1268589832						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1270728621						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1280265139						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	benign	12821756						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1283398860						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1287161689						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1287300767						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1290948170						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1303446975						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1309553368						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1319281339						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1319955963						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1320855271						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	1325448082	P01730	rs1325448082	T267A	0.007		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	1325448082	P01730	rs1325448082	T267A	0.79		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1328368781						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1334918117						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1335577758						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1343266344						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1359736886						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	1366978901	P01730	rs1366978901	C328R	0.999		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	1366978901	P01730	rs1366978901	C328R	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		138218083						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1382408020						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1382956170						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1384766526						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1385842167						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1395619777						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1398737130						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1398790322						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1401043905						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		140406047						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1407643795						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1410478222						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		141281945						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		141346555						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1418791491						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		142225058						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		142478992						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1431609684						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1433943690	P01730	rs1433943690	I458V	0.026		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1433943690	P01730	rs1433943690	I458V	0.13		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1433943690	P01730	rs1433943690	I458V	0.467		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1433943690	P01730	rs1433943690	I458V	0.02		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		143646863						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		144413418						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1454863650						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1458446683						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1459030507						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	145973129	P01730	rs145973129	T444A	0.995		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	145973129	P01730	rs145973129	T444A	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		146592493						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1468668357						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1471260797						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1489734252						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1489897058						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1490906788						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	likely benign	150742570	P01730	rs150742570	A226T	0.007		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	likely benign	150742570	P01730	rs150742570	A226T	1.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	likely benign	150742570	P01730	rs150742570	A226T	0.011		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	likely benign	150742570	P01730	rs150742570	A226T	1.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		151325091						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555114961						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555114972						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555114978	P01730	rs1555114978	L14M	0.997		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555114978	P01730	rs1555114978	L14M	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555114978	P01730	rs1555114978	L14M	0.991		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555114978	P01730	rs1555114978	L14M	0.01		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115033						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115041						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115042						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115050						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115053						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115061						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115071						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115073						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115076						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115080						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555115088						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117490						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117504						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117518						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117521						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117522						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117527						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117611						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117626						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117627						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117630						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117637						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117647						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117656						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117657						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117658	P01730	rs1555117658	D178Y	0.999		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117658	P01730	rs1555117658	D178Y	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117658	P01730	rs1555117658	D178Y	0.98		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117658	P01730	rs1555117658	D178Y	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117676						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117875						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117881						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117895	P01730	rs1555117895	E237K	0.999		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117895	P01730	rs1555117895	E237K	0.01		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117895	P01730	rs1555117895	E237K	0.998		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117895	P01730	rs1555117895	E237K	0.02		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117907						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117915						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117919						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117922						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117930						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117933						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117941						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117942						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555117945						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118061						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118074						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	1555118104	P01730	rs1555118104	L361P	0.799		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	1555118104	P01730	rs1555118104	L361P	0.38		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118105						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118111						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118116						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118121						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118124						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118125						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118129						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118469						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118483						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118487						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118490						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118557						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1555118560						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1565499684						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591546925						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591547179						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591547189						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591547198						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591563923						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591564913						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591565243						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591567482						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1591568330						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		191620221						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942496138						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942505904						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942506542						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942506692						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942507992						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942509499						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942510525						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1942510688						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943021607						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943022368						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943023137						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943023209						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943023269						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943023339						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943023901						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943024497						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943025319						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943041307						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943042062						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943043289						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943044492						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943044894						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943046055						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943046124						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943046954						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943047781						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943075693						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943076905						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943078441						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943078620						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943078783						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943079708						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943080772						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943082576						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943082767						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943082855						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943083137						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943083297						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943083388						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943084283						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943084444						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943084706						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943085461						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943101914						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943102630						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943102803						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943105146						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943107859						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943165178						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943168864						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943170300						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943171219						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943171552						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943174222						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943186558						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943187002						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943190036						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		1943207824						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199532890						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	benign	199617771	P01730	rs199617771	R431Q	0.997		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	benign	199617771	P01730	rs199617771	R431Q	0.08		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199744985	P01730	rs199744985	A17V	0.003		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199744985	P01730	rs199744985	A17V	0.32		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199744985	P01730	rs199744985	A17V	0.969		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199744985	P01730	rs199744985	A17V	0.23		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199773865						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199799041						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		199890832						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200062430						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200100485						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200131031						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200162977						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200190524						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200214333						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200216312						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200264344						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200399582						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200486856	P01730	rs200486856	E220K	0.618		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200486856	P01730	rs200486856	E220K	0.19		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200486856	P01730	rs200486856	E220K	0.687		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200486856	P01730	rs200486856	E220K	0.1		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200491526						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200573785						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200593606						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200937441						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		200994643						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201040272	P01730	rs201040272	R3W	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201040272	P01730	rs201040272	R3W	0.03		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201040272	P01730	rs201040272	R3W	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201040272	P01730	rs201040272	R3W	0.1		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201103713						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201146641						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201257539						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201280254						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201315085						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201323005						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201343243						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201423104						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201435903						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201498016						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201647213						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201743924						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201759150						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201789399						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	201791740	P01730	rs201791740	S352W	0.997		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	201791740	P01730	rs201791740	S352W	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201886519						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		201991979						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202028153						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202107578						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202129605						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202198690						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202208698						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202210216						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		202234884						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137912447						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137912632						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137914624						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137919035						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137922321						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137922941						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137929724						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137929892						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137931768						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137931895						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137931915						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		2137932040						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	2542272271						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	2542289591						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		267603647						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	benign	28917504						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance, benign	28919570						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	benign	28919579						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		34435605						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		368913676						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		369537966						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		371349550						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406S	0.435		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406S	0.43		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406S	0.301		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406S	0.52		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406T	0.06		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406T	0.42		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406T	0.058		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		373415505	P01730	rs373415505	A406T	0.48		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		374341894						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		376827574						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		539155830						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		552669070						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781786552						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781822450						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781834118						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781840792						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781853494						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781856080						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781864508						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781867321						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781909754						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781912242						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781925104						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781947456						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781975957						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781997465	P01730	rs781997465	R427C	0.895		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781997465	P01730	rs781997465	R427C	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781997465	P01730	rs781997465	R427C	0.893		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		781997465	P01730	rs781997465	R427C	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782025582						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782036951						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782038161						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782040985						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782055222						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782073553						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782100522						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782107070						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782129100						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782134811						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782135554	P01730	rs782135554	A357V	0.01		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782135554	P01730	rs782135554	A357V	0.61		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782135554	P01730	rs782135554	A357V	0.013		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782135554	P01730	rs782135554	A357V	0.62		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782148933						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782149774	P01730	rs782149774	R427H	0.022		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782149774	P01730	rs782149774	R427H	0.04		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782149774	P01730	rs782149774	R427H	0.022		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782149774	P01730	rs782149774	R427H	0.05		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782172490						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782202141						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	782208003	P01730	rs782208003	R450W	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	782208003	P01730	rs782208003	R450W	0.0		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782211194						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782235609						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782239864						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782245179						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782247515						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782252955						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782255390						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782256769						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782277816						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782286025						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782301134						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782301334						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782342961						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782353658						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782389403						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782400591						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782403764						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782424055						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782424835						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782435365						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782457345						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782460596						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782481105	P01730	rs782481105	R450Q	0.781		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782481105	P01730	rs782481105	R450Q	0.03		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782481105	P01730	rs782481105	R450Q	0.281		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782481105	P01730	rs782481105	R450Q	0.04		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782490832						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782497073						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782499460						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782503327						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782514713						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782550310						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782561165						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782575289						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782580927						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782612119						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782612459						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782633339						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782641398						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782644958						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782647911						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782712080						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782714692						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782716383						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782730611						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782735267						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782740827						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	782745228	P01730	rs782745228	G407S	0.627		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant	uncertain significance	782745228	P01730	rs782745228	G407S	0.21		P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782772676						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782775415						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782783240						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782791509						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		782798801						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		797039036						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		868939729						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		868988048						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		879951113						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		893226381						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		903424784						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		925753347						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730
+CD4	missense_variant		993168756						P01730	T-cell surface glycoprotein CD4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01730

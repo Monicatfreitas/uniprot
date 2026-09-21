@@ -1,0 +1,865 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+PPARGC1A	missense_variant		1003607952						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1010176480						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1013368919						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1017037521						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1021400171						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1026980808	Q9UBK2	rs1026980808	C320F	0.991		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1026980808	Q9UBK2	rs1026980808	C320F	0.15		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1026980808	Q9UBK2	rs1026980808	C320F	0.991		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1026980808	Q9UBK2	rs1026980808	C320F	0.11		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1031447027	Q9UBK2	rs1031447027	S606G	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1031447027	Q9UBK2	rs1031447027	S606G	0.3		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1031447027	Q9UBK2	rs1031447027	S606G	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1031447027	Q9UBK2	rs1031447027	S606G	0.18		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1037453335						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1052151388						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1052181347						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1054494416						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1054723956						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1156728281						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1157278042						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1157501764						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1158125728	Q9UBK2	rs1158125728	G293V	0.999		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1158125728	Q9UBK2	rs1158125728	G293V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1158125728	Q9UBK2	rs1158125728	G293V	0.999		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1158125728	Q9UBK2	rs1158125728	G293V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1159643881						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1162745368						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1165370891						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1165594032						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1166778125	Q9UBK2	rs1166778125	G163S	0.998		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1166778125	Q9UBK2	rs1166778125	G163S	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1166778125	Q9UBK2	rs1166778125	G163S	0.998		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1166778125	Q9UBK2	rs1166778125	G163S	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1171810975						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1172490144						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1172848037						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1176393141						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1179948708	Q9UBK2	rs1179948708	S266A	0.952		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1179948708	Q9UBK2	rs1179948708	S266A	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1179948708	Q9UBK2	rs1179948708	S266A	0.954		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1179948708	Q9UBK2	rs1179948708	S266A	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1181168595						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1184960760						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1190819568						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1192458960						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1194231522						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1197100336						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1199292409						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1200814440						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1209720079						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1210242609						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1212480486						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1212696196						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1214600106						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1214877720						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1216087511						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1216726021						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1218330714						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1219399790						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1224163596						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1226020548						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1226595207						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1227430789	Q9UBK2	rs1227430789	S318F	0.666		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1227430789	Q9UBK2	rs1227430789	S318F	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1230478638						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1230778751						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1231454076						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1234215603						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1235018712						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1238342526						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1238463561						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1238467551						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1243632497						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1243710195						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1248427531						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1250920277						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1259694270	Q9UBK2	rs1259694270	S66F	0.687		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1259694270	Q9UBK2	rs1259694270	S66F	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1259694270	Q9UBK2	rs1259694270	S66F	0.696		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1259694270	Q9UBK2	rs1259694270	S66F	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1260359767						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1263225835						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1264002788						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1266916196						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1267188759						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1269539071						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1271029444						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1272891795	Q9UBK2	rs1272891795	A792T	0.977		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1272891795	Q9UBK2	rs1272891795	A792T	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1272891795	Q9UBK2	rs1272891795	A792T	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1272891795	Q9UBK2	rs1272891795	A792T	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1274079335						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1277352101	Q9UBK2	rs1277352101	R630C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1277352101	Q9UBK2	rs1277352101	R630C	0.04		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1277352101	Q9UBK2	rs1277352101	R630C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1277352101	Q9UBK2	rs1277352101	R630C	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1278672010						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1280258407						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1280883830	Q9UBK2	rs1280883830	I64V	0.003		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1280883830	Q9UBK2	rs1280883830	I64V	0.09		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1285118867						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1285823066						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1288109429						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1288355966						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1290244533						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1297652485						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1304158580						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1304824586						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1305802161						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1308083387						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1309446969						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1309917539						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1310374821						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1310376241						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1312379626						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1312484686						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1315540191						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1321954347						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1322358620						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1325967969						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1330324505						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1331117896						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1332239268						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1337237971						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1338326192						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1340837383						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1343287573	Q9UBK2	rs1343287573	I396T	0.549		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1343287573	Q9UBK2	rs1343287573	I396T	0.15		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1343287573	Q9UBK2	rs1343287573	I396T	0.56		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1343287573	Q9UBK2	rs1343287573	I396T	0.71		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1344907560						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1351048482						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1355173343						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1357935783						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1358609848						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1359836516						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1360753469						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1360926401						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1363647218						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1366241425						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1366714822						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1367458406						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1367945377						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1370277694						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1372204450						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1373304180						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1373777335						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1376455139						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1377190624						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1379449432						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1380371641						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1381870292						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1382820228						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	138302049						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1383293452						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1383314837						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1388378310						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	139102065						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		139240743	Q9UBK2	rs139240743	R614Q	0.018		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		139240743	Q9UBK2	rs139240743	R614Q	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		139240743	Q9UBK2	rs139240743	R614Q	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		139240743	Q9UBK2	rs139240743	R614Q	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		139281425						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1396316290						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1396412775						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1396907801						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1397670007						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1397835649						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1398063426						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1399709084						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1401455175						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1403483347						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1404180791	Q9UBK2	rs1404180791	R576K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1404180791	Q9UBK2	rs1404180791	R576K	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1404591551						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1404820197						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1406929929						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1410355544						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1411902481	Q9UBK2	rs1411902481	I182T	0.055		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1411902481	Q9UBK2	rs1411902481	I182T	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1414798473						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1419054523	Q9UBK2	rs1419054523	D102V	0.996		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1419054523	Q9UBK2	rs1419054523	D102V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1419054523	Q9UBK2	rs1419054523	D102V	0.996		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1419054523	Q9UBK2	rs1419054523	D102V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		142128780						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1422031469						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1424090469						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1425311644						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1425986151						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		142669571						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1427019385						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1428406064						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	143103266	Q9UBK2	rs143103266	R651C	0.985		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	143103266	Q9UBK2	rs143103266	R651C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	143103266	Q9UBK2	rs143103266	R651C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	143103266	Q9UBK2	rs143103266	R651C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143142906	Q9UBK2	rs143142906	D476N	0.013		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143142906	Q9UBK2	rs143142906	D476N	0.12		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143142906	Q9UBK2	rs143142906	D476N	0.013		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143142906	Q9UBK2	rs143142906	D476N	0.1		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1432550495						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143326747						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1437966460						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143811147						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1438248533	Q9UBK2	rs1438248533	S584F	0.648		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1438248533	Q9UBK2	rs1438248533	S584F	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1438248533	Q9UBK2	rs1438248533	S584F	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1438248533	Q9UBK2	rs1438248533	S584F	0.07		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143962880	Q9UBK2	rs143962880	R676H	0.001		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143962880	Q9UBK2	rs143962880	R676H	0.17		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143962880	Q9UBK2	rs143962880	R676H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		143962880	Q9UBK2	rs143962880	R676H	0.05		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		144039823						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign, likely benign	144103777	Q9UBK2	rs144103777	R611H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign, likely benign	144103777	Q9UBK2	rs144103777	R611H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1442257661						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1442356424						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1442723065						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1443644914	Q9UBK2	rs1443644914	Y601C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1443644914	Q9UBK2	rs1443644914	Y601C	0.21		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1443644914	Q9UBK2	rs1443644914	Y601C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1443644914	Q9UBK2	rs1443644914	Y601C	0.19		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1446510631						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1447136479						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1449112921						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		144933609						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739H	0.995		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739L	0.993		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739L	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739L	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145169644	Q9UBK2	rs145169644	R739L	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1453354099						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1454294999						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1456125709						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		145793977						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1459174859						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1462336526						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		146256421	Q9UBK2	rs146256421	G348R	0.907		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		146256421	Q9UBK2	rs146256421	G348R	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		146256421	Q9UBK2	rs146256421	G348R	0.904		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		146256421	Q9UBK2	rs146256421	G348R	0.05		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1462773399	Q9UBK2	rs1462773399	R657Q	0.953		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1462773399	Q9UBK2	rs1462773399	R657Q	0.05		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1462773399	Q9UBK2	rs1462773399	R657Q	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1462773399	Q9UBK2	rs1462773399	R657Q	0.04		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1465270314						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1465793813						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1465893815						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1466119521						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1466813726	Q9UBK2	rs1466813726	T256A	0.068		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1466813726	Q9UBK2	rs1466813726	T256A	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1466813726	Q9UBK2	rs1466813726	T256A	0.071		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1466813726	Q9UBK2	rs1466813726	T256A	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		146774675						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1469800816						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		147273606						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1473636169						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1473705033						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1475567101						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1476911195						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1477018414						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1477641691						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1478805169						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1478973449						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1480375425						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	148090593	Q9UBK2	rs148090593	E461K	0.981		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	148090593	Q9UBK2	rs148090593	E461K	0.21		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	148090593	Q9UBK2	rs148090593	E461K	0.981		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	148090593	Q9UBK2	rs148090593	E461K	0.12		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		148144750						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1482660977						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1482800681						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1483453738						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1483731228						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		148669466						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1487634542						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1489074027						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		149018936						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1490526162						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		149856244	Q9UBK2	rs149856244	S626L	0.885		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		149856244	Q9UBK2	rs149856244	S626L	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		149856244	Q9UBK2	rs149856244	S626L	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		149856244	Q9UBK2	rs149856244	S626L	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	150837593						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560319925						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560321668						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560348927						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560350751						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560351543						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560353354						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560353534						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560353646						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560354267						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1560511762						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577313055						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577332768						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577364197						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1577368992						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577371618						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577372239						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577431581						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577654838						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1577672162						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716569508						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716570494						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716571009						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716573648						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716574711						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716580039						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716590834						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716596094						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716597875						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716600627						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716602667						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1716603226						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1717494322	Q9UBK2	rs1717494322	A792D	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1717494322	Q9UBK2	rs1717494322	A792D	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717496265						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717499936						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717500589						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717506387						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717570585						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717572915						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717573871						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717575448						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1717575962						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718778239						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718780908						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718783089						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718783705						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718798058						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718808929						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718818494						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718821779						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718891790						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718893848						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718895949						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718908154						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718914512						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1718926063						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721158843						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721173702						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721177757						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721183078						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721183594						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721225405						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721229137						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721230216						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	1721243172						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721248874						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721370362						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721372077						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721373280						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721375669						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721376262						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721387377						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721396945						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721402997						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721404776						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721413156						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721417501						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721420728						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721433250						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721440639						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721443056						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721446198						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721450716						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721465435						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721473697						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721479823						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721483526						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721485320						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721491901						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721495323						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721497092						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721500506						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721501110						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721504668						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721511355						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721524669						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721530553						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721536485						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721539149						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721540954						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721542438						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721549911						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721557451						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721560122						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721570318						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721581968						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1721583620						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723526265						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723536006						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723536432						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723542022						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723568804						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723569392						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1723574486						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724382318						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724387522						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724393738						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724394354						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724396356						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724403914						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724416014						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724611812						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724617005						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724627231						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724633641						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1724635362						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1725002240						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1725018880						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1725023043						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		1725023508						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		17847349						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		17847360						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	180756790						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		183750359						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	199669057	Q9UBK2	rs199669057	F534L	0.954		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	199669057	Q9UBK2	rs199669057	F534L	0.18		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199757693						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199772441	Q9UBK2	rs199772441	R375W	0.965		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199772441	Q9UBK2	rs199772441	R375W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199772441	Q9UBK2	rs199772441	R375W	0.964		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199772441	Q9UBK2	rs199772441	R375W	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199777273						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199902625	Q9UBK2	rs199902625	E353K	0.981		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199902625	Q9UBK2	rs199902625	E353K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199902625	Q9UBK2	rs199902625	E353K	0.981		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		199902625	Q9UBK2	rs199902625	E353K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200119427						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200187877	Q9UBK2	rs200187877	R797H	0.98		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200187877	Q9UBK2	rs200187877	R797H	0.48		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200187877	Q9UBK2	rs200187877	R797H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200187877	Q9UBK2	rs200187877	R797H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200320648						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	200661963	Q9UBK2	rs200661963	K496Q	0.56		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	200661963	Q9UBK2	rs200661963	K496Q	0.11		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		200841362						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	200872489						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		201337076						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		201353657						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		201750508						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	202052414						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		202208351						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109345456						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109349125						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109449697						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109453523						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109463461						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109467494						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109470033						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109471208						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109471537						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109471620						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109472949						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109657795						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109658264						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109659447						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109659942						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109698498						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109700712						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2109700984						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		2148852946						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	2475063382						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	2475100210						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	2475106402						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	2475112013						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	2475399316						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	2476512400						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		267600130						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		267600131						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	34129331	Q9UBK2	rs34129331	R797C	0.985		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	34129331	Q9UBK2	rs34129331	R797C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	34129331	Q9UBK2	rs34129331	R797C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	34129331	Q9UBK2	rs34129331	R797C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	34514918	Q9UBK2	rs34514918	L410I	0.143		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	34514918	Q9UBK2	rs34514918	L410I	0.05		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	35437002	Q9UBK2	rs35437002	L438S	0.003		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	35437002	Q9UBK2	rs35437002	L438S	0.9		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		367775864	Q9UBK2	rs367775864	P349L	0.998		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		367775864	Q9UBK2	rs367775864	P349L	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		367775864	Q9UBK2	rs367775864	P349L	0.998		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		367775864	Q9UBK2	rs367775864	P349L	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	367823455						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		367859633						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		368992605	Q9UBK2	rs368992605	D218N	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		368992605	Q9UBK2	rs368992605	D218N	0.16		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		368992605	Q9UBK2	rs368992605	D218N	0.019		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		368992605	Q9UBK2	rs368992605	D218N	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	369150524						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		369980273						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	370216387						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		370320097	Q9UBK2	rs370320097	R696C	0.996		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		370320097	Q9UBK2	rs370320097	R696C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		370320097	Q9UBK2	rs370320097	R696C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		370320097	Q9UBK2	rs370320097	R696C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		370864832						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		370930722						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		371616242						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372189559						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372413128	Q9UBK2	rs372413128	R630H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372413128	Q9UBK2	rs372413128	R630H	0.08		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372413128	Q9UBK2	rs372413128	R630H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372413128	Q9UBK2	rs372413128	R630H	0.05		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372833837						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372840138	Q9UBK2	rs372840138	N159D	0.551		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372840138	Q9UBK2	rs372840138	N159D	0.21		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372840138	Q9UBK2	rs372840138	N159D	0.561		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		372840138	Q9UBK2	rs372840138	N159D	0.03		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		373408567						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	3736265						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		373913638						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374066744						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374633703						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374643892	Q9UBK2	rs374643892	E515K	0.981		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374643892	Q9UBK2	rs374643892	E515K	0.1		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374643892	Q9UBK2	rs374643892	E515K	0.981		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374643892	Q9UBK2	rs374643892	E515K	0.04		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		374705115						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	375868793	Q9UBK2	rs375868793	R379W	0.993		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	375868793	Q9UBK2	rs375868793	R379W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		377141478						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		377698107						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		529175088						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		529427617						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	531818398						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		533871925						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		534107670						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		535736289						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		536015060						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		536712151						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		539338812	Q9UBK2	rs539338812	R677H	0.98		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		539338812	Q9UBK2	rs539338812	R677H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		539338812	Q9UBK2	rs539338812	R677H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		539338812	Q9UBK2	rs539338812	R677H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		542146598						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		545199285						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		547916756						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		550778741						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		557005829						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		558616174						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		563920512						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		566840748						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		567472727						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		572880991						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		573162716						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	58772979	Q9UBK2	rs58772979	R566C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	58772979	Q9UBK2	rs58772979	R566C	0.03		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	60876252						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		70937062						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		746013013						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		746101168						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		746625628						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		746663835						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		746943195						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		747137513						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		747283740						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		747527654						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		747541869						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		747927515						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		747933720						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748372751						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748420211						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748456686						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748801846						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748829429						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748836875	Q9UBK2	rs748836875	R753C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748836875	Q9UBK2	rs748836875	R753C	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748836875	Q9UBK2	rs748836875	R753C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		748836875	Q9UBK2	rs748836875	R753C	0.03		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749075383						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749421285	Q9UBK2	rs749421285	Y355N	0.994		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749421285	Q9UBK2	rs749421285	Y355N	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749421285	Q9UBK2	rs749421285	Y355N	0.994		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749421285	Q9UBK2	rs749421285	Y355N	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749512511						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749818867						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		749998606						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		750128657						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		750797347						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		750827236						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751008411						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751064415						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751252030						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751487886						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751603523						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751887759						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751891496						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	751898840						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		751972617						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		752387695						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		752763867						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		752837016						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		752942615						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		753056927						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	753108878	Q9UBK2	rs753108878	V708I	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	753108878	Q9UBK2	rs753108878	V708I	0.03		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		753319196	Q9UBK2	rs753319196	G467S	0.999		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		753319196	Q9UBK2	rs753319196	G467S	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		753319196	Q9UBK2	rs753319196	G467S	0.998		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		753319196	Q9UBK2	rs753319196	G467S	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		753331587						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	753923087	Q9UBK2	rs753923087	R711W	0.623		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	753923087	Q9UBK2	rs753923087	R711W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	753923087	Q9UBK2	rs753923087	R711W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	753923087	Q9UBK2	rs753923087	R711W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754009449	Q9UBK2	rs754009449	V117M	0.994		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754009449	Q9UBK2	rs754009449	V117M	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754009449	Q9UBK2	rs754009449	V117M	0.994		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754009449	Q9UBK2	rs754009449	V117M	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754095698						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754478980						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754602547	Q9UBK2	rs754602547	R676C	0.454		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754602547	Q9UBK2	rs754602547	R676C	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754602547	Q9UBK2	rs754602547	R676C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754602547	Q9UBK2	rs754602547	R676C	0.12		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		754806539						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	755085698	Q9UBK2	rs755085698	E353D	0.971		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	755085698	Q9UBK2	rs755085698	E353D	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		755175694						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		755303347						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		75539280						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		755403750						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		755753991						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	755831655						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		755845144						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		756099970						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		756450275						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		756870127						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757256372						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757290172						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757513403						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757532753						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757606579	Q9UBK2	rs757606579	I80V	0.083		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757606579	Q9UBK2	rs757606579	I80V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757606579	Q9UBK2	rs757606579	I80V	0.087		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		757606579	Q9UBK2	rs757606579	I80V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		758710585						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		758906776						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		758963611						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		759450234						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		759753596						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		759962059						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		760705000						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		760981911						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		761081409						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		761084263						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		761253295						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		761583243						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		761735360						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		761939578						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762229172						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762317005						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762396882						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	762406141	Q9UBK2	rs762406141	R375Q	0.06		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	762406141	Q9UBK2	rs762406141	R375Q	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	762406141	Q9UBK2	rs762406141	R375Q	0.058		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	762406141	Q9UBK2	rs762406141	R375Q	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762420400						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762510292						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762893416	Q9UBK2	rs762893416	R574Q	0.003		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762893416	Q9UBK2	rs762893416	R574Q	0.46		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762893416	Q9UBK2	rs762893416	R574Q	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		762893416	Q9UBK2	rs762893416	R574Q	0.53		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	762968862	Q9UBK2	rs762968862	R723H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	762968862	Q9UBK2	rs762968862	R723H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		763011793						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		763522794						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		763643344						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		763974077						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		764063930						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		764366629						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		764593773						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		764736848						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		764798753						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765106714						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	765457349						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765593598	Q9UBK2	rs765593598	L288I	0.341		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765593598	Q9UBK2	rs765593598	L288I	0.19		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765593598	Q9UBK2	rs765593598	L288I	0.351		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765593598	Q9UBK2	rs765593598	L288I	1.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765707814						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765713824	Q9UBK2	rs765713824	D519G	0.989		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765713824	Q9UBK2	rs765713824	D519G	0.23		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765713824	Q9UBK2	rs765713824	D519G	0.99		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		765713824	Q9UBK2	rs765713824	D519G	0.14		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		766081466						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		766182853						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		766369152						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		766670450						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		766671736						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		766754022						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767001848						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767224331						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767329564	Q9UBK2	rs767329564	G509D	0.441		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767329564	Q9UBK2	rs767329564	G509D	0.22		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767329564	Q9UBK2	rs767329564	G509D	0.451		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767329564	Q9UBK2	rs767329564	G509D	0.43		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767567742	Q9UBK2	rs767567742	E743K	0.522		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767567742	Q9UBK2	rs767567742	E743K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767567742	Q9UBK2	rs767567742	E743K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767567742	Q9UBK2	rs767567742	E743K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767582250						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767722215	Q9UBK2	rs767722215	R568H	0.197		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767722215	Q9UBK2	rs767722215	R568H	0.02		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767722215	Q9UBK2	rs767722215	R568H	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767722215	Q9UBK2	rs767722215	R568H	0.04		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		767975424						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		768258119						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		768324282						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		768910116						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		768987762						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	769083394	Q9UBK2	rs769083394	G115R	0.931		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	769083394	Q9UBK2	rs769083394	G115R	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		769151994						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		769230116						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		769318366						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		769322514						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		769377888						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		769696702						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		770112654						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		770407359						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		770538261						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		770932720						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		770935300						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771019556						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771111065						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771290152	Q9UBK2	rs771290152	A2V	0.98		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771290152	Q9UBK2	rs771290152	A2V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771290152	Q9UBK2	rs771290152	A2V	0.938		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771290152	Q9UBK2	rs771290152	A2V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771300889						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771687039						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		771961292						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772000021						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772131746						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	likely benign	772214265						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772223540						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772311532						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772726563	Q9UBK2	rs772726563	E638K	0.959		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772726563	Q9UBK2	rs772726563	E638K	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772726563	Q9UBK2	rs772726563	E638K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772726563	Q9UBK2	rs772726563	E638K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	772790630						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772893142						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		772899615						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	773095749	Q9UBK2	rs773095749	M5K	0.035		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	773095749	Q9UBK2	rs773095749	M5K	0.28		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773174815						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773200805	Q9UBK2	rs773200805	R631W	0.973		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773200805	Q9UBK2	rs773200805	R631W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773200805	Q9UBK2	rs773200805	R631W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773200805	Q9UBK2	rs773200805	R631W	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773207064						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773479374						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773552199						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773788017						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		773848879						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		774030387						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		774611237						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		774967599						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		775001167						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		775089083						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		775549441						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	775632822						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		775770458						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776120045	Q9UBK2	rs776120045	G682S	0.999		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776120045	Q9UBK2	rs776120045	G682S	0.29		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776120045	Q9UBK2	rs776120045	G682S	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776120045	Q9UBK2	rs776120045	G682S	0.01		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776211303						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776222383						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776361318						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		776674773						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777068621	Q9UBK2	rs777068621	A193V	0.089		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777068621	Q9UBK2	rs777068621	A193V	0.09		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777068621	Q9UBK2	rs777068621	A193V	0.087		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777068621	Q9UBK2	rs777068621	A193V	0.07		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777162328						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777169839						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777186610						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777438884						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777470354						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777635529						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		777982470						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		778098124						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		778274929						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	778595635	Q9UBK2	rs778595635	T279I	0.535		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	778595635	Q9UBK2	rs778595635	T279I	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		778691403						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		778868448						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779136805						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779138139						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779138413						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779239601						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779660669	Q9UBK2	rs779660669	A111V	0.986		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779660669	Q9UBK2	rs779660669	A111V	0.09		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779660669	Q9UBK2	rs779660669	A111V	0.986		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779660669	Q9UBK2	rs779660669	A111V	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		779748979						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		780100899						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		780198205						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		780862516						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	781243021						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781331386	Q9UBK2	rs781331386	E403Q	0.051		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781331386	Q9UBK2	rs781331386	E403Q	0.28		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781331386	Q9UBK2	rs781331386	E403Q	0.053		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781331386	Q9UBK2	rs781331386	E403Q	0.08		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	781365309	Q9UBK2	rs781365309	T449A	0.003		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	781365309	Q9UBK2	rs781365309	T449A	0.23		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781513430						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781586867						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781635737	Q9UBK2	rs781635737	R282C	0.759		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781635737	Q9UBK2	rs781635737	R282C	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781635737	Q9UBK2	rs781635737	R282C	0.755		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781635737	Q9UBK2	rs781635737	R282C	0.03		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		781748300						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	benign	8192678						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		866746181						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		867454398						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		868855375						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		879094844						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		889287589	Q9UBK2	rs889287589	R740K	0.973		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		889287589	Q9UBK2	rs889287589	R740K	0.83		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		889287589	Q9UBK2	rs889287589	R740K	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		889287589	Q9UBK2	rs889287589	R740K	0.12		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		893609131						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	likely benign	897201437						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		900269408						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		907517731						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	909364033						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		918992166						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		924038259						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		928494152						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		931781566						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		933778371						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	938921303						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		940315643						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		943409714						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		943455390						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		943508392						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		946230017						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	955117051	Q9UBK2	rs955117051	R459Q	0.978		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	955117051	Q9UBK2	rs955117051	R459Q	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	955117051	Q9UBK2	rs955117051	R459Q	0.978		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	955117051	Q9UBK2	rs955117051	R459Q	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		959384716						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		970647152						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		970993712						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		971433900						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		980218887						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	981976152	Q9UBK2	rs981976152	W3R	0.971		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant	uncertain significance	981976152	Q9UBK2	rs981976152	W3R	0.0		Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		983130841						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		987051808						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		994022617						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		994102258						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		995490719						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2
+PPARGC1A	missense_variant		996162188						Q9UBK2	Peroxisome proliferator-activated receptor gamma coactivator 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9UBK2

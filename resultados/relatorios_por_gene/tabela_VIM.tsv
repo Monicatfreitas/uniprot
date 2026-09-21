@@ -1,0 +1,476 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+VIM	missense_variant		1005304137						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1007423361						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1031859925						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1035750972						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1037734535	P08670	rs1037734535	E200Q	0.993		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1037734535	P08670	rs1037734535	E200Q	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1038093456	P08670	rs1038093456	L421P	0.08		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1038093456	P08670	rs1038093456	L421P	0.02		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1045526760						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1048526047						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1049424533						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1050023359						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1053391219						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1085307141						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		113576905						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		114322672						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545541						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545543						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545546						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545548						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545549						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545550						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545551						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545553	P08670	rs11545553	R50H	0.858		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		11545553	P08670	rs11545553	R50H	0.06		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1158260463						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	116370722	P08670	rs116370722	R345H	0.439		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	116370722	P08670	rs116370722	R345H	0.03		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		116800063						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1171701809						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1175193193						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1176198427						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1188442437						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1194887764						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1197860827						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1200409133						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1202092452						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1202137863						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1214438836	P08670	rs1214438836	V454I	0.13		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1214438836	P08670	rs1214438836	V454I	0.19		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1215537817						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1216233618						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1218008674						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	not provided, pathogenic	121917775						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1220895620						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1221861802						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1228337366						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1228442247						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1230052576						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1232637574						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1235698818	P08670	rs1235698818	R71W	0.929		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1235698818	P08670	rs1235698818	R71W	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1243129674						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1245254535						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1245849739	P08670	rs1245849739	L149F	0.063		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1245849739	P08670	rs1245849739	L149F	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1246101455						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1248288717						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1253533842						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1253712799						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1257540470						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1258626020						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1259476721						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1261710176						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1262487660						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1264296526						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1267669767						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1270633135						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1276819494						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1278642875						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1281806487						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1285046692						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1288770216						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1290316532						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1290632621						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1294995968						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1296829264						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1301514675						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1304135302	P08670	rs1304135302	R222C	1.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1304135302	P08670	rs1304135302	R222C	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1305482290						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1305547785						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1312761190						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1313812412						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1316382347						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1318337726						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1321743889						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1323790047						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1324531976						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1325594598						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1327165886						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1328451159						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1330720517						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1334832994						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1335964173						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1337671316						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1343201036						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1344328729	P08670	rs1344328729	T33M	0.015		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1344328729	P08670	rs1344328729	T33M	0.19		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1349809735						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1356703491						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1356941925						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1357615634						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1358309285						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1358822322	P08670	rs1358822322	L380I	0.999		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1358822322	P08670	rs1358822322	L380I	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1361960709						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1363228886						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1367516245						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1374235575						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely benign	138235394	P08670	rs138235394	A216T	0.87		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely benign	138235394	P08670	rs138235394	A216T	0.04		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1382854843						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1385094399						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1386842396						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		139037306						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1393644707						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	139818786	P08670	rs139818786	D360E	0.679		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	139818786	P08670	rs139818786	D360E	0.08		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1402661582						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1402686254						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1402903305						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1403341247						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1406182336						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1406458665						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		141319821						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1413835853						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1424831707						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1425939424						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1427593011						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1432057333						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1434157425						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1435968814						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	143636314						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1436554874						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1437046531						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		144238562						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1442649286						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1442903146						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1445166789						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1445952624						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1448514100						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely benign	145152785	P08670	rs145152785	Q250R	0.529		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely benign	145152785	P08670	rs145152785	Q250R	0.05		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1452327776						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1452623960						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1452626097	P08670	rs1452626097	R270H	0.687		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1452626097	P08670	rs1452626097	R270H	0.03		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1455890040						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1457202484						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		145760831						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1459289381						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1459555504						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1459941371						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1460602699						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1461281372						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	146586974						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1467601802						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1470562734						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		147133187						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1474263020						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1480960201						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1483298145						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1490612095	P08670	rs1490612095	S420F	0.735		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1490612095	P08670	rs1490612095	S420F	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely benign	149942621	P08670	rs149942621	D181A	0.983		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely benign	149942621	P08670	rs149942621	D181A	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		150878383	P08670	rs150878383	T266M	0.965		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		150878383	P08670	rs150878383	T266M	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1564372278						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1564374858	P08670	rs1564374858	E408K	0.899		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1564374858	P08670	rs1564374858	E408K	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1564374995						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1588731496						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1588732106						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1588735455						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1588735491						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely pathogenic	1588736025	P08670	rs1588736025	L387P	0.549		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	likely pathogenic	1588736025	P08670	rs1588736025	L387P	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1725985429						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846738793						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846739243						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846739569						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846739712						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846740484						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846740611						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1846740908	P08670	rs1846740908	Y30C	0.589		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1846740908	P08670	rs1846740908	Y30C	0.1		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846741218						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846741575						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846742850						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846744571						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846746781						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846747549						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846749913						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846749958						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846750403						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846750746						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1846752790	P08670	rs1846752790	E156D	0.047		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1846752790	P08670	rs1846752790	E156D	0.17		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846753969						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846755659						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846774011						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846774646						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846832573						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846832944						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846833082						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846833414						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846833850						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846834198						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846834256						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846834685						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846836697						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846837154						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846837247						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846837334						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846838234						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846838324						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846838371						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846838829						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846839280						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846839913						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846857641						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846858307						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846865347						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	1846865757						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846865871						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846866107						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846866642						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846866919						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846867547						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846867609						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846869078						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846869140						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846869327						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846869455						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846870001						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846870066						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846888892						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846889041						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		1846907214						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	184701100	P08670	rs184701100	V77M	0.045		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	184701100	P08670	rs184701100	V77M	0.39		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	199515026	P08670	rs199515026	V272I	0.083		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	199515026	P08670	rs199515026	V272I	1.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	200740172	P08670	rs200740172	F351V	0.696		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	200740172	P08670	rs200740172	F351V	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	200772352						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		201189169						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		201325757						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		201530534						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		201551781						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131679250						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131679674						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131682481						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131682546						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683098						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683110						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683119						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683483						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683527						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683589						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683597						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		2131683616						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493179110						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493179125						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493179384						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493188402						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493189192						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493192959						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493192991	P08670	rs2493192991	E407K	0.869		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493192991	P08670	rs2493192991	E407K	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	2493195020						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		267602430						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	35157876						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		369470034						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		369763215						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		371054027						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		371176373						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		371431143	P08670	rs371431143	R320Q	0.948		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		371431143	P08670	rs371431143	R320Q	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		372258946	P08670	rs372258946	D463N	0.058		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		372258946	P08670	rs372258946	D463N	0.05		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		372394023						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		373295180						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		373859810						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		376668602						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		376802470						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		377524590						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		527439944						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		529112487						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	532905834						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		534064028						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		546992824						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		550798765						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	552165238	P08670	rs552165238	R304Q	0.991		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	552165238	P08670	rs552165238	R304Q	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		565243670						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		569704234	P08670	rs569704234	T165S	0.565		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		569704234	P08670	rs569704234	T165S	0.17		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		578255169						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		745851443						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		746135750						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		746513281						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		746534016						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		746924511						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747053288						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747338188						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747619298						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	747701399	P08670	rs747701399	T458A	0.009		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	747701399	P08670	rs747701399	T458A	0.02		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747735685	P08670	rs747735685	F295S	0.938		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747735685	P08670	rs747735685	F295S	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747904058	P08670	rs747904058	E156K	0.809		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		747904058	P08670	rs747904058	E156K	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		748255267	P08670	rs748255267	E239K	0.423		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		748255267	P08670	rs748255267	E239K	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		748519640	P08670	rs748519640	A43T	0.186		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		748519640	P08670	rs748519640	A43T	0.3		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	749084801	P08670	rs749084801	R381C	0.945		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	749084801	P08670	rs749084801	R381C	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		749097460						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		749293841						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		749857760						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		749931833						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		750107979						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		750493891	P08670	rs750493891	D148N	0.18		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		750493891	P08670	rs750493891	D148N	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		750758121						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		750766626						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		750994048						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	751935909	P08670	rs751935909	R364C	0.945		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	751935909	P08670	rs751935909	R364C	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		752126893						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	752236825	P08670	rs752236825	R217C	1.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	752236825	P08670	rs752236825	R217C	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	752236825	P08670	rs752236825	R217S	0.998		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	752236825	P08670	rs752236825	R217S	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		752407631						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		753033876						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		753092108	P08670	rs753092108	D257N	0.947		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		753092108	P08670	rs753092108	D257N	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		753894774						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	754167157						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		754196814						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		754236131						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		754678758						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		754861364						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		755181628						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		755242950						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		755500924						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		756282194						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		756434736						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		756629184						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		756656437						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		756711607						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		757220075						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		757461918						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		757539736						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		758102529						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		758730926						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		758735029						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		760190137						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		760289106						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		760525619						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		760767925						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		760880333						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		761334638						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	benign	761834421	P08670	rs761834421	R378H	0.97		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	benign	761834421	P08670	rs761834421	R378H	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		762190767						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		762391438	P08670	rs762391438	R217H	0.665		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		762391438	P08670	rs762391438	R217H	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	762644216	P08670	rs762644216	V31L	0.001		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	762644216	P08670	rs762644216	V31L	0.51		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		763073277						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		763181437						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		763360647						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		763707422						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		764236805						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		764331554						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		765564921						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		765742006						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		765859276						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		765911800						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		766141377						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	766499205	P08670	rs766499205	V173A	0.982		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	766499205	P08670	rs766499205	V173A	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		766889315						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		767007282						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	767278443	P08670	rs767278443	V353I	0.013		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	767278443	P08670	rs767278443	V353I	0.44		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		767474660						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		767649276						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		768266467						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		768322635						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		768727457						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		769012996						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		769749512						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	769833820						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		770025384						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	771023210	P08670	rs771023210	G19S	0.364		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	771023210	P08670	rs771023210	G19S	0.18		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	771168882						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		771651752						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		771777895						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		772347590						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		772407997						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		772585290						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		772634201						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		772870142						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		773352810						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	773471865	P08670	rs773471865	G16S	0.192		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	773471865	P08670	rs773471865	G16S	0.03		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	773762488	P08670	rs773762488	H253R	0.038		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	773762488	P08670	rs773762488	H253R	0.12		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	773938980	P08670	rs773938980	S56Y	0.777		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	773938980	P08670	rs773938980	S56Y	0.13		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	774132663	P08670	rs774132663	F96L	0.59		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	774132663	P08670	rs774132663	F96L	0.01		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		774888281						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		775190116						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		775343323						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		775627643	P08670	rs775627643	R345C	0.522		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		775627643	P08670	rs775627643	R345C	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		775956508						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		776031097						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		776147609						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		776383614						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		776474793						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		777161019						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		777297315						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		777412987						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		777756098						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	778098458	P08670	rs778098458	R45H	0.963		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	778098458	P08670	rs778098458	R45H	0.43		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	778153530						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		778153870						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		778207118						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		778724394						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		778821394						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	779204525	P08670	rs779204525	S8L	0.483		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	779204525	P08670	rs779204525	S8L	0.24		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		779403092						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		779864520						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		779935723						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		780026360						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		780328725						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		780835078						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		781127817						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		781179445						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		781197884						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		781436766						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		781618375						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		865981174						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		866251474						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		866598895	P08670	rs866598895	A352V	0.388		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		866598895	P08670	rs866598895	A352V	0.0		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		866834871						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		867113544						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		897144372						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		902288870						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		910563895						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		924667179						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		928603903						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		943771920						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		955350530						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		957631225						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant	uncertain significance	972689698						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		972743635	P08670	rs972743635	G76R	0.229		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		972743635	P08670	rs972743635	G76R	0.2		P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		982699474						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		985623715						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		992484456						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670
+VIM	missense_variant		999034093						P08670	Vimentin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P08670

@@ -1,0 +1,933 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+GATA3	missense_variant	uncertain significance	1004765920	P23771	rs1004765920	T78N	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1004765920	P23771	rs1004765920	T78N	0.07		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1007107340						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1014542996	P23771	rs1014542996	L19F	0.321		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1014542996	P23771	rs1014542996	L19F	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	104894163						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	104894165	P23771	rs104894165	R352S	0.931		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	104894165	P23771	rs104894165	R352S	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1156455762						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	11567901	P23771	rs11567901	G242R	0.914		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	11567901	P23771	rs11567901	G242R	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1157299467	P23771	rs1157299467	S140F	0.091		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1157299467	P23771	rs1157299467	S140F	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1157299467	P23771	rs1157299467	S140F	0.094		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1157299467	P23771	rs1157299467	S140F	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1158297550	P23771	rs1158297550	V161I	0.041		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1158297550	P23771	rs1158297550	V161I	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1158297550	P23771	rs1158297550	V161I	0.041		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1158297550	P23771	rs1158297550	V161I	0.04		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1164091515						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1165667303						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1165791909						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1166016520						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1170316331						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1174595549	P23771	rs1174595549	P235T	0.122		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1174595549	P23771	rs1174595549	P235T	0.21		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1176758734						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1178153797						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1190094066						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1201315842						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1203879862						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1205670547						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1208305732						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1208325486						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1211413464						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1211433734						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1212357396						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1213336829						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1214590648	P23771	rs1214590648	V60I	0.969		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1214590648	P23771	rs1214590648	V60I	0.1		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1214590648	P23771	rs1214590648	V60I	0.969		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1214590648	P23771	rs1214590648	V60I	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1214741874						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1215707952	P23771	rs1215707952	P44L	0.081		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1215707952	P23771	rs1215707952	P44L	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1215707952	P23771	rs1215707952	P44L	0.079		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1215707952	P23771	rs1215707952	P44L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1218538798	P23771	rs1218538798	M368I	0.364		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1218538798	P23771	rs1218538798	M368I	0.07		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1218538798	P23771	rs1218538798	M368I	0.374		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1218538798	P23771	rs1218538798	M368I	0.06		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1218595084						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1220437638						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1224911990						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1225263875	P23771	rs1225263875	I122T	0.026		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1225263875	P23771	rs1225263875	I122T	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1225263875	P23771	rs1225263875	I122T	0.027		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1225263875	P23771	rs1225263875	I122T	0.04		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1233918502	P23771	rs1233918502	P42L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1233918502	P23771	rs1233918502	P42L	0.82		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1233918502	P23771	rs1233918502	P42L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1233918502	P23771	rs1233918502	P42L	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1238949082						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1239729031						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1240522310						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1241118830						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1241255776	P23771	rs1241255776	P87R	0.892		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1241255776	P23771	rs1241255776	P87R	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1243666854						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1243758742						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1245137314	P23771	rs1245137314	R86H	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1245137314	P23771	rs1245137314	R86H	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1246283627						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1246300307						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1248424171	P23771	rs1248424171	H399R	0.968		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1248424171	P23771	rs1248424171	H399R	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1250698786						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1255808321						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1256191790						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1256720148						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1260955718						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1261112271						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1263694353						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1264534479						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1266983268	P23771	rs1266983268	S142L	0.041		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1266983268	P23771	rs1266983268	S142L	0.16		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1266983268	P23771	rs1266983268	S142L	0.041		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1266983268	P23771	rs1266983268	S142L	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1268005860	P23771	rs1268005860	Q56H	0.956		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1268005860	P23771	rs1268005860	Q56H	0.07		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1268005860	P23771	rs1268005860	Q56H	0.958		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1268005860	P23771	rs1268005860	Q56H	0.05		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1268951338	P23771	rs1268951338	G128E	0.36		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1268951338	P23771	rs1268951338	G128E	0.07		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1268951338	P23771	rs1268951338	G128E	0.37		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1268951338	P23771	rs1268951338	G128E	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1270334340						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1271005545						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1274932119	P23771	rs1274932119	T4A	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1274932119	P23771	rs1274932119	T4A	0.83		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1280034142						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1281016276	P23771	rs1281016276	T221I	0.081		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1281016276	P23771	rs1281016276	T221I	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1284030680						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1286220415	P23771	rs1286220415	P155L	0.998		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1286220415	P23771	rs1286220415	P155L	0.05		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1288299172						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1289615885						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1290396136						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1291367682	P23771	rs1291367682	T152P	0.223		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1291367682	P23771	rs1291367682	T152P	0.12		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1295021825						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1295805769						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1309543230						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1310091920						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1311260045						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1315804209	P23771	rs1315804209	P76L	0.502		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1315804209	P23771	rs1315804209	P76L	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1315804209	P23771	rs1315804209	P76L	0.511		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1315804209	P23771	rs1315804209	P76L	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1320456373						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1320708723						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1320847061						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1321349240						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1325423656						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1330938980	P23771	rs1330938980	V226M	0.225		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1330938980	P23771	rs1330938980	V226M	0.42		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1330938980	P23771	rs1330938980	V226M	0.221		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1330938980	P23771	rs1330938980	V226M	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1336321653						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1342844809	P23771	rs1342844809	P425S	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1342844809	P23771	rs1342844809	P425S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1343882720	P23771	rs1343882720	P77L	0.015		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1343882720	P23771	rs1343882720	P77L	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1343882720	P23771	rs1343882720	P77L	0.015		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1343882720	P23771	rs1343882720	P77L	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1346074695						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1346145007						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1348071008						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1351973672						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1353001377						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1355554271						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1358571710						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1358626878	P23771	rs1358626878	P165S	0.041		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1358626878	P23771	rs1358626878	P165S	0.05		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1369203762						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1370931264						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1371434836						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1378812716						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1382980448						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	benign, likely benign	138679257						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1394845274						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1398302384						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1399335578						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1400015722	P23771	rs1400015722	P223L	0.466		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1400015722	P23771	rs1400015722	P223L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1400015722	P23771	rs1400015722	P223L	0.461		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1400015722	P23771	rs1400015722	P223L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1402461269						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1406078511						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1406172971						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1409408969						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	140982061	P23771	rs140982061	P244A	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	140982061	P23771	rs140982061	P244A	0.59		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		141062682						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1415426826	P23771	rs1415426826	V18M	0.045		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1415426826	P23771	rs1415426826	V18M	0.13		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1415426826	P23771	rs1415426826	V18M	0.044		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1415426826	P23771	rs1415426826	V18M	0.06		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1417504256						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1421120224						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1425866094						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, benign, likely benign	143627754	P23771	rs143627754	D160E	0.039		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, benign, likely benign	143627754	P23771	rs143627754	D160E	0.29		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1436692613	P23771	rs1436692613	Y41C	0.785		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1436692613	P23771	rs1436692613	Y41C	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1436692613	P23771	rs1436692613	Y41C	0.792		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1436692613	P23771	rs1436692613	Y41C	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1438446687						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1440490623	P23771	rs1440490623	P116S	0.186		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1440490623	P23771	rs1440490623	P116S	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1440490623	P23771	rs1440490623	P116S	0.192		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1440490623	P23771	rs1440490623	P116S	0.11		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	144221016						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1445620863						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1449791726						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1451961949						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1454485586						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1454917827						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	145577748	P23771	rs145577748	A176V	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	145577748	P23771	rs145577748	A176V	0.23		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1459337304						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1460926411	P23771	rs1460926411	G81E	0.08		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1460926411	P23771	rs1460926411	G81E	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1460926411	P23771	rs1460926411	G81E	0.083		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1460926411	P23771	rs1460926411	G81E	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1465086730	P23771	rs1465086730	S199F	0.029		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1465086730	P23771	rs1465086730	S199F	0.11		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1465086730	P23771	rs1465086730	S199F	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1465086730	P23771	rs1465086730	S199F	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1469106968						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1471356975						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1474106412						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	1477514775	P23771	rs1477514775	S213L	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	1477514775	P23771	rs1477514775	S213L	0.1		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	1477514775	P23771	rs1477514775	S213L	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	1477514775	P23771	rs1477514775	S213L	0.07		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1479744809	P23771	rs1479744809	V188L	0.226		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1479744809	P23771	rs1479744809	V188L	0.17		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1485416728						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1485724723	P23771	rs1485724723	P24L	0.239		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1485724723	P23771	rs1485724723	P24L	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1486763472						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1486813889						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1487950277						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	148835259	P23771	rs148835259	P236A	0.355		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	148835259	P23771	rs148835259	P236A	0.04		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	148835259	P23771	rs148835259	P236S	0.066		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	148835259	P23771	rs148835259	P236S	0.11		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	148835259	P23771	rs148835259	P236T	0.559		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	148835259	P23771	rs148835259	P236T	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		150906764						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564397170						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564398686						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564399191						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1564399262	P23771	rs1564399262	S231P	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1564399262	P23771	rs1564399262	S231P	0.35		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564399276						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564399442						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564401454						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564401466						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1564403605						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	1564405163	P23771	rs1564405163	R352K	0.264		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	1564405163	P23771	rs1564405163	R352K	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	1564405163	P23771	rs1564405163	R352T	0.949		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	1564405163	P23771	rs1564405163	R352T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1564405248						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1588374874	P23771	rs1588374874	G30D	0.005		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1588374874	P23771	rs1588374874	G30D	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1588377690						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588377849						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588378042						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1588378117	P23771	rs1588378117	P158L	0.662		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1588378117	P23771	rs1588378117	P158L	0.05		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588378181						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588378304						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	1588383622	P23771	rs1588383622	D277N	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	1588383622	P23771	rs1588383622	D277N	0.04		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588391509						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588391725						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1588391742						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1778076						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832621545						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832622309						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832622632						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832624332						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832624390						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832624846						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832624968						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832625170						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832625479						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832626084						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832678595						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832679983	P23771	rs1832679983	L103V	0.024		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832679983	P23771	rs1832679983	L103V	0.14		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832680037						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832680285						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832680406						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832680642						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832681526						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832682663						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832684605						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832688739						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832688977						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832690858						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832692350						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832693976						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832694240						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832694924						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832694983						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832695043						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832697619						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832699488						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	1832792205						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832793116						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832793858						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832793944						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	1832898282	P23771	rs1832898282	C320S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	1832898282	P23771	rs1832898282	C320S	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832898383						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832898951						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832969643						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832970532						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832970635						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832970742						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832972770						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832973652						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832974698						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		1832974943						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832975214	P23771	rs1832975214	P435A	0.197		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	1832975214	P23771	rs1832975214	P435A	0.19		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		199565632						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		200043087						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		200765508						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	benign, likely benign	200935603	P23771	rs200935603	A395T	0.985		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	benign, likely benign	200935603	P23771	rs200935603	A395T	0.13		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		201023943	P23771	rs201023943	P163L	0.963		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		201023943	P23771	rs201023943	P163L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		201023943	P23771	rs201023943	P163L	0.962		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		201023943	P23771	rs201023943	P163L	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	201681929						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	201730759	P23771	rs201730759	A176T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	201730759	P23771	rs201730759	A176T	0.51		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	201730759	P23771	rs201730759	A176T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	201730759	P23771	rs201730759	A176T	0.7		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	202045701	P23771	rs202045701	H28N	0.765		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	202045701	P23771	rs202045701	H28N	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482096						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482118						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482130						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131482197	P23771	rs2131482197	W10G	0.283		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131482197	P23771	rs2131482197	W10G	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482217						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482257						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482313						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482396						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482429						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482470						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482524						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482538						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482668						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482717						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482740						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482931						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482949						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131482968	P23771	rs2131482968	G57S	0.046		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131482968	P23771	rs2131482968	G57S	0.12		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131482990						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131483064						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131483084						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131483131						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131483172	P23771	rs2131483172	Q73H	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131483172	P23771	rs2131483172	Q73H	0.45		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131483183						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131483190						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131483237						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488099						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488133						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488176						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131488207	P23771	rs2131488207	H91Q	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131488207	P23771	rs2131488207	H91Q	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	2131488236						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488261						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488305						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488310						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488342						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488361						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488398						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488412						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488443						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488574						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488590						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488615						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488663						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488681						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488730						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488778						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488781						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488832						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488860						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488879						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488893						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488931						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131488964						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489013						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489069						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489093						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489136						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489247						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489257						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489309						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489356						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131489460	P23771	rs2131489460	P157L	0.84		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131489460	P23771	rs2131489460	P157L	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489487						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489530						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489560						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489596						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489642						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489648						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489686						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489766						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489776						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489796						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489837						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131489865						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490008						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490018						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490075						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490159						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490226						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490262						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490285						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490299						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490313						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490371						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490432						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490450						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490464						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490475						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490567						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490609						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490663						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490676						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490717						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490782						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490798						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490805						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490824						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490842						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490902						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131490911						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490919						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490940						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131490966						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491051						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491054						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491067						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491104						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491273						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491284						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491318						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491329						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491379						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131491393						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500280						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500288						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500294						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500298						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500314						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500327						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500335						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500364	P23771	rs2131500364	C263Y	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500364	P23771	rs2131500364	C263Y	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500383						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500390						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500404						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500406						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500420						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500432						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500438						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500446						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500460						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500479						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500486						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500500						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500514						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	2131500523	P23771	rs2131500523	T271I	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	2131500523	P23771	rs2131500523	T271I	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500532						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131500548						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131500581	P23771	rs2131500581	R275W	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131500581	P23771	rs2131500581	R275W	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500603						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500617						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500625						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500636						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500644	P23771	rs2131500644	T279A	0.787		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500644	P23771	rs2131500644	T279A	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500668						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500680						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500694						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500699						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500702						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500711						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500720						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500745						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500762						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500772						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500785						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500797						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500818						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500830						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131500836	P23771	rs2131500836	C287S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131500836	P23771	rs2131500836	C287S	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500873						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500890						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500913						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500921						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500940						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131500944						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500956						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500967						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500992						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131500996						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501006						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501042						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501069						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501076						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501083						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501095						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131501111	P23771	rs2131501111	R298W	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131501111	P23771	rs2131501111	R298W	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	2131501118	P23771	rs2131501118	R298L	0.999		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	2131501118	P23771	rs2131501118	R298L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501146						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501181						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501198						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501228						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131501233	P23771	rs2131501233	P303T	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131501233	P23771	rs2131501233	P303T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501242						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501255						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501288						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501297						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131501322						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511493						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511499						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511553						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511562						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511578						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131511597						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511615						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511622						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511631						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511663						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511692						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511703						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511726						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511737						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511754						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511779						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131511782	P23771	rs2131511782	N319S	0.999		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131511782	P23771	rs2131511782	N319S	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511825						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511845						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511888						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511905						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511923						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511940						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511950						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131511993						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512011						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512016						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512023						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512033						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512059						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512077						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512093						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512112						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512126						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512132						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512145						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512152	P23771	rs2131512152	V337A	0.999		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512152	P23771	rs2131512152	V337A	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512169						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512175						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512180						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512194						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512201						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512207						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512214						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512219						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512230	P23771	rs2131512230	C341G	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512230	P23771	rs2131512230	C341G	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512252						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512260						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512288						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512305						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely pathogenic	2131512321						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512338						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512348						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512371						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512380						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512386						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512394	P23771	rs2131512394	L347P	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131512394	P23771	rs2131512394	L347P	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512399						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512410						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512421						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512429						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512434						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131512441						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131519870						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131519900						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	2131519963						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131519979						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520001						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520034						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520068						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520078						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520104						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520112						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520134						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520165						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520204						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520227						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520277						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520294						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520334						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520346						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520374						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520381						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520403						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520451						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520462						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520491						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520505						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520532						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520540						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131520558	P23771	rs2131520558	S370R	0.308		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131520558	P23771	rs2131520558	S370R	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520579						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520588						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520600						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520643						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520656						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520686						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520699						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520714						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520725						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520774						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520804						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	2131520820						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520898						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520917						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520937						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131520955						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521071						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521087						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521113						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521140						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521155						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521167						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521183						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521231						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521240						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521251						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521298						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521324						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521339						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521372						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521383						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521408						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521420						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521445						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521539						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521568						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521576						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521595						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521625						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521636						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131521702	P23771	rs2131521702	M400I	0.844		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131521702	P23771	rs2131521702	M400I	0.04		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521717						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521743						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521807						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521826						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521847						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521856						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521911						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521925						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521939						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521969						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131521988						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522017						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522035						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522052						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522065						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522086						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522098						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522116						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522136						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522168						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522202						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522215						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522271						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522296						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522338						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522389						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522455						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522470						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522482						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522498						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522575						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522604						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522645						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522663						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522733						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2131522760						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522775						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522803						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522811						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522861						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522884						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522896						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522907						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522913						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522940						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131522994						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523022						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523029						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523042						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523062						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523075						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523089						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523111						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523126						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523153						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523180						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523188						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		2131523201						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2491463821						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	2491465432						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	2491485235						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	34363744	P23771	rs34363744	S175L	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	34363744	P23771	rs34363744	S175L	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		35011589						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	370055470	P23771	rs370055470	G248R	0.243		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	370055470	P23771	rs370055470	G248R	0.05		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	371853270	P23771	rs371853270	Y63C	0.891		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	371853270	P23771	rs371853270	Y63C	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	371992168	P23771	rs371992168	C85Y	0.129		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	371992168	P23771	rs371992168	C85Y	0.13		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	372630189						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		373234853						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	373442518						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	374919553	P23771	rs374919553	T420M	0.994		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	374919553	P23771	rs374919553	T420M	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	374919553	P23771	rs374919553	T420M	0.994		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely pathogenic	374919553	P23771	rs374919553	T420M	0.06		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	374947324						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		377637087						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	387906621	P23771	rs387906621	C341Y	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	pathogenic	387906621	P23771	rs387906621	C341Y	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	528856735	P23771	rs528856735	R177Q	0.003		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	528856735	P23771	rs528856735	R177Q	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	535492085	P23771	rs535492085	G125S	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	535492085	P23771	rs535492085	G125S	0.57		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	536685812						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		545553575						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	not provided, benign, likely benign	548018172	P23771	rs548018172	G246A	0.009		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	not provided, benign, likely benign	548018172	P23771	rs548018172	G246A	0.13		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		553192156						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	568425942	P23771	rs568425942	H217D	0.537		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	568425942	P23771	rs568425942	H217D	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		568688815						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	575374217						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, not provided	587778379	P23771	rs587778379	L150I	0.039		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, not provided	587778379	P23771	rs587778379	L150I	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		745424381						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		745698190						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		745848216						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		746999070						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	747477962	P23771	rs747477962	A38P	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	747477962	P23771	rs747477962	A38P	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	747477962	P23771	rs747477962	A38T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	747477962	P23771	rs747477962	A38T	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	747477962	P23771	rs747477962	A38T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	747477962	P23771	rs747477962	A38T	0.07		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		747663891						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	747870862	P23771	rs747870862	L190P	0.94		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	747870862	P23771	rs747870862	L190P	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		748957422						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		749205855						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		749708566	P23771	rs749708566	S243F	0.804		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		749708566	P23771	rs749708566	S243F	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		749708566	P23771	rs749708566	S243F	0.81		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		749708566	P23771	rs749708566	S243F	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		750100871						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	750735308	P23771	rs750735308	T120M	0.37		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	750735308	P23771	rs750735308	T120M	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		750944094						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		751128534						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	751362056	P23771	rs751362056	S413G	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	751362056	P23771	rs751362056	S413G	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		751464240						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		751641141						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		751874713						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		752589783						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752779081	P23771	rs752779081	A146T	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752779081	P23771	rs752779081	A146T	0.11		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752779081	P23771	rs752779081	A146T	0.001		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752779081	P23771	rs752779081	A146T	0.12		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752977342	P23771	rs752977342	S407L	0.054		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752977342	P23771	rs752977342	S407L	0.32		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752977342	P23771	rs752977342	S407L	0.053		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	752977342	P23771	rs752977342	S407L	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		753226620						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	754386700	P23771	rs754386700	G144D	0.16		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	754386700	P23771	rs754386700	G144D	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		755749115						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		755756354						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		755917839						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		756019676						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	756230531						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		756446087						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		757047213						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	757149716	P23771	rs757149716	H15Q	0.882		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	757149716	P23771	rs757149716	H15Q	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		757598199						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	757676140						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	758290866	P23771	rs758290866	R256W	0.838		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	758290866	P23771	rs758290866	R256W	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, likely benign	758750439						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		759044265						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		759396617						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		759593548						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		759839816						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	760057641						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		760302562						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	761676499	P23771	rs761676499	A70D	0.149		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	761676499	P23771	rs761676499	A70D	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	761929509	P23771	rs761929509	R202C	0.844		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	761929509	P23771	rs761929509	R202C	0.19		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	761929509	P23771	rs761929509	R202C	0.841		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	761929509	P23771	rs761929509	R202C	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		762524699						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		762722802						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	762872147						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	763176056	P23771	rs763176056	G55S	0.009		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	763176056	P23771	rs763176056	G55S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		763545775						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	764299422						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		764474372						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		764989707						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		765797932						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		766636397						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	766641914	P23771	rs766641914	G246S	0.005		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	766641914	P23771	rs766641914	G246S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	766641914	P23771	rs766641914	G246S	0.005		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	766641914	P23771	rs766641914	G246S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	767074039	P23771	rs767074039	C263R	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	767074039	P23771	rs767074039	C263R	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	767074039	P23771	rs767074039	C263S	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance, pathogenic	767074039	P23771	rs767074039	C263S	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		767164043						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	767671768	P23771	rs767671768	R202H	0.8		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	767671768	P23771	rs767671768	R202H	0.55		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	767671768	P23771	rs767671768	R202H	0.797		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	767671768	P23771	rs767671768	R202H	0.17		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	768583935	P23771	rs768583935	G99S	0.009		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	768583935	P23771	rs768583935	G99S	0.42		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	769298101	P23771	rs769298101	T418M	0.994		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	769298101	P23771	rs769298101	T418M	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		770279603						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		770295963						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		770601456	P23771	rs770601456	P135L	0.028		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		770601456	P23771	rs770601456	P135L	0.02		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		770601456	P23771	rs770601456	P135L	0.027		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		770601456	P23771	rs770601456	P135L	0.06		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	771315353	P23771	rs771315353	P421L	0.997		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	771315353	P23771	rs771315353	P421L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	771315353	P23771	rs771315353	P421L	0.996		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	771315353	P23771	rs771315353	P421L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		772010450	P23771	rs772010450	A102T	0.086		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		772010450	P23771	rs772010450	A102T	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		772010450	P23771	rs772010450	A102T	0.09		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		772010450	P23771	rs772010450	A102T	0.13		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		773078501						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	773396531	P23771	rs773396531	A394V	0.991		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	773396531	P23771	rs773396531	A394V	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	774154154	P23771	rs774154154	R69G	0.04		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	774154154	P23771	rs774154154	R69G	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774440409	P23771	rs774440409	P299T	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774440409	P23771	rs774440409	P299T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774440409	P23771	rs774440409	P299T	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774440409	P23771	rs774440409	P299T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774820359						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774889150	P23771	rs774889150	E228K	0.115		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774889150	P23771	rs774889150	E228K	0.03		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774889150	P23771	rs774889150	E228K	0.113		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		774889150	P23771	rs774889150	E228K	0.08		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	774975933						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	775745771	P23771	rs775745771	L50F	0.005		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	775745771	P23771	rs775745771	L50F	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		775955748						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		776412274	P23771	rs776412274	A109T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		776412274	P23771	rs776412274	A109T	0.48		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		776412274	P23771	rs776412274	A109T	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		776412274	P23771	rs776412274	A109T	0.67		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	777280069						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		777356873						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	777368917	P23771	rs777368917	V378M	0.223		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	777368917	P23771	rs777368917	V378M	0.27		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		777646968						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		777735536						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		778144734						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		778161799	P23771	rs778161799	D192N	0.115		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		778161799	P23771	rs778161799	D192N	0.15		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		778161799	P23771	rs778161799	D192N	0.113		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		778161799	P23771	rs778161799	D192N	0.06		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		778182252						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	778421571	P23771	rs778421571	A211T	0.024		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	778421571	P23771	rs778421571	A211T	0.31		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	778992882	P23771	rs778992882	M205L	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	778992882	P23771	rs778992882	M205L	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	780648121						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		780782586						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		781061054						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	781182546	P23771	rs781182546	N285K	1.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	781182546	P23771	rs781182546	N285K	0.01		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		78752986						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		867903546						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	likely benign	868292114						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		868729415						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		890683177						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		904307886						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		913774132						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		927749900						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		932686919						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		939494825						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		943594420						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		945635907						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		949032380						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		957809458						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		959563634						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		962536861						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		964378376						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		966936841						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	976703495						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		978374011						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		978975213						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	985445864	P23771	rs985445864	V18G	0.513		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	985445864	P23771	rs985445864	V18G	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	987472805	P23771	rs987472805	D179E	0.0		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	987472805	P23771	rs987472805	D179E	0.76		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		987519196						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	991194737	P23771	rs991194737	V132L	0.027		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant	uncertain significance	991194737	P23771	rs991194737	V132L	0.1		P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		992348054						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771
+GATA3	missense_variant		994898063						P23771	Trans-acting T-cell-specific transcription factor GATA-3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23771

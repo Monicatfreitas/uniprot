@@ -1,0 +1,686 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+IL23R	missense_variant		1011510628						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1016412497						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1019572891						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1023709758						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1035929222						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1036802029	Q5VWK5	rs1036802029	N180S	0.042		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1036802029	Q5VWK5	rs1036802029	N180S	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1047010535						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1053176114						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		111257711						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign, protective	11209026						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	112114661	Q5VWK5	rs112114661	A531T	0.028		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	112114661	Q5VWK5	rs112114661	A531T	0.51		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	113281071	Q5VWK5	rs113281071	L428P	0.41		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	113281071	Q5VWK5	rs113281071	L428P	0.05		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	113943721	Q5VWK5	rs113943721	I563M	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	113943721	Q5VWK5	rs113943721	I563M	0.27		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		11465781						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		11465797						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1156783916	Q5VWK5	rs1156783916	I34L	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1156783916	Q5VWK5	rs1156783916	I34L	0.35		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1159199594						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1159490612						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1160630933						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1162079771						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1162583283						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1162714374						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1164242345						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1168522773						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1169791532						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1170355212						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1171424420	Q5VWK5	rs1171424420	W88L	0.08		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1171424420	Q5VWK5	rs1171424420	W88L	0.2		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1171424420	Q5VWK5	rs1171424420	W88L	0.083		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1171424420	Q5VWK5	rs1171424420	W88L	0.18		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1174013187						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1182846342	Q5VWK5	rs1182846342	T145I	0.947		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1182846342	Q5VWK5	rs1182846342	T145I	0.02		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1183806546						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1186531124						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1188184768						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1190102539						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1192109596						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1197056098						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1201280319						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1202465423						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1203890607						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	1208319440						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1208361755						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1210149461						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1215777747						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1219574555						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1222525055						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1231878015						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1232743079						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1233208238						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1234540068						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1237460156						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1237612829						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1238451416						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1239064654						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1241516896						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1244428651	Q5VWK5	rs1244428651	Q279E	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1244428651	Q5VWK5	rs1244428651	Q279E	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1244790854						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1246947739	Q5VWK5	rs1246947739	I434T	0.794		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1246947739	Q5VWK5	rs1246947739	I434T	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1247971721						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1248727454						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1250252334						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1250378988						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1250866602	Q5VWK5	rs1250866602	E604D	0.039		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1250866602	Q5VWK5	rs1250866602	E604D	0.4		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1252714660						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1256418489						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1256833458						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1260672434						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1264652668						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1267029527						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1268199686						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1272182280						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1272788889						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1274317659						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1274475754	Q5VWK5	rs1274475754	T448A	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1274475754	Q5VWK5	rs1274475754	T448A	0.23		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1275143809						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1275173072						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1281925695						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1282657856	Q5VWK5	rs1282657856	L165F	0.992		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1282657856	Q5VWK5	rs1282657856	L165F	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1283342977						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1283551780						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1290015647	Q5VWK5	rs1290015647	E459Q	0.74		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1290015647	Q5VWK5	rs1290015647	E459Q	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1290144534						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1292287814						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1294334604						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1295595033						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1295997830						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1296086963						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1298200002						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1298953490						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1301889923						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1302959794						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1305260371						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1307957404						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1308075262						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1308394223						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1308466742						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1309165373						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1312712224						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1320708145						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1320853001						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1326898192	Q5VWK5	rs1326898192	I248S	0.023		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1326898192	Q5VWK5	rs1326898192	I248S	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1334757949						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1336720183	Q5VWK5	rs1336720183	S499N	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1336720183	Q5VWK5	rs1336720183	S499N	0.2		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1338228352						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1344309440						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1345386569						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1348768484						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1349400977						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1349677894						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1350588209	Q5VWK5	rs1350588209	I544V	0.009		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1350588209	Q5VWK5	rs1350588209	I544V	0.09		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1353483558	Q5VWK5	rs1353483558	G547R	0.033		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1353483558	Q5VWK5	rs1353483558	G547R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1353483558	Q5VWK5	rs1353483558	G547R	0.034		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1353483558	Q5VWK5	rs1353483558	G547R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1353572541						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1356496625						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1356970161						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1358774745						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1363189594						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1368052402						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1368647155						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1376376318						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	138098976	Q5VWK5	rs138098976	P464L	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	138098976	Q5VWK5	rs138098976	P464L	0.72		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1383129366						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1392327910						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1394887035						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1395107049						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1396700760	Q5VWK5	rs1396700760	W35C	0.796		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1396700760	Q5VWK5	rs1396700760	W35C	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	139858085	Q5VWK5	rs139858085	Q487H	0.999		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	139858085	Q5VWK5	rs139858085	Q487H	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1400483678						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1400575409						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1400909129						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1405024139						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1409219262	Q5VWK5	rs1409219262	N420S	0.417		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1409219262	Q5VWK5	rs1409219262	N420S	0.24		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		141095761						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1411124273						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1421853018	Q5VWK5	rs1421853018	G483V	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1421853018	Q5VWK5	rs1421853018	G483V	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1423971926						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	143130647	Q5VWK5	rs143130647	A199V	0.039		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	143130647	Q5VWK5	rs143130647	A199V	0.41		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1432011679						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1433548222						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1436667845						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1439039737						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	144070297	Q5VWK5	rs144070297	D9E	0.006		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	144070297	Q5VWK5	rs144070297	D9E	0.46		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1442094471	Q5VWK5	rs1442094471	C558R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1442094471	Q5VWK5	rs1442094471	C558R	0.19		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1442094471	Q5VWK5	rs1442094471	C558R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1442094471	Q5VWK5	rs1442094471	C558R	0.21		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	1442474244	Q5VWK5	rs1442474244	S416N	0.011		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	1442474244	Q5VWK5	rs1442474244	S416N	0.21		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1444664057						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		144606217						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1448437790						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1449828831	Q5VWK5	rs1449828831	I440V	0.019		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1449828831	Q5VWK5	rs1449828831	I440V	0.48		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1450509119						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1451818608						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1454299797						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1459058332						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1463672176	Q5VWK5	rs1463672176	L396F	0.999		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1463672176	Q5VWK5	rs1463672176	L396F	0.02		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1464115526						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	146440064	Q5VWK5	rs146440064	L193F	0.027		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	146440064	Q5VWK5	rs146440064	L193F	0.26		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1465641771						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1465880569						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1466428054						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1466901710						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1468346338	Q5VWK5	rs1468346338	T610A	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1468346338	Q5VWK5	rs1468346338	T610A	0.15		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1468346338	Q5VWK5	rs1468346338	T610A	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1468346338	Q5VWK5	rs1468346338	T610A	0.2		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1469323792	Q5VWK5	rs1469323792	K63E	0.02		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1469323792	Q5VWK5	rs1469323792	K63E	0.08		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	1469538725						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1472483040						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1474792230						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1475068608	Q5VWK5	rs1475068608	Q465P	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1475068608	Q5VWK5	rs1475068608	Q465P	0.12		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1481789783						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1484438152						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1490421226	Q5VWK5	rs1490421226	Y257H	0.015		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1490421226	Q5VWK5	rs1490421226	Y257H	0.5		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1490421226	Q5VWK5	rs1490421226	Y257H	0.017		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1490421226	Q5VWK5	rs1490421226	Y257H	0.25		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	149318636	Q5VWK5	rs149318636	V159E	0.006		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	149318636	Q5VWK5	rs149318636	V159E	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1558240308	Q5VWK5	rs1558240308	L193S	0.02		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1558240308	Q5VWK5	rs1558240308	L193S	0.38		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1558243571						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1558243635						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1558243703	Q5VWK5	rs1558243703	Q263K	0.037		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1558243703	Q5VWK5	rs1558243703	Q263K	0.21		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1558269449						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1558269636						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1570774918						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1570848374						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1570874417						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1570936011						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1570936478						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1570936596						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646896298						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646896411						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646896730						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646913763						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646913850						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646914245						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646914386						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646914750						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646915308						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646915405	Q5VWK5	rs1646915405	K82N	0.219		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646915405	Q5VWK5	rs1646915405	K82N	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646915882	Q5VWK5	rs1646915882	L87F	0.756		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646915882	Q5VWK5	rs1646915882	L87F	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646916175						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646916500						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646916754	Q5VWK5	rs1646916754	H108R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646916754	Q5VWK5	rs1646916754	H108R	0.78		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646916783						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646917043	Q5VWK5	rs1646917043	C115Y	0.999		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1646917043	Q5VWK5	rs1646917043	C115Y	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646917106						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1646917624						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1647171975						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1647172190						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1647172613						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1647173655						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1648570809						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1648571323						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	1648573610						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1648574118						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1648576528						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1648576846						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1648578189						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1648578831						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649111313						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649112703						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649113148						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649114306						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649114612						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649114760						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1649116237	Q5VWK5	rs1649116237	D243N	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1649116237	Q5VWK5	rs1649116237	D243N	0.89		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649116704						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649117978						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649118319						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1649120335						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650106976						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650107844						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650110583						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1650112980	Q5VWK5	rs1650112980	F292L	0.006		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1650112980	Q5VWK5	rs1650112980	F292L	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650113771						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650114707						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650115706						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1650117809						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651498332	Q5VWK5	rs1651498332	P320S	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651498332	Q5VWK5	rs1651498332	P320S	0.17		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651498873						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651499112						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651499768						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651500226						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651500502						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651503567						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651760461						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1651760721						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651762894	Q5VWK5	rs1651762894	L367F	0.211		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651762894	Q5VWK5	rs1651762894	L367F	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651763018	Q5VWK5	rs1651763018	I369V	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651763018	Q5VWK5	rs1651763018	I369V	0.26		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1651763913						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1652918498						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1652919210						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1652919364	Q5VWK5	rs1652919364	D399N	0.861		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1652919364	Q5VWK5	rs1652919364	D399N	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1652919761						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1652921337						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653072712						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653073249						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1653078545	Q5VWK5	rs1653078545	T455I	0.742		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1653078545	Q5VWK5	rs1653078545	T455I	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1653082335						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653085582						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653086607						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653087464						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653087895						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653088029						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653088350						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653088656						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653091291						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653093959						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653094839						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653095552						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653095922						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653099066						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653099467						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1653100399	Q5VWK5	rs1653100399	T583P	0.022		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	1653100399	Q5VWK5	rs1653100399	T583P	0.09		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653100607						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653101279						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653101423						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653103445						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		1653107118						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		180809196						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	185697788	Q5VWK5	rs185697788	S19G	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	185697788	Q5VWK5	rs185697788	S19G	0.51		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign	1884444						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		192128821						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		199542433						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		199885679						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		200641667						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	200877860	Q5VWK5	rs200877860	E593K	0.238		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	200877860	Q5VWK5	rs200877860	E593K	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		201136288						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		201210897						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		201752419						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	201902670	Q5VWK5	rs201902670	V160A	0.986		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	201902670	Q5VWK5	rs201902670	V160A	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100229098						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100229662						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	2100229782	Q5VWK5	rs2100229782	L310P	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	2100229782	Q5VWK5	rs2100229782	L310P	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100313058						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100328700						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100387873						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100396917						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100396970						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100397056						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100397158	Q5VWK5	rs2100397158	K452T	0.005		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100397158	Q5VWK5	rs2100397158	K452T	0.05		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100397737	Q5VWK5	rs2100397737	L492M	0.972		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100397737	Q5VWK5	rs2100397737	L492M	0.14		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100397830	Q5VWK5	rs2100397830	N500D	0.023		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100397830	Q5VWK5	rs2100397830	N500D	0.09		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100398110						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100398152	Q5VWK5	rs2100398152	A531V	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2100398152	Q5VWK5	rs2100398152	A531V	0.44		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100398442						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2100399151						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102553708						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102555960	Q5VWK5	rs2102555960	I41N	0.756		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102555960	Q5VWK5	rs2102555960	I41N	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102556377	Q5VWK5	rs2102556377	L113P	0.997		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102556377	Q5VWK5	rs2102556377	L113P	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102586240						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102622935						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102623133	Q5VWK5	rs2102623133	M204L	0.026		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102623133	Q5VWK5	rs2102623133	M204L	0.08		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102623188						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102623194						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102637163						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102637223						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102637295						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	2102637431	Q5VWK5	rs2102637431	Y241H	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	2102637431	Q5VWK5	rs2102637431	Y241H	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102637504	Q5VWK5	rs2102637504	I248V	0.023		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102637504	Q5VWK5	rs2102637504	I248V	0.17		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102637641	Q5VWK5	rs2102637641	W265S	0.999		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2102637641	Q5VWK5	rs2102637641	W265S	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		2102637649						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525198587						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525202689						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525202778						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525202946						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525203117						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525203281						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525203454						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525203859						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525203878						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525327131						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525355361						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525409218						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525409860						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525551003						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525560825						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525561660						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525561867						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525561974						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525562487						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	2525563823						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		267598700						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		34259898						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	367746671	Q5VWK5	rs367746671	T588N	0.042		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	367746671	Q5VWK5	rs367746671	T588N	0.02		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	368389094	Q5VWK5	rs368389094	V251I	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	368389094	Q5VWK5	rs368389094	V251I	0.09		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	368389094	Q5VWK5	rs368389094	V251L	0.041		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	368389094	Q5VWK5	rs368389094	V251L	0.11		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		369367934						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	369556867	Q5VWK5	rs369556867	D479E	0.531		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	369556867	Q5VWK5	rs369556867	D479E	0.29		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	369986474	Q5VWK5	rs369986474	W242C	0.999		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	369986474	Q5VWK5	rs369986474	W242C	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		371194228						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	371531867	Q5VWK5	rs371531867	Y173H	0.999		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	371531867	Q5VWK5	rs371531867	Y173H	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		371737947						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		373028008						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		373245679	Q5VWK5	rs373245679	S518P	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		373245679	Q5VWK5	rs373245679	S518P	0.23		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		373245679	Q5VWK5	rs373245679	S518P	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		373245679	Q5VWK5	rs373245679	S518P	0.15		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	373821085	Q5VWK5	rs373821085	I341V	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	373821085	Q5VWK5	rs373821085	I341V	0.45		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	375054504	Q5VWK5	rs375054504	D470N	0.039		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	375054504	Q5VWK5	rs375054504	D470N	0.15		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	375054504	Q5VWK5	rs375054504	D470N	0.038		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	375054504	Q5VWK5	rs375054504	D470N	0.12		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		375552098						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	376377228	Q5VWK5	rs376377228	H161R	0.066		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	376377228	Q5VWK5	rs376377228	H161R	0.1		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	376725743	Q5VWK5	rs376725743	E205V	0.903		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	376725743	Q5VWK5	rs376725743	E205V	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign	41313262	Q5VWK5	rs41313262	V362I	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign	41313262	Q5VWK5	rs41313262	V362I	0.39		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	530714168	Q5VWK5	rs530714168	G519R	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	530714168	Q5VWK5	rs530714168	G519R	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		533280065						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	539497366	Q5VWK5	rs539497366	D129E	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	539497366	Q5VWK5	rs539497366	D129E	0.77		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	539781624	Q5VWK5	rs539781624	A55T	0.009		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	539781624	Q5VWK5	rs539781624	A55T	0.54		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	540500252						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	542279299						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		544186603						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	545141199	Q5VWK5	rs545141199	P306S	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	545141199	Q5VWK5	rs545141199	P306S	0.4		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		547510231						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		550527020						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	555691349	Q5VWK5	rs555691349	V159M	0.594		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	555691349	Q5VWK5	rs555691349	V159M	0.04		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		558208409						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		558942258						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	560597647						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		562842287						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	564574754	Q5VWK5	rs564574754	S559R	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	564574754	Q5VWK5	rs564574754	S559R	0.08		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	564574754	Q5VWK5	rs564574754	S559R	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	564574754	Q5VWK5	rs564574754	S559R	0.08		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	575018195	Q5VWK5	rs575018195	S221F	0.82		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	575018195	Q5VWK5	rs575018195	S221F	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		576532413						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	745884986						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		746144971						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	746348181						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		746388939						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		746445795						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		747027115						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		747115036						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	747171538	Q5VWK5	rs747171538	S619N	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	747171538	Q5VWK5	rs747171538	S619N	0.44		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	748364447	Q5VWK5	rs748364447	N502S	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	748364447	Q5VWK5	rs748364447	N502S	0.31		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		748585783						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		748673781						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749061229						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749224934						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749335735	Q5VWK5	rs749335735	E494K	0.061		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749335735	Q5VWK5	rs749335735	E494K	0.78		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749335735	Q5VWK5	rs749335735	E494K	0.063		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749335735	Q5VWK5	rs749335735	E494K	0.98		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		749727344						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	749888878						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	749929021	Q5VWK5	rs749929021	R86W	0.806		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	749929021	Q5VWK5	rs749929021	R86W	0.1		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		750164194						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		750715115						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		751235836						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	751263927	Q5VWK5	rs751263927	M360I	0.184		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	751263927	Q5VWK5	rs751263927	M360I	0.11		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	751326080	Q5VWK5	rs751326080	K526N	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	751326080	Q5VWK5	rs751326080	K526N	0.44		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		752038555						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		752478137						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	752735535						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	752947237	Q5VWK5	rs752947237	D330E	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	752947237	Q5VWK5	rs752947237	D330E	0.84		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		753050122	Q5VWK5	rs753050122	H96R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		753050122	Q5VWK5	rs753050122	H96R	0.67		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		753050122	Q5VWK5	rs753050122	H96R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		753050122	Q5VWK5	rs753050122	H96R	0.7		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign	7530511						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	753835420						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	754093485	Q5VWK5	rs754093485	I354T	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	754093485	Q5VWK5	rs754093485	I354T	0.25		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		754519752						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	755379895	Q5VWK5	rs755379895	V601M	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	755379895	Q5VWK5	rs755379895	V601M	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	755379895	Q5VWK5	rs755379895	V601M	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance, likely benign	755379895	Q5VWK5	rs755379895	V601M	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	755811354	Q5VWK5	rs755811354	G300V	0.735		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	755811354	Q5VWK5	rs755811354	G300V	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		756229051						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		756910475						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	756938673	Q5VWK5	rs756938673	Q3R	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	756938673	Q5VWK5	rs756938673	Q3R	0.18		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		757084952						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	757367045	Q5VWK5	rs757367045	H108Y	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	757367045	Q5VWK5	rs757367045	H108Y	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		757737950						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		758014823						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758022455	Q5VWK5	rs758022455	N471S	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758022455	Q5VWK5	rs758022455	N471S	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		758102857						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		758642309						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758690026	Q5VWK5	rs758690026	A201T	0.285		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758690026	Q5VWK5	rs758690026	A201T	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758690026	Q5VWK5	rs758690026	A201T	0.281		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758690026	Q5VWK5	rs758690026	A201T	0.13		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	758835954						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	759049474						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759109559						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759458205						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759476112						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759640556						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759642208						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759723554						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		759843168						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	760405559	Q5VWK5	rs760405559	V319I	0.009		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	760405559	Q5VWK5	rs760405559	V319I	0.3		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	760637251	Q5VWK5	rs760637251	T435K	0.982		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	760637251	Q5VWK5	rs760637251	T435K	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	760637251	Q5VWK5	rs760637251	T435K	0.983		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	760637251	Q5VWK5	rs760637251	T435K	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		760662750						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		760923055						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		761140825						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		761159118						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	761242932	Q5VWK5	rs761242932	L390W	0.81		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	761242932	Q5VWK5	rs761242932	L390W	0.06		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		761263134						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	761754539	Q5VWK5	rs761754539	I16V	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	761754539	Q5VWK5	rs761754539	I16V	0.78		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		761804830						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	762697123						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	762798308	Q5VWK5	rs762798308	M573T	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	likely benign	762798308	Q5VWK5	rs762798308	M573T	0.43		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	762813338	Q5VWK5	rs762813338	V277M	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	762813338	Q5VWK5	rs762813338	V277M	0.35		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		763076695						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		763484544						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		763854576						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign	76418789	Q5VWK5	rs76418789	G149R	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign	76418789	Q5VWK5	rs76418789	G149R	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		764546073						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		765181765						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		765691329						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign, likely benign	76575803	Q5VWK5	rs76575803	R86Q	0.011		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	benign, likely benign	76575803	Q5VWK5	rs76575803	R86Q	0.73		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	766991367	Q5VWK5	rs766991367	I50V	0.039		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	766991367	Q5VWK5	rs766991367	I50V	0.26		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	767092630	Q5VWK5	rs767092630	I56F	0.254		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	767092630	Q5VWK5	rs767092630	I56F	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	767104591	Q5VWK5	rs767104591	V291I	0.009		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	767104591	Q5VWK5	rs767104591	V291I	0.37		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767190530						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767358325	Q5VWK5	rs767358325	M204T	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767358325	Q5VWK5	rs767358325	M204T	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767358325	Q5VWK5	rs767358325	M204T	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767358325	Q5VWK5	rs767358325	M204T	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767996100	Q5VWK5	rs767996100	N529D	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767996100	Q5VWK5	rs767996100	N529D	0.65		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767996100	Q5VWK5	rs767996100	N529D	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		767996100	Q5VWK5	rs767996100	N529D	0.37		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	768272736	Q5VWK5	rs768272736	S581T	0.023		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	768272736	Q5VWK5	rs768272736	S581T	0.48		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		768312080						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		768316676						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	768596081						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		768672135						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769230441	Q5VWK5	rs769230441	A10T	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769230441	Q5VWK5	rs769230441	A10T	0.02		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769458559	Q5VWK5	rs769458559	Q564K	0.011		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769458559	Q5VWK5	rs769458559	Q564K	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769559634	Q5VWK5	rs769559634	E169K	0.893		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769559634	Q5VWK5	rs769559634	E169K	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769559634	Q5VWK5	rs769559634	E169K	0.897		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	769559634	Q5VWK5	rs769559634	E169K	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		769973852						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	770324228						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		770357159						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		771174962						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		771501924						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		771921869						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		771938488						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		772488535						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	772786061	Q5VWK5	rs772786061	T318I	0.023		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	772786061	Q5VWK5	rs772786061	T318I	0.16		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	772901651	Q5VWK5	rs772901651	S467L	0.08		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	772901651	Q5VWK5	rs772901651	S467L	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	772901651	Q5VWK5	rs772901651	S467L	0.078		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	772901651	Q5VWK5	rs772901651	S467L	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	773141807	Q5VWK5	rs773141807	T132I	0.823		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	773141807	Q5VWK5	rs773141807	T132I	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	773477018						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		773635455						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		773754315						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		773929382						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		774019668						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		774037829						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	774474216	Q5VWK5	rs774474216	T261K	0.082		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	774474216	Q5VWK5	rs774474216	T261K	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		774581386						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		775162322						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	775258971	Q5VWK5	rs775258971	K150T	0.129		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	775258971	Q5VWK5	rs775258971	K150T	0.12		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		775541608						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	775580555	Q5VWK5	rs775580555	D462H	0.779		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	775580555	Q5VWK5	rs775580555	D462H	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		775994483						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	776235812	Q5VWK5	rs776235812	L151F	0.272		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	776235812	Q5VWK5	rs776235812	L151F	0.67		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		776354187						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		776389611						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		776785412						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		776798769						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	777244526						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		777727118						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		777827669						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	778411499	Q5VWK5	rs778411499	I231V	0.001		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	778411499	Q5VWK5	rs778411499	I231V	0.59		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		778949002						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		779308889						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		779329843						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		779430236						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	779703262						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		779805449						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		780271790	Q5VWK5	rs780271790	D126N	0.923		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		780271790	Q5VWK5	rs780271790	D126N	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		780271790	Q5VWK5	rs780271790	D126N	0.926		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		780271790	Q5VWK5	rs780271790	D126N	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	781262110	Q5VWK5	rs781262110	P124L	1.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	781262110	Q5VWK5	rs781262110	P124L	0.03		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	781688541	Q5VWK5	rs781688541	V474A	0.55		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	781688541	Q5VWK5	rs781688541	V474A	0.01		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	867213276	Q5VWK5	rs867213276	R378K	0.007		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	867213276	Q5VWK5	rs867213276	R378K	0.42		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		868018244						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		868402753						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		886133623						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		898913808						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		899156683						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		906756964						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		919329759						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	921734212	Q5VWK5	rs921734212	Y476D	0.37		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	921734212	Q5VWK5	rs921734212	Y476D	0.07		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		926027118						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		941400363						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	958559603	Q5VWK5	rs958559603	I434V	0.042		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	958559603	Q5VWK5	rs958559603	I434V	0.41		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		960175040						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		961645682						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		965693876						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		967440017						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	970390731	Q5VWK5	rs970390731	K250N	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	970390731	Q5VWK5	rs970390731	K250N	0.94		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	970390731	Q5VWK5	rs970390731	K250N	0.003		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	970390731	Q5VWK5	rs970390731	K250N	0.6		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		980481356						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	982678126	Q5VWK5	rs982678126	Q614P	0.998		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant	uncertain significance	982678126	Q5VWK5	rs982678126	Q614P	0.0		Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5
+IL23R	missense_variant		995219905						Q5VWK5	Interleukin-23 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VWK5

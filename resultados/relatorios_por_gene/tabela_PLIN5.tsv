@@ -1,0 +1,700 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+PLIN5	missense_variant		1006541704						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1008424648						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1025503817	Q00G26	rs1025503817	R306Q	0.074		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1025503817	Q00G26	rs1025503817	R306Q	1.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1039066379						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		10407239						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1042094637						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1044249373						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1049276214						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1052128214						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1052642342						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1053775922						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1054735589						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1062223						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		11085080						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	111442645						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		115387113						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1158914283						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1166530203						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1167095004						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1168608262						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1168928883						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	116972497						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1172056782						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1173230953						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1174928738						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1176582369						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1177514743						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1177638810						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1178324833						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1190419222	Q00G26	rs1190419222	A28V	0.921		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1190419222	Q00G26	rs1190419222	A28V	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1190419222	Q00G26	rs1190419222	A28V	0.924		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1190419222	Q00G26	rs1190419222	A28V	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1191856281						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1192906741						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1195900207						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1196542030						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1198170210						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1198944749						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1199363443						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1199908582						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1200857705						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1201955513						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1207872629						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1208388198						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1210652621						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1210787302						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1211925769						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1214261324						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1215198494						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1217081822						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1219162284						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1219735270						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1219825211						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1222342496						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1223908747						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1225655600						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1230409634						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1233153601						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1237528770						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1238183106						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1242634374						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1244607014						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1249202424	Q00G26	rs1249202424	V217M	0.015		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1249202424	Q00G26	rs1249202424	V217M	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1249202424	Q00G26	rs1249202424	V217M	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1249202424	Q00G26	rs1249202424	V217M	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1250260828						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1253305591						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1253532702						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1253562488						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1254331301	Q00G26	rs1254331301	G439E	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1254331301	Q00G26	rs1254331301	G439E	0.16		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1254331301	Q00G26	rs1254331301	G439E	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1254331301	Q00G26	rs1254331301	G439E	0.47		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1258228798						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1258562725						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1260450202						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1263936818						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1267500176						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1269966822						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1270962311						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1276851810						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1281754446						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1295121187						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1296295936						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1299421784						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1299983376						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1300228730						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1301943215						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1305331822						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1305905367						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1305954390						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1309058946						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1310065055						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1310177336						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1310390208						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1310789670						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1311622867						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1313905423						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1316611890						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1317146296						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1320221610						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1320525200						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1320638387						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1322703994						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1328842945						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1333812067						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1334791023						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1336911030						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1339207359						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1340994773						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1343489123						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1345081954						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1345731963						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1346358734						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1348010860						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1349500266						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1354903179						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1358004448						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1363234644						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1364162601						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1367137600						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1367215465						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1370456772						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1374340625						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1376911141						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1377735313						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1382298966						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1386221639						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1386580458						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1388074393						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1395252391	Q00G26	rs1395252391	E460Q	0.986		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1395252391	Q00G26	rs1395252391	E460Q	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1395275914						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1396750195						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1397844927						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1399604298						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1401543169						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1401766000						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1405033684						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1408353460						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1411741670						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1414724966						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1415080919						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1416755388						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		141998895						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1424595636						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1424779407						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1425017667						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1425262157						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1427647760						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1428444008						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1431422219						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1434715386						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1436512999						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1440294736						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1443523826						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1445065297						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1448647096						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1450068158						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1453418582						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1453560039						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1456792966						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1457571533						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1460698709						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1461103362	Q00G26	rs1461103362	T291I	0.511		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1461103362	Q00G26	rs1461103362	T291I	0.06		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1461338258						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1464152314						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1464764626						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1466109620						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1466692340	Q00G26	rs1466692340	R138C	0.543		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1466692340	Q00G26	rs1466692340	R138C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1466692340	Q00G26	rs1466692340	R138C	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1466692340	Q00G26	rs1466692340	R138C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1471138797						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1473292525						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1477661846						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1477993774						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1483694649						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1485195347	Q00G26	rs1485195347	A329D	0.627		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1485195347	Q00G26	rs1485195347	A329D	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1485195347	Q00G26	rs1485195347	A329D	0.767		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1485195347	Q00G26	rs1485195347	A329D	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1489174257						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568242438						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568243519						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568244943						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568246103						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568247030						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568247038						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568247048						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1568247078						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1599760582						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1599761374						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1599764949						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1599764983						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1610090						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1701947230						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1718103907						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		182486411						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		184454673						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		185753001						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976757742						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976757831						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976757910						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976758570						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976758725						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976758901						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976759374						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976759737						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976760345						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976760726						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1976761773						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976762172						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976763043						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976764477						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976766135						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976766245						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976767251						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976767509						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976768260						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976768503						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976768777						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976782283						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976782845						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976784000						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976784074						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976790769						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976790974						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976791594						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976791984						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976792131						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976792775						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976792852						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976792960						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976793166						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976793382						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976844219						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976844870						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976844991						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976845202						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976845536						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976845874						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976846152						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976846473						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976847057						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976847129						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976847163						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1976847221	Q00G26	rs1976847221	S124G	0.145		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	1976847221	Q00G26	rs1976847221	S124G	0.04		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976847296						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976860829						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976861189						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976861257						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976861459						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976861500						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976861569						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976861865						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976885683						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976886525						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976886999						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976887513						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976887941						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976887970						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976888187						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976888339						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976889078						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976917199						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976917383						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976917752						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976918320						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976919101						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976919132						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976919276						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976919623						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976919697						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		1976919776						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	199498374	Q00G26	rs199498374	T169M	0.206		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	199498374	Q00G26	rs199498374	T169M	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		199633236						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		199650988	Q00G26	rs199650988	E443K	0.001		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		199650988	Q00G26	rs199650988	E443K	0.28		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		199650988	Q00G26	rs199650988	E443K	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		199650988	Q00G26	rs199650988	E443K	0.28		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		199793340						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200012930						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	200136383	Q00G26	rs200136383	S111L	0.997		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	200136383	Q00G26	rs200136383	S111L	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	200136383	Q00G26	rs200136383	S111L	0.997		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	200136383	Q00G26	rs200136383	S111L	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200153211						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	200382199	Q00G26	rs200382199	P271L	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	200382199	Q00G26	rs200382199	P271L	0.31		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200642801						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200649823	Q00G26	rs200649823	R137W	1.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200649823	Q00G26	rs200649823	R137W	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200649823	Q00G26	rs200649823	R137W	0.999		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200649823	Q00G26	rs200649823	R137W	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200700492						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200743454						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200836591						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		200877814						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	201001165	Q00G26	rs201001165	P167A	0.997		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	201001165	Q00G26	rs201001165	P167A	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	201004893						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201112241						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201340592	Q00G26	rs201340592	T113M	0.015		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201340592	Q00G26	rs201340592	T113M	0.16		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201340592	Q00G26	rs201340592	T113M	0.015		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201340592	Q00G26	rs201340592	T113M	0.16		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201650665						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	201819147	Q00G26	rs201819147	V147M	0.028		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	201819147	Q00G26	rs201819147	V147M	0.12		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201857623	Q00G26	rs201857623	R209C	0.999		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201857623	Q00G26	rs201857623	R209C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201857623	Q00G26	rs201857623	R209C	0.976		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		201857623	Q00G26	rs201857623	R209C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2071349735						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145320302						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145320575						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145322121						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145322683						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145322717						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145322766						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145322875						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145327856						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145329580						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		2145331844						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	2512168061						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	2512170773						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	2512171626						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	367567613						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		367747920						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		367751980						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		368184989						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		368841090						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		368842736						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		369655492						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		369855637						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	369891770	Q00G26	rs369891770	A341V	0.247		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	369891770	Q00G26	rs369891770	A341V	0.03		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	369901049	Q00G26	rs369901049	R134Q	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	369901049	Q00G26	rs369901049	R134Q	0.31		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	369901049	Q00G26	rs369901049	R134Q	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	369901049	Q00G26	rs369901049	R134Q	0.34		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		370217900						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	370675802						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		370914998						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		371504399	Q00G26	rs371504399	T237M	0.265		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		371504399	Q00G26	rs371504399	T237M	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		371504399	Q00G26	rs371504399	T237M	0.956		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		371504399	Q00G26	rs371504399	T237M	0.05		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		371672862						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		371730214						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		372568064						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		372591306						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	372681667	Q00G26	rs372681667	G439R	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	372681667	Q00G26	rs372681667	G439R	0.1		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	372681667	Q00G26	rs372681667	G439R	0.092		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	372681667	Q00G26	rs372681667	G439R	0.16		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	372793168	Q00G26	rs372793168	A93V	0.052		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	372793168	Q00G26	rs372793168	A93V	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373516012						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436C	0.423		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436C	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436C	0.489		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436C	0.08		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436S	0.055		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436S	0.2		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436S	0.071		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		373982855	Q00G26	rs373982855	G436S	0.47		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		374372886						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		374858315						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	375098526	Q00G26	rs375098526	R25H	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	375098526	Q00G26	rs375098526	R25H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		375141454						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	375555243	Q00G26	rs375555243	R145H	0.984		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	375555243	Q00G26	rs375555243	R145H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	375555243	Q00G26	rs375555243	R145H	0.992		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	375555243	Q00G26	rs375555243	R145H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	376263782	Q00G26	rs376263782	P446L	0.049		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	376263782	Q00G26	rs376263782	P446L	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		376494728						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	376635614						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		376904003						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377144070	Q00G26	rs377144070	A312T	0.743		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377144070	Q00G26	rs377144070	A312T	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377144070	Q00G26	rs377144070	A312T	0.739		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377144070	Q00G26	rs377144070	A312T	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377144538						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377199527	Q00G26	rs377199527	A177V	0.349		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377199527	Q00G26	rs377199527	A177V	0.03		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377199527	Q00G26	rs377199527	A177V	0.779		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377199527	Q00G26	rs377199527	A177V	0.03		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377467819						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		377605280						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	377657199	Q00G26	rs377657199	R334H	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	377657199	Q00G26	rs377657199	R334H	0.59		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		528411256						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		528560540						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		538978472						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		546459466						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		551133800						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		551353830						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		553049950	Q00G26	rs553049950	R385Q	0.007		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		553049950	Q00G26	rs553049950	R385Q	0.06		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		553049950	Q00G26	rs553049950	R385Q	0.007		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		553049950	Q00G26	rs553049950	R385Q	0.05		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		553130703						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	553701503						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		554299137						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		554535277						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		555050185						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		562641530						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		567767497						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		569989487						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		572682599						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	574940044	Q00G26	rs574940044	D73G	0.854		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	574940044	Q00G26	rs574940044	D73G	0.49		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	575416554	Q00G26	rs575416554	A356T	0.005		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	575416554	Q00G26	rs575416554	A356T	0.21		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	575416554	Q00G26	rs575416554	A356T	0.121		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	575416554	Q00G26	rs575416554	A356T	0.35		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		62115195						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	745654911	Q00G26	rs745654911	G401R	0.958		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	745654911	Q00G26	rs745654911	G401R	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		745792972						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	746375657						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		746375795						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	746844517	Q00G26	rs746844517	R145C	0.992		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	746844517	Q00G26	rs746844517	R145C	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		746911390						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		747520676						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	747789366	Q00G26	rs747789366	P253L	0.048		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	747789366	Q00G26	rs747789366	P253L	0.59		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	747789366	Q00G26	rs747789366	P253L	0.047		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	747789366	Q00G26	rs747789366	P253L	0.84		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	747987953	Q00G26	rs747987953	T35M	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	747987953	Q00G26	rs747987953	T35M	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		748077987						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		748308233						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		748327453						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		748921359						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		749476677	Q00G26	rs749476677	E171K	0.192		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		749476677	Q00G26	rs749476677	E171K	0.07		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		749476677	Q00G26	rs749476677	E171K	0.195		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		749476677	Q00G26	rs749476677	E171K	0.03		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	749529486	Q00G26	rs749529486	P370L	0.995		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	749529486	Q00G26	rs749529486	P370L	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		749686487						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		749776336						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		750128419						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		750355609						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	750410785						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		750623101						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		750686826						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	750946143	Q00G26	rs750946143	A75T	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	750946143	Q00G26	rs750946143	A75T	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751310778						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751484811						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751929240						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751980899	Q00G26	rs751980899	A379V	0.188		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751980899	Q00G26	rs751980899	A379V	0.04		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751980899	Q00G26	rs751980899	A379V	0.185		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		751980899	Q00G26	rs751980899	A379V	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		752063787						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		752240334						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		752587699						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		752654390						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		752887556						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	752949459	Q00G26	rs752949459	R348W	0.849		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	752949459	Q00G26	rs752949459	R348W	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		752979298						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		753237147						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	753292242						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	753327914						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		754013460						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		754092270						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		754736513						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		755138773						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		755293803						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		755383750						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		755423594						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	755684879	Q00G26	rs755684879	V437F	0.015		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	755684879	Q00G26	rs755684879	V437F	0.06		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		755737803						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		756244668						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		756460745						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	756530531	Q00G26	rs756530531	G347D	0.999		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	756530531	Q00G26	rs756530531	G347D	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		756626431						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		756704608						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		756802059						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		757047871						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		757351920						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		757461297	Q00G26	rs757461297	A345V	0.945		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		757461297	Q00G26	rs757461297	A345V	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		757461297	Q00G26	rs757461297	A345V	0.997		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		757461297	Q00G26	rs757461297	A345V	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		75748078						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	758198765	Q00G26	rs758198765	F463L	0.938		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	758198765	Q00G26	rs758198765	F463L	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		758501934						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		759357571						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		75942973						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	759448374						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		759603011						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		759943070						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		760169431						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		760284492						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	760540696	Q00G26	rs760540696	P388H	0.911		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	760540696	Q00G26	rs760540696	P388H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		760623601						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		760810904						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		761157910						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		761192960						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		761350946						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		761389712						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		761605093						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		761797130						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		762087907						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762421444	Q00G26	rs762421444	R288H	0.993		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762421444	Q00G26	rs762421444	R288H	0.1		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762421444	Q00G26	rs762421444	R288H	0.992		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762421444	Q00G26	rs762421444	R288H	0.09		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762421444	Q00G26	rs762421444	R288L	0.928		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762421444	Q00G26	rs762421444	R288L	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		762438699						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762489897	Q00G26	rs762489897	V351M	0.028		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762489897	Q00G26	rs762489897	V351M	0.17		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762513580						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762891297	Q00G26	rs762891297	R226H	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762891297	Q00G26	rs762891297	R226H	0.34		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762891297	Q00G26	rs762891297	R226H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762891297	Q00G26	rs762891297	R226H	0.35		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762891297	Q00G26	rs762891297	R226L	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	762891297	Q00G26	rs762891297	R226L	0.1		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		763220937						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	763460043						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		763513356						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		764201582						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		764327050						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		764461669						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	764528049						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		764756252						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		765030464						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		765361568						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		765434048						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		765483642						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	765549033						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		765732454						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		766094063						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		766172864						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		766725113						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		767151756						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		767402731						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		767560816						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		767633843						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	767729143						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	767931369	Q00G26	rs767931369	G349D	0.051		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	767931369	Q00G26	rs767931369	G349D	0.37		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	768121130	Q00G26	rs768121130	V22M	0.456		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	768121130	Q00G26	rs768121130	V22M	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		768161547						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	768365970	Q00G26	rs768365970	R274H	0.255		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	768365970	Q00G26	rs768365970	R274H	0.09		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	768465075						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		768586149						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		768634838						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		769399556						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		769514286						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		769735465						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		769783030						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770088157						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770172740	Q00G26	rs770172740	R269H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770172740	Q00G26	rs770172740	R269H	0.16		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770172740	Q00G26	rs770172740	R269H	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770172740	Q00G26	rs770172740	R269H	0.15		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770401833						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770558472	Q00G26	rs770558472	R137P	0.997		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770558472	Q00G26	rs770558472	R137P	0.09		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770558472	Q00G26	rs770558472	R137Q	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770558472	Q00G26	rs770558472	R137Q	0.03		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770558472	Q00G26	rs770558472	R137Q	0.995		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770558472	Q00G26	rs770558472	R137Q	0.15		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	770671956						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance, likely benign	770718070	Q00G26	rs770718070	A310P	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance, likely benign	770718070	Q00G26	rs770718070	A310P	0.83		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance, likely benign	770718070	Q00G26	rs770718070	A310T	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance, likely benign	770718070	Q00G26	rs770718070	A310T	0.67		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance, likely benign	770718070	Q00G26	rs770718070	A310T	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance, likely benign	770718070	Q00G26	rs770718070	A310T	0.32		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770851963						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		770855904						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		771212361						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		771676540						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	771881511	Q00G26	rs771881511	A38T	0.009		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	771881511	Q00G26	rs771881511	A38T	0.04		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772026049	Q00G26	rs772026049	M89T	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772026049	Q00G26	rs772026049	M89T	0.04		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772026049	Q00G26	rs772026049	M89T	0.005		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772026049	Q00G26	rs772026049	M89T	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772027013						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772168393						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772421501						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772506633						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772652071						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772883005						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		772890622						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	773565396						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	773617074	Q00G26	rs773617074	R269C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	773617074	Q00G26	rs773617074	R269C	0.2		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		773670460						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		774113107						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		774231946						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	774359629						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	774771330	Q00G26	rs774771330	P452L	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	774771330	Q00G26	rs774771330	P452L	0.03		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		774832514						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		775000745						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		775201702						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		775346907						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		775477811						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		775570313						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		775805572						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		776062542						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		776115040						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		776709149						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		776712460						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		776765408						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		776831788						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	776934875	Q00G26	rs776934875	R200C	0.999		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	776934875	Q00G26	rs776934875	R200C	0.01		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	776934875	Q00G26	rs776934875	R200C	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	776934875	Q00G26	rs776934875	R200C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		777508821						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		777524541						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		777684906						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		778010755						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	778692761	Q00G26	rs778692761	G402C	0.489		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	778692761	Q00G26	rs778692761	G402C	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		779314379						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		779392936						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	779669570	Q00G26	rs779669570	R275L	0.005		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	779669570	Q00G26	rs779669570	R275L	0.09		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	779724543						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		779882960						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		779921826						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	780779953	Q00G26	rs780779953	V64M	0.937		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	780779953	Q00G26	rs780779953	V64M	0.06		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	780779953	Q00G26	rs780779953	V64M	0.936		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	780779953	Q00G26	rs780779953	V64M	0.05		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		780924672						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		781155717						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		781157617						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	781204109	Q00G26	rs781204109	D41N	0.001		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	781204109	Q00G26	rs781204109	D41N	0.14		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		781537857						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		867240597						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		891001885						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		891286365						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	897975377	Q00G26	rs897975377	S55F	0.998		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	897975377	Q00G26	rs897975377	S55F	0.0		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		906493399						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		908398938						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		911014993	Q00G26	rs911014993	S304G	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		911014993	Q00G26	rs911014993	S304G	0.07		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		911014993	Q00G26	rs911014993	S304G	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		911014993	Q00G26	rs911014993	S304G	0.11		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		914542592						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		914922309						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		915284204						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		915530526						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		918374455						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		921374137						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		922414878						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		925319620						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		927831077						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		935622754						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		937900972						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		940142067						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	947593254	Q00G26	rs947593254	R288C	0.567		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	947593254	Q00G26	rs947593254	R288C	0.02		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		948489066						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		948704579						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		949151228						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		956085300						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	962429942	Q00G26	rs962429942	R320Q	0.006		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	uncertain significance	962429942	Q00G26	rs962429942	R320Q	0.15		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	963919694	Q00G26	rs963919694	E299D	0.003		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant	likely benign	963919694	Q00G26	rs963919694	E299D	0.69		Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		984021784						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		989847558						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		993511327						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		995520124						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26
+PLIN5	missense_variant		997474093						Q00G26	Perilipin-5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q00G26

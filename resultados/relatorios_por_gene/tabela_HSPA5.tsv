@@ -1,0 +1,384 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+HSPA5	missense_variant		1005567551						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1007136118						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1013457166						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1032511460	P11021	rs1032511460	R510Q	0.037		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1032511460	P11021	rs1032511460	R510Q	0.57		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1032511460	P11021	rs1032511460	R510Q	0.036		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1032511460	P11021	rs1032511460	R510Q	0.65		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1044787540						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		11542738						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1162088789						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1167147446	P11021	rs1167147446	E622K	0.007		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1167147446	P11021	rs1167147446	E622K	0.29		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1167147446	P11021	rs1167147446	E622K	0.009		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1167147446	P11021	rs1167147446	E622K	0.15		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1168692147						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1170461542						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1175929824						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1179512258						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1179967296						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1183483292						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1183495817						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1187454921						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1188284635						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1188810256						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1189961861						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1191963130	P11021	rs1191963130	I613V	0.001		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1191963130	P11021	rs1191963130	I613V	0.32		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1199995948						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1202257346						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1211390286						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1211616268						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1212235788						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1217112485						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1221171418						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1223996848						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1225600593						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1229759275						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1231899934						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1235678444						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1237147765						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1249822667						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1252434461						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1253850727						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1253923916						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1258181789						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1265027435						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1267765504						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1275953631						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1278798103						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1279993952						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1282333876						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1287411884						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1294335824						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1298602559						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1303224537						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1306743375						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1308682564						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1321198633						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1321415640						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1324691272						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1330307450	P11021	rs1330307450	G387D	0.991		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1330307450	P11021	rs1330307450	G387D	0.02		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1330307450	P11021	rs1330307450	G387D	0.987		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1330307450	P11021	rs1330307450	G387D	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1334409215						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1340057768						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1343403693						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1348084579						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1351458297						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1351604160						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1356972308						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1358602635						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1363355640						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1364066030						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1368629912						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1370988503						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1373246412						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1373860864						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1378995475						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1384841821						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1386517735						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1389938825						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		139238747						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1394566736						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1394745428						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		139483439						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1398549715						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1410032554						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1411145997						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1415653914						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1417734683						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1421568498						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1429609324						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1432966367						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	benign	143920039	P11021	rs143920039	K601M	0.785		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	benign	143920039	P11021	rs143920039	K601M	0.02		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		144050975						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1442272847						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1443431270						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1445882658						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1452694680						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1454496285						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1465755612						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1472776693						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1475987193						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1481972967						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1482398176						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1488339886						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		150434402						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1564206556						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1564206571						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1564207523						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1564207723						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1564208377						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429474						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429524						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429558						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429578						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429597						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429751						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429756						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429813						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588429917						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588430623						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588430869						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588430953						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588430955						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588430963						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588430967						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588431064						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588431888						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588431963						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588431973						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1588432007						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832499981						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832503072						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832503112						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832503414						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832503982						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832504278						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832504731						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832505395						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832505747						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832508077						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832508108						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832520937						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832521424						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832521685						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1832521858	P11021	rs1832521858	P438S	0.034		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1832521858	P11021	rs1832521858	P438S	0.08		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832525752						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832526279						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832526471						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832527216						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832527306						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832527414						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832527530						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832527587						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832527975						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832531031						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1832531252	P11021	rs1832531252	Y313H	0.108		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	1832531252	P11021	rs1832531252	Y313H	0.1		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832531712						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532149						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532245						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532361						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532500						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532522						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532669						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832532761						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832533296						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832534088						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832535586						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832535805						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832535843						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832535901						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832535976						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832536141						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832536174						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832536702						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832552720						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832553177						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832553378						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832553409						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832553741						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832553881						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832554328						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832554391						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832555129						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832556244						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832556277						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832556331						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832556452						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832558070						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832558604						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832558702						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832559528						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832559803						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		1832560045						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		185877709						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		189604329						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		191087735	P11021	rs191087735	I132T	0.012		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		191087735	P11021	rs191087735	I132T	0.13		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		191087735	P11021	rs191087735	I132T	0.087		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		191087735	P11021	rs191087735	I132T	0.47		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		191957514						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200135468						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200465691	P11021	rs200465691	I463V	0.691		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200465691	P11021	rs200465691	I463V	0.02		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200465691	P11021	rs200465691	I463V	0.854		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200465691	P11021	rs200465691	I463V	0.05		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200482739						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200526775	P11021	rs200526775	A393T	0.999		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200526775	P11021	rs200526775	A393T	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200526775	P11021	rs200526775	A393T	0.999		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200526775	P11021	rs200526775	A393T	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		200897884						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		201219378						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		201412581						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		2131452900						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		2131453589						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		2131454302						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		2131454777						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		2131455380						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	2538462767						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	2538464980						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	2538465551						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		35356639						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	368193721	P11021	rs368193721	D615V	0.503		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	368193721	P11021	rs368193721	D615V	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		368840257	P11021	rs368840257	R532H	0.956		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		368840257	P11021	rs368840257	R532H	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		368840257	P11021	rs368840257	R532H	0.981		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		368840257	P11021	rs368840257	R532H	0.04		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	373292645						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		373628096						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		374062060						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		375391643						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		377512653						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		533357661						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		535209940						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		538500528						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		541632037						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	545601947	P11021	rs545601947	Y313C	0.026		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	545601947	P11021	rs545601947	Y313C	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		552650805						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		557143437						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		55741496						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	benign	56136100	P11021	rs56136100	E557G	0.801		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	benign	56136100	P11021	rs56136100	E557G	0.01		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		568812325						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		570413832						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	572560070	P11021	rs572560070	E589K	0.035		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	572560070	P11021	rs572560070	E589K	0.09		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		61740953						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		61755726						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		61999288						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		62580623						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		746095580						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	746186875	P11021	rs746186875	F318V	0.979		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	746186875	P11021	rs746186875	F318V	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		746836983						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		746945148						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		747110106						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		747433993						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		747489527						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		748506361						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		748594236						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		748626391						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		749620773						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		750103794						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		750811646						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		751174810						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	751803191						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		752211105						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		752372052						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		752543561						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		752980725						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		753498680	P11021	rs753498680	T274M	0.774		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		753498680	P11021	rs753498680	T274M	0.04		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		753498680	P11021	rs753498680	T274M	0.544		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		753498680	P11021	rs753498680	T274M	0.04		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		753935146						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		754529165						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		755130497						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		755135095						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		755226649						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	756169862						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		756195128						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		756929764						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		757206987						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		757549614						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		757741308						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		758001741						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		758699653						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		758725284						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		759090127						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		759479785						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		759695909						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		759914509						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		760079687						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		760673094						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		760769294						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		761365893						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		761919160						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	762500054	P11021	rs762500054	R558C	0.082		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	762500054	P11021	rs762500054	R558C	0.05		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	762500054	P11021	rs762500054	R558C	0.081		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	762500054	P11021	rs762500054	R558C	0.04		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		762582529	P11021	rs762582529	R324Q	0.368		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		762582529	P11021	rs762582529	R324Q	0.03		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		762582529	P11021	rs762582529	R324Q	0.567		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		762582529	P11021	rs762582529	R324Q	0.06		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		763135186						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		763551125						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		764437821						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		764555947						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	764834058	P11021	rs764834058	D652E	0.132		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	764834058	P11021	rs764834058	D652E	0.12		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		765009153						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		765332175						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		765533290						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		766559685						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		766767689						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		766831759						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		767440147						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		768548100						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		768638015						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	769064758						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		769398663						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	771497933	P11021	rs771497933	R558L	0.3		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant	uncertain significance	771497933	P11021	rs771497933	R558L	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		772238271						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		772745555						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		772811684						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		772946608						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		773203539						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		773627521	P11021	rs773627521	K621E	0.068		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		773627521	P11021	rs773627521	K621E	0.25		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		773627521	P11021	rs773627521	K621E	0.071		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		773627521	P11021	rs773627521	K621E	0.1		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		77384477						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		773987528						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		774390329						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		774479903	P11021	rs774479903	S4F	0.006		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		774479903	P11021	rs774479903	S4F	0.72		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		774479903	P11021	rs774479903	S4F	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		774479903	P11021	rs774479903	S4F	0.71		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		775060069						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		77527276						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		775411427						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		776075958						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		776093278						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		776540483						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		776753213						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		777435502						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		777686093						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		777998455						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		778199015						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		779151361						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		779406868						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		779884716						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		781032276						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		781041888						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		79731156						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		866597853						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		868145616						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		889983653						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		909088557						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		916098425						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		918826597						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		922711765						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		925239059						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		927584824	P11021	rs927584824	D277Y	0.679		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		927584824	P11021	rs927584824	D277Y	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		927584824	P11021	rs927584824	D277Y	0.168		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		927584824	P11021	rs927584824	D277Y	0.0		P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		928673869						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		936657160						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		947809704						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		949430875						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		980600790						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021
+HSPA5	missense_variant		998102632						P11021	Endoplasmic reticulum chaperone BiP	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11021

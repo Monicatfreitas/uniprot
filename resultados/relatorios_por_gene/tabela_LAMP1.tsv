@@ -1,0 +1,497 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+LAMP1	missense_variant		1005413564						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1022075873						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1039533115	P11279	rs1039533115	M23V	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1039533115	P11279	rs1039533115	M23V	0.89		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1039533115	P11279	rs1039533115	M23V	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1039533115	P11279	rs1039533115	M23V	0.41		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1044418502						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1055741678						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1057202438	P11279	rs1057202438	T347M	0.99		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1057202438	P11279	rs1057202438	T347M	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1057202438	P11279	rs1057202438	T347M	0.99		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1057202438	P11279	rs1057202438	T347M	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	benign	111455645	P11279	rs111455645	L127V	0.018		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	benign	111455645	P11279	rs111455645	L127V	0.23		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		112228471						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		113219412						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1157326287						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1158985535						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1163515349						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1163528704						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1172407014						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1173142497						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1180612685						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1186662794						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1190217306						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1194194282						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1195907560						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1203940671						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1206826960						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1206975062						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1209345278						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1210069640	P11279	rs1210069640	N181S	0.057		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1210069640	P11279	rs1210069640	N181S	0.21		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1210069640	P11279	rs1210069640	N181S	0.06		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1210069640	P11279	rs1210069640	N181S	0.22		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1211053328						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1213509794						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1214037006						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1216166759						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1228694158						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1229371570						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1230508583						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1234012984						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1240097795						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1248721491						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1249345930						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1249665579	P11279	rs1249665579	K134R	0.34		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1249665579	P11279	rs1249665579	K134R	0.39		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1249665579	P11279	rs1249665579	K134R	0.35		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1249665579	P11279	rs1249665579	K134R	0.31		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1250086258						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1250521283						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1252960761						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1254850447						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1255706729						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1257492649						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1260482013						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1262563947						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1263278344						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1264635928						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1264823922	P11279	rs1264823922	G390D	0.98		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1264823922	P11279	rs1264823922	G390D	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1264823922	P11279	rs1264823922	G390D	0.981		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1264823922	P11279	rs1264823922	G390D	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1268749407						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1276570763						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1288854931						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1289839867						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1290106705						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1293435172						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1301378043						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1304592155						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1304707636						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1307527080						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1311840113						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1312058594	P11279	rs1312058594	G97E	0.172		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1312058594	P11279	rs1312058594	G97E	0.03		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1312058594	P11279	rs1312058594	G97E	0.178		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1312058594	P11279	rs1312058594	G97E	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1312157773						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1313559380						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1313716221						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1319914866						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1320793903						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1323013704						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1323369063	P11279	rs1323369063	R8G	0.251		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1323369063	P11279	rs1323369063	R8G	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1325257655						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1328372790						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1328726335						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1334325833						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1335251530						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1336868934	P11279	rs1336868934	P196S	0.323		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1336868934	P11279	rs1336868934	P196S	0.26		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1336868934	P11279	rs1336868934	P196S	0.332		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1336868934	P11279	rs1336868934	P196S	0.34		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1339659749						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1356287770						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1361680639						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1362214629						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1363213178						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1363934024						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1364252872						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1374527711						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1381755486						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1381892371						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1382329977						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1389747220						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1400496924						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1401533589						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1408039112						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1413521663						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1415796900						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	1415910308						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1418876499						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1419493242						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		142333942						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1435076953						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1435910141						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1436081539						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1437376078						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1438697182						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1443476915						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1453784712						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1457235752						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1457367290						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1457771319						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1458466728						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1461051550						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1463376319						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1468241727						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469820283	P11279	rs1469820283	E373D	0.997		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469820283	P11279	rs1469820283	E373D	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469820283	P11279	rs1469820283	E373D	0.997		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469820283	P11279	rs1469820283	E373D	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469959940	P11279	rs1469959940	N261S	0.175		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469959940	P11279	rs1469959940	N261S	0.12		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469959940	P11279	rs1469959940	N261S	0.181		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1469959940	P11279	rs1469959940	N261S	0.11		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1474931156	P11279	rs1474931156	S69P	0.003		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1474931156	P11279	rs1474931156	S69P	0.38		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1474931156	P11279	rs1474931156	S69P	0.003		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1474931156	P11279	rs1474931156	S69P	0.48		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1475319537						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1477327393						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1481826672						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1483329400						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1485609661						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1487447114						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1566398745						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1566405101						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464071						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464413						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464424						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464454						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464480						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464950						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595464981						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595465127						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		1595465746						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		180717643						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		184787579						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	191812061	P11279	rs191812061	V168I	0.048		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	191812061	P11279	rs191812061	V168I	0.63		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		199700645						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		200032545						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		200052831						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		200239310						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	200783496	P11279	rs200783496	C25Y	0.062		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	200783496	P11279	rs200783496	C25Y	0.27		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	200783496	P11279	rs200783496	C25Y	0.394		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	200783496	P11279	rs200783496	C25Y	0.14		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	201021547	P11279	rs201021547	R298Q	0.027		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	201021547	P11279	rs201021547	R298Q	0.15		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		201650159						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042548481						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042548511						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042548782						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042598989						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599008						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599127						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599160						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599177						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599288						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599303						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599343						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042599508						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599791						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042599807						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042618341						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042618932						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619036						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619114						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619134						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619153						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619169						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619279						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619552						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619622						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619655						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042619745						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042620040						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042620332	P11279	rs2042620332	S133P	0.834		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042620332	P11279	rs2042620332	S133P	0.03		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626109						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626230						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626250						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626358						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626529						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626541						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626678						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042626981						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042627013						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042627338						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042685814						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042685889	P11279	rs2042685889	S218P	0.023		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042685889	P11279	rs2042685889	S218P	0.12		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042686249						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042686297						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042686346						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042691196						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042691507						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042691681						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042691714						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042691801						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042692145						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042698522						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042698574						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042698831						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042700494						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042700527						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042700984						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042701136	P11279	rs2042701136	S351L	0.124		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042701136	P11279	rs2042701136	S351L	0.52		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042701136	P11279	rs2042701136	S351L	0.129		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2042701136	P11279	rs2042701136	S351L	0.95		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042701178						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042701215						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042701245						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042701278						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042701315						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042701360						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2042707069						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2139360450						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2139377412						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2139378136						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		2139378180						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2504311669						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2504360877	P11279	rs2504360877	A294S	0.068		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	2504360877	P11279	rs2504360877	A294S	0.42		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		368162623						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		369159731						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		369224631						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		369669372						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	370111946	P11279	rs370111946	C25W	0.685		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	370111946	P11279	rs370111946	C25W	0.03		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	370286796	P11279	rs370286796	T251M	0.462		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	370286796	P11279	rs370286796	T251M	0.24		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	370286796	P11279	rs370286796	T251M	0.457		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	370286796	P11279	rs370286796	T251M	0.34		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		370862051	P11279	rs370862051	R110C	0.794		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		370862051	P11279	rs370862051	R110C	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		370862051	P11279	rs370862051	R110C	0.791		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		370862051	P11279	rs370862051	R110C	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		370899258						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	371034089	P11279	rs371034089	G323S	0.001		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	371034089	P11279	rs371034089	G323S	1.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	371034089	P11279	rs371034089	G323S	0.001		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	371034089	P11279	rs371034089	G323S	0.64		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	371265207	P11279	rs371265207	R407S	0.997		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	371265207	P11279	rs371265207	R407S	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		371542422						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		371918328						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		372906564						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		373899040						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374537669	P11279	rs374537669	V113I	1.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374537669	P11279	rs374537669	V113I	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374537669	P11279	rs374537669	V113I	1.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374537669	P11279	rs374537669	V113I	0.02		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374678550	P11279	rs374678550	A327V	0.92		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374678550	P11279	rs374678550	A327V	0.13		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374678550	P11279	rs374678550	A327V	0.918		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	374678550	P11279	rs374678550	A327V	0.08		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	375227374	P11279	rs375227374	N164S	0.005		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	375227374	P11279	rs375227374	N164S	0.54		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		375412629						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	375930278	P11279	rs375930278	R409S	0.997		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	375930278	P11279	rs375930278	R409S	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	376324908						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		377137046						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		377651869						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		41286620						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		534819001						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	538647194						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		547401171						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		548996606						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		549097040						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	558315912						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		558852088						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		55898120						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		559462906						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		564189253						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		567560779						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		567894310						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		61750829						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		61750830						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		745443481						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		745800693						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	benign	74628343	P11279	rs74628343	G36D	0.559		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	benign	74628343	P11279	rs74628343	G36D	0.14		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		747410684						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		747575303	P11279	rs747575303	V213M	0.082		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		747575303	P11279	rs747575303	V213M	0.11		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		747575303	P11279	rs747575303	V213M	0.08		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		747575303	P11279	rs747575303	V213M	0.23		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		747877257						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		748195263						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	748693352	P11279	rs748693352	M32V	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	likely benign	748693352	P11279	rs748693352	M32V	0.34		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		748803182						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		748999243						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		749182188						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		749315723						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	749464893	P11279	rs749464893	S182R	0.038		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	749464893	P11279	rs749464893	S182R	0.03		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750003380						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750224091						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750230850						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750590451	P11279	rs750590451	P210S	0.993		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750590451	P11279	rs750590451	P210S	0.13		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750590451	P11279	rs750590451	P210S	0.993		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750590451	P11279	rs750590451	P210S	0.12		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750605346						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		750958739						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	751025906	P11279	rs751025906	F65S	0.924		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	751025906	P11279	rs751025906	F65S	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		751126775						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		751196509						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		751491315						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		752685874						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		752992439						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		753197971						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		753635721						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		753718205						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		753888731						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		753998031						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		754236794						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	754467186						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		754605658						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		754904750						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755089559						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	755377731	P11279	rs755377731	I149T	0.823		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	755377731	P11279	rs755377731	I149T	0.06		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755522116	P11279	rs755522116	A393V	0.821		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755522116	P11279	rs755522116	A393V	0.03		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755522116	P11279	rs755522116	A393V	0.818		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755522116	P11279	rs755522116	A393V	0.02		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755576074						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		755705842						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		756102656	P11279	rs756102656	E281K	0.067		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		756102656	P11279	rs756102656	E281K	0.12		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		756102656	P11279	rs756102656	E281K	0.065		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		756102656	P11279	rs756102656	E281K	0.13		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	756331260	P11279	rs756331260	Y178C	0.994		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	756331260	P11279	rs756331260	Y178C	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		756724237						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		756753251						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	756990012	P11279	rs756990012	V399I	0.956		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	756990012	P11279	rs756990012	V399I	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	756990012	P11279	rs756990012	V399I	0.955		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	756990012	P11279	rs756990012	V399I	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757027565						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757205414						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757261971						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757618803	P11279	rs757618803	A349V	0.08		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757618803	P11279	rs757618803	A349V	0.15		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757618803	P11279	rs757618803	A349V	0.079		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		757618803	P11279	rs757618803	A349V	0.15		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		758133363						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		758155412						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		758445807						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		758552201						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		759391093						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		759790645						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		760712195						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		761465679	P11279	rs761465679	I136S	0.124		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		761465679	P11279	rs761465679	I136S	0.1		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		761465679	P11279	rs761465679	I136S	0.129		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		761465679	P11279	rs761465679	I136S	0.15		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		761588000						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		761898603						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		762166003						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		762446154						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		762855305						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		762996222						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	763705634	P11279	rs763705634	N130I	0.941		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	763705634	P11279	rs763705634	N130I	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	763705634	P11279	rs763705634	N130S	0.181		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	763705634	P11279	rs763705634	N130S	0.04		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		764254468						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		764500535						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		764562689						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		764909087						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		765367131						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	765586426						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		765876942	P11279	rs765876942	A271T	0.027		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		765876942	P11279	rs765876942	A271T	0.69		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		765876942	P11279	rs765876942	A271T	0.027		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		765876942	P11279	rs765876942	A271T	0.59		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		767028185						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	767455348	P11279	rs767455348	R326Q	0.52		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	767455348	P11279	rs767455348	R326Q	0.08		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	767455348	P11279	rs767455348	R326Q	0.515		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	767455348	P11279	rs767455348	R326Q	0.07		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		767683537	P11279	rs767683537	R345C	0.759		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		767683537	P11279	rs767683537	R345C	0.17		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		767683537	P11279	rs767683537	R345C	0.756		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		767683537	P11279	rs767683537	R345C	0.13		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		767939299						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		768122957						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		768240089						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		768474200						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	768499433	P11279	rs768499433	A40T	0.015		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	768499433	P11279	rs768499433	A40T	0.45		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	768499433	P11279	rs768499433	A40T	0.015		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	768499433	P11279	rs768499433	A40T	0.31		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		768578956						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		769380370						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	769570200						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		769607827						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		769689911						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	770677734	P11279	rs770677734	D194E	0.996		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	770677734	P11279	rs770677734	D194E	0.01		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		773319736						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		773621462						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		774159757						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		774188089						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		774354712						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	774438040						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		774558141						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	774863907						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		775189716						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		776152874						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		776227318						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		776655908						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		776754723						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		777432410						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	777467422	P11279	rs777467422	P214S	0.825		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	777467422	P11279	rs777467422	P214S	0.02		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	benign	777478201	P11279	rs777478201	L75P	0.015		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	benign	777478201	P11279	rs777478201	L75P	0.18		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		777603253						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		778034561						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		778396638						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		779295072						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	779485504	P11279	rs779485504	S335C	1.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	779485504	P11279	rs779485504	S335C	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		780113794						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		780627739						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		780640418						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		780652365						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		780823952						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	780920291	P11279	rs780920291	I258V	0.129		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	780920291	P11279	rs780920291	I258V	0.26		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		781006446						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		781372178						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	781761301						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		865825882	P11279	rs865825882	A44T	0.992		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		865825882	P11279	rs865825882	A44T	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		865825882	P11279	rs865825882	A44T	0.993		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		865825882	P11279	rs865825882	A44T	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		894172481						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		902883427						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		909984779	P11279	rs909984779	A393T	0.888		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		909984779	P11279	rs909984779	A393T	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		909984779	P11279	rs909984779	A393T	0.892		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		909984779	P11279	rs909984779	A393T	0.0		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	910985378	P11279	rs910985378	L310I	0.586		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant	uncertain significance	910985378	P11279	rs910985378	L310I	0.03		P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		920986475						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		928453372						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		942478877						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		943758414						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		956983223						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		9577229						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		9577230						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		9577503						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		961719428						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		971601002						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		975337087						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		975619683						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		980992313						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		982890555						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		984064249						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		985101210						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279
+LAMP1	missense_variant		989328490						P11279	Lysosome-associated membrane glycoprotein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11279

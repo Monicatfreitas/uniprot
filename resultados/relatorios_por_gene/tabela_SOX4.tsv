@@ -1,0 +1,562 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+SOX4	missense_variant		1007275895						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	1008328462	Q06945	rs1008328462	A346T	0.494		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	1008328462	Q06945	rs1008328462	A346T	0.16		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1010047255						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1014196995	Q06945	rs1014196995	G178A	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1014196995	Q06945	rs1014196995	G178A	0.15		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1020312691						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1020363595						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1024634519						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1024686881	Q06945	rs1024686881	P214S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1024686881	Q06945	rs1024686881	P214S	0.11		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1025578035						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1027281237						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1030019623						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1041508190						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1047155753						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1047402681						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		113232599						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		113786995						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1162675790	Q06945	rs1162675790	G226S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1162675790	Q06945	rs1162675790	G226S	0.31		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1174766317						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1179311144	Q06945	rs1179311144	D398Y	0.734		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1179311144	Q06945	rs1179311144	D398Y	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1179311144	Q06945	rs1179311144	D398Y	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1179311144	Q06945	rs1179311144	D398Y	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1181311743						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1182110233						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1183740318						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1188119641	Q06945	rs1188119641	A253G	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1188119641	Q06945	rs1188119641	A253G	0.26		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1188119641	Q06945	rs1188119641	A253V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1188119641	Q06945	rs1188119641	A253V	0.26		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1189499806						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1190342049						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1193007409						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1193217804						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1193425919						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1194105330						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1196260476						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1197110297	Q06945	rs1197110297	A274V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1197110297	Q06945	rs1197110297	A274V	0.05		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1197143817						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1198115374						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1201164911						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1201604177						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1202796991						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1204892838						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1207392525						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1208411679						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1208877116						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1220765231						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1221489508						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1222167072	Q06945	rs1222167072	S266G	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1222167072	Q06945	rs1222167072	S266G	0.31		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1224145411						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1225214934						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1225593713						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1227565262						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1227676713						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1230914173						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1232576355						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1236278096						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1239037661						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1239245615	Q06945	rs1239245615	D398A	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1239245615	Q06945	rs1239245615	D398A	0.03		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1239245615	Q06945	rs1239245615	D398A	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1239245615	Q06945	rs1239245615	D398A	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1239660890						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1240540773						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1243185351						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1243585768						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1245426760						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1248192845						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1249913428						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1250509849						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1253086621						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1253090043						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1255431345						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1258943031						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1259043340						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1262208598						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1262744814						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1263339348						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1263371778						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1266082499	Q06945	rs1266082499	S143F	0.25		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1266082499	Q06945	rs1266082499	S143F	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1266557738						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1269764904						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1270205385						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1278202300						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1281590770						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1285786079						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1287635188						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1292506327						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1292808767						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1293929301						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1295536087						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1297727132						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1298032866						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1301428992	Q06945	rs1301428992	S379F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1301428992	Q06945	rs1301428992	S379F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1303945457						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1304599628						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1305274797						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1308791971	Q06945	rs1308791971	D156H	0.009		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1308791971	Q06945	rs1308791971	D156H	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1312111408						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1315206418						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1316231705						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1317428173						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1318559972						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1318590230						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1318728543						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1319172622						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1321381224						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1322152311						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1327112776	Q06945	rs1327112776	Y361H	0.413		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1327112776	Q06945	rs1327112776	Y361H	0.07		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1327112776	Q06945	rs1327112776	Y361N	0.496		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1327112776	Q06945	rs1327112776	Y361N	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1327466288						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1329491487						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1330103609						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely pathogenic, pathogenic	1334099693						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1336481800						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1337798821						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1338782915						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1338849740						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1339024322						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1342790894						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1342890345						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1346526867						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1348436319						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1352199781						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1353965720	Q06945	rs1353965720	S394F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1353965720	Q06945	rs1353965720	S394F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1357457671	Q06945	rs1357457671	E464Q	0.997		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1357457671	Q06945	rs1357457671	E464Q	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1357457671	Q06945	rs1357457671	E464Q	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1357457671	Q06945	rs1357457671	E464Q	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1359206316						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1359272946						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1360526109						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1361207064						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1364092588						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1367476809						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1367795516						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1368612881						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1374235221						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	1374365321	Q06945	rs1374365321	A336G	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	1374365321	Q06945	rs1374365321	A336G	1.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1375401399	Q06945	rs1375401399	E326G	0.413		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1375401399	Q06945	rs1375401399	E326G	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1380808039	Q06945	rs1380808039	R359C	0.685		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1380808039	Q06945	rs1380808039	R359C	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1384081551						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1386476499						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1388305146						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1391362203						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1395026864						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	benign	140231408	Q06945	rs140231408	L28V	0.35		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	benign	140231408	Q06945	rs140231408	L28V	0.03		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1403909478	Q06945	rs1403909478	G352S	0.86		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1403909478	Q06945	rs1403909478	G352S	0.55		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1404381929						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1405603394						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1408717986						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1408931634						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1409102323						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1409614654						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1411838758	Q06945	rs1411838758	A145T	0.065		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1411838758	Q06945	rs1411838758	A145T	0.11		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1413168912						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1413973938						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1414017683						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1421210221						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		142386727						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1426679912						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1427010188						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1429538905						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1430142502						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1433098812						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1433674912						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1435022398						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1441668911						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1444709556						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1446570973						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1448393872	Q06945	rs1448393872	S418A	0.021		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1448393872	Q06945	rs1448393872	S418A	0.16		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1450067377						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1451258504	Q06945	rs1451258504	A275V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1451258504	Q06945	rs1451258504	A275V	0.08		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1451600541						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		145209759						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1452105428						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1452129285						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1452713882						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1452783338						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		14547						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1455784863						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1456810192						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1457133254						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1459833552						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely pathogenic, pathogenic	1464282327						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1469955597						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1470249126	Q06945	rs1470249126	T11M	0.928		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1470249126	Q06945	rs1470249126	T11M	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1472493761						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1479512436						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1479943643						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1480033230						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1486643532						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1489688091						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1561756825						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1561757363						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1561757504	Q06945	rs1561757504	E290K	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1561757504	Q06945	rs1561757504	E290K	0.03		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1561757533						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1561757729						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1561757906						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582601550						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely pathogenic, pathogenic	1582601669						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely pathogenic, pathogenic	1582601747						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582602131						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582602306						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582602582						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1582602725						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1582602773						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582602799						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582603093						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1582603178						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1582603223						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1708985144						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1716153758						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1726652007						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763094495						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763094618						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763094911	Q06945	rs1763094911	E9D	0.918		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763094911	Q06945	rs1763094911	E9D	0.02		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763094911	Q06945	rs1763094911	E9D	0.921		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763094911	Q06945	rs1763094911	E9D	0.04		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763095751						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763096119						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763096261						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763096504						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763096546						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763096797						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763096831						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763097475						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763097519						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763098947	Q06945	rs1763098947	R61Q	1.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763098947	Q06945	rs1763098947	R61Q	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763100033						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763100130						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763100201						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763100440	Q06945	rs1763100440	L93Q	1.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763100440	Q06945	rs1763100440	L93Q	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763101264						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763101985						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763102743						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763102922						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763103535						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763103731						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763105415						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763106200						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763106523						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763107509						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763107681						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763107743						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763107845						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763107971						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763108195						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763108297						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763108407						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763108477						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763108567						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763109300						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763109350						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763109869						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763109944						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763110094						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763110361						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763110494						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763110648						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763110760						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763111311						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763111365						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763111470						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763111759						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763111868						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763112372						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763112466						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	1763112571	Q06945	rs1763112571	F237S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	1763112571	Q06945	rs1763112571	F237S	0.23		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763112946						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763113714						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763113801						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763113909	Q06945	rs1763113909	P249H	0.737		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763113909	Q06945	rs1763113909	P249H	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763113909	Q06945	rs1763113909	P249H	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763113909	Q06945	rs1763113909	P249H	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763114499						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763114555						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763114668						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763114837						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763116110						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763117130						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763117553						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763117630	Q06945	rs1763117630	P284R	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763117630	Q06945	rs1763117630	P284R	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763117719						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763118483						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763118592						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763118743						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763119161						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763119234						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763119269						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763119396						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763119781						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763121284						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763121663						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763121761						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763122944						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763123149						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763123209						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763124582						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763125266						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	1763125383						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763125436						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763125601						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763126229						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	1763126459	Q06945	rs1763126459	G360S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	1763126459	Q06945	rs1763126459	G360S	1.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763127952						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763128098						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763128141						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763131641						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763136211						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763136687						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763137552						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763138285						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763138488						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763138744						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763139783						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		1763140341						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	193012067						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	201097197	Q06945	rs201097197	D21E	0.195		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	201097197	Q06945	rs201097197	D21E	0.05		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	benign, likely benign	201864836	Q06945	rs201864836	A316V	0.494		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	benign, likely benign	201864836	Q06945	rs201864836	A316V	0.04		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113556910						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557050	Q06945	rs2113557050	H58P	0.999		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557050	Q06945	rs2113557050	H58P	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557065	Q06945	rs2113557065	A65T	0.984		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557065	Q06945	rs2113557065	A65T	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557103	Q06945	rs2113557103	I77V	0.913		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557103	Q06945	rs2113557103	I77V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	pathogenic	2113557164	Q06945	rs2113557164	W97G	0.999		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	pathogenic	2113557164	Q06945	rs2113557164	W97G	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557278	Q06945	rs2113557278	Y128H	0.999		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557278	Q06945	rs2113557278	Y128H	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557286	Q06945	rs2113557286	K132R	0.736		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557286	Q06945	rs2113557286	K132R	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113557609						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557826	Q06945	rs2113557826	A234P	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113557826	Q06945	rs2113557826	A234P	0.26		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113557935						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113558075						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113558214						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113558270						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113558568						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113558606	Q06945	rs2113558606	S379A	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113558606	Q06945	rs2113558606	S379A	0.43		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		2113558678						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113558999	Q06945	rs2113558999	D461V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2113558999	Q06945	rs2113558999	D461V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532638808						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely pathogenic	2532639300						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely pathogenic	2532639461						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532639476						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532639506						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532640005						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532640164						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532640210						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532640294						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532640551						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532640875						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641053						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641082						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641117						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641368						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641485						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641642						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641932						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	2532641961						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		370133433						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	370939891						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		372597412						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		373023186						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	373692627						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		376249848						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		530447552						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		538933443						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		541266252						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		546231479						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	553092038	Q06945	rs553092038	S338G	0.159		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	553092038	Q06945	rs553092038	S338G	0.33		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		555149763						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		567327969						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	576492044	Q06945	rs576492044	S386F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	576492044	Q06945	rs576492044	S386F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		576568466						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		577834703						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	745491568						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		745571892						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		746270939						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		746559406						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		746935790						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		748157849						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	748365569	Q06945	rs748365569	F436L	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	748365569	Q06945	rs748365569	F436L	0.25		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	749184422	Q06945	rs749184422	S50T	0.052		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	749184422	Q06945	rs749184422	S50T	0.01		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		749862729						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		750038754						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		751155053						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		751377382						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		751894127						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	752979777	Q06945	rs752979777	S333P	0.316		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	752979777	Q06945	rs752979777	S333P	0.21		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	753093855	Q06945	rs753093855	G44C	0.929		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	753093855	Q06945	rs753093855	G44C	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		753377607						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		753643945						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		754222510						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	754464333	Q06945	rs754464333	S389F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	754464333	Q06945	rs754464333	S389F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely benign	755071730						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		755163660						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		755295130						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	755703012	Q06945	rs755703012	P337R	0.811		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	755703012	Q06945	rs755703012	P337R	0.06		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		756206640						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		756484838						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	756844856	Q06945	rs756844856	A289V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	756844856	Q06945	rs756844856	A289V	0.12		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		757472842						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		758037543						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		758184127						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		758561958						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		758978745						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		759016053						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		759202115						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		759746120						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		760293275						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		760342354						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		760363897						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	760694762	Q06945	rs760694762	G300S	0.86		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	760694762	Q06945	rs760694762	G300S	0.05		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		761236649						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		761612153						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		761962126						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		762369755						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		763035958						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	763234364	Q06945	rs763234364	S384F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	763234364	Q06945	rs763234364	S384F	0.03		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	likely pathogenic	763326505						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		763925927						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		764307216						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	764543249	Q06945	rs764543249	D335N	0.55		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	764543249	Q06945	rs764543249	D335N	0.12		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		764800330						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		765063533						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		765502866						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		765670765						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		766772667						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		768098194						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		768554531						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		769209942						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		769546589						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		769691931						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		769927932						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	770636822	Q06945	rs770636822	G168S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	770636822	Q06945	rs770636822	G168S	0.37		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		771060824						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	771504202	Q06945	rs771504202	N140H	0.007		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	771504202	Q06945	rs771504202	N140H	0.08		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		771832240						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		771884780						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		772505606						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		772628417						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		772706911						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		773136486						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		773159471						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		773678265						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	773817213						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		774049259						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		774443031						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		774829036						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		775237479						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		775391562						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		775931531						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		776354906						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		776962279						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	777539753	Q06945	rs777539753	S391F	0.854		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	777539753	Q06945	rs777539753	S391F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	777539753	Q06945	rs777539753	S391F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	777539753	Q06945	rs777539753	S391F	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		778165010						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	778819167	Q06945	rs778819167	A374V	0.103		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	778819167	Q06945	rs778819167	A374V	0.04		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	778819167	Q06945	rs778819167	A374V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	778819167	Q06945	rs778819167	A374V	0.03		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	779342173	Q06945	rs779342173	K261T	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	779342173	Q06945	rs779342173	K261T	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		779477648						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		779861520						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		780233161						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		780801371						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	781114569						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	781461908	Q06945	rs781461908	G159S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	781461908	Q06945	rs781461908	G159S	0.52		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	781512324	Q06945	rs781512324	A244S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	781512324	Q06945	rs781512324	A244S	0.42		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	781512324	Q06945	rs781512324	A244T	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance, likely benign	781512324	Q06945	rs781512324	A244T	0.31		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		781612610	Q06945	rs781612610	V134M	0.962		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		781612610	Q06945	rs781612610	V134M	0.02		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		781612610	Q06945	rs781612610	V134M	0.963		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		781612610	Q06945	rs781612610	V134M	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		866269648						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	868783682	Q06945	rs868783682	P82S	1.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	868783682	Q06945	rs868783682	P82S	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	891180514						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		894875547						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		894926567						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		902131279						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	905546274	Q06945	rs905546274	P334R	0.811		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	905546274	Q06945	rs905546274	P334R	0.07		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		906251003						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		907650701						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	913248450						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		929415241						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		936874645						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		942900880						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		951509089						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		957656529						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		973007407						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		974721071						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	974788511	Q06945	rs974788511	F237L	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	974788511	Q06945	rs974788511	F237L	0.34		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		978476327						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	982980268						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	983998407	Q06945	rs983998407	A230V	0.0		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	983998407	Q06945	rs983998407	A230V	0.11		Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		987009147						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		988875996						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		989745925						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant	uncertain significance	994199242						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945
+SOX4	missense_variant		997938012						Q06945	Transcription factor SOX-4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q06945

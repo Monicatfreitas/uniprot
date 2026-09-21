@@ -1,0 +1,512 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+TNFRSF1B	missense_variant		1002434839						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1005304435						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1013427348						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1016755763						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1024014210						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1025247696						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1030967472						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1035218772						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1039748824						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1047110705						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1055074788						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1061622						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		112914333	P20333	rs112914333	V353M	0.003		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		112914333	P20333	rs112914333	V353M	0.32		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		112914333	P20333	rs112914333	V353M	0.001		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		112914333	P20333	rs112914333	V353M	0.25		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		113538181						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1157030769						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1158441021						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1161130097						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1161179686						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1161627303						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1165015756						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		116544657						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1167745553						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1169566414						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1171501277						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1172147581						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1173371121						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1174124093						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1174712994						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1178196689						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1179647351						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1180231743	P20333	rs1180231743	S403F	0.036		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1180231743	P20333	rs1180231743	S403F	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1180231743	P20333	rs1180231743	S403F	0.038		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1180231743	P20333	rs1180231743	S403F	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1189382370						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1193404009						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1193903255						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1195932298						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1196157734						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1196186135						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1197909380						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1205723402						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1208893913						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1210024390						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1210066424						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1211019270						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1211394956	P20333	rs1211394956	E445K	0.116		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1211394956	P20333	rs1211394956	E445K	0.03		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1211394956	P20333	rs1211394956	E445K	0.114		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1211394956	P20333	rs1211394956	E445K	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1211495838						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1212669152						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1216245843						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1219631480	P20333	rs1219631480	V159M	0.988		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1219631480	P20333	rs1219631480	V159M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1219631480	P20333	rs1219631480	V159M	0.878		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1219631480	P20333	rs1219631480	V159M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1220277863						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1222778333						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1224180060						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1225076278						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1230220017						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1237542862						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1237702412						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1238460328						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1238575239						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1239993379						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1244676565						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1245316629						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1250846430						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1251173550						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1251850435						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1255338199						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1255348094						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1257994903						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1259776482						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1260286777						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1261194720						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1266715777						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1271544700						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1271952249						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1273272828						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1277388576						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1277661952						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1277765229						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1278821745						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1279020529						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1284306004						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1287575282						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1293937312						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1297132545						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1298260090	P20333	rs1298260090	I275L	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1298260090	P20333	rs1298260090	I275L	0.54		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1298260090	P20333	rs1298260090	I275L	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1298260090	P20333	rs1298260090	I275L	0.72		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1299707374						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1302369842						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1303768163						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1310900721						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1311047329						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1311122949						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1313877583						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1314137285	P20333	rs1314137285	E315K	0.996		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1314137285	P20333	rs1314137285	E315K	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1314137285	P20333	rs1314137285	E315K	0.996		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1314137285	P20333	rs1314137285	E315K	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1316209540						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1318990629						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1322813898						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1325036726						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1327931181						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1332720561						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1333138678						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1341035835						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1342549832						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1352692179						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1353940998						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1355528234						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1361425049						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1363305605	P20333	rs1363305605	V160M	0.198		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1363305605	P20333	rs1363305605	V160M	0.11		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1363305605	P20333	rs1363305605	V160M	0.084		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1363305605	P20333	rs1363305605	V160M	0.1		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1365109429						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1366207970						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1369524459						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1372059294						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1373751375						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1373794502						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1377489058						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1377573497						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1382008273						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		138462821						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1385000174						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1387092420						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1389681397	P20333	rs1389681397	E435K	0.076		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1389681397	P20333	rs1389681397	E435K	0.28		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		139221787	P20333	rs139221787	S58L	0.012		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		139221787	P20333	rs139221787	S58L	0.03		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		139221787	P20333	rs139221787	S58L	0.007		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		139221787	P20333	rs139221787	S58L	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1395331378						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1396127181	P20333	rs1396127181	R141C	0.74		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1396127181	P20333	rs1396127181	R141C	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1396127181	P20333	rs1396127181	R141C	0.982		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1396127181	P20333	rs1396127181	R141C	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1401912602						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1403431276						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1405225739						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		140531887						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1407911411						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		140857317						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1409897368						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1412009344						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1412021624						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1416244762						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1418113251						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1418150162						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1420687244	P20333	rs1420687244	V27A	0.012		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1420687244	P20333	rs1420687244	V27A	0.45		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1421760930						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1427733590						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		142879753						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		142907823						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1432445058						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1436339139						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1440783235						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1442742097						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1446199331						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1446742239	P20333	rs1446742239	S432L	0.086		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1446742239	P20333	rs1446742239	S432L	0.03		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1446742239	P20333	rs1446742239	S432L	0.089		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1446742239	P20333	rs1446742239	S432L	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1449197098						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1452448235						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1453628473						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1453960414						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		145736387						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1464781369						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1464943854						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1467745382						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1470584008						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1472945175						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1481054773						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1486091276						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1486420732						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1487073047						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		150329910						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1570114167						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1570150813						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1570157182						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1570160303						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1638406704						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1638407667						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1638407880						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639043827						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639044391						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639044516						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639044681						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639045240						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639045343						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639103675						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639103867						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639104301						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639104510						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639104575						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1639104636						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639104700						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639105570						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639105629						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639106575						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639139527						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639139839						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639139978						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639140044						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639140949						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639141372						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639142552						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639143573						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639166293						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639167025						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639167420						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639167693						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639167825						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639168227						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639168569						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639179579						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639180323						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639181821						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639182786						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1639183799	P20333	rs1639183799	P233H	0.952		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1639183799	P20333	rs1639183799	P233H	0.02		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639184486						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639184764						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639185085						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639185150						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639185700						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639186400						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639186627						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639209871						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639210870						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639211179						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639211690						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639211850						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639224551						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639227080						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639227278						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639228046						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639228711						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639228870						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639401364						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639402186						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639402310						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639403431						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639404154						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639404646						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639405157						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639405462						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639405839						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639406667						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1639406742	P20333	rs1639406742	Q347H	0.006		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	1639406742	P20333	rs1639406742	Q347H	0.11		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639512008						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639512692						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639513001						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639514239						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639514440						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639514709						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639516915						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639517949						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639518407						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639518522						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639519333						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		1639519859						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		17879042						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		17883432						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	183755458						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		192393562						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	benign	199873050	P20333	rs199873050	T203M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	benign	199873050	P20333	rs199873050	T203M	0.16		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	benign	199931640	P20333	rs199931640	K307E	0.994		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	benign	199931640	P20333	rs199931640	K307E	0.03		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		199974127						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		200254914						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		200538351						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		200600328						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		201545665						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		201574750	P20333	rs201574750	T168M	0.999		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		201574750	P20333	rs201574750	T168M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		201574750	P20333	rs201574750	T168M	0.995		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		201574750	P20333	rs201574750	T168M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		201949042						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101101905						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101102000						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101105740						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101107659						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101110099						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101124923						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		2101132615						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	benign	2228494						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	benign	2229700						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	2523675742						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	2523712493						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	2523732271						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		369918901						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		370292777						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		370414826						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		372085903						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		372228157						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		372666981						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		372936982						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		373216188						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		373401765						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		373722040						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		375442414						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		375627878						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		375948624						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		376576479						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		377153023						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		377693214						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		529293509						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		531788500						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	534114957	P20333	rs534114957	R309W	0.642		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	534114957	P20333	rs534114957	R309W	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	534114957	P20333	rs534114957	R309W	0.638		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	534114957	P20333	rs534114957	R309W	0.06		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		536867737						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	538653610						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		540459773						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		543515279						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		547631013						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		549564583						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		557877494						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		55925819						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		560260854						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		560425333						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		560783734						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		563979080						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		564617314						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		566360968						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		571129550						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		571590743						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		5746026						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		5746027						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		5746032						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		5746034						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		745464912						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		745706109						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		745744593						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		745814265						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746004548	P20333	rs746004548	R116H	1.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746004548	P20333	rs746004548	R116H	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746004548	P20333	rs746004548	R116H	1.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746004548	P20333	rs746004548	R116H	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746051386						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746096580						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		746890304						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		747520649						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		748149623						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	748261132	P20333	rs748261132	E354D	0.039		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	748261132	P20333	rs748261132	E354D	0.17		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		748589747						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		748689571						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		749124537						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		749226357						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		750001274						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		750041133						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		750342650						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		750633484						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		750877409						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		750974996						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		751807806						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		752294850						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		752767671						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		75299314						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		753751204						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	754452683						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		754560287	P20333	rs754560287	R141H	0.559		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		754560287	P20333	rs754560287	R141H	0.02		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		754560287	P20333	rs754560287	R141H	0.754		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		754560287	P20333	rs754560287	R141H	0.02		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		755064457						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		755627203						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		755745035						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		756172076						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	756427248	P20333	rs756427248	P166L	0.984		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	756427248	P20333	rs756427248	P166L	0.02		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		756642899						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		757038561						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	757100808						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		757274903	P20333	rs757274903	G37R	0.47		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		757274903	P20333	rs757274903	G37R	0.18		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		757274903	P20333	rs757274903	G37R	0.465		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		757274903	P20333	rs757274903	G37R	0.09		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		757378017						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		758171297						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		758204349						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		758561163						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		758758687						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		758938065						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		759020786						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	likely benign	759147185						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		759423347						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		759919319						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		759922521						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		760020939						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		760290566						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		762392997						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		762997433						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764162463						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764190618	P20333	rs764190618	T227M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764190618	P20333	rs764190618	T227M	0.23		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764190618	P20333	rs764190618	T227M	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764190618	P20333	rs764190618	T227M	0.26		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764464033	P20333	rs764464033	P324L	0.652		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764464033	P20333	rs764464033	P324L	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764464033	P20333	rs764464033	P324L	0.647		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764464033	P20333	rs764464033	P324L	0.0		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		764907617						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		765241635						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		765379693						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		765864632	P20333	rs765864632	P139L	0.005		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		765864632	P20333	rs765864632	P139L	0.27		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		765864632	P20333	rs765864632	P139L	0.006		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		765864632	P20333	rs765864632	P139L	0.19		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		766286313						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		767627829						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		767782313						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		767797172						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		767798835						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		768027709						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		768236405						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		769055591						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		769092299						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		769329010						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		769890498						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		770101089						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		770178506						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		770243493						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		770267357						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		771371338						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		771452615						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		771751980						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	773229323						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		773618391						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		773695049						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774062294	P20333	rs774062294	T436M	0.474		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774062294	P20333	rs774062294	T436M	0.03		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774062294	P20333	rs774062294	T436M	0.469		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774062294	P20333	rs774062294	T436M	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774150151						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774465726						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		774996171						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	775210038						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		775373098						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		775398223						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		775628074						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		775871058						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776056858						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776601667						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776727613	P20333	rs776727613	S71L	0.071		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776727613	P20333	rs776727613	S71L	0.08		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776727613	P20333	rs776727613	S71L	0.046		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776727613	P20333	rs776727613	S71L	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		776907951						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		777077445						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		777283533						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		777359200						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		778009210						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		778125323						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		778723682						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		778888553						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		778973992						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		779095658						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		779781521						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		780013560						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		780026833						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		780440633						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		780895721						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		781014897						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		781160620						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	781203144						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		781291221						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	781375513						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		781525724						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		781592930						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		781754593						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		866383062	P20333	rs866383062	S371F	0.234		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		866383062	P20333	rs866383062	S371F	0.02		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		866383062	P20333	rs866383062	S371F	0.242		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		866383062	P20333	rs866383062	S371F	0.01		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		866539950						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		907479646						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		912125710						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		917000076						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		920812164						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		945439						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		946215007						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		951619189						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		962913643						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		969055764						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	971404233	P20333	rs971404233	R362W	0.005		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant	uncertain significance	971404233	P20333	rs971404233	R362W	0.13		P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		975718434						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		978337134						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		981800406						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		989561624						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333
+TNFRSF1B	missense_variant		999124593						P20333	Tumor necrosis factor receptor superfamily member 1B	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20333

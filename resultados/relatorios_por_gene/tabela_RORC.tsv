@@ -1,0 +1,628 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+RORC	missense_variant		1003218627	P51449	rs1003218627	P254T	0.031		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1003218627	P51449	rs1003218627	P254T	0.4		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1003218627	P51449	rs1003218627	P254T	0.033		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1003218627	P51449	rs1003218627	P254T	0.4		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1007714530	P51449	rs1007714530	F233L	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1007714530	P51449	rs1007714530	F233L	0.14		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1012788898						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1024960483						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1028402787						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1037634340						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1039869799	P51449	rs1039869799	I417T	0.999		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1039869799	P51449	rs1039869799	I417T	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1040114528						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	1042295993	P51449	rs1042295993	T148A	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	1042295993	P51449	rs1042295993	T148A	0.75		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1049120663						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, benign	113195254	P51449	rs113195254	A464G	0.71		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, benign	113195254	P51449	rs113195254	A464G	0.04		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, benign	113195254	P51449	rs113195254	A464V	0.353		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, benign	113195254	P51449	rs113195254	A464V	0.06		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		115840594						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1161656885	P51449	rs1161656885	S199P	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1161656885	P51449	rs1161656885	S199P	0.21		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1165554896						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1169688183						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1171305374						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1171585034						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1174194568						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1177503789	P51449	rs1177503789	L483V	0.973		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1177503789	P51449	rs1177503789	L483V	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1182775718						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1184514416						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1194100940	P51449	rs1194100940	T68I	0.928		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1194100940	P51449	rs1194100940	T68I	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1199081407						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1200823915						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1202911509						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1203599653						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1204625530	P51449	rs1204625530	R77C	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1204625530	P51449	rs1204625530	R77C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1204625530	P51449	rs1204625530	R77C	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1204625530	P51449	rs1204625530	R77C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1205749942						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1209731485	P51449	rs1209731485	P260L	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1209731485	P51449	rs1209731485	P260L	0.61		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1209731485	P51449	rs1209731485	P260L	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1209731485	P51449	rs1209731485	P260L	0.36		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1217419102						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1218425842						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1221911394						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1222050210	P51449	rs1222050210	R430W	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1222050210	P51449	rs1222050210	R430W	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1222050210	P51449	rs1222050210	R430W	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1222050210	P51449	rs1222050210	R430W	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1226877768						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1232601894						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1246487054						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1248576663						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1249285688						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1252018265	P51449	rs1252018265	T150I	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1252018265	P51449	rs1252018265	T150I	0.1		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1252018265	P51449	rs1252018265	T150I	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1252018265	P51449	rs1252018265	T150I	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1257570507						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1258003935						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1258754499						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1259909139						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1269659174						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1269896323						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1270385496						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1272363264	P51449	rs1272363264	G53S	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1272363264	P51449	rs1272363264	G53S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1272363264	P51449	rs1272363264	G53S	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1272363264	P51449	rs1272363264	G53S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1274447330						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1275617869						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1278136949						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1278756017						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1283364417						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1284723198						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1286278056	P51449	rs1286278056	Q349K	0.995		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1286278056	P51449	rs1286278056	Q349K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1288180392						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1288411406						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1295691571						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1297798833	P51449	rs1297798833	A497T	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1297798833	P51449	rs1297798833	A497T	0.5		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1297798833	P51449	rs1297798833	A497T	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1297798833	P51449	rs1297798833	A497T	0.52		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1310092076						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1311226264						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1312811786						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1312874608	P51449	rs1312874608	C229Y	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1312874608	P51449	rs1312874608	C229Y	0.11		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1313461448						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1313665310						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1318069266						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1321148948						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1323586530	P51449	rs1323586530	H490Y	0.027		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1323586530	P51449	rs1323586530	H490Y	0.96		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1323846699						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1330717910						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1330887604	P51449	rs1330887604	R337K	0.357		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1330887604	P51449	rs1330887604	R337K	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1330887604	P51449	rs1330887604	R337K	0.906		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1330887604	P51449	rs1330887604	R337K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1337590997						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1338478083						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1339706501						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1344430379						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1346476191						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1347965305						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1348088397						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1349640224						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1353198911						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1354039311						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1359262190	P51449	rs1359262190	R473Q	0.727		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1359262190	P51449	rs1359262190	R473Q	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1359262190	P51449	rs1359262190	R473Q	0.782		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1359262190	P51449	rs1359262190	R473Q	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1364544762						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1366848795						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1371599047						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1372213178						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1376984063						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1379202625						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	138308209	P51449	rs138308209	V493M	0.057		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	138308209	P51449	rs138308209	V493M	0.04		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		139288118						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	139551639	P51449	rs139551639	A357V	0.587		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	139551639	P51449	rs139551639	A357V	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1395741779						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1397316941						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1402230582						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1404299982						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1407441133						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	141253212	P51449	rs141253212	S199L	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	141253212	P51449	rs141253212	S199L	0.21		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	141288859						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1413632721	P51449	rs1413632721	Q124H	0.289		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1413632721	P51449	rs1413632721	Q124H	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1413632721	P51449	rs1413632721	Q124H	0.298		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1413632721	P51449	rs1413632721	Q124H	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	141521274						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1417993880						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1420005677						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1421084680						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	142141845	P51449	rs142141845	H85Y	0.688		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	142141845	P51449	rs142141845	H85Y	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		142790947						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1427978992	P51449	rs1427978992	R98Q	0.998		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1427978992	P51449	rs1427978992	R98Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1427978992	P51449	rs1427978992	R98Q	0.998		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1427978992	P51449	rs1427978992	R98Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1430337140						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	143596741	P51449	rs143596741	A63V	0.015		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	143596741	P51449	rs143596741	A63V	0.79		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1437862355						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1440558839						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	144219320	P51449	rs144219320	R237S	0.001		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	144219320	P51449	rs144219320	R237S	0.06		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1443790515	P51449	rs1443790515	G384A	0.249		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1443790515	P51449	rs1443790515	G384A	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1446577047						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		145162457						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1452787585						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1454953785	P51449	rs1454953785	T23A	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1454953785	P51449	rs1454953785	T23A	0.17		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1455875267						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1462507379						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1465721781	P51449	rs1465721781	N196H	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1465721781	P51449	rs1465721781	N196H	0.1		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	1466228890						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1468536347						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1469359718	P51449	rs1469359718	E511K	0.47		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1469359718	P51449	rs1469359718	E511K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1473076429						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1480717031						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	148168558	P51449	rs148168558	E435G	0.498		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	148168558	P51449	rs148168558	E435G	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1483900913						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1558163541						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1558165077						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572032304						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572032312						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1572032352	P51449	rs1572032352	F486I	0.997		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1572032352	P51449	rs1572032352	F486I	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1572036408	P51449	rs1572036408	R367G	0.988		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1572036408	P51449	rs1572036408	R367G	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	1572036625						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572037208						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572037236						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572037376						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572037539						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572038347						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572039443						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572039468						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1572039895						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651363420						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651364949						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651365630						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651366523						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651519522						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651597914						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651598203						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651599247						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651599773						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651610525	P51449	rs1651610525	K381I	0.97		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651610525	P51449	rs1651610525	K381I	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651610615						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651610796						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651611063						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651623227						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651624256						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651625342	P51449	rs1651625342	A335S	0.993		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651625342	P51449	rs1651625342	A335S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651628750						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651661754						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651662502						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651663252						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651664909						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651664992						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651665690						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651666696						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651667150						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651667877						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651668091						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651669185						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651669283						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651669573						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651671965						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651672789	P51449	rs1651672789	K311Q	0.779		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651672789	P51449	rs1651672789	K311Q	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651676487						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651677066						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651696812						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651697344	P51449	rs1651697344	P263T	0.015		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651697344	P51449	rs1651697344	P263T	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651698157						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	pathogenic	1651702189						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651705988						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651707381	P51449	rs1651707381	G194R	0.005		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651707381	P51449	rs1651707381	G194R	0.14		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651707676						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651708005						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651709389						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651710774	P51449	rs1651710774	P173S	0.011		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651710774	P51449	rs1651710774	P173S	0.64		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651711330						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	1651711462						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651713099						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651713477						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651713678						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651714174	P51449	rs1651714174	G152A	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651714174	P51449	rs1651714174	G152A	0.1		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651715138						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651718447						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651718528	P51449	rs1651718528	Q124E	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651718528	P51449	rs1651718528	Q124E	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651719747	P51449	rs1651719747	D112N	0.992		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651719747	P51449	rs1651719747	D112N	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651720204						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651720413	P51449	rs1651720413	R105C	0.999		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651720413	P51449	rs1651720413	R105C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651720413	P51449	rs1651720413	R105C	0.999		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651720413	P51449	rs1651720413	R105C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651720607						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651765160						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651765876						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651766753	P51449	rs1651766753	R80Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651766753	P51449	rs1651766753	R80Q	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651766753	P51449	rs1651766753	R80Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1651766753	P51449	rs1651766753	R80Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651769581						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1651770503						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		1652427449						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1652427545	P51449	rs1652427545	R3K	0.753		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	1652427545	P51449	rs1652427545	R3K	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	183023655	P51449	rs183023655	G240R	0.001		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	183023655	P51449	rs183023655	G240R	0.1		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	187005517						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		188185597						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199550478	P51449	rs199550478	R232C	0.276		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199550478	P51449	rs199550478	R232C	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199550478	P51449	rs199550478	R232C	0.272		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199550478	P51449	rs199550478	R232C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		199576037						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		199643455						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199657854	P51449	rs199657854	R208Q	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199657854	P51449	rs199657854	R208Q	0.63		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199657854	P51449	rs199657854	R208Q	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199657854	P51449	rs199657854	R208Q	0.57		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		199662679						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199793998	P51449	rs199793998	Q246P	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199793998	P51449	rs199793998	Q246P	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		199799266						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		199920575						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199968527	P51449	rs199968527	S12L	0.035		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	199968527	P51449	rs199968527	S12L	0.04		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		199979672						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200134900	P51449	rs200134900	I400V	0.098		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200134900	P51449	rs200134900	I400V	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200227947	P51449	rs200227947	G252S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200227947	P51449	rs200227947	G252S	0.61		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200235475						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200283675	P51449	rs200283675	H453L	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200283675	P51449	rs200283675	H453L	0.5		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	200303989	P51449	rs200303989	R125Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	200303989	P51449	rs200303989	R125Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	200303989	P51449	rs200303989	R125Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	200303989	P51449	rs200303989	R125Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200446012	P51449	rs200446012	R374H	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200446012	P51449	rs200446012	R374H	0.23		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200449406	P51449	rs200449406	Q59H	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200449406	P51449	rs200449406	Q59H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200450367						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200523716	P51449	rs200523716	E416G	0.999		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200523716	P51449	rs200523716	E416G	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	benign	200531029	P51449	rs200531029	K469R	0.361		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	benign	200531029	P51449	rs200531029	K469R	0.2		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	200556721	P51449	rs200556721	N445S	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	200556721	P51449	rs200556721	N445S	0.09		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200578427						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200583556						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200604231						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200731969						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200739286						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		200783452						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200851190	P51449	rs200851190	G156R	0.255		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200851190	P51449	rs200851190	G156R	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200854121	P51449	rs200854121	H452Q	0.492		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200854121	P51449	rs200854121	H452Q	0.05		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200855307						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200944681	P51449	rs200944681	R82Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200944681	P51449	rs200944681	R82Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200978307	P51449	rs200978307	R228Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200978307	P51449	rs200978307	R228Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200978307	P51449	rs200978307	R228Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	200978307	P51449	rs200978307	R228Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201021982						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201127800						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201163910	P51449	rs201163910	N196S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201163910	P51449	rs201163910	N196S	0.44		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201219763	P51449	rs201219763	V277I	0.027		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201219763	P51449	rs201219763	V277I	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201219763	P51449	rs201219763	V277I	0.017		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201219763	P51449	rs201219763	V277I	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201246530						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201339359						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201371377						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201373806	P51449	rs201373806	A63T	0.267		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201373806	P51449	rs201373806	A63T	0.04		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201494136	P51449	rs201494136	A141V	0.018		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201494136	P51449	rs201494136	A141V	0.09		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201513739						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201594795						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201629608	P51449	rs201629608	N373S	0.953		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201629608	P51449	rs201629608	N373S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201660295	P51449	rs201660295	P5R	0.988		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201660295	P51449	rs201660295	P5R	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	201691098	P51449	rs201691098	R13Q	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	201691098	P51449	rs201691098	R13Q	0.31		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201794465						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201848485						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201851811	P51449	rs201851811	Y218F	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201851811	P51449	rs201851811	Y218F	0.57		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201874209	P51449	rs201874209	R10Q	0.017		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	201874209	P51449	rs201874209	R10Q	0.46		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		201949053						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	202038919	P51449	rs202038919	H429Y	0.001		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	202038919	P51449	rs202038919	H429Y	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	202038919	P51449	rs202038919	H429Y	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	202038919	P51449	rs202038919	H429Y	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		202117520						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		202196367						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101649226						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101649238	P51449	rs2101649238	K469N	0.957		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101649238	P51449	rs2101649238	K469N	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101655603	P51449	rs2101655603	L423V	0.292		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101655603	P51449	rs2101655603	L423V	0.05		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101656097						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101656440						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101656505	P51449	rs2101656505	V331A	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101656505	P51449	rs2101656505	V331A	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101657657						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101658675	P51449	rs2101658675	G240E	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101658675	P51449	rs2101658675	G240E	0.14		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101658776						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101658846	P51449	rs2101658846	E212K	0.024		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101658846	P51449	rs2101658846	E212K	0.12		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101658846	P51449	rs2101658846	E212K	0.025		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101658846	P51449	rs2101658846	E212K	0.06		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101658889						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101659060						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101659132						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101659247						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101659330						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101662435						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101662490	P51449	rs2101662490	V28G	0.959		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2101662490	P51449	rs2101662490	V28G	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101679311						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		2101682103						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525612188						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525615423						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525619518						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525619548						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525620200						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525621617						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525622738						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525624256						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	2525633510						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		267598019	P51449	rs267598019	R282K	0.007		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		267598019	P51449	rs267598019	R282K	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		267598019	P51449	rs267598019	R282K	0.115		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		267598019	P51449	rs267598019	R282K	0.56		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		267598020						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	benign	34830957						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		368067137	P51449	rs368067137	E395K	0.191		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		368067137	P51449	rs368067137	E395K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		368067137	P51449	rs368067137	E395K	0.127		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		368067137	P51449	rs368067137	E395K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	369382764	P51449	rs369382764	C476S	0.972		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	369382764	P51449	rs369382764	C476S	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		370205472						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		373797307						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		375068209						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	375293231	P51449	rs375293231	C200R	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	375293231	P51449	rs375293231	C200R	0.33		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		375493898						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	376651505						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	41263732	P51449	rs41263732	S250N	0.001		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	likely benign	41263732	P51449	rs41263732	S250N	0.15		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		531916914						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		534318743						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		540635307						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		542407905						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		546157871	P51449	rs546157871	A93V	0.981		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		546157871	P51449	rs546157871	A93V	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		546157871	P51449	rs546157871	A93V	0.981		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		546157871	P51449	rs546157871	A93V	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		549733161						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		562824160						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		563185605						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		565852440						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		569307472						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		573541072						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	745629463	P51449	rs745629463	R13W	0.15		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	745629463	P51449	rs745629463	R13W	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	746187982	P51449	rs746187982	R257H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	746187982	P51449	rs746187982	R257H	0.37		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746189792						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746722517	P51449	rs746722517	R60H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746722517	P51449	rs746722517	R60H	0.05		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746722517	P51449	rs746722517	R60H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746722517	P51449	rs746722517	R60H	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746990319	P51449	rs746990319	R302W	0.965		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746990319	P51449	rs746990319	R302W	0.08		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746990319	P51449	rs746990319	R302W	0.905		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		746990319	P51449	rs746990319	R302W	0.06		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	747949898	P51449	rs747949898	T136N	0.031		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	747949898	P51449	rs747949898	T136N	0.48		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		748200298						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		748965307						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		749323725						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	749461528	P51449	rs749461528	S187C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	749461528	P51449	rs749461528	S187C	0.04		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	749576267	P51449	rs749576267	R294W	0.961		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	749576267	P51449	rs749576267	R294W	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	749576267	P51449	rs749576267	R294W	0.895		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	749576267	P51449	rs749576267	R294W	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		750400604						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	750446790	P51449	rs750446790	R374C	0.647		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	750446790	P51449	rs750446790	R374C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	750446790	P51449	rs750446790	R374C	0.973		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	750446790	P51449	rs750446790	R374C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		750909402						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		751170931						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		751778413						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	751829653	P51449	rs751829653	D76N	0.999		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	751829653	P51449	rs751829653	D76N	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		752988925						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		753055292						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		754055912						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		754504567						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	754827467	P51449	rs754827467	A497V	0.006		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	754827467	P51449	rs754827467	A497V	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		755022328						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	755454173						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		755871920	P51449	rs755871920	R69H	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		755871920	P51449	rs755871920	R69H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		755871920	P51449	rs755871920	R69H	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		755871920	P51449	rs755871920	R69H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		756499857						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		756743069						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	756789106	P51449	rs756789106	R232H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	756789106	P51449	rs756789106	R232H	0.34		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	756789106	P51449	rs756789106	R232H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	756789106	P51449	rs756789106	R232H	0.25		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		756964643						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		757482685						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		757737710						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	757895511	P51449	rs757895511	T375M	0.998		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	757895511	P51449	rs757895511	T375M	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	757895511	P51449	rs757895511	T375M	0.993		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	757895511	P51449	rs757895511	T375M	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	758239791	P51449	rs758239791	R302Q	0.034		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	758239791	P51449	rs758239791	R302Q	0.77		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758504357						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758557667						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758658288	P51449	rs758658288	G230E	0.013		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758658288	P51449	rs758658288	G230E	0.08		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758658288	P51449	rs758658288	G230E	0.013		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758658288	P51449	rs758658288	G230E	0.03		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		758982491						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	760272311						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		760694776						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	760810577	P51449	rs760810577	Q286H	0.971		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance, likely benign	760810577	P51449	rs760810577	Q286H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		761285499						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		761340540						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		761762343						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		761804556						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		761964234						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	762477159	P51449	rs762477159	P132R	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	762477159	P51449	rs762477159	P132R	0.49		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		763738063						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		764128616						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		764179397						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	764892778	P51449	rs764892778	R7K	0.753		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	764892778	P51449	rs764892778	R7K	0.08		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		76527589						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		765307643						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		765958902						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		766015355						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		766805588						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		767131651						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		767397591						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		767417110						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	767984181	P51449	rs767984181	R125W	0.334		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	767984181	P51449	rs767984181	R125W	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		768303022						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		768432916						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		769094214						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		769279954						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		770178028						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	770398960	P51449	rs770398960	P132S	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	770398960	P51449	rs770398960	P132S	0.48		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	770398960	P51449	rs770398960	P132T	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	770398960	P51449	rs770398960	P132T	0.36		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		771168526						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		771764170						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	772649787						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	772922536	P51449	rs772922536	R294Q	0.031		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	772922536	P51449	rs772922536	R294Q	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		773052720						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		773547107						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	774023701	P51449	rs774023701	Q128E	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	774023701	P51449	rs774023701	Q128E	0.16		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		774068312						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	pathogenic	774357869						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	774465877	P51449	rs774465877	G181A	0.017		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	774465877	P51449	rs774465877	G181A	0.54		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		774874309						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		775194753	P51449	rs775194753	A327T	0.997		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		775194753	P51449	rs775194753	A327T	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		775194753	P51449	rs775194753	A327T	0.991		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		775194753	P51449	rs775194753	A327T	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		775415126						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		776454036						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		776568967						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		776802205	P51449	rs776802205	R56H	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		776802205	P51449	rs776802205	R56H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		776802205	P51449	rs776802205	R56H	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		776802205	P51449	rs776802205	R56H	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		777497402						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		778439384						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	778538416	P51449	rs778538416	T259I	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	778538416	P51449	rs778538416	T259I	0.27		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		778864243						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		779171789						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		779302154						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		780270217						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	780400028	P51449	rs780400028	R257C	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	780400028	P51449	rs780400028	R257C	0.19		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		780914666						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		781293238						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		781406501						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		781505074						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866433322	P51449	rs866433322	E283K	0.036		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866433322	P51449	rs866433322	E283K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866433322	P51449	rs866433322	E283K	0.024		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866433322	P51449	rs866433322	E283K	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866626307	P51449	rs866626307	D2N	0.977		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866626307	P51449	rs866626307	D2N	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866626307	P51449	rs866626307	D2N	0.958		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		866626307	P51449	rs866626307	D2N	0.04		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		867040756						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		867423395						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		868636033						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	887739679	P51449	rs887739679	H22Y	0.003		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	887739679	P51449	rs887739679	H22Y	0.05		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	900022540	P51449	rs900022540	A409T	0.078		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	900022540	P51449	rs900022540	A409T	0.02		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		906824086						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	910828529	P51449	rs910828529	R296H	0.832		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	910828529	P51449	rs910828529	R296H	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	911262602	P51449	rs911262602	Q443P	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	911262602	P51449	rs911262602	Q443P	0.01		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		913613020						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	932089849	P51449	rs932089849	D165G	0.025		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	932089849	P51449	rs932089849	D165G	0.22		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		945123159						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		952247030						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		953182380						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		957724471						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		958818080						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		959401711						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		965660807						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	966281606	P51449	rs966281606	G221D	0.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	966281606	P51449	rs966281606	G221D	1.0		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		972194795						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		975378759						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		975512932						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		982677682						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant		990975773						P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	997157586	P51449	rs997157586	R288Q	0.006		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449
+RORC	missense_variant	uncertain significance	997157586	P51449	rs997157586	R288Q	0.22		P51449	Nuclear receptor ROR-gamma	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P51449

@@ -1,0 +1,370 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ANXA1	missense_variant		1024473513						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1025883774						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1033769795						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1035662921						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1041205851						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1043729753						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		111698970						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	11557052	P04083	rs11557052	N43Y	0.659		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	11557052	P04083	rs11557052	N43Y	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		11557058						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1159430245						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1159443858						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1159927779						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		116080195						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1161468939						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1173451184						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1176664065						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1183979591						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1196486696						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1206824935						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1208155036						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1221494904						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1223350127						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1224222319	P04083	rs1224222319	A142S	0.26		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1224222319	P04083	rs1224222319	A142S	0.02		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1225300286						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1240005119						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1241856536						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1246006408						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1247950178						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1249169327						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1253098831						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1255241060						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1262089325						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1265125160	P04083	rs1265125160	S27L	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1265125160	P04083	rs1265125160	S27L	0.09		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1266264118	P04083	rs1266264118	R212K	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1266264118	P04083	rs1266264118	R212K	1.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1268102804						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1270604748						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1275423343						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1279857941						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1281436596						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1286351360						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1288834624						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1291045567						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1291420809						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1292895975						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1293804111						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1296284987						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1300218215						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1300329304						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1303742711						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1308023506	P04083	rs1308023506	P44S	0.034		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1308023506	P04083	rs1308023506	P44S	0.1		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1308081465						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1315005052						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1318458306						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1319099937						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1327545761						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1328675861						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1328778236						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1329979405	P04083	rs1329979405	H103R	0.569		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1329979405	P04083	rs1329979405	H103R	0.09		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1332707809						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1340469169						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1345345250						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1351169303						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1352331937						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1353862037						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1355355949						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1355643789						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1363534251						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1364288336						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1369672677	P04083	rs1369672677	V268M	0.965		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1369672677	P04083	rs1369672677	V268M	0.01		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1372043228						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1372872757						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1373748594						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1374313609						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1378771396						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1383371894						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1385794738						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	138602190	P04083	rs138602190	R234C	0.048		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	138602190	P04083	rs138602190	R234C	0.16		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		139228721						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1404935448						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1409803787						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		141175221						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1411798145						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1411973218						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		141725650						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		141810071						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1418950486						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		142511024	P04083	rs142511024	A49T	0.021		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		142511024	P04083	rs142511024	A49T	0.05		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1425681042						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1426409431						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		142849845	P04083	rs142849845	G33R	0.022		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		142849845	P04083	rs142849845	G33R	0.03		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1433781275						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1438443996						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1442292337						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1445612128						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	benign	144643143	P04083	rs144643143	T223N	0.026		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	benign	144643143	P04083	rs144643143	T223N	0.4		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	144842081	P04083	rs144842081	R77H	1.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	144842081	P04083	rs144842081	R77H	0.01		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1457720480						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1460020609						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1460117107	P04083	rs1460117107	A313T	0.007		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1460117107	P04083	rs1460117107	A313T	0.47		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1460989206						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1461357455						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1462571732						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1464048994						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1466603676						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1470954682	P04083	rs1470954682	C270Y	0.174		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1470954682	P04083	rs1470954682	C270Y	0.03		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1472060869						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1472614275						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1480879662						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1481029319						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1490910031						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	149989764						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	150591447	P04083	rs150591447	A279S	1.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	150591447	P04083	rs150591447	A279S	0.02		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1554673653						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1563961674						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1563963692						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1563964200						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588218566						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588219318						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588220485						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588220526						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588224223						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588227710						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588227739						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588227752						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1588227769						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824085432						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824085864						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824086436						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824086488						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824086665						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824089069						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824089260						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824089843						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824090296						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824100056						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824101727						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824101779						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824115484						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824116062						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824116319						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824117005						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824117667						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824129124						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824130629						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824131172						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824131311						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824164900						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824165011						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824165810						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824166515						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824177468						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824177923						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824178965						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824204903						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824205101						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824207070						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824207128						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824224369						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824225953						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824251973						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824252028						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824252524						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824252729						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1824280825						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824281489						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824282870						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1824282924						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824283682						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824284071						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	1824297604						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1824298252						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		1827543928						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	184644030						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		190998635						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		200321397						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		200423132						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	200599744						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		200795528						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		201875399						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118144524						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118145243						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118145374						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118145640						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118147776						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118171605						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		2118183496						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	2490390200						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	2490397287						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	2490397294						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	2490397429						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		267602264						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		367962910						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	368085989	P04083	rs368085989	T169S	0.084		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	368085989	P04083	rs368085989	T169S	0.31		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		368717717						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	likely benign	369329871						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		370232910						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	370997349						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		371854581						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		376171580	P04083	rs376171580	A35V	0.003		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		376171580	P04083	rs376171580	A35V	0.04		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	377206672						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		377359805						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		533499971	P04083	rs533499971	A179T	0.399		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		533499971	P04083	rs533499971	A179T	0.08		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		534445509						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		536986668						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		539626064						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	543730068	P04083	rs543730068	T132A	0.99		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	543730068	P04083	rs543730068	T132A	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		544683457						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		547208797						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	550451804	P04083	rs550451804	M127L	0.067		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	550451804	P04083	rs550451804	M127L	0.04		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		552797541						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		556256496						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		562768663						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		563619965						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		567656953						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		569599724						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	570755224	P04083	rs570755224	R292H	0.156		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	570755224	P04083	rs570755224	R292H	0.02		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		745737142						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		745791885						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		745896768						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		745959338						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		746085433						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	746524290	P04083	rs746524290	I297L	0.443		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	746524290	P04083	rs746524290	I297L	0.01		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	746783076	P04083	rs746783076	V220M	0.358		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	746783076	P04083	rs746783076	V220M	0.02		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		747640646						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		748765797						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		748890727						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		749564615						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		749629349						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		750091835	P04083	rs750091835	R72Q	0.946		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		750091835	P04083	rs750091835	R72Q	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		750252865						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		750830827						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		751100018						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		751774481	P04083	rs751774481	M308I	0.583		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		751774481	P04083	rs751774481	M308I	0.03		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	752285742	P04083	rs752285742	R124H	0.986		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	752285742	P04083	rs752285742	R124H	0.1		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		752680857						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		752850381						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		753484642						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	753709791	P04083	rs753709791	D93V	0.083		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	753709791	P04083	rs753709791	D93V	0.12		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		753762644						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		753950463						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		754170721						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	754419431	P04083	rs754419431	T172I	0.989		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	754419431	P04083	rs754419431	T172I	0.01		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		755105129						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		755924071						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	756034897						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		756050061						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		756551545						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		756611110						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		756776231						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		757063208	P04083	rs757063208	T101A	0.011		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		757063208	P04083	rs757063208	T101A	0.02		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		757802790						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		758013277						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		758853777						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		758910600						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		759209422						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		759650458						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		759672522						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		759725506						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		761621511						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		762166531						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		762557361						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		762722540						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	762750858						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		763037344						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		763074908						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		763663358						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		764761585						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		765226924						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		765904278						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		765972811						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		766591114	P04083	rs766591114	M308T	0.68		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		766591114	P04083	rs766591114	M308T	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		766624937						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		766978843						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		767002428						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		767497482						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		767563984						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		767686814						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		767743802						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	767911003						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		767933861						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		768319087						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		768486386						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		769227185						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		769392880						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	770135039						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		770534471						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		771134757						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		771649725						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		771905093						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		772091621						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		772657814						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		773134758						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		773421579						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		774163524						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		774544645						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		774606679						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		774669199						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		775282021						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	775791748	P04083	rs775791748	T241N	0.003		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	775791748	P04083	rs775791748	T241N	0.08		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	776755767	P04083	rs776755767	R303H	0.721		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	776755767	P04083	rs776755767	R303H	0.03		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		777436816						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		777534277						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		777604252						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		778266723						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		778298033						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	778889698	P04083	rs778889698	V194M	0.422		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	778889698	P04083	rs778889698	V194M	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		779021366						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	779281935						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		779426054						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	779798345	P04083	rs779798345	L296M	0.983		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	779798345	P04083	rs779798345	L296M	0.0		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		780151305						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		780540903						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		780876153						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		781229810						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		781618965						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		781682499						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		781712414						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		866217374						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		866360179						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		867127271						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		867507521						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		868517148	P04083	rs868517148	E17K	0.009		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		868517148	P04083	rs868517148	E17K	0.43		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		868551604	P04083	rs868551604	R154K	0.01		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		868551604	P04083	rs868551604	R154K	0.99		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		894827740						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		897379230						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		928210855						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		932350680						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	953415008						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		959775361						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	960791340	P04083	rs960791340	T216R	0.715		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant	uncertain significance	960791340	P04083	rs960791340	T216R	0.01		P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		973540500						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083
+ANXA1	missense_variant		991274630						P04083	Annexin A1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04083

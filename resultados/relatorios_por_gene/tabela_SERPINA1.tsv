@@ -1,0 +1,563 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+SERPINA1	missense_variant		1003633145						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1007168915						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1008480744						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1011476837						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1022463154						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1030600584						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1035193069	P01009	rs1035193069	D98N	0.003		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1035193069	P01009	rs1035193069	D98N	0.13		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1035710135						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign	1049800						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	111850950						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign, other	112030253						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1131139						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1131154						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign, pathogenic	113817720	P01009	rs113817720	A82P	0.839		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign, pathogenic	113817720	P01009	rs113817720	A82P	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign, pathogenic	113817720	P01009	rs113817720	A82T	0.021		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign, pathogenic	113817720	P01009	rs113817720	A82T	0.04		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		11558259						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, pathogenic, other	11558261						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		11558262						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	11558263						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	11575873	P01009	rs11575873	S71R	0.011		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	11575873	P01009	rs11575873	S71R	0.13		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1158625562						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1158756052						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1161984475						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1164159907						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1164468748						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1170614686						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1176919060						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1177953477						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1191769902						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1201819840						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1206520317						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		12077						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1214596628						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	121912713						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic, other	121912714						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	12233	P01009	rs12233	P386S	0.219		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	12233	P01009	rs12233	P386S	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1223975325						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1230465323	P01009	rs1230465323	F75L	0.309		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1230465323	P01009	rs1230465323	F75L	0.1		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1234126292						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1241932181						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1243707738	P01009	rs1243707738	T46A	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1243707738	P01009	rs1243707738	T46A	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1250083377						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1252210567						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1259380442						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1260078376						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1267334269	P01009	rs1267334269	T403A	0.457		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1267334269	P01009	rs1267334269	T403A	0.05		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1271373062						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	1275309068	P01009	rs1275309068	I74N	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	1275309068	P01009	rs1275309068	I74N	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1281058408						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1281598461	P01009	rs1281598461	H293R	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1281598461	P01009	rs1281598461	H293R	0.07		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1281659812						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1283743503						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1286737525						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1290444588						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1291036417	P01009	rs1291036417	A379D	0.003		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1291036417	P01009	rs1291036417	A379D	0.24		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1295161543						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1296175763						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1296584606						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign, other	1303						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1304523649						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1316729320	P01009	rs1316729320	P243S	0.991		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1316729320	P01009	rs1316729320	P243S	0.03		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1321171362						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1321237081						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1322087241						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1322791235						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1323793141						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1343661824	P01009	rs1343661824	A340V	0.969		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1343661824	P01009	rs1343661824	A340V	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1348752810						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1363454506						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1368052264						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1370857918						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1371527797						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1374116152						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1378650955						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	137888162						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1379209512						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1379377700						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic	138070585	P01009	rs138070585	H39N	0.003		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic	138070585	P01009	rs138070585	H39N	0.14		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1381869222						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1382158101						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1383642353	P01009	rs1383642353	S132N	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1383642353	P01009	rs1383642353	S132N	0.73		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1393875655						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1396187932						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	139964603	P01009	rs139964603	V326I	0.003		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	139964603	P01009	rs139964603	V326I	0.58		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		139972630						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1400497428	P01009	rs1400497428	S343A	0.997		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1400497428	P01009	rs1400497428	S343A	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1401368743						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1405702444						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1406135754						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	140744031	P01009	rs140744031	H67Q	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	140744031	P01009	rs140744031	H67Q	0.52		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, other	140814100	P01009	rs140814100	S6L	0.133		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, other	140814100	P01009	rs140814100	S6L	0.05		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1410013401						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	141095970	P01009	rs141095970	H293Q	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	141095970	P01009	rs141095970	H293Q	0.11		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1412064727						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign	141620200	P01009	rs141620200	A308S	0.052		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign	141620200	P01009	rs141620200	A308S	0.03		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign	141620200	P01009	rs141620200	A308T	0.062		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign	141620200	P01009	rs141620200	A308T	0.09		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1421296365						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1421513582						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		142288916						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1425102569						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1425601743						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	142942004	P01009	rs142942004	A166D	0.902		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	142942004	P01009	rs142942004	A166D	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1433266173						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign, other	143370956	P01009	rs143370956	D365H	0.402		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign, other	143370956	P01009	rs143370956	D365H	0.33		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign, other	143370956	P01009	rs143370956	D365Y	0.977		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, benign, likely benign, other	143370956	P01009	rs143370956	D365Y	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	1440243479	P01009	rs1440243479	A308V	0.001		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	1440243479	P01009	rs1440243479	A308V	0.39		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1443088374						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1443274556						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1444508096	P01009	rs1444508096	K334E	0.063		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1444508096	P01009	rs1444508096	K334E	0.68		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1446571866						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1448214480						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1449547720						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1450215301						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1450256967						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1450795004	P01009	rs1450795004	L287P	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1450795004	P01009	rs1450795004	L287P	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		145410420						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	1457464431	P01009	rs1457464431	F57L	0.624		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	1457464431	P01009	rs1457464431	F57L	0.04		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1458111327						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1460874866						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1462737580						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1465395828						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1466151001						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1469794381						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	147247134						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1473667365						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1479870890						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1482108138						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1482768852						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1484441543						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1486743686						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic, pathogenic	1488213352	P01009	rs1488213352	M409T	0.24		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic, pathogenic	1488213352	P01009	rs1488213352	M409T	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1490133295						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	149319176						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	149537225	P01009	rs149537225	H286Y	0.041		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	149537225	P01009	rs149537225	H286Y	0.05		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		149770048						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	149800596	P01009	rs149800596	M409V	0.098		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	149800596	P01009	rs149800596	M409V	0.87		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	150784949						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	1555367891	P01009	rs1555367891	H358R	0.986		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	1555367891	P01009	rs1555367891	H358R	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1555368744	P01009	rs1555368744	F222L	0.929		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1555368744	P01009	rs1555368744	F222L	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1555368958	P01009	rs1555368958	V209A	0.967		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1555368958	P01009	rs1555368958	V209A	0.11		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1555368976	P01009	rs1555368976	D201G	0.533		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1555368976	P01009	rs1555368976	D201G	0.05		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1555369135	P01009	rs1555369135	I100N	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1555369135	P01009	rs1555369135	I100N	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1555369172	P01009	rs1555369172	F76S	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1555369172	P01009	rs1555369172	F76S	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1555369198	P01009	rs1555369198	Q64K	0.005		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1555369198	P01009	rs1555369198	Q64K	0.09		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1566747286						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566747984	P01009	rs1566747984	E378K	0.106		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566747984	P01009	rs1566747984	E378K	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566748077	P01009	rs1566748077	A374D	0.027		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566748077	P01009	rs1566748077	A374D	0.03		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1566753060						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, pathogenic	1566753480	P01009	rs1566753480	L278P	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, pathogenic	1566753480	P01009	rs1566753480	L278P	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566753494						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566753789	P01009	rs1566753789	Q254R	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566753789	P01009	rs1566753789	Q254R	0.04		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1566754362	P01009	rs1566754362	D226G	0.001		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1566754362	P01009	rs1566754362	D226G	0.5		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1566757580						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1566757595	P01009	rs1566757595	E113D	0.556		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1566757595	P01009	rs1566757595	E113D	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566757757	P01009	rs1566757757	E99D	0.529		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1566757757	P01009	rs1566757757	E99D	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1566757762						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1566759056	P01009	rs1566759056	L12P	0.998		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1566759056	P01009	rs1566759056	L12P	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, not provided	1595598934	P01009	rs1595598934	V357A	0.948		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, not provided	1595598934	P01009	rs1595598934	V357A	0.17		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1595602352						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1595607823	P01009	rs1595607823	S260F	0.544		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1595607823	P01009	rs1595607823	S260F	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1595612771	P01009	rs1595612771	D157N	0.069		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1595612771	P01009	rs1595612771	D157N	0.04		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1595613279						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	not provided	1595613479	P01009	rs1595613479	H117Y	0.838		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	not provided	1595613479	P01009	rs1595613479	H117Y	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1595613917						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1595614180						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1595614696						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1595615236						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic, other, risk factor, pathogenic low penetrance	17580						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		17850837						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, pathogenic, other	1802959						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1802962						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1802963	P01009	rs1802963	E303Q	0.006		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	1802963	P01009	rs1802963	E303Q	0.19		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		186298255						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		186478039						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896523960						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896525774						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896527464						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896527745						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896530048						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896532969						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896552477						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896552728						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896555090						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896558645						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896566380						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1896695513	P01009	rs1896695513	T333S	0.933		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1896695513	P01009	rs1896695513	T333S	0.06		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896700115						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896704693						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1896706581	P01009	rs1896706581	K314Q	0.95		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1896706581	P01009	rs1896706581	K314Q	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896863301						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896867837						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896870457						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896878766						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896881459						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896881684						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1896881918						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897010110						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897011357						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897019419						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897021264						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897022781						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897022994						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897023680						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897028710						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897032434						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897032650						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897033299						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897037665						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic	1897040319						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897044682						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897048452						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1897053025	P01009	rs1897053025	I81V	0.506		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	1897053025	P01009	rs1897053025	I81V	0.07		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897057638						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897058574						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897065615						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897069375						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897071939						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897073335						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897073566						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897077671						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897078339						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897081099						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		1897084348						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		190061930						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	190231439	P01009	rs190231439	P27L	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	190231439	P01009	rs190231439	P27L	0.76		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	190881649	P01009	rs190881649	D322E	0.204		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	190881649	P01009	rs190881649	D322E	0.1		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, other	199422208						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other	199422209	P01009	rs199422209	P393H	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other	199422209	P01009	rs199422209	P393H	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other	199422209	P01009	rs199422209	P393R	0.997		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other	199422209	P01009	rs199422209	P393R	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, other	199422212						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, other	199422213						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	199687431						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		199962756						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		200467663						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	200945035	P01009	rs200945035	K359E	0.887		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	200945035	P01009	rs200945035	K359E	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		201318727						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	201774333						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	201788603						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	2139664128	P01009	rs2139664128	P415L	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	2139664128	P01009	rs2139664128	P415L	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139664333						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139665501						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139673530						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139682019						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139692154						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139692313						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		2139694097						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	2504727390						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	2504728206						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	2504741805						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	2504775396						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	2504775797						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, pathogenic, other	28929470						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		28929471						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	other	28929473	P01009	rs28929473	L377F	0.001		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	other	28929473	P01009	rs28929473	L377F	0.17		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other, risk factor	28929474	P01009	rs28929474	E366Q	0.974		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other, risk factor	28929474	P01009	rs28929474	E366Q	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic, other	28931568						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic, pathogenic, other	28931569						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other	28931570	P01009	rs28931570	R63G	0.993		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic, other	28931570	P01009	rs28931570	R63G	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic, other	28931572						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		3191200						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	367797069	P01009	rs367797069	G344R	0.722		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	367797069	P01009	rs367797069	G344R	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		368117781						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	368433503	P01009	rs368433503	L196S	0.999		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	368433503	P01009	rs368433503	L196S	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	369060615	P01009	rs369060615	K153E	0.704		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	369060615	P01009	rs369060615	K153E	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		369788393						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		369966794						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	370923940						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign	371761828	P01009	rs371761828	N338K	0.151		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign	371761828	P01009	rs371761828	N338K	0.06		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		372140596						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	373630097	P01009	rs373630097	V357M	0.468		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	373630097	P01009	rs373630097	V357M	0.08		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	374168370	P01009	rs374168370	V234M	0.678		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	374168370	P01009	rs374168370	V234M	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		374198121						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	376024688						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	376294932						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		376616935						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		377668175						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		377739083						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		377747242						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	537285845	P01009	rs537285845	E146K	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	537285845	P01009	rs537285845	E146K	0.52		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	544632177						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	550592374	P01009	rs550592374	L300P	0.993		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	550592374	P01009	rs550592374	L300P	0.06		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	550592374	P01009	rs550592374	L300R	0.023		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	550592374	P01009	rs550592374	L300R	0.08		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		551595739	P01009	rs551595739	G368E	0.979		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		551595739	P01009	rs551595739	G368E	0.03		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	55704149	P01009	rs55704149	D322N	0.151		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	55704149	P01009	rs55704149	D322N	0.07		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	pathogenic, other	55819880						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		564267551						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	569384943						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	569455355	P01009	rs569455355	G331R	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	569455355	P01009	rs569455355	G331R	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		575123943						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		576575224						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		577164283						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic	61761869	P01009	rs61761869	P393S	0.993		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic	61761869	P01009	rs61761869	P393S	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic	61761869	P01009	rs61761869	P393T	0.989		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely pathogenic, pathogenic	61761869	P01009	rs61761869	P393T	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign	6647						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, other	709932						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	72552401	P01009	rs72552401	V240M	0.923		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	72552401	P01009	rs72552401	V240M	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	745463238	P01009	rs745463238	S38F	0.331		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	745463238	P01009	rs745463238	S38F	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	745624643	P01009	rs745624643	T292I	0.182		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	745624643	P01009	rs745624643	T292I	0.15		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	746155701	P01009	rs746155701	T320P	0.997		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	746155701	P01009	rs746155701	T320P	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	746197812	P01009	rs746197812	V234E	0.997		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	746197812	P01009	rs746197812	V234E	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	746531546	P01009	rs746531546	Q236R	0.015		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	746531546	P01009	rs746531546	Q236R	0.22		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		747053324						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		747867823						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		748377295						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749021630	P01009	rs749021630	D304N	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749021630	P01009	rs749021630	D304N	0.29		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749030711						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	749118243	P01009	rs749118243	D157G	0.39		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	749118243	P01009	rs749118243	D157G	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	749118243	P01009	rs749118243	D157V	0.471		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	749118243	P01009	rs749118243	D157V	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	749295615	P01009	rs749295615	G119D	0.986		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	749295615	P01009	rs749295615	G119D	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	749295615	P01009	rs749295615	G119V	0.799		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	749295615	P01009	rs749295615	G119V	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749389616						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749634278	P01009	rs749634278	V205I	0.044		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749634278	P01009	rs749634278	V205I	0.03		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		749944428						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		750766974						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		751555333						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		751696406						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		752646694						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		752721615						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	752723808	P01009	rs752723808	A374T	0.005		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	752723808	P01009	rs752723808	A374T	0.19		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	752776707	P01009	rs752776707	T297N	0.058		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	752776707	P01009	rs752776707	T297N	0.08		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		752979989						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		753068726						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		753621457						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		753705146						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		753867893						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		753921311						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	754885222	P01009	rs754885222	K404R	0.006		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	754885222	P01009	rs754885222	K404R	0.31		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		755088914						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		755625134						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		755851961						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		756246391						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		756311065						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	756773408	P01009	rs756773408	G216C	0.999		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	756773408	P01009	rs756773408	G216C	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		756871122						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		757174326						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		757510628						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		757562207						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		758136730						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		758293405						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		758820515	P01009	rs758820515	P112L	0.211		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		758820515	P01009	rs758820515	P112L	0.11		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		758914650						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	759132932						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	759135389	P01009	rs759135389	I116M	0.958		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	759135389	P01009	rs759135389	I116M	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		759578830	P01009	rs759578830	D183N	0.003		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		759578830	P01009	rs759578830	D183N	0.23		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		759598955						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	759736224						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		759837735						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		760175391						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		760372645						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		761711628						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		762151808						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		762801939						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		762930016						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		763108861						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		763249215	P01009	rs763249215	Q254H	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		763249215	P01009	rs763249215	Q254H	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		763483402						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	764220898	P01009	rs764220898	G249R	0.84		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	764220898	P01009	rs764220898	G249R	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign	764238790	P01009	rs764238790	S325R	0.007		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign, likely benign	764238790	P01009	rs764238790	S325R	0.28		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	764340766						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	764726147	P01009	rs764726147	R63L	0.987		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	764726147	P01009	rs764726147	R63L	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		764792979						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		765199959						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		765419872						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		765628480						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		765966782						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		766025736						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	766034720						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		766260108						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	766542592	P01009	rs766542592	E25K	0.062		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	766542592	P01009	rs766542592	E25K	0.11		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		767606257						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		767986567						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	768352001	P01009	rs768352001	G14V	0.705		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	768352001	P01009	rs768352001	G14V	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	768386476						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		768432782						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		768943640						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		769217078						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	769267062	P01009	rs769267062	K34Q	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	769267062	P01009	rs769267062	K34Q	0.11		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		769331986						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		769400992						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		769666780						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	770030839	P01009	rs770030839	P350L	0.056		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	770030839	P01009	rs770030839	P350L	0.34		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		770667932						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		771419213						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		771862730						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		772059003						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	772289957						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	772436715	P01009	rs772436715	D294N	0.041		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	772436715	P01009	rs772436715	D294N	0.02		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	772895093	P01009	rs772895093	D152G	0.105		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	772895093	P01009	rs772895093	D152G	0.1		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	773222881	P01009	rs773222881	S309N	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	773222881	P01009	rs773222881	S309N	1.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		773275051						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		773588978						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		774398845						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		774775536						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		775552836						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		775606044						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		776904334						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		777012321						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		777051992						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		777478364						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		777537335						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		778188056						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		778732023						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	778747339	P01009	rs778747339	T403I	0.249		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	778747339	P01009	rs778747339	T403I	0.05		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		778905943						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		779344345						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		779843923						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		779938258						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		780562960						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		780969205						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	781502220						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	796549685	P01009	rs796549685	K359M	0.999		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	benign	796549685	P01009	rs796549685	K359M	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		796680542						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		796985046						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		797013882						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	8350						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	864622044	P01009	rs864622044	K283I	0.998		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	864622044	P01009	rs864622044	K283I	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622045	P01009	rs864622045	S60R	0.011		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622045	P01009	rs864622045	S60R	0.86		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	864622046	P01009	rs864622046	D365V	0.986		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance, likely benign	864622046	P01009	rs864622046	D365V	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	864622047	P01009	rs864622047	V79E	0.988		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	864622047	P01009	rs864622047	V79E	0.0		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622048	P01009	rs864622048	D30V	0.007		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622048	P01009	rs864622048	D30V	0.1		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622049	P01009	rs864622049	K34N	0.017		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622049	P01009	rs864622049	K34N	0.07		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622050	P01009	rs864622050	H67N	0.284		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622050	P01009	rs864622050	H67N	0.36		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622052	P01009	rs864622052	Y211H	0.998		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622052	P01009	rs864622052	Y211H	0.01		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622053	P01009	rs864622053	M245I	0.118		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622053	P01009	rs864622053	M245I	0.07		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622054	P01009	rs864622054	K246T	0.168		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622054	P01009	rs864622054	K246T	0.47		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622055	P01009	rs864622055	K355R	0.319		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	864622055	P01009	rs864622055	K355R	0.08		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		866203136						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		866634673						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		867521254						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	886044322	P01009	rs886044322	P112S	0.043		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	886044322	P01009	rs886044322	P112S	0.58		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	886050923	P01009	rs886050923	I111M	0.218		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	uncertain significance	886050923	P01009	rs886050923	I111M	0.5		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		917855405						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		926110466						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		933306901						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	944607375	P01009	rs944607375	P52L	0.312		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely pathogenic	944607375	P01009	rs944607375	P52L	0.05		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	957169128	P01009	rs957169128	K298N	0.109		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant	likely benign	957169128	P01009	rs957169128	K298N	0.42		P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009
+SERPINA1	missense_variant		963967922						P01009	Alpha-1-antitrypsin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01009

@@ -1,0 +1,715 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+EOMES	missense_variant		1008634370						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1008645924						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1008947704						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1011148499						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1020508557						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1027494935						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1028614600						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1034578754						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1035312799						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1040042773	O95936	rs1040042773	A70V	0.001		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1040042773	O95936	rs1040042773	A70V	0.19		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1040912256						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1042429124						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1043369274						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1045041330	O95936	rs1045041330	R488H	0.118		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1045041330	O95936	rs1045041330	R488H	0.02		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1045041330	O95936	rs1045041330	R488H	0.116		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1045041330	O95936	rs1045041330	R488H	0.02		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1050663066						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1051663013						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1052623112						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1055221832	O95936	rs1055221832	G215S	0.025		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1055221832	O95936	rs1055221832	G215S	0.52		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1057258657						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		111391957						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1158321121						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1161322141	O95936	rs1161322141	P21R	0.017		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1161322141	O95936	rs1161322141	P21R	0.08		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1161870197	O95936	rs1161870197	A78V	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1161870197	O95936	rs1161870197	A78V	0.18		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1161870197	O95936	rs1161870197	A78V	0.005		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1161870197	O95936	rs1161870197	A78V	0.19		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1162591117						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1162926983						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1165280181						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1165755489						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1166435561						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1169022629						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1169071450						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1170395294						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1171906480						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1173278387						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1174591076	O95936	rs1174591076	A75P	0.029		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1174591076	O95936	rs1174591076	A75P	0.12		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1174591076	O95936	rs1174591076	A75P	0.912		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1174591076	O95936	rs1174591076	A75P	0.25		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1176484491						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1178154299						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1180443168	O95936	rs1180443168	G224R	0.014		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1180443168	O95936	rs1180443168	G224R	0.04		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1180443168	O95936	rs1180443168	G224R	0.955		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1180443168	O95936	rs1180443168	G224R	0.11		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1181017904						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1182823648						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1183554264						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1184809152						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1185598529						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1186605432						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1186766320						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1188195099						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1188896468						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1190415048						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1191319179						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1191925806						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1194716210	O95936	rs1194716210	E5K	0.956		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1194716210	O95936	rs1194716210	E5K	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1194716210	O95936	rs1194716210	E5K	0.646		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1194716210	O95936	rs1194716210	E5K	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1195725860						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1198205843						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1198444820						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1198771182						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1200977786						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1202663970	O95936	rs1202663970	P514R	0.46		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1202663970	O95936	rs1202663970	P514R	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1202663970	O95936	rs1202663970	P514R	0.471		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1202663970	O95936	rs1202663970	P514R	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1204829744						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1205472050						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1206829163						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1208641540						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1208991903						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1209108614						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1214840287						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1217962578						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1220070836						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1221337363						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1222278957						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1223705610						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1224294394						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1225707927						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1226603748						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1227664597						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1228654213						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1228665355						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1232900126						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1232941436						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1234547625						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1234669412						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1238799182						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1239235611						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1239549007						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1241081811	O95936	rs1241081811	A88V	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1241081811	O95936	rs1241081811	A88V	0.22		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1241607439						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1243252064						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1243942921						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1244747971						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1244950194						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1246146149	O95936	rs1246146149	P686S	0.037		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1246146149	O95936	rs1246146149	P686S	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1246146149	O95936	rs1246146149	P686S	0.992		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1246146149	O95936	rs1246146149	P686S	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1247512523						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1249582464	O95936	rs1249582464	S542Y	0.503		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1249582464	O95936	rs1249582464	S542Y	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1249582464	O95936	rs1249582464	S542Y	0.515		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1249582464	O95936	rs1249582464	S542Y	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1250092173						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1250677955						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1251227575						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1251566860						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1253370536						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1253810640						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1254457845						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1256344793						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1257271727						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1257931636						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1259384841						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1260452233	O95936	rs1260452233	Y680H	0.973		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1260452233	O95936	rs1260452233	Y680H	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1263107239						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1268394186						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1270070744						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1271982927						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1273687237	O95936	rs1273687237	Q582H	0.962		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1273687237	O95936	rs1273687237	Q582H	0.22		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1273687237	O95936	rs1273687237	Q582H	0.963		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1273687237	O95936	rs1273687237	Q582H	0.06		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1274957336						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1275441969						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1276070711						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1277146765						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1277507814						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1278594512						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1280717230						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1282463689	O95936	rs1282463689	G259E	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1282463689	O95936	rs1282463689	G259E	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1282463689	O95936	rs1282463689	G259E	0.127		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1282463689	O95936	rs1282463689	G259E	0.28		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1283324444						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1284747676						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1285835848						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1287841628						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1289160707	O95936	rs1289160707	R26P	0.41		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1289160707	O95936	rs1289160707	R26P	0.07		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1289160707	O95936	rs1289160707	R26P	0.067		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1289160707	O95936	rs1289160707	R26P	0.3		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1291030340						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1291218119						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1296009492						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1296049079						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1296119852						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1297927016						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1299887365						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1301852077						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1305502772						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1305824478						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1306296612						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1308832712						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1312084951						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1313397298	O95936	rs1313397298	G182R	0.611		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1313397298	O95936	rs1313397298	G182R	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1313901279						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1314270510						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1317010895						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1320239370						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1320502049						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1324068178						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1324439103						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1326190275						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1327846865						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1329907078						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1333506961						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1336389768						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1337272089						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1338222420						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1339390290						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1339842247						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1342756983						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1344038707	O95936	rs1344038707	P515S	0.052		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1344038707	O95936	rs1344038707	P515S	0.07		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1344038707	O95936	rs1344038707	P515S	0.054		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1344038707	O95936	rs1344038707	P515S	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1345197783						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1348612478	O95936	rs1348612478	V95E	0.018		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1348612478	O95936	rs1348612478	V95E	0.14		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1348612478	O95936	rs1348612478	V95E	0.811		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1348612478	O95936	rs1348612478	V95E	0.72		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1349415754						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1349559172						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1349678355	O95936	rs1349678355	L519F	0.003		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1349678355	O95936	rs1349678355	L519F	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1351298394						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1351564397						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1352191524	O95936	rs1352191524	S627Y	0.962		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1352191524	O95936	rs1352191524	S627Y	0.02		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1352191524	O95936	rs1352191524	S627Y	0.963		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1352191524	O95936	rs1352191524	S627Y	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1354453662						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1355295331						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1357553015	O95936	rs1357553015	A93T	0.003		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1357553015	O95936	rs1357553015	A93T	0.59		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1363789162						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1363891694						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1363895349						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1365927935						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1369737536						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1370099535						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1370347664						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1370564912						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1374223176						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1376384937						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1376856423						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1377639496						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1377655808						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1378210962						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1378487312						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	137915789	O95936	rs137915789	P477L	0.21		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	137915789	O95936	rs137915789	P477L	0.1		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	137915789	O95936	rs137915789	P477L	0.207		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	137915789	O95936	rs137915789	P477L	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1381121974						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1382635389						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1383652761						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1386299103						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1386982340						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1389301549						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1391165628						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1391604304						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1395660818						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1397881744						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		139803105						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		139943797						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1400483602						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1404418684						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1408228021						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1408246099						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1408436614						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1408843911						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1410084068						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1410789606						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1412056858						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1412322562						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1414697211						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		141551851						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1416442991						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1416689036						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1417195061						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1417468962						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1420420783						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1420630036						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1423397120						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	142489745						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1433325112						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1435176163						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1436541977						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1436659569						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1438090055						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1441542831						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1442372882						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1443015218						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1444550350						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1446229912						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1446949786						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1449192017	O95936	rs1449192017	P202L	0.003		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1449192017	O95936	rs1449192017	P202L	0.14		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1449192017	O95936	rs1449192017	P202L	0.015		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1449192017	O95936	rs1449192017	P202L	0.06		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1450164516						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1450510017						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1458635817						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		146033663						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1460868227						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1460935361						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1462082109						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1462347821						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1465917246						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1466999623						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1471424693						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1471527766						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1472404783						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1473312287	O95936	rs1473312287	G370R	0.991		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1473312287	O95936	rs1473312287	G370R	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1473312287	O95936	rs1473312287	G370R	0.991		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1473312287	O95936	rs1473312287	G370R	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1473383238						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1477440684						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1479664669						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1479706198						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1480198678						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1483399480						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	1483971300						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1486057940						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1486119664						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1488502940						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	149280214	O95936	rs149280214	M676L	0.001		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	149280214	O95936	rs149280214	M676L	0.18		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		150282843						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		150659806						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925531						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925548						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925569						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925577	O95936	rs1559925577	P656S	0.057		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925577	O95936	rs1559925577	P656S	0.24		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925577	O95936	rs1559925577	P656S	0.06		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925577	O95936	rs1559925577	P656S	0.25		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925811	O95936	rs1559925811	A587T	0.003		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925811	O95936	rs1559925811	A587T	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925811	O95936	rs1559925811	A587T	0.003		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559925811	O95936	rs1559925811	A587T	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559926212						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559927068						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559928380						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1559929096						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576801705						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576801816						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576801871						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576801897						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576803039						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576804351						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576805380						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576805391						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576806480						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576806609						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		1576806969						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	benign	1874198						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		199707114						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	200215171	O95936	rs200215171	L146F	0.225		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	200215171	O95936	rs200215171	L146F	0.11		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	likely benign	200789175	O95936	rs200789175	Q6E	0.042		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	likely benign	200789175	O95936	rs200789175	Q6E	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	200817113						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201137434						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201632566						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201677530						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201822269	O95936	rs201822269	V472I	0.269		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201822269	O95936	rs201822269	V472I	0.25		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201822269	O95936	rs201822269	V472I	0.265		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		201822269	O95936	rs201822269	V472I	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060573990						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060574278						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060574296						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060574318						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060574343						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060574690						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060575056						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060575352						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060575976						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060576218						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060576862						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060576908						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060577226						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060577507						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060577645						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060578155						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060578214						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060579024						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060579702						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060579761						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060579830						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060579940						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580272						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580360						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580478						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580519						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580541						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580720						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060580901						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060588525						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060588622						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060588948						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060589145						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060589191						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060589486						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060589511						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060593626						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060593656						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060593976						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060600677						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060600961						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060600989						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060601300						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060601326						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060601366						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060601682						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060611981						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060612396						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060612551						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060612958						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060613047						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060613149						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060613476						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060613679						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060613695						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060613955						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060614010						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060614103						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060614401						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060614478						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060614978						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060615556						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060615673						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060615911						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060616448						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060616605						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060617162						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060617246						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060618268						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060618946						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060618959						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060619057						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060619250						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060619328						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060619437						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060619800						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060620061						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060620147						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060620213						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060620557						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621124						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621210						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621247						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621346						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621404						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621853						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060621998						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2060622888						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125399471						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125399711						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125399725						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125399990						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125403797						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125403863						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404104						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404112						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404315						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404318						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404338						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404341						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404409						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404522						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404542						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404545						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404664						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		2125404714						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	2473922644						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	2473923979						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	2473926412						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		369026139						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		369282334						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		370431307						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	371113667						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		371656694						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		372077752						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		372639985						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		373565897						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		374751713						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	374923878						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		375036627						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		375328447						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		376067200						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance, likely benign	376621022	O95936	rs376621022	Y231C	0.766		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance, likely benign	376621022	O95936	rs376621022	Y231C	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		377506919						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	likely benign	529375594	O95936	rs529375594	S91R	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	likely benign	529375594	O95936	rs529375594	S91R	0.2		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		531465213						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	534406435	O95936	rs534406435	G257D	0.06		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	534406435	O95936	rs534406435	G257D	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	534406435	O95936	rs534406435	G257D	0.012		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	534406435	O95936	rs534406435	G257D	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		536220570	O95936	rs536220570	G468V	0.079		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		536220570	O95936	rs536220570	G468V	0.02		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		536220570	O95936	rs536220570	G468V	0.082		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		536220570	O95936	rs536220570	G468V	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		537381236						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	538218063	O95936	rs538218063	A63T	0.022		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	538218063	O95936	rs538218063	A63T	0.43		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		541861828						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		542975210						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		546003584						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		552894757						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		553096274						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		560692131						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		569201214						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		572984907						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		574892692						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		745468176						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		745642069						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		746252799	O95936	rs746252799	A214V	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		746252799	O95936	rs746252799	A214V	0.48		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		746252799	O95936	rs746252799	A214V	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		746252799	O95936	rs746252799	A214V	0.51		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		746307040						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		746775357						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		747158057						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		747195051						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		747562337						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	747663718	O95936	rs747663718	G257C	0.262		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	747663718	O95936	rs747663718	G257C	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		748237540						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		748272403						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		748279286						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		748362003						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		748565279						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		748783445						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	749340317	O95936	rs749340317	G30C	0.191		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	749340317	O95936	rs749340317	G30C	0.03		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		749397900						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		749476578						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		750757901						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751084550						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751084611						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751256051						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751386597						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751439319						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751890928	O95936	rs751890928	T521M	0.912		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751890928	O95936	rs751890928	T521M	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751890928	O95936	rs751890928	T521M	0.91		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		751890928	O95936	rs751890928	T521M	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		752465745						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		752582682						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		752788023						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	753122342	O95936	rs753122342	I464T	0.841		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	753122342	O95936	rs753122342	I464T	0.02		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		753193041						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		753378588						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		753554499						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		753570106						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		753666135						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		753933233						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		754032352						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		754206728						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	754300298	O95936	rs754300298	L7F	0.865		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	754300298	O95936	rs754300298	L7F	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		755072517						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		755427204						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		755528059						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		756102550						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		756371235						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		756443105						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		756645181						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		756659867						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		757000099						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		757500803						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		757659165						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		757951406						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	758047037	O95936	rs758047037	P100S	0.286		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	758047037	O95936	rs758047037	P100S	0.19		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		758303943						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		758755019						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759138754						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	759319237						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759399610						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759432823	O95936	rs759432823	S630P	0.925		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759432823	O95936	rs759432823	S630P	0.06		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759432823	O95936	rs759432823	S630P	0.928		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759432823	O95936	rs759432823	S630P	0.02		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759791133						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		759891392						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	760136916	O95936	rs760136916	Q284E	0.055		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	760136916	O95936	rs760136916	Q284E	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	760136916	O95936	rs760136916	Q284K	0.055		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	760136916	O95936	rs760136916	Q284K	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		760394361						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		760414625						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		760481798						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		760857084						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		761408863						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		761569819	O95936	rs761569819	A322V	0.972		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		761569819	O95936	rs761569819	A322V	0.25		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		761569819	O95936	rs761569819	A322V	0.978		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		761569819	O95936	rs761569819	A322V	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		761666223						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	762179966						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		762488869						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		762864103						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		763303684						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		763320083						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		763652726						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		763786615						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		763847350						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	764028457						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		764421609						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		764490386						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		764527137						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		765502412						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		765512594						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		765549067						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		765563066						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	765843241	O95936	rs765843241	A71T	0.011		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	765843241	O95936	rs765843241	A71T	0.59		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		765947767						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		765994973						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		766144654						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	766860697						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		766877132						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767094157						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767193070						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767239350						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767871834	O95936	rs767871834	R469W	0.998		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767871834	O95936	rs767871834	R469W	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767871834	O95936	rs767871834	R469W	0.998		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		767871834	O95936	rs767871834	R469W	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		768166620						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		768398178						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		768656241						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		769288626						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		769715709						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		770027537						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		770311494						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		770468295						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	770635650						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		770946165						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	771146337						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		771819862						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		771939067						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772200687						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772205038						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772220812						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772273408						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772633162						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772872800	O95936	rs772872800	E493K	0.73		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772872800	O95936	rs772872800	E493K	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772872800	O95936	rs772872800	E493K	0.726		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		772872800	O95936	rs772872800	E493K	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		773147341						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		773252730						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		773515724						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	773523432	O95936	rs773523432	T419S	0.146		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	773523432	O95936	rs773523432	T419S	0.09		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		774494349						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		774755939						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		774836069						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		775504073						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		775584075						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		775595633						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		776168391						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		776452328						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	776913483	O95936	rs776913483	V200M	0.664		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	776913483	O95936	rs776913483	V200M	0.1		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	777212175	O95936	rs777212175	E142Q	0.167		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	777212175	O95936	rs777212175	E142Q	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		777311354						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		777557478						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		777771224						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		778036000						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		778358892						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		778647588						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		778899466						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		779010604						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		779133437						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		779384887						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		779491803						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		779943933						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	780523872	O95936	rs780523872	T595R	0.001		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	780523872	O95936	rs780523872	T595R	0.16		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		780616606						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	780978389						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		781406364						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		866157455						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		866390280						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		867722017	O95936	rs867722017	D439N	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		867722017	O95936	rs867722017	D439N	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		867722017	O95936	rs867722017	D439N	1.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		867722017	O95936	rs867722017	D439N	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		868242390	O95936	rs868242390	S535F	0.73		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		868242390	O95936	rs868242390	S535F	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		868242390	O95936	rs868242390	S535F	0.738		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		868242390	O95936	rs868242390	S535F	0.0		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		868607128						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		888807171						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		890131426						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		904729096						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		918752739						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		921809202						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	922327188	O95936	rs922327188	P514S	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	922327188	O95936	rs922327188	P514S	0.38		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	928021478						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		930097063						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		930547709						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant	uncertain significance	931883894						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		941549612						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		948158910						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		949346431						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		953125222						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		963704315						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		963757884						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		970366159						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		970631914	O95936	rs970631914	A560V	0.526		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		970631914	O95936	rs970631914	A560V	0.06		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		970631914	O95936	rs970631914	A560V	0.537		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		970631914	O95936	rs970631914	A560V	0.01		O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		972266280						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		976510191						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		976906764						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		982155462						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		982382683						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		987667199						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		991442545						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		994979262						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		998872099						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936
+EOMES	missense_variant		999826393						O95936	Eomesodermin homolog	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O95936

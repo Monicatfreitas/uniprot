@@ -1,102 +1,117 @@
-import csv
-import time
-import requests
+cat << 'EOF' > gerar_interface.py
+import streamlit as st
+import pandas as pd
+import numpy as np
 
+st.set_page_config(page_title="Consolidado por Gene", layout="wide")
 
-def carregar_genes_validos():
-    """Lê os resultados do UniProt e recupera apenas os genes codificantes válidos (428 genes)."""
-    genes_validos = set()
-    arquivos = ["resultados_uniprot.tsv", "recuperados_uniprot.tsv"]
-
-    for arq in arquivos:
+@st.cache_data
+def carregar_dados():
+    caminhos = [
+        "resultados/tabela_correlacao_genes_uniprot.tsv",
+        "resultados/tabela_comparativa_detalhada_proteinas.tsv",
+        "resultados/dbsnp_alphamissense_unificado.tsv"
+    ]
+    df = pd.DataFrame()
+    for caminho in caminhos:
         try:
-            with open(arq, "r", encoding="utf-8") as f:
-                reader = csv.DictReader(f, delimiter="\t")
-                for line in reader:
-                    status = line.get("Status", "")
-                    gene = line.get("Gene_Original", "").strip()
-                    uniprot_id = line.get("ID_UniProt", "")
+            df = pd.read_csv(caminho, sep="\t", on_bad_lines="skip")
+            if not df.empty:
+                break
+        except Exception:
+            continue
+    df.columns = df.columns.str.strip()
+    return df
 
-                    if status in ["Encontrado", "Recuperado"] and uniprot_id not in [
-                        "NA",
-                        "",
-                    ]:
-                        if gene:
-                            genes_validos.add(gene)
-        except FileNotFoundError:
-            pass
+df = carregar_dados()
 
-    return sorted(list(genes_validos))
+st.title("🧬 Resumo Compilado por Gene (dbSNP + AlphaMissense)")
 
+if df.empty:
+    st.error("Nenhum arquivo de dados foi encontrado na pasta 'resultados/'.")
+else:
+    col_gene = next((c for c in df.columns if c.lower() in ['gene', 'gene_name', 'gene name', 'symbol']), None)
 
-def buscar_alphamissense_gene(gene):
-    """Consulta a API do Ensembl VEP para obter predições do AlphaMissense no gene."""
-    # Lookup do ID do gene no Ensembl
-    url_symbol = f"https://rest.ensembl.org/lookup/symbol/homo_sapiens/{gene}?content-type=application/json"
-    resultados = []
+    if not col_gene:
+        st.error("Coluna de Gene não encontrada no arquivo.")
+    else:
+        gene_busca = st.text_input("Digite o nome do Gene:", placeholder="Ex: IL17A, RIT1, TP53...").strip()
 
-    try:
-        r_lookup = requests.get(url_symbol, timeout=8)
-        if r_lookup.status_code == 200:
-            ensg_id = r_lookup.json().get("id")
+        if gene_busca:
+            df_gene = df[df[col_gene].astype(str).str.upper() == gene_busca.upper()].copy()
 
-            # Consulta as variantes associadas com o plugin/anotação VEP
-            url_vars = f"https://rest.ensembl.org/overlap/id/{ensg_id}?feature=variation;content-type=application/json"
-            r_vars = requests.get(url_vars, timeout=8)
+            if not df_gene.empty:
+                st.success(f"Gene **{gene_busca.upper()}** localizado com sucesso!")
 
-            if r_vars.status_code == 200:
-                variacoes = r_vars.json()
+                def limpar_e_converter(serie):
+                    s = serie.astype(str).str.replace(',', '.').str.strip()
+                    s = s.replace(['nan', 'none', 'n/a', '-', 'null', '', '<na>'], np.nan)
+                    return pd.to_numeric(s, errors='coerce')
 
-                for v in variacoes:
-                    rs_id = v.get("id", "")
-                    consequence = v.get("consequence_type", "")
+                # CARDS DE MÉTRICAS
+                c1, c2, c3, c4 = st.columns(4)
+                with c1:
+                    st.metric("Total de Mutações", len(df_gene))
 
-                    if rs_id.startswith("rs") and consequence == "missense_variant":
-                        # Resgata atributos estendidos (incluindo pontuações do AlphaMissense se disponíveis)
-                        am_score = v.get("alphamissense_score", "N/A")
-                        am_class = v.get("alphamissense_class", "N/A")
-                        peptide_shift = v.get("peptide_allele_string", "N/A")
+                with c2:
+                    col_rs = next((c for c in df.columns if 'rs' in c.lower() or 'dbsnp' in c.lower()), None)
+                    if col_rs:
+                        rs_count = df_gene[col_rs].dropna().astype(str).str.strip()
+                        rs_count = rs_count[~rs_count.isin(['-', 'nan', '', 'N/A'])].nunique()
+                        st.metric("Variantes dbSNP (rsID)", rs_count)
+                    else:
+                        st.metric("Variantes dbSNP", "N/A")
 
-                        resultados.append(
-                            {
-                                "rs_id": rs_id,
-                                "proteina_mudanca": peptide_shift,
-                                "am_score": am_score,
-                                "am_class": am_class,
-                            }
-                        )
-    except Exception as e:
-        pass
+                with c3:
+                    col_freq = next((c for c in df.columns if any(k in c.lower() for k in ['freq', 'af', 'allele_freq', 'frequencia'])), None)
+                    if col_freq:
+                        vals_f = limpar_e_converter(df_gene[col_freq])
+                        m_freq = vals_f.mean()
+                        st.metric("Frequência Média", f"{m_freq:.4f}" if not np.isnan(m_freq) else "N/A")
+                    else:
+                        st.metric("Frequência Média", "N/A")
 
-    return resultados
+                with c4:
+                    col_score = next((c for c in df.columns if any(k in c.lower() for k in ['am_pathogenicity', 'alphamissense', 'score'])), None)
+                    if col_score:
+                        vals_s = limpar_e_converter(df_gene[col_score])
+                        m_score = vals_s.mean()
+                        st.metric("Score Médio AlphaMissense", f"{m_score:.3f}" if not np.isnan(m_score) else "N/A")
+                    else:
+                        st.metric("Score AlphaMissense", "N/A")
 
+                st.divider()
 
-# --- EXECUÇÃO PRINCIPAL ---
-genes = carregar_genes_validos()
-print(f"Iniciando busca AlphaMissense para {len(genes)} genes codificantes...\n")
+                # RESUMO COMPILADO
+                st.subheader("📋 Resumo dos Campos e Atributos")
+                resumo_list = []
+                for col in df_gene.columns:
+                    serie = df_gene[col].astype(str).str.strip()
+                    validos = [str(x) for x in serie[~serie.isin(['-', 'nan', 'None', '', 'N/A', '<NA>'])].unique()]
+                    num_vals = limpar_e_converter(df_gene[col]).dropna()
 
-with open("alphamissense_resultados.tsv", "w", encoding="utf-8") as out:
-    out.write(
-        "Gene\trsID_dbSNP\tProteina_Mudanca\tAlphaMissense_Score\tAlphaMissense_Classificacao\tStatus\n"
-    )
+                    if len(num_vals) > 0 and len(num_vals) == len(validos):
+                        info = f"Média: {num_vals.mean():.4f} | Mín: {num_vals.min()} | Máx: {num_vals.max()}"
+                    elif len(validos) > 0:
+                        if len(validos) <= 5:
+                            info = ", ".join(validos)
+                        else:
+                            info = f"{len(validos)} valores únicos (Ex: {', '.join(validos[:5])}...)"
+                    else:
+                        info = "Sem dados registrados para este gene"
 
-    for index, gene in enumerate(genes, start=1):
-        dados = buscar_alphamissense_gene(gene)
+                    resumo_list.append({"Coluna / Informação": col, "Resumo Compilado": info})
 
-        if dados:
-            print(
-                f"[{index}/{len(genes)}] {gene}: {len(dados)} variantes com anotação recuperadas."
-            )
-            for d in dados:
-                out.write(
-                    f"{gene}\t{d['rs_id']}\t{d['proteina_mudanca']}\t{d['am_score']}\t{d['am_class']}\tEncontrado\n"
-                )
+                st.table(pd.DataFrame(resumo_list))
+
+                st.divider()
+
+                # TABELA DETALHADA
+                st.subheader("🔍 Tabela Detalhada com Todas as Mutações Registradas")
+                st.dataframe(df_gene, use_container_width=True)
+
+            else:
+                st.warning(f"Nenhum registro encontrado para o gene '{gene_busca}'.")
         else:
-            print(f"[{index}/{len(genes)}] {gene}: Sem anotações AlphaMissense.")
-            out.write(f"{gene}\tNA\tNA\tNA\tNA\tSem_Dados\n")
-
-        time.sleep(0.2)
-
-print("\n" + "=" * 40)
-print("PROCESSO CONCLUÍDO!")
-print("Tabela gerada: 'alphamissense_resultados.tsv'")
+            st.info("Digite o nome de um Gene acima para carregar as informações.")
+EOF

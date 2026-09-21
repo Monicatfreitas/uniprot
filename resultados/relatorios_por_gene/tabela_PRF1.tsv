@@ -1,0 +1,874 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+PRF1	missense_variant	uncertain significance	1023934247	P14222	rs1023934247	P477A	0.506		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1023934247	P14222	rs1023934247	P477A	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1023934247	P14222	rs1023934247	P477T	0.036		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1023934247	P14222	rs1023934247	P477T	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1027796050						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1031096686	P14222	rs1031096686	T136S	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1031096686	P14222	rs1031096686	T136S	0.84		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1031606439	P14222	rs1031606439	P16S	0.65		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1031606439	P14222	rs1031606439	P16S	0.39		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1031606439	P14222	rs1031606439	P16T	0.65		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1031606439	P14222	rs1031606439	P16T	0.38		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1037706456						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1042652						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	104894181						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894182	P14222	rs104894182	C279F	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894182	P14222	rs104894182	C279F	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	104894183						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1054187706	P14222	rs1054187706	T93I	0.042		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1054187706	P14222	rs1054187706	T93I	0.1		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1054187706	P14222	rs1054187706	T93N	0.722		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1054187706	P14222	rs1054187706	T93N	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1056769079						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1060499556	P14222	rs1060499556	W374G	0.947		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1060499556	P14222	rs1060499556	W374G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1158131736						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1159430254						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1161153296						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1161980496						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1163295281	P14222	rs1163295281	V304A	0.079		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1163295281	P14222	rs1163295281	V304A	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1173349179						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1178490253	P14222	rs1178490253	F204L	0.035		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1178490253	P14222	rs1178490253	F204L	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1179093730						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1179204381						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1179615123						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1182287237						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1202935059	P14222	rs1202935059	H514Q	0.894		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1202935059	P14222	rs1202935059	H514Q	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	1208723557	P14222	rs1208723557	A148T	0.779		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	1208723557	P14222	rs1208723557	A148T	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1209232100	P14222	rs1209232100	L6F	0.598		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1209232100	P14222	rs1209232100	L6F	0.25		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1211171704						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1213351907						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	12161733	P14222	rs12161733	R4C	0.685		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	12161733	P14222	rs12161733	R4C	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1218996453						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1222133631						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1224208921						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1226313750						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign, likely benign	12263572	P14222	rs12263572	V135L	0.005		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign, likely benign	12263572	P14222	rs12263572	V135L	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1230053761	P14222	rs1230053761	R28H	0.447		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1230053761	P14222	rs1230053761	R28H	0.15		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1239133757						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1241341894						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1241445945	P14222	rs1241445945	P137S	0.047		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1241445945	P14222	rs1241445945	P137S	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1241936194						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1252900875						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1255489520						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1257060505						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1260424184						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1264374470						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1271079313						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1278094424	P14222	rs1278094424	P409L	0.944		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1278094424	P14222	rs1278094424	P409L	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1279358826	P14222	rs1279358826	F442L	0.362		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1279358826	P14222	rs1279358826	F442L	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1281891777						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1283597219	P14222	rs1283597219	V48M	0.014		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1283597219	P14222	rs1283597219	V48M	0.12		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1284583637	P14222	rs1284583637	D120N	0.106		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1284583637	P14222	rs1284583637	D120N	0.31		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1291727626						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1295440310	P14222	rs1295440310	H190Y	0.704		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1295440310	P14222	rs1295440310	H190Y	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1296198842						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1299840135						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1301765853						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1306928496						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1309681334						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1309739213						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1311101495						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1313354526						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1314115770	P14222	rs1314115770	L85P	0.074		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1314115770	P14222	rs1314115770	L85P	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1314904464						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1317922602	P14222	rs1317922602	G532S	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1317922602	P14222	rs1317922602	G532S	0.69		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1318025315						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1320492689						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1324261340	P14222	rs1324261340	D491N	0.978		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1324261340	P14222	rs1324261340	D491N	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1324577129	P14222	rs1324577129	E255K	0.003		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1324577129	P14222	rs1324577129	E255K	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1326595797	P14222	rs1326595797	D70G	0.855		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1326595797	P14222	rs1326595797	D70G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1330318088						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1333785681						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1336665736						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1337432870						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1340572629						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1342253892	P14222	rs1342253892	S29L	0.079		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1342253892	P14222	rs1342253892	S29L	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1347873780						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1350760396	P14222	rs1350760396	G530E	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1350760396	P14222	rs1350760396	G530E	0.31		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1352074280						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1353198927	P14222	rs1353198927	S378C	0.534		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1353198927	P14222	rs1353198927	S378C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1355015634						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1355499573						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1355807520						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1357790767	P14222	rs1357790767	P18H	0.897		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1357790767	P14222	rs1357790767	P18H	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1360774039						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1361143808						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1369909561						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1370151090						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1370872878						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1370979702						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1371735016						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1373180931	P14222	rs1373180931	L236F	0.655		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1373180931	P14222	rs1373180931	L236F	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1374161772	P14222	rs1374161772	R214G	0.611		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1374161772	P14222	rs1374161772	R214G	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1374351810						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1376694517	P14222	rs1376694517	T241N	0.989		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1376694517	P14222	rs1376694517	T241N	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	138126912	P14222	rs138126912	A437V	0.968		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	138126912	P14222	rs138126912	A437V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1381429484						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1382419327	P14222	rs1382419327	G413V	0.996		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1382419327	P14222	rs1382419327	G413V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1389748708	P14222	rs1389748708	P22S	0.65		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1389748708	P14222	rs1389748708	P22S	0.27		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1390720384						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1391500549						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	139225004	P14222	rs139225004	R104H	0.015		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	139225004	P14222	rs139225004	R104H	0.11		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1393179882						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	139322149	P14222	rs139322149	R410W	0.843		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	139322149	P14222	rs139322149	R410W	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1393266091						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	139336186						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1394513902						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1397424804	P14222	rs1397424804	P191A	0.708		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1397424804	P14222	rs1397424804	P191A	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1397631806						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1399537466	P14222	rs1399537466	E115K	0.127		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1399537466	P14222	rs1399537466	E115K	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1401139693						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		140179771						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140218388	P14222	rs140218388	V264I	0.021		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140218388	P14222	rs140218388	V264I	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140281371	P14222	rs140281371	R225P	0.471		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140281371	P14222	rs140281371	R225P	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140281371	P14222	rs140281371	R225Q	0.017		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140281371	P14222	rs140281371	R225Q	0.35		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140385034	P14222	rs140385034	R55H	0.012		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	140385034	P14222	rs140385034	R55H	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1404219127	P14222	rs1404219127	P139S	0.031		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1404219127	P14222	rs1404219127	P139S	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	140787739	P14222	rs140787739	R357Q	0.937		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	140787739	P14222	rs140787739	R357Q	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1411541099						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	1415842374	P14222	rs1415842374	P39H	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	1415842374	P14222	rs1415842374	P39H	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign	141660796	P14222	rs141660796	R28C	0.967		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign	141660796	P14222	rs141660796	R28C	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign	141660796	P14222	rs141660796	R28G	0.062		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign	141660796	P14222	rs141660796	R28G	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1416809217						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		141702424						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1417622193						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	benign, likely benign	141864315	P14222	rs141864315	V453M	0.259		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	benign, likely benign	141864315	P14222	rs141864315	V453M	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1419243128	P14222	rs1419243128	I224T	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1419243128	P14222	rs1419243128	I224T	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1419997507						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	142012387	P14222	rs142012387	A148G	0.689		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	142012387	P14222	rs142012387	A148G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	142059134	P14222	rs142059134	G71S	0.082		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	142059134	P14222	rs142059134	G71S	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1421900619	P14222	rs1421900619	R550W	0.911		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1421900619	P14222	rs1421900619	R550W	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1422027702	P14222	rs1422027702	L12V	0.374		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1422027702	P14222	rs1422027702	L12V	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	142403457	P14222	rs142403457	A235V	0.027		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	142403457	P14222	rs142403457	A235V	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	143040535	P14222	rs143040535	L471F	0.033		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	143040535	P14222	rs143040535	L471F	0.7		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	143043887	P14222	rs143043887	G270S	0.179		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	143043887	P14222	rs143043887	G270S	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1431786553						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1434481627						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	144024245	P14222	rs144024245	R96W	0.982		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	144024245	P14222	rs144024245	R96W	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	144242324	P14222	rs144242324	A401V	0.052		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	144242324	P14222	rs144242324	A401V	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1444476633						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1446635758						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1448098823						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		144892262						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	144968603						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1451114438	P14222	rs1451114438	D430Y	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1451114438	P14222	rs1451114438	D430Y	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	145234214	P14222	rs145234214	G321R	0.652		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	145234214	P14222	rs145234214	G321R	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	145463632	P14222	rs145463632	G334S	0.001		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	145463632	P14222	rs145463632	G334S	0.96		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	145513232	P14222	rs145513232	E447Q	0.018		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	145513232	P14222	rs145513232	E447Q	0.09		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1455960914	P14222	rs1455960914	T171N	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1455960914	P14222	rs1455960914	T171N	0.1		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1456362037						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	146414576	P14222	rs146414576	Q209P	0.471		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	146414576	P14222	rs146414576	Q209P	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1464641737						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1468439631	P14222	rs1468439631	Q485R	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1468439631	P14222	rs1468439631	Q485R	0.15		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1468823939	P14222	rs1468823939	Y325C	0.871		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1468823939	P14222	rs1468823939	Y325C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	147051158	P14222	rs147051158	A27T	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	147051158	P14222	rs147051158	A27T	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1472085595						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1472732455						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1473399571	P14222	rs1473399571	S56W	0.959		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1473399571	P14222	rs1473399571	S56W	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1473909749	P14222	rs1473909749	A276V	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1473909749	P14222	rs1473909749	A276V	0.23		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1474049039						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	147462227	P14222	rs147462227	G149S	0.908		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	147462227	P14222	rs147462227	G149S	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	148237800	P14222	rs148237800	Y296H	0.996		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	148237800	P14222	rs148237800	Y296H	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1483146792						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	148706255						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1490499585						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	150053969						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	benign, likely benign	150104693						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	150156593	P14222	rs150156593	P188L	0.315		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	150156593	P14222	rs150156593	P188L	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	150357196	P14222	rs150357196	R54H	0.005		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	150357196	P14222	rs150357196	R54H	0.13		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign, likely pathogenic, pathogenic	150558419	P14222	rs150558419	R410P	0.95		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign, likely pathogenic, pathogenic	150558419	P14222	rs150558419	R410P	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign, likely pathogenic, pathogenic	150558419	P14222	rs150558419	R410Q	0.216		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign, likely pathogenic, pathogenic	150558419	P14222	rs150558419	R410Q	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	150628656	P14222	rs150628656	T289M	0.82		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	150628656	P14222	rs150628656	T289M	0.1		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	151232299	P14222	rs151232299	R68W	0.891		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	151232299	P14222	rs151232299	R68W	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1554867638						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1554868125	P14222	rs1554868125	V184I	0.005		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1554868125	P14222	rs1554868125	V184I	0.17		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564723510						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564723645						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1564723771	P14222	rs1564723771	G426A	0.138		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1564723771	P14222	rs1564723771	G426A	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564724292						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564724438						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564725132						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564725354						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1564725366						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1564725427	P14222	rs1564725427	V61M	0.718		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1564725427	P14222	rs1564725427	V61M	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589231647						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589231694						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589231729						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589231816						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589231908						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589231948						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589232134						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589232138						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589232308						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589232617						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589232639						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1589233308						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1589233312	P14222	rs1589233312	A109V	0.006		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1589233312	P14222	rs1589233312	A109V	0.11		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1778358133						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848152529						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848152898						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848153510						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848153862						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848154029	P14222	rs1848154029	L529M	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848154029	P14222	rs1848154029	L529M	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848154225						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848154317						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848154567						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848154937	P14222	rs1848154937	C510R	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848154937	P14222	rs1848154937	C510R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155155	P14222	rs1848155155	G504V	0.974		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155155	P14222	rs1848155155	G504V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848155334						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155636	P14222	rs1848155636	D498Y	0.98		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155636	P14222	rs1848155636	D498Y	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155727						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848155857						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155946	P14222	rs1848155946	L493F	0.89		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848155946	P14222	rs1848155946	L493F	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848156151						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848156322						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848157162						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848158593						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848159155	P14222	rs1848159155	L441P	0.692		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848159155	P14222	rs1848159155	L441P	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848160095	P14222	rs1848160095	Q423P	0.369		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848160095	P14222	rs1848160095	Q423P	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848161343						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848161527	P14222	rs1848161527	T404A	0.013		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848161527	P14222	rs1848161527	T404A	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848164819						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848165503						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848166057						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848167060						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848167195						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	1848167319						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848167381						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848167980						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848169210	P14222	rs1848169210	L350P	0.953		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848169210	P14222	rs1848169210	L350P	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1848169364	P14222	rs1848169364	L349P	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1848169364	P14222	rs1848169364	L349P	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848170506	P14222	rs1848170506	T342I	0.118		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848170506	P14222	rs1848170506	T342I	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848171067						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848171418						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848171455						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848172629						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848172780						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848173379	P14222	rs1848173379	F316L	0.534		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848173379	P14222	rs1848173379	F316L	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848174532						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	1848174771						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848175266						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848176269						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848177696						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848178017						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848179311						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	1848180029						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848180812						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848181127						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848181792						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848182028						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848182280						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848182798	P14222	rs1848182798	H202L	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848182798	P14222	rs1848182798	H202L	0.15		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848182877						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848183014						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848183324						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1848183403	P14222	rs1848183403	F193L	0.982		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1848183403	P14222	rs1848183403	F193L	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848183794						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848183841	P14222	rs1848183841	P187L	0.971		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848183841	P14222	rs1848183841	P187L	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848204513						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848204757	P14222	rs1848204757	Q160P	0.471		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848204757	P14222	rs1848204757	Q160P	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848205111						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848205642						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848208183						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848208809						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848210340						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848210650						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848210778						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848211219						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848212107						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848213548						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	1848214400	P14222	rs1848214400	C73R	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	1848214400	P14222	rs1848214400	C73R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848215226	P14222	rs1848215226	P69S	0.029		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848215226	P14222	rs1848215226	P69S	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848215997						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848217648						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848217705						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848218349						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1848218666	P14222	rs1848218666	G45E	0.998		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	1848218666	P14222	rs1848218666	G45E	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848219012						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	1848219780						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	1848219856	P14222	rs1848219856	C31G	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	1848219856	P14222	rs1848219856	C31G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848220444	P14222	rs1848220444	H24Q	0.006		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848220444	P14222	rs1848220444	H24Q	0.41		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848220751						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848221103						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848221597						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		1848221679						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848221752	P14222	rs1848221752	G9V	0.955		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	1848221752	P14222	rs1848221752	G9V	0.5		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	189650890	P14222	rs189650890	T450M	0.876		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	189650890	P14222	rs189650890	T450M	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	193302875	P14222	rs193302875	S388I	0.49		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	193302875	P14222	rs193302875	S388I	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	199522390	P14222	rs199522390	R371K	0.018		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	199522390	P14222	rs199522390	R371K	0.2		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		199885522						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		199962500						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		200015777						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200332545	P14222	rs200332545	H202Y	0.086		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200332545	P14222	rs200332545	H202Y	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		200368788						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	200383720	P14222	rs200383720	H182R	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	200383720	P14222	rs200383720	H182R	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	200430442	P14222	rs200430442	R54C	0.924		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	200430442	P14222	rs200430442	R54C	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200534908	P14222	rs200534908	F421C	0.014		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200534908	P14222	rs200534908	F421C	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200589152	P14222	rs200589152	P501S	0.22		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200589152	P14222	rs200589152	P501S	0.11		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200641752	P14222	rs200641752	P345T	0.982		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	200641752	P14222	rs200641752	P345T	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		200712365						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		200716028						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		200789852						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	200824018	P14222	rs200824018	I266V	0.021		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	200824018	P14222	rs200824018	I266V	0.16		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		200912683						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	201032696	P14222	rs201032696	R55C	0.993		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	201032696	P14222	rs201032696	R55C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	201235771	P14222	rs201235771	F316L	0.534		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	201235771	P14222	rs201235771	F316L	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	201382038	P14222	rs201382038	G132R	0.778		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	201382038	P14222	rs201382038	G132R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	201382038	P14222	rs201382038	G132W	0.987		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	201382038	P14222	rs201382038	G132W	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	201468340	P14222	rs201468340	R177C	0.996		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	201468340	P14222	rs201468340	R177C	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	201584464	P14222	rs201584464	T369M	0.005		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	201584464	P14222	rs201584464	T369M	0.38		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		201804583						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	201909472	P14222	rs201909472	V38L	0.011		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	201909472	P14222	rs201909472	V38L	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	201909472	P14222	rs201909472	V38M	0.746		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	201909472	P14222	rs201909472	V38M	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	202091142	P14222	rs202091142	N127S	0.951		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	202091142	P14222	rs202091142	N127S	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	202134601	P14222	rs202134601	D70E	0.24		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	202134601	P14222	rs202134601	D70E	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		202216158						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	202217604	P14222	rs202217604	G220D	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	202217604	P14222	rs202217604	G220D	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132475112						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132475326						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132475398						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132475412	P14222	rs2132475412	I422T	0.159		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132475412	P14222	rs2132475412	I422T	0.51		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	2132475562	P14222	rs2132475562	C395R	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	2132475562	P14222	rs2132475562	C395R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132475692	P14222	rs2132475692	D376G	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132475692	P14222	rs2132475692	D376G	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	2132475924	P14222	rs2132475924	V339G	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	2132475924	P14222	rs2132475924	V339G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132475981						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132476099						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132476105						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132476275	P14222	rs2132476275	T289A	0.003		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132476275	P14222	rs2132476275	T289A	0.43		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132476286	P14222	rs2132476286	K287Q	0.907		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132476286	P14222	rs2132476286	K287Q	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132476325						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132476378						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132476420	P14222	rs2132476420	N265H	0.82		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132476420	P14222	rs2132476420	N265H	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132476438						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	2132476466	P14222	rs2132476466	C257G	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	2132476466	P14222	rs2132476466	C257G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132478226	P14222	rs2132478226	A118S	0.74		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132478226	P14222	rs2132478226	A118S	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132478554	P14222	rs2132478554	G57V	0.141		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2132478554	P14222	rs2132478554	G57V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132478603						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		2132478689						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493481983						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493482118						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493482820						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493483225						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	2493483252						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	2493483298						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493484964						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493485014						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493486826						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493486846						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493487431						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	2493487606						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	28933374	P14222	rs28933374	P345R	0.997		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, pathogenic	28933374	P14222	rs28933374	P345R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign, likely benign	28933375						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	28933376	P14222	rs28933376	T435M	0.97		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	28933376	P14222	rs28933376	T435M	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	28933973						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	34279237	P14222	rs34279237	R126C	0.608		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	34279237	P14222	rs34279237	R126C	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	benign, likely benign, pathogenic	35418374						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign, likely benign, risk factor	35947132						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign, likely benign	368524364	P14222	rs368524364	A211V	0.046		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, benign, likely benign	368524364	P14222	rs368524364	A211V	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	370935432	P14222	rs370935432	R123C	0.11		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	370935432	P14222	rs370935432	R123C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	371021342	P14222	rs371021342	A327V	0.448		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	371021342	P14222	rs371021342	A327V	0.09		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	371232368	P14222	rs371232368	T403A	0.054		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	371232368	P14222	rs371232368	T403A	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	372713247						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	374588624	P14222	rs374588624	R373C	0.993		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	374588624	P14222	rs374588624	R373C	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	374588624	P14222	rs374588624	R373G	0.963		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	374588624	P14222	rs374588624	R373G	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		375473178						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		375522165						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	376289273	P14222	rs376289273	P389S	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	376289273	P14222	rs376289273	P389S	0.27		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	377162454	P14222	rs377162454	R520C	0.535		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	377162454	P14222	rs377162454	R520C	0.14		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	377367451	P14222	rs377367451	P382S	0.263		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	377367451	P14222	rs377367451	P382S	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	377665096	P14222	rs377665096	G476E	0.289		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	377665096	P14222	rs377665096	G476E	0.1		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		528511999						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	528937278	P14222	rs528937278	P22L	0.722		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	528937278	P14222	rs528937278	P22L	0.38		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		530097547						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	531407289	P14222	rs531407289	R33H	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	531407289	P14222	rs531407289	R33H	0.12		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	535296791	P14222	rs535296791	V145A	0.015		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	535296791	P14222	rs535296791	V145A	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		536292356						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	537165894	P14222	rs537165894	T74I	0.312		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	537165894	P14222	rs537165894	T74I	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	547723649	P14222	rs547723649	R104C	0.985		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	547723649	P14222	rs547723649	R104C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	550073023	P14222	rs550073023	R232C	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	550073023	P14222	rs550073023	R232C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	550799905	P14222	rs550799905	P546A	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	550799905	P14222	rs550799905	P546A	0.1		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	551046401	P14222	rs551046401	R385W	0.438		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	551046401	P14222	rs551046401	R385W	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		552830871						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	555317258	P14222	rs555317258	D70N	0.011		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	555317258	P14222	rs555317258	D70N	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	555317258	P14222	rs555317258	D70Y	0.957		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	555317258	P14222	rs555317258	D70Y	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	556996220	P14222	rs556996220	H347N	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	556996220	P14222	rs556996220	H347N	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	557951406	P14222	rs557951406	R87H	0.651		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	557951406	P14222	rs557951406	R87H	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	564234285	P14222	rs564234285	D134E	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	564234285	P14222	rs564234285	D134E	0.37		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	566891566	P14222	rs566891566	R371G	0.863		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	566891566	P14222	rs566891566	R371G	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		567204132						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		571015630						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		576356569						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		577367079	P14222	rs577367079	D469G	0.179		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		577367079	P14222	rs577367079	D469G	0.15		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	578092914	P14222	rs578092914	G45R	0.998		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	578092914	P14222	rs578092914	G45R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		745770923						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		745878717						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	746365230	P14222	rs746365230	R356W	0.061		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	746365230	P14222	rs746365230	R356W	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	746431351	P14222	rs746431351	R379Q	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	746431351	P14222	rs746431351	R379Q	0.53		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		746443408						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		746797570						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		746889280						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		747025790						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		747145070						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	747380397	P14222	rs747380397	R232H	0.781		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	747380397	P14222	rs747380397	R232H	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		747466309						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	748060067	P14222	rs748060067	R464Q	0.011		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	748060067	P14222	rs748060067	R464Q	0.51		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		748227721						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	748315806	P14222	rs748315806	T114I	0.334		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	748315806	P14222	rs748315806	T114I	0.18		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	749110507	P14222	rs749110507	R119G	0.022		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	749110507	P14222	rs749110507	R119G	0.21		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	749110507	P14222	rs749110507	R119W	0.581		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	749110507	P14222	rs749110507	R119W	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		749112632						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		749385286						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	749729753	P14222	rs749729753	G399V	0.072		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	749729753	P14222	rs749729753	G399V	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	750244443	P14222	rs750244443	R65K	0.003		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	750244443	P14222	rs750244443	R65K	0.67		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	750896540						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	751161742	P14222	rs751161742	Q446P	0.989		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	751161742	P14222	rs751161742	Q446P	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	751247865	P14222	rs751247865	H222Q	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	751247865	P14222	rs751247865	H222Q	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		751298400						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	751379475	P14222	rs751379475	P16L	0.722		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	751379475	P14222	rs751379475	P16L	0.79		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	751390468	P14222	rs751390468	R240H	0.988		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	751390468	P14222	rs751390468	R240H	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		751467331						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	751796432	P14222	rs751796432	T186I	0.25		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	751796432	P14222	rs751796432	T186I	0.32		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		751950203						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	752189303	P14222	rs752189303	R297Q	0.018		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	752189303	P14222	rs752189303	R297Q	0.39		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		752261431						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	752368313	P14222	rs752368313	A121V	0.012		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	752368313	P14222	rs752368313	A121V	0.14		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		752431340						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	752523287	P14222	rs752523287	Y438C	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	752523287	P14222	rs752523287	Y438C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	752858869	P14222	rs752858869	R361W	0.998		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	752858869	P14222	rs752858869	R361W	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		752946887						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753226704	P14222	rs753226704	K285Q	0.065		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753226704	P14222	rs753226704	K285Q	0.55		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		753332095						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753522684	P14222	rs753522684	R68Q	0.554		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753522684	P14222	rs753522684	R68Q	0.09		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		753604724						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753616524	P14222	rs753616524	T93A	0.001		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753616524	P14222	rs753616524	T93A	0.41		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753751595	P14222	rs753751595	C407G	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	753751595	P14222	rs753751595	C407G	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	754079962	P14222	rs754079962	D340N	0.051		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	754079962	P14222	rs754079962	D340N	0.14		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754180700	P14222	rs754180700	T173K	0.001		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754180700	P14222	rs754180700	T173K	0.52		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754180700	P14222	rs754180700	T173M	0.098		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754180700	P14222	rs754180700	T173M	0.08		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		754196056						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	754602851	P14222	rs754602851	R464W	0.045		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	754602851	P14222	rs754602851	R464W	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754711256	P14222	rs754711256	G445D	0.174		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754711256	P14222	rs754711256	G445D	0.36		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754850577	P14222	rs754850577	R240C	0.954		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	754850577	P14222	rs754850577	R240C	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		755093665						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	755578676	P14222	rs755578676	R297W	0.798		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	755578676	P14222	rs755578676	R297W	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	755737064	P14222	rs755737064	D313V	0.566		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	755737064	P14222	rs755737064	D313V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	755998254						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		756164148						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		756446764						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	756992644	P14222	rs756992644	L92F	0.023		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	756992644	P14222	rs756992644	L92F	0.16		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		757315927						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	757636984	P14222	rs757636984	R357W	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	757636984	P14222	rs757636984	R357W	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	758110629	P14222	rs758110629	E261K	0.994		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	758110629	P14222	rs758110629	E261K	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		758163148						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	758844674	P14222	rs758844674	S335R	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	758844674	P14222	rs758844674	S335R	0.39		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	759074628	P14222	rs759074628	A415G	0.355		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	759074628	P14222	rs759074628	A415G	0.43		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		759100720						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	759235360	P14222	rs759235360	G198R	0.001		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	759235360	P14222	rs759235360	G198R	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	759913385	P14222	rs759913385	C73S	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	759913385	P14222	rs759913385	C73S	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	759913385	P14222	rs759913385	C73Y	0.962		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic	759913385	P14222	rs759913385	C73Y	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	760042830						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		760130891						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	760559764						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		760679593						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	760962796	P14222	rs760962796	V482F	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	760962796	P14222	rs760962796	V482F	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		761049393						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		761206162						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	761293997	P14222	rs761293997	H269P	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	761293997	P14222	rs761293997	H269P	0.14		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	761293997	P14222	rs761293997	H269R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	761293997	P14222	rs761293997	H269R	0.57		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign, likely pathogenic	761310644	P14222	rs761310644	D49E	0.962		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign, likely pathogenic	761310644	P14222	rs761310644	D49E	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		761317587						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	761607073	P14222	rs761607073	S388R	0.019		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	761607073	P14222	rs761607073	S388R	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	761941942	P14222	rs761941942	V131F	0.45		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	761941942	P14222	rs761941942	V131F	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	762026835	P14222	rs762026835	A211T	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	762026835	P14222	rs762026835	A211T	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		762455764						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	762457806	P14222	rs762457806	P477L	0.378		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	762457806	P14222	rs762457806	P477L	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	763002067	P14222	rs763002067	G306C	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	763002067	P14222	rs763002067	G306C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	763002067	P14222	rs763002067	G306S	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	763002067	P14222	rs763002067	G306S	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	763119215	P14222	rs763119215	E275A	0.031		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	763119215	P14222	rs763119215	E275A	0.61		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	763389567	P14222	rs763389567	I125T	0.982		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	763389567	P14222	rs763389567	I125T	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	763667216	P14222	rs763667216	I266T	0.941		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	763667216	P14222	rs763667216	I266T	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		763759163						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		763847274						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764108625	P14222	rs764108625	H190Q	0.604		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764108625	P14222	rs764108625	H190Q	0.55		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764240753						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		764531237						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	764596094	P14222	rs764596094	Q481P	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	764596094	P14222	rs764596094	Q481P	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764722375	P14222	rs764722375	G248R	0.996		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764722375	P14222	rs764722375	G248R	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764808366	P14222	rs764808366	A226D	0.015		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764808366	P14222	rs764808366	A226D	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764984064	P14222	rs764984064	V264A	0.626		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	764984064	P14222	rs764984064	V264A	0.25		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		765543157						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	765636779	P14222	rs765636779	H144R	0.001		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	765636779	P14222	rs765636779	H144R	0.25		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		766068012						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		766102404						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		766121836						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely benign	766208450						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	766783280	P14222	rs766783280	G317R	0.546		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	766783280	P14222	rs766783280	G317R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	766899179	P14222	rs766899179	R96Q	0.47		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	766899179	P14222	rs766899179	R96Q	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	767449445	P14222	rs767449445	L7F	0.598		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	767449445	P14222	rs767449445	L7F	0.67		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		768211924						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	768505698	P14222	rs768505698	V554M	0.987		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	768505698	P14222	rs768505698	V554M	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		768577508						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		768584055						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	768849283	P14222	rs768849283	W129S	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	768849283	P14222	rs768849283	W129S	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		768878385						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769116034	P14222	rs769116034	T208S	0.975		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769116034	P14222	rs769116034	T208S	0.63		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		769295756						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769364825	P14222	rs769364825	S331L	0.996		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769364825	P14222	rs769364825	S331L	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		769690910						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769775807	P14222	rs769775807	H151L	0.98		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769775807	P14222	rs769775807	H151L	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769928225	P14222	rs769928225	G83D	0.009		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	769928225	P14222	rs769928225	G83D	0.2		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		770013555						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	770131011	P14222	rs770131011	F181S	0.981		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	770131011	P14222	rs770131011	F181S	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	770354747	P14222	rs770354747	N205S	0.827		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	770354747	P14222	rs770354747	N205S	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		770355235						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		770929453						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		770987257						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	771076819	P14222	rs771076819	E253K	0.455		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	771076819	P14222	rs771076819	E253K	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		771525923						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	771559242	P14222	rs771559242	S378R	0.511		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	771559242	P14222	rs771559242	S378R	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		771647131						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	772281903	P14222	rs772281903	I460V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	772281903	P14222	rs772281903	I460V	0.75		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		772313460	P14222	rs772313460	D486V	0.999		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		772313460	P14222	rs772313460	D486V	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	772537976	P14222	rs772537976	H203Q	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	772537976	P14222	rs772537976	H203Q	0.62		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		772544808						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	772896823	P14222	rs772896823	V19I	0.005		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	772896823	P14222	rs772896823	V19I	0.37		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		773317614						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		773405626						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	773409738	P14222	rs773409738	G83S	0.238		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	773409738	P14222	rs773409738	G83S	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		773497825						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		774041731						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		774467483						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	774503938	P14222	rs774503938	R177H	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	774503938	P14222	rs774503938	R177H	0.44		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775121659	P14222	rs775121659	R390Q	0.003		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775121659	P14222	rs775121659	R390Q	0.34		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775670991						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775875013	P14222	rs775875013	D484N	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775875013	P14222	rs775875013	D484N	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775934637	P14222	rs775934637	T25R	0.094		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775934637	P14222	rs775934637	T25R	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775966864	P14222	rs775966864	T250M	0.959		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	775966864	P14222	rs775966864	T250M	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		776129535						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	776299562	P14222	rs776299562	V50L	0.106		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	776299562	P14222	rs776299562	V50L	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	776338709	P14222	rs776338709	V348L	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	776338709	P14222	rs776338709	V348L	0.3		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	776338709	P14222	rs776338709	V348M	0.007		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	776338709	P14222	rs776338709	V348M	0.23		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	776571416	P14222	rs776571416	G220R	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	776571416	P14222	rs776571416	G220R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	776571416	P14222	rs776571416	G220S	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	pathogenic	776571416	P14222	rs776571416	G220S	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	776657932	P14222	rs776657932	C76Y	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic	776657932	P14222	rs776657932	C76Y	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	776708052	P14222	rs776708052	D128N	0.284		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	776708052	P14222	rs776708052	D128N	0.17		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		776713460						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	777094015	P14222	rs777094015	D455E	0.193		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	777094015	P14222	rs777094015	D455E	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	777299577	P14222	rs777299577	D313N	0.541		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	777299577	P14222	rs777299577	D313N	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	777662073	P14222	rs777662073	R119Q	0.006		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	777662073	P14222	rs777662073	R119Q	0.92		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		777779022						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	777782785	P14222	rs777782785	R33C	0.404		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	777782785	P14222	rs777782785	R33C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	778335116	P14222	rs778335116	S400L	0.421		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	778335116	P14222	rs778335116	S400L	0.12		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		778604519						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		778822630						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779192397	P14222	rs779192397	E30A	0.965		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779192397	P14222	rs779192397	E30A	0.06		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	779399414	P14222	rs779399414	S168N	0.039		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely pathogenic, pathogenic	779399414	P14222	rs779399414	S168N	0.15		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779488735	P14222	rs779488735	P355R	0.995		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779488735	P14222	rs779488735	P355R	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779584225	P14222	rs779584225	G475E	0.11		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779584225	P14222	rs779584225	G475E	0.1		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779956870	P14222	rs779956870	T404I	0.096		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	779956870	P14222	rs779956870	T404I	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		779961315						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	780042742	P14222	rs780042742	P187S	0.957		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	780042742	P14222	rs780042742	P187S	0.01		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	780544163	P14222	rs780544163	G334D	0.003		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	780544163	P14222	rs780544163	G334D	0.83		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	780802505						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	781070813	P14222	rs781070813	R87C	0.663		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	781070813	P14222	rs781070813	R87C	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	781476866	P14222	rs781476866	R385L	0.003		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	781476866	P14222	rs781476866	R385L	0.07		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	781476866	P14222	rs781476866	R385Q	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	781476866	P14222	rs781476866	R385Q	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	781717112	P14222	rs781717112	A206T	0.027		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance, likely benign	781717112	P14222	rs781717112	A206T	0.76		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		866445888						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		867077482						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	868187938	P14222	rs868187938	P539S	0.733		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	868187938	P14222	rs868187938	P539S	0.2		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		879204478						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	benign	885822						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	886047109	P14222	rs886047109	L314P	0.981		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	886047109	P14222	rs886047109	L314P	0.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	896384244	P14222	rs896384244	R379W	0.659		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	896384244	P14222	rs896384244	R379W	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		898748020						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	902124045	P14222	rs902124045	R299C	1.0		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	likely pathogenic, pathogenic	902124045	P14222	rs902124045	R299C	0.04		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		902612105						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		904339878						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	911803198	P14222	rs911803198	R550Q	0.791		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	911803198	P14222	rs911803198	R550Q	0.02		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		919054906						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		932217839						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		935869090						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		945975050						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		949858593						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	957245579	P14222	rs957245579	Q366R	0.082		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	957245579	P14222	rs957245579	Q366R	0.05		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		960409958						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		962233852						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	966762140						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		971289303						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		976050745						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		985789036						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	990141845	P14222	rs990141845	A196V	0.145		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	990141845	P14222	rs990141845	A196V	0.03		P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		992040149						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant	uncertain significance	994119457						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222
+PRF1	missense_variant		996039318						P14222	Perforin-1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P14222

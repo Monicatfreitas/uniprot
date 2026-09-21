@@ -1,0 +1,455 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+VDR	missense_variant	uncertain significance	1000899385	P11473	rs1000899385	R74H	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1000899385	P11473	rs1000899385	R74H	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1004067976						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1009166835						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1016178956						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1017564795						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1023071686						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1031100136						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	1039857822						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic	1057521095	P11473	rs1057521095	R343C	0.997		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic	1057521095	P11473	rs1057521095	R343C	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		113677053						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, benign, likely benign	114678556	P11473	rs114678556	R358H	0.021		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, benign, likely benign	114678556	P11473	rs114678556	R358H	0.17		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	115085431	P11473	rs115085431	R18Q	0.274		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	115085431	P11473	rs115085431	R18Q	0.03		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	11574090						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, benign	11574115						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1162183732						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	1164008328	P11473	rs1164008328	I268T	0.518		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	1164008328	P11473	rs1164008328	I268T	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1167095979						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1169801766						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1178817579						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	benign	11832059						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1192464857						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1201137636						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1203684316						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1205491426						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1210013497						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1211812683	P11473	rs1211812683	E92K	0.988		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1211812683	P11473	rs1211812683	E92K	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1212238799						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1218913622						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	121909790						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic, pathogenic	121909791						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	121909793						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	121909794						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely pathogenic, pathogenic	121909796	P11473	rs121909796	R274H	0.814		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely pathogenic, pathogenic	121909796	P11473	rs121909796	R274H	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely pathogenic, pathogenic	121909796	P11473	rs121909796	R274P	0.99		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely pathogenic, pathogenic	121909796	P11473	rs121909796	R274P	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	121909797	P11473	rs121909797	G46A	0.993		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	121909797	P11473	rs121909797	G46A	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign, pathogenic	121909798						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, pathogenic	121909799						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	121909800	P11473	rs121909800	R391S	0.974		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	121909800	P11473	rs121909800	R391S	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1219697463						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1228475743						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1240044438						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1245498873	P11473	rs1245498873	F406I	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1245498873	P11473	rs1245498873	F406I	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1256299539						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1257181329	P11473	rs1257181329	L323V	0.999		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1257181329	P11473	rs1257181329	L323V	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1267829972						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1269189957						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1272082227						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1277932912						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1279681077						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1280836121	P11473	rs1280836121	D29G	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1280836121	P11473	rs1280836121	D29G	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1283059621	P11473	rs1283059621	S405F	0.98		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1283059621	P11473	rs1283059621	S405F	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1289005695						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1305123989						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1305311708						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1305659614						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1308785908						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1310678797						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1310810077						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1317926761						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1320238492						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1326443165						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1331198542						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	1333249153						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1334628201						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1338135647						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1343795166	P11473	rs1343795166	C79Y	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1343795166	P11473	rs1343795166	C79Y	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1345774737	P11473	rs1345774737	A388D	0.779		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1345774737	P11473	rs1345774737	A388D	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1348964021						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1355719451						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1357475598	P11473	rs1357475598	N204H	0.56		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1357475598	P11473	rs1357475598	N204H	0.15		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1359262907						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1359473853						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1367890799						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1370224730						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1371070357						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	137900268	P11473	rs137900268	N361S	0.007		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	137900268	P11473	rs137900268	N361S	0.65		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		137939233						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	1380207149						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1385917005						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1388388273	P11473	rs1388388273	G64E	0.779		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1388388273	P11473	rs1388388273	G64E	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1393228281						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1393616341						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1396229930						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1397733657						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	139949521						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1401493620						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	140331946						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1404048828						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1404849690						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1408083814						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1409586085						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1410412556						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	141329158	P11473	rs141329158	V339I	0.027		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	141329158	P11473	rs141329158	V339I	0.03		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1416964833						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1417819821						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1421129259						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1423287528						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1427534934						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1433706740						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1440932619	P11473	rs1440932619	P11S	0.068		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1440932619	P11473	rs1440932619	P11S	0.36		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1441519761						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1442369494	P11473	rs1442369494	R54W	0.999		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1442369494	P11473	rs1442369494	R54W	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	144628070	P11473	rs144628070	D137E	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	144628070	P11473	rs144628070	D137E	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	144756403	P11473	rs144756403	V297I	0.003		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	144756403	P11473	rs144756403	V297I	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	145002466	P11473	rs145002466	T59I	0.585		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	145002466	P11473	rs145002466	T59I	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	145153289						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1451981688						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	145351048						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1453903440						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		145438594						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1454695428	P11473	rs1454695428	C60Y	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1454695428	P11473	rs1454695428	C60Y	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1460559774						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1462926827						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1463920811						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1466047868						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1467515445						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1467882649						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1470558331						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1472591641	P11473	rs1472591641	E395Q	0.323		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1472591641	P11473	rs1472591641	E395Q	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1474374854						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	147496897	P11473	rs147496897	R18W	0.917		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	147496897	P11473	rs147496897	R18W	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1477620055						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1477925887						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	148368146	P11473	rs148368146	R54Q	0.929		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	148368146	P11473	rs148368146	R54Q	0.03		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1485068642						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, benign	148856375	P11473	rs148856375	A350T	0.009		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, benign	148856375	P11473	rs148856375	A350T	0.25		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1489187403						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely pathogenic	149122494	P11473	rs149122494	Q259E	0.99		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely pathogenic	149122494	P11473	rs149122494	Q259E	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		149373127						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	150142901						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1565605474						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1565607194						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1565613452	P11473	rs1565613452	R158H	0.06		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1565613452	P11473	rs1565613452	R158H	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1565613821						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1565618263						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1565618291	P11473	rs1565618291	C76F	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1565618291	P11473	rs1565618291	C76F	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1592093787						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1592107763						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	187843998	P11473	rs187843998	V339A	0.145		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	187843998	P11473	rs187843998	V339A	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		190607107	P11473	rs190607107	R296H	0.446		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		190607107	P11473	rs190607107	R296H	0.13		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945242636						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945243453	P11473	rs1945243453	C410F	0.022		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945243453	P11473	rs1945243453	C410F	0.52		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945243522						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945244160	P11473	rs1945244160	R402C	0.986		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945244160	P11473	rs1945244160	R402C	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945246685						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945247255						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945248316						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945278672						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945278741						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945278957						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945279326						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945279390						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945280243						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945280381						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945280532						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	1945280617						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945280681						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945280882						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945288205						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945288545						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945288616						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945288665						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945288734						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945289936						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945290166						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945471254						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945473429	P11473	rs1945473429	L205V	0.127		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945473429	P11473	rs1945473429	L205V	0.15		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945474838						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945505353						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945505547						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely benign	1945506117						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945506951						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945507271						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945507395						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945507850						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945509571						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945516326						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945516530	P11473	rs1945516530	I132S	0.817		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945516530	P11473	rs1945516530	I132S	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945516598						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945519031						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945519177						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945520115						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945520194						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945701261						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1945702902						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945703092	P11473	rs1945703092	P61L	0.948		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	1945703092	P11473	rs1945703092	P61L	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1946074635						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1946075589						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1946076281						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1946076344						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic	1946077078						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		1946077321						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	199620286	P11473	rs199620286	R173S	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	199620286	P11473	rs199620286	R173S	0.72		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	199705103	P11473	rs199705103	R104W	0.994		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	199705103	P11473	rs199705103	R104W	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	199929033	P11473	rs199929033	R22W	0.998		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	199929033	P11473	rs199929033	R22W	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		199938161						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	200041268	P11473	rs200041268	M52I	0.335		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	200041268	P11473	rs200041268	M52I	0.16		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	200296058	P11473	rs200296058	K240N	0.249		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	200296058	P11473	rs200296058	K240N	0.23		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	200556498	P11473	rs200556498	P374R	0.997		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	200556498	P11473	rs200556498	P374R	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	200765991	P11473	rs200765991	R121Q	0.07		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	200765991	P11473	rs200765991	R121Q	0.12		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		201380371						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	201676749	P11473	rs201676749	R22Q	0.516		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	201676749	P11473	rs201676749	R22Q	0.2		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	201814357	P11473	rs201814357	P155T	0.886		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	201814357	P11473	rs201814357	P155T	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	202139940	P11473	rs202139940	R370H	0.013		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	202139940	P11473	rs202139940	R370H	0.49		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137118603						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137119173						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137122235						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137122900						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137123079						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137141882						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137141923						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137142015						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137142031						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137142043						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137142060						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137142151						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		2137165682						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539964765						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539964970						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539964996						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539965361						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539965563						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539965607						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539969106						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	2539969247						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539969269						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539969325						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539981075						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539981165						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539984651						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2539984717						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	2540017371						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		267603484						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic	267607169						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		368284580						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	368441608	P11473	rs368441608	A5V	0.003		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	368441608	P11473	rs368441608	A5V	0.05		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		368836161						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	369210822	P11473	rs369210822	E257D	0.222		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	369210822	P11473	rs369210822	E257D	0.12		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	369248365	P11473	rs369248365	R67C	0.803		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	369248365	P11473	rs369248365	R67C	0.04		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	369885177						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	370473254	P11473	rs370473254	N37S	0.975		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	370473254	P11473	rs370473254	N37S	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	371280533	P11473	rs371280533	D181N	0.003		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	371280533	P11473	rs371280533	D181N	0.15		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	371655308	P11473	rs371655308	R130H	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	371655308	P11473	rs371655308	R130H	0.22		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	371855706	P11473	rs371855706	P21S	0.817		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	371855706	P11473	rs371855706	P21S	0.03		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	373875011	P11473	rs373875011	R30Q	0.397		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	373875011	P11473	rs373875011	R30Q	0.08		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		374916384						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	375156114	P11473	rs375156114	V20M	0.018		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	375156114	P11473	rs375156114	V20M	0.08		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	376478613	P11473	rs376478613	P228L	0.869		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	376478613	P11473	rs376478613	P228L	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	376903517	P11473	rs376903517	R368H	0.034		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	376903517	P11473	rs376903517	R368H	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	376903517	P11473	rs376903517	R368L	0.009		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	376903517	P11473	rs376903517	R368L	0.15		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		377423996						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	387907555	P11473	rs387907555	I87V	0.411		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	387907555	P11473	rs387907555	I87V	0.08		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	534768058	P11473	rs534768058	D86G	0.213		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	534768058	P11473	rs534768058	D86G	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	537469733	P11473	rs537469733	M4V	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	537469733	P11473	rs537469733	M4V	0.45		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	540774973	P11473	rs540774973	T192S	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	540774973	P11473	rs540774973	T192S	0.87		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	560458649	P11473	rs560458649	I242T	0.717		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	560458649	P11473	rs560458649	I242T	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		574090625						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	61761615	P11473	rs61761615	R296C	0.001		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	61761615	P11473	rs61761615	R296C	0.13		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		745379948						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		745468552						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		745684501						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		745754581						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		745949193						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	746214307	P11473	rs746214307	V261I	0.309		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	746214307	P11473	rs746214307	V261I	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		746457159						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	746619116	P11473	rs746619116	R154W	0.717		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	746619116	P11473	rs746619116	R154W	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		746718889						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		746794931						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	746987400	P11473	rs746987400	D253E	0.031		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	746987400	P11473	rs746987400	D253E	0.6		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic	747349160	P11473	rs747349160	G304R	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	likely pathogenic	747349160	P11473	rs747349160	G304R	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		747836722						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		747959386						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		748467437						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	749140677	P11473	rs749140677	P176L	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	749140677	P11473	rs749140677	P176L	0.61		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		749205182						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		749485565						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	749763626	P11473	rs749763626	R104Q	0.857		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	749763626	P11473	rs749763626	R104Q	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	749838232	P11473	rs749838232	A350V	0.023		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	749838232	P11473	rs749838232	A350V	0.18		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		749851876						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		750091722						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	750175824						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		751507165						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	751673811	P11473	rs751673811	D181G	0.1		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	751673811	P11473	rs751673811	D181G	0.04		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		752333820						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	752590757	P11473	rs752590757	R121W	0.753		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	752590757	P11473	rs752590757	R121W	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	752733059	P11473	rs752733059	R358C	0.318		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	752733059	P11473	rs752733059	R358C	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	753383761	P11473	rs753383761	R67H	0.015		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	753383761	P11473	rs753383761	R67H	0.16		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		754919163						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		755225409						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		755797029						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		755850200						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		75590999						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	756858031						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		756991186						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	757881350	P11473	rs757881350	R274C	0.993		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	757881350	P11473	rs757881350	R274C	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		758301495						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		758607336						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		758739784						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		759100941						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		759321276						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		760029819						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		760460470						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		761055434						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		761444855						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	762188448	P11473	rs762188448	T365M	0.899		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	762188448	P11473	rs762188448	T365M	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	762363150						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	762938778						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		764054471						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	765563014	P11473	rs765563014	A6V	0.003		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	765563014	P11473	rs765563014	A6V	0.99		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		76683299						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	766835351						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		766973254						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	767290901	P11473	rs767290901	D71G	0.747		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	767290901	P11473	rs767290901	D71G	0.03		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	767673430	P11473	rs767673430	R130C	0.363		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	767673430	P11473	rs767673430	R130C	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		769440230						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	769876033						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		770243189						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	770566299	P11473	rs770566299	R370C	0.224		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	770566299	P11473	rs770566299	R370C	0.05		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	770566299	P11473	rs770566299	R370G	0.224		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	770566299	P11473	rs770566299	R370G	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		771132039						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		771702332						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	771926584	P11473	rs771926584	P372L	0.102		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	771926584	P11473	rs771926584	P372L	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		772456910						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		773055192						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		773329096						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	773813445						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		774460350						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	774910763	P11473	rs774910763	A349T	0.009		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	774910763	P11473	rs774910763	A349T	0.54		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		775226600						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	775321091	P11473	rs775321091	S212T	0.106		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	775321091	P11473	rs775321091	S212T	0.46		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	775600453						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	776088779	P11473	rs776088779	R391H	0.993		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	776088779	P11473	rs776088779	R391H	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	776564196	P11473	rs776564196	N290S	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance, likely benign	776564196	P11473	rs776564196	N290S	1.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		776847875						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		777613163						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	778063507	P11473	rs778063507	H189N	0.001		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	778063507	P11473	rs778063507	H189N	0.54		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		778171487						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		778548978						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		778638622						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		779687938						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		779775712						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	779954117						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		780041888						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	780886928						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		780967749						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		781313589						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		781512710						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		781600439						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	78942213	P11473	rs78942213	R368C	0.785		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	78942213	P11473	rs78942213	R368C	0.01		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		867361350						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		867536387						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	886037890	P11473	rs886037890	H397P	0.955		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	pathogenic	886037890	P11473	rs886037890	H397P	0.0		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	886049437	P11473	rs886049437	K315N	0.843		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	886049437	P11473	rs886049437	K315N	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant	uncertain significance	894404605						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		946531624						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		979262786						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		992960287	P11473	rs992960287	N19S	0.009		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		992960287	P11473	rs992960287	N19S	0.02		P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473
+VDR	missense_variant		994929414						P11473	Vitamin D3 receptor	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P11473

@@ -1,0 +1,259 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CD40LG	missense_variant		1001915392						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1004051141	P29965	rs1004051141	D97G	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1004051141	P29965	rs1004051141	D97G	0.11		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1008743849						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1008946391						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	104894768						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	104894769	P29965	rs104894769	L155Q	0.996		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	104894769	P29965	rs104894769	L155Q	0.03		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	104894771						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	104894772	P29965	rs104894772	E129G	0.143		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	104894772	P29965	rs104894772	E129G	0.16		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely benign, pathogenic	104894773	P29965	rs104894773	S128R	0.671		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely benign, pathogenic	104894773	P29965	rs104894773	S128R	0.02		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894774	P29965	rs104894774	M36K	0.389		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894774	P29965	rs104894774	M36K	0.02		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894774	P29965	rs104894774	M36T	0.01		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894774	P29965	rs104894774	M36T	0.67		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	104894777						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, pathogenic	104894778	P29965	rs104894778	A123V	0.84		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, pathogenic	104894778	P29965	rs104894778	A123V	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, pathogenic	104894778	P29965	rs104894778	A123V	0.753		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, pathogenic	104894778	P29965	rs104894778	A123V	0.01		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1050576933						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1052924444	P29965	rs1052924444	I127V	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1052924444	P29965	rs1052924444	I127V	0.39		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	1057521127						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	1057521128	P29965	rs1057521128	F256S	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	1057521128	P29965	rs1057521128	F256S	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	1126535						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	11575982	P29965	rs11575982	R181P	0.925		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	11575982	P29965	rs11575982	R181P	0.24		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	11575982	P29965	rs11575982	R181Q	0.012		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	11575982	P29965	rs11575982	R181Q	0.43		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1172219534						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1189105308	P29965	rs1189105308	V237M	0.888		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1189105308	P29965	rs1189105308	V237M	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1189105308	P29965	rs1189105308	V237M	0.842		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1189105308	P29965	rs1189105308	V237M	0.01		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1210201609	P29965	rs1210201609	S131R	0.009		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1210201609	P29965	rs1210201609	S131R	0.06		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1214607081						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1216770048						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1245452261	P29965	rs1245452261	P188A	0.775		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1245452261	P29965	rs1245452261	P188A	0.03		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1252281345	P29965	rs1252281345	S236L	0.257		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1252281345	P29965	rs1252281345	S236L	0.38		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1252281345	P29965	rs1252281345	S236L	0.179		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1252281345	P29965	rs1252281345	S236L	0.25		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1257414276						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1270879764						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1283517835	P29965	rs1283517835	I33N	0.929		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1283517835	P29965	rs1283517835	I33N	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1287500891						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1289706273						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1299375470						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1306957056						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1313764088						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely benign	1318466267	P29965	rs1318466267	N109K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely benign	1318466267	P29965	rs1318466267	N109K	0.93		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1329862058						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1338696512	P29965	rs1338696512	S9F	0.293		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1338696512	P29965	rs1338696512	S9F	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1350282799	P29965	rs1350282799	E3K	0.621		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1350282799	P29965	rs1350282799	E3K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1350282799	P29965	rs1350282799	E3K	0.616		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1350282799	P29965	rs1350282799	E3K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1359082888	P29965	rs1359082888	L17V	0.022		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1359082888	P29965	rs1359082888	L17V	0.67		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1359911582						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	1387503550	P29965	rs1387503550	A141P	0.927		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	1387503550	P29965	rs1387503550	A141P	0.08		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1443156084						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	144827029	P29965	rs144827029	F201L	0.003		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	144827029	P29965	rs144827029	F201L	0.17		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	145115086	P29965	rs145115086	R11Q	0.876		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	145115086	P29965	rs145115086	R11Q	0.01		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	145115086	P29965	rs145115086	R11Q	0.874		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	145115086	P29965	rs145115086	R11Q	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1452233211						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	1456764305						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1469813687						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	147340102	P29965	rs147340102	S184T	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	147340102	P29965	rs147340102	S184T	0.42		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	1477466218						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	148594123						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1556136676	P29965	rs1556136676	E86K	0.001		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1556136676	P29965	rs1556136676	E86K	0.8		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1556136676	P29965	rs1556136676	E86K	0.001		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1556136676	P29965	rs1556136676	E86K	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377744	P29965	rs1569377744	K143N	0.939		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377744	P29965	rs1569377744	K143N	0.02		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377829						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377865	P29965	rs1569377865	F229S	0.995		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377865	P29965	rs1569377865	F229S	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377865	P29965	rs1569377865	F229S	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377865	P29965	rs1569377865	F229S	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	1569377884						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	1603321148	P29965	rs1603321148	H125Y	0.979		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	1603321148	P29965	rs1603321148	H125Y	0.01		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		1603321795						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	1603321840	P29965	rs1603321840	G226R	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	1603321840	P29965	rs1603321840	G226R	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	1702969660	P29965	rs1702969660	A173V	0.096		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	1702969660	P29965	rs1702969660	A173V	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		186774716						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	193922136	P29965	rs193922136	T254K	0.997		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	193922136	P29965	rs193922136	T254K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	193922136	P29965	rs193922136	T254K	0.887		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic, pathogenic	193922136	P29965	rs193922136	T254K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	199914973	P29965	rs199914973	V163I	0.039		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	199914973	P29965	rs199914973	V163I	0.31		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	199914973	P29965	rs199914973	V163I	0.025		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign, likely benign	199914973	P29965	rs199914973	V163I	0.1		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	200672738	P29965	rs200672738	S78P	0.015		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	200672738	P29965	rs200672738	S78P	0.16		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	200840715	P29965	rs200840715	R181W	0.903		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	200840715	P29965	rs200840715	R181W	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	200840715	P29965	rs200840715	R181W	0.725		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	200840715	P29965	rs200840715	R181W	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		201109996						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076094811						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076094849						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076094894	P29965	rs2076094894	M25V	0.06		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076094894	P29965	rs2076094894	M25V	0.08		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076094905						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076095000	P29965	rs2076095000	M36I	0.005		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076095000	P29965	rs2076095000	M36I	0.44		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076100334						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076100370						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076100619						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely benign	2076100638	P29965	rs2076100638	Q90H	0.133		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely benign	2076100638	P29965	rs2076100638	Q90H	0.17		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076113123						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076113366						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076118951						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076126825						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	2076126859	P29965	rs2076126859	G144R	0.778		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	2076126859	P29965	rs2076126859	G144R	0.04		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	2076127133	P29965	rs2076127133	Y172H	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic	2076127133	P29965	rs2076127133	Y172H	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076127287						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076127350						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076127391						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076127566						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076127596	P29965	rs2076127596	R203T	0.485		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076127596	P29965	rs2076127596	R203T	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076127609						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2076127864						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076128005	P29965	rs2076128005	V247M	0.998		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2076128005	P29965	rs2076128005	V247M	0.04		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2148550549						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148550578	P29965	rs2148550578	L41P	0.039		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148550578	P29965	rs2148550578	L41P	0.02		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148551094	P29965	rs2148551094	T68M	0.013		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148551094	P29965	rs2148551094	T68M	0.17		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, pathogenic	2148551102	P29965	rs2148551102	Q70E	0.348		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, pathogenic	2148551102	P29965	rs2148551102	Q70E	0.03		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2148551112						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2148552406	P29965	rs2148552406	G116C	0.968		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2148552406	P29965	rs2148552406	G116C	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2148552406	P29965	rs2148552406	G116C	0.969		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2148552406	P29965	rs2148552406	G116C	0.01		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148552902	P29965	rs2148552902	G116D	0.078		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148552902	P29965	rs2148552902	G116D	0.06		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148552915	P29965	rs2148552915	V126F	0.145		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148552915	P29965	rs2148552915	V126F	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148553726	P29965	rs2148553726	L193R	0.99		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2148553726	P29965	rs2148553726	L193R	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		2148553759						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2148553773	P29965	rs2148553773	L225S	0.999		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2148553773	P29965	rs2148553773	L225S	0.04		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic, pathogenic	2148553785	P29965	rs2148553785	F229L	0.933		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, likely pathogenic, pathogenic	2148553785	P29965	rs2148553785	F229L	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522103774						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522103776						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522103903						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522111690						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2522117677						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522117824						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522117842						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	pathogenic	2522117875						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522117881						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522117935						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2522117947						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522117985						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	2522118239						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522118478						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522118597						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	2522118643						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign, likely benign	368003929	P29965	rs368003929	A13V	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign, likely benign	368003929	P29965	rs368003929	A13V	0.99		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	368691563	P29965	rs368691563	S110R	0.015		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	368691563	P29965	rs368691563	S110R	0.43		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		369975696						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	371041193	P29965	rs371041193	S184L	0.026		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	371041193	P29965	rs371041193	S184L	0.28		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	371041193	P29965	rs371041193	S184L	0.001		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	371041193	P29965	rs371041193	S184L	0.21		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		371981283						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	374246579						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		376406003						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	376582437	P29965	rs376582437	T105K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	376582437	P29965	rs376582437	T105K	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	376582437	P29965	rs376582437	T105M	0.003		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	376582437	P29965	rs376582437	T105M	0.11		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	376582437	P29965	rs376582437	T105M	0.003		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance, benign	376582437	P29965	rs376582437	T105M	0.13		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	749829408						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		750090324						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		752210787	P29965	rs752210787	E104K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		752210787	P29965	rs752210787	E104K	0.69		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		752210787	P29965	rs752210787	E104K	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		752210787	P29965	rs752210787	E104K	0.85		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	755229833						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	756468554						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	758401320	P29965	rs758401320	P233L	0.106		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	758401320	P29965	rs758401320	P233L	0.02		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	760461092	P29965	rs760461092	A130T	0.009		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	760461092	P29965	rs760461092	A130T	0.53		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely benign	761769948						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		762423618						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	762639528	P29965	rs762639528	Y145N	0.998		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	762639528	P29965	rs762639528	Y145N	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		763722482						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	768138040	P29965	rs768138040	A215T	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	768138040	P29965	rs768138040	A215T	0.25		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	768138040	P29965	rs768138040	A215T	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	768138040	P29965	rs768138040	A215T	0.33		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		768391352						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		769625422						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	769728462	P29965	rs769728462	G199S	0.003		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	769728462	P29965	rs769728462	G199S	0.79		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	770773481	P29965	rs770773481	S132R	0.127		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	770773481	P29965	rs770773481	S132R	0.08		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		771120303						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		771141566						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	771501540	P29965	rs771501540	V64A	0.434		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	benign	771501540	P29965	rs771501540	V64A	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		773594916						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		773698908						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		773961313						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		775289152						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		776239740	P29965	rs776239740	T135A	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		776239740	P29965	rs776239740	T135A	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		776239740	P29965	rs776239740	T135A	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		776239740	P29965	rs776239740	T135A	0.86		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		776916928						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	778219718						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	786205606	P29965	rs786205606	Y169C	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	786205606	P29965	rs786205606	Y169C	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	786205606	P29965	rs786205606	Y169C	1.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	786205606	P29965	rs786205606	Y169C	0.0		P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		866206803						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		866415103						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	likely pathogenic	886039326						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	891251321						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant		926394267						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965
+CD40LG	missense_variant	uncertain significance	993299705						P29965	CD40 ligand	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29965

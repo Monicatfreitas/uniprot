@@ -1,0 +1,355 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+PPARD	missense_variant		1010114172						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1013372900						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1029480634						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1031275319						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1032272499						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1045614386						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1048312418						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		112959486	Q03181	rs112959486	G64R	0.042		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		112959486	Q03181	rs112959486	G64R	0.08		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		113767344						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1159201016						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1160583416	Q03181	rs1160583416	D174N	0.996		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1160583416	Q03181	rs1160583416	D174N	0.02		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1178783766						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1179109951						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1179821358	Q03181	rs1179821358	N169K	0.003		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1179821358	Q03181	rs1179821358	N169K	0.18		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1181758701	Q03181	rs1181758701	P38T	0.068		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1181758701	Q03181	rs1181758701	P38T	0.2		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1183119482	Q03181	rs1183119482	I290V	0.99		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1183119482	Q03181	rs1183119482	I290V	0.01		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1191920672						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1194427171						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1197694763						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1202100080	Q03181	rs1202100080	R198C	0.409		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1202100080	Q03181	rs1202100080	R198C	0.02		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1202510949						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1203479382						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1208911374						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1219846086						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1220344420						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1221447634						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1223538158						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1223918120	Q03181	rs1223918120	V243M	0.994		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1223918120	Q03181	rs1223918120	V243M	0.04		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1227248054						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1244376753	Q03181	rs1244376753	V227M	0.95		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1244376753	Q03181	rs1244376753	V227M	0.05		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1244787590						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1245760271						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1247043560						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1248926920						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1255732094						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1257599572						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1261216368						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1264270027						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1272021928						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1279571584	Q03181	rs1279571584	V286M	1.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1279571584	Q03181	rs1279571584	V286M	0.02		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1284279740						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1288059324						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1294769491						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1296117840						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1297966824						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1302730925						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1304200087						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1318117662						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1323053099						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1330351838						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1339088808						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1347950322						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1348460776						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1374702117						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1383508351	Q03181	rs1383508351	K116E	0.992		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1383508351	Q03181	rs1383508351	K116E	0.01		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1384807617						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1388047922						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1388342390	Q03181	rs1388342390	I297V	0.009		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1388342390	Q03181	rs1388342390	I297V	0.49		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1389448785						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1394115310						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	139791337						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1400556756						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1407008678						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		140820080						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1408378452						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		141008204						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1410976918	Q03181	rs1410976918	E16D	0.899		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1410976918	Q03181	rs1410976918	E16D	0.28		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		141397262	Q03181	rs141397262	R47W	0.23		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		141397262	Q03181	rs141397262	R47W	0.08		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1416460153						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1421487351						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		142393291						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1426728471						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1429083235						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1429404067						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1434168856						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1434449026	Q03181	rs1434449026	S66L	0.015		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1434449026	Q03181	rs1434449026	S66L	0.03		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	144211994	Q03181	rs144211994	T376S	0.025		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	144211994	Q03181	rs144211994	T376S	1.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1443518714						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1443756673						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	likely benign	144732727	Q03181	rs144732727	S428L	0.003		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	likely benign	144732727	Q03181	rs144732727	S428L	0.07		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		144940143						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1453840099	Q03181	rs1453840099	R144C	0.998		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1453840099	Q03181	rs1453840099	R144C	0.02		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1456950844	Q03181	rs1456950844	A21P	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1456950844	Q03181	rs1456950844	A21P	0.06		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		146127226						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		146289882						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1470495586						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1471418563						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		147759211						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		148026961						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1480599037						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1482560672						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1489007815						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1490233176						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		149040923						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1562215943						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1562229750						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1562229834						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581651610						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581651772						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581669058						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581669121						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581672876						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581677119						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581677131						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581678251						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581678281						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581678524						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581679176						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581679217						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581679393						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1581682191						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1691800358						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1708334442						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1765395693						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1765399095						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1765399712						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1765400489						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1765401320						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1765401681						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766051526						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766053573						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766056889						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766058418						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766059052						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766195025						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766197020						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766197409						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766389559						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766390818						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766391835						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1766392380	Q03181	rs1766392380	A158V	0.291		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	1766392380	Q03181	rs1766392380	A158V	0.02		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766399692						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766403628						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766404339						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766405542						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766407639						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766408825						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766425334						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766428138						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766431118						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766431496						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766434001						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766437035						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766438643						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766444883						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766446871						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766452001						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766453869						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766455568						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766456115						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766537196						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766538395						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766539899						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766543761						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766549584						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		1766553054						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		186420510						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		189344916						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199589233						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199590557						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199776112						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199813956						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199828289						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199863039						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		199866665						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	199911002	Q03181	rs199911002	V298I	0.015		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	199911002	Q03181	rs199911002	V298I	0.01		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200068853						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	200111529						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200121630						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200126997						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200150550						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200198406	Q03181	rs200198406	S50L	0.968		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200198406	Q03181	rs200198406	S50L	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200212114						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200496881						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200533476						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	200600159	Q03181	rs200600159	R12W	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	200600159	Q03181	rs200600159	R12W	0.02		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200709799						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200779718	Q03181	rs200779718	R258W	0.998		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200779718	Q03181	rs200779718	R258W	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	200899270						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200904269	Q03181	rs200904269	R419Q	0.08		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200904269	Q03181	rs200904269	R419Q	0.57		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		200982265						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201068256						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201097601						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201139610						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201313294						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	201359132	Q03181	rs201359132	G68S	0.001		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	201359132	Q03181	rs201359132	G68S	0.85		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201419456						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201479741						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201482797						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201653737	Q03181	rs201653737	R113C	0.959		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201653737	Q03181	rs201653737	R113C	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201709502						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		201713026						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	201897561	Q03181	rs201897561	V279A	0.997		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	201897561	Q03181	rs201897561	V279A	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	201961545	Q03181	rs201961545	E412K	0.998		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	201961545	Q03181	rs201961545	E412K	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		202146453						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2076167						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150780233						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150844113						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150844146						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150857967						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150857983						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150858170						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150861001						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		2150868438						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	2533558039						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		372497373	Q03181	rs372497373	R407Q	0.928		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		372497373	Q03181	rs372497373	R407Q	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		373922267						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		375484823						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		375904553						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		376621167						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		377438407						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		546984488						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		555750892						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		565306713						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		574103821						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		746774640						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		747826964						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		748848435						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		749011274						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		749588142						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		750380211	Q03181	rs750380211	R258Q	0.977		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		750380211	Q03181	rs750380211	R258Q	0.2		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		750529579	Q03181	rs750529579	R318C	0.999		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		750529579	Q03181	rs750529579	R318C	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		751830588						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		751879635						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		752963884	Q03181	rs752963884	R379H	0.379		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		752963884	Q03181	rs752963884	R379H	0.52		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		753578566						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		753619039						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	753868321	Q03181	rs753868321	G78R	0.897		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	753868321	Q03181	rs753868321	G78R	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		753923364						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		755423943						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		755905723						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		756354983						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	756560599	Q03181	rs756560599	R318H	0.999		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	756560599	Q03181	rs756560599	R318H	0.09		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		756617723						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		757329053						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		757408432						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		757735733						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		758636974	Q03181	rs758636974	S271N	0.085		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		758636974	Q03181	rs758636974	S271N	0.36		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		758778103						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	759163941						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		759390931						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		759531660						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		759592721						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		759821820						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		760507227						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		760746154						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		761524572						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	761749779	Q03181	rs761749779	D215N	0.003		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	761749779	Q03181	rs761749779	D215N	0.01		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		762783643						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	762834983	Q03181	rs762834983	V367I	0.015		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	762834983	Q03181	rs762834983	V367I	0.09		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		763215690						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		763849875	Q03181	rs763849875	M72V	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		763849875	Q03181	rs763849875	M72V	0.73		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		764485195						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		764684743						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		765007268						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	765360583	Q03181	rs765360583	R103H	0.999		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	765360583	Q03181	rs765360583	R103H	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		765797243						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		766434018						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		766515472						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		766605262						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	766827287	Q03181	rs766827287	T208M	0.602		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	766827287	Q03181	rs766827287	T208M	0.07		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		767428713	Q03181	rs767428713	R314H	0.082		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		767428713	Q03181	rs767428713	R314H	0.06		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		768147711						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		768763586						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		769962625						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		770470994						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		770953928						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		771160635						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		771421269	Q03181	rs771421269	P237S	0.123		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		771421269	Q03181	rs771421269	P237S	0.49		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		771764757						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		772150465	Q03181	rs772150465	R369Q	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		772150465	Q03181	rs772150465	R369Q	0.32		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		772540082	Q03181	rs772540082	N339S	0.585		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		772540082	Q03181	rs772540082	N339S	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	772723177	Q03181	rs772723177	S40N	0.22		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	772723177	Q03181	rs772723177	S40N	0.06		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		773900636						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		775359832						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		775821601						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	776031687	Q03181	rs776031687	S66A	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	776031687	Q03181	rs776031687	S66A	0.5		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		776751609						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		776822185	Q03181	rs776822185	R129H	1.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		776822185	Q03181	rs776822185	R129H	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		777270771	Q03181	rs777270771	E382K	0.253		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		777270771	Q03181	rs777270771	E382K	0.21		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		777461029						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		778066412						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		778110245						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		778624140						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		778943909						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		779242348						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		780076252						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		780125217						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		780335736						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		867021538	Q03181	rs867021538	A414T	0.924		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		867021538	Q03181	rs867021538	A414T	0.01		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		867971467						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		868445344						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		889344882	Q03181	rs889344882	A353V	0.995		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		889344882	Q03181	rs889344882	A353V	0.0		Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		911964948						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		920309211						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		930606448						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		930864316						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		949181244						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		949882481						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		958570537						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		961795320						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		962070703						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant		987182332						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181
+PPARD	missense_variant	uncertain significance	987573535						Q03181	Peroxisome proliferator-activated receptor delta	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q03181

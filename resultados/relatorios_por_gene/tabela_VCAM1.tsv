@@ -1,0 +1,722 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+VCAM1	missense_variant		1000371179						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1008483623						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1009042927						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1010015150						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1014717309						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1028985093						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1031538107						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1032916187						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1034074349						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1040985591						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1052808849						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		114207303						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1156309749						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1157633928	P19320	rs1157633928	A274E	0.991		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1157633928	P19320	rs1157633928	A274E	0.45		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1157633928	P19320	rs1157633928	A274E	0.991		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1157633928	P19320	rs1157633928	A274E	0.3		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1170497817						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1175428881						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1178928622						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1179401380						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1181280155						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1181312195						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1181690961						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1185362405						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1185881600						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1187425126						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1187503544						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1188813277						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1193125336						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1198531570						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1203572046						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1204153033						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1207315091	P19320	rs1207315091	T565A	0.013		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1207315091	P19320	rs1207315091	T565A	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1207397723						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1207659816						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1214443885						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1220970595						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1221250129						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1222144323						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1222269466						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1223658349						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1230475145						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1232982471	P19320	rs1232982471	E580D	0.398		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1232982471	P19320	rs1232982471	E580D	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1232982471	P19320	rs1232982471	E580D	0.408		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1232982471	P19320	rs1232982471	E580D	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1235241290						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1236155905	P19320	rs1236155905	S54F	0.038		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1236155905	P19320	rs1236155905	S54F	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1236155905	P19320	rs1236155905	S54F	0.026		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1236155905	P19320	rs1236155905	S54F	0.04		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1236621239						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1236702470						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1239406215						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1245531839						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1246336283						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1247077200						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1247408894						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1248153693						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1248457207						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1248851971						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1250525089						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1251482436						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1252884180						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1255722520						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1256414060						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1259767720						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1262702240						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1263192817						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1264341474						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1266590166						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1273853316						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1279962103						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1282015800						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1283156067						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1286460191						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1293879444	P19320	rs1293879444	C335Y	0.995		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1293879444	P19320	rs1293879444	C335Y	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1293879444	P19320	rs1293879444	C335Y	0.993		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1293879444	P19320	rs1293879444	C335Y	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1295195864						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1298182688						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1306282527						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1307824757						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1308042833						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1308546760						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1308634082						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1310808380						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1315859330						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1316911493						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1318105799						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1319384507						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1320557927						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1324525498						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1325254468						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1327695769	P19320	rs1327695769	E399Q	0.124		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1327695769	P19320	rs1327695769	E399Q	0.14		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1336485817						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1340634846						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1343768058						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1346800445						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1347094524						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1348144806						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1351920024						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1353064187						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1359101941						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1364867653						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1369244546						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1370357197						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1371808321						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1377814270						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1377884568	P19320	rs1377884568	I655V	0.914		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1377884568	P19320	rs1377884568	I655V	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1377884568	P19320	rs1377884568	I655V	0.918		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1377884568	P19320	rs1377884568	I655V	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1377931593						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	138060304	P19320	rs138060304	N691S	0.003		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	138060304	P19320	rs138060304	N691S	0.3		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		138479988						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1387402538						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1387859674						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1388646637						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1389436211	P19320	rs1389436211	T183I	0.112		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1389436211	P19320	rs1389436211	T183I	0.26		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1389436211	P19320	rs1389436211	T183I	0.146		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1389436211	P19320	rs1389436211	T183I	0.29		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1391353318						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1391459555						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1393414421	P19320	rs1393414421	E667K	0.622		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1393414421	P19320	rs1393414421	E667K	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1393414421	P19320	rs1393414421	E667K	0.632		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1393414421	P19320	rs1393414421	E667K	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1394576362						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1396084606	P19320	rs1396084606	I717S	0.469		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1396084606	P19320	rs1396084606	I717S	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1398415880						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	139874936	P19320	rs139874936	K171E	0.985		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	139874936	P19320	rs139874936	K171E	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1398849371						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		139942204						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1401614291						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1404999749						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1405360711						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1405686675						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1405823173						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1407360168						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1409818687						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1410044261						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1410447600						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1410765393	P19320	rs1410765393	L524V	0.007		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1410765393	P19320	rs1410765393	L524V	0.67		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1410765393	P19320	rs1410765393	L524V	0.009		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1410765393	P19320	rs1410765393	L524V	0.74		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		141361013						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1414160136						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1415278816						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1416304389						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1416703698						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1421660194	P19320	rs1421660194	P2L	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1421660194	P19320	rs1421660194	P2L	0.09		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1421660194	P19320	rs1421660194	P2L	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1421660194	P19320	rs1421660194	P2L	0.04		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1423299556						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1424308928						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	142501320	P19320	rs142501320	T79M	0.552		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	142501320	P19320	rs142501320	T79M	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	142501320	P19320	rs142501320	T79M	0.416		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	142501320	P19320	rs142501320	T79M	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1426631661						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	142673263	P19320	rs142673263	N266T	0.197		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	142673263	P19320	rs142673263	N266T	0.19		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1428999683						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1430107031						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1430894122						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1431307407	P19320	rs1431307407	L700P	0.961		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1431307407	P19320	rs1431307407	L700P	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1431307407	P19320	rs1431307407	L700P	0.963		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1431307407	P19320	rs1431307407	L700P	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1431953444						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1431996231						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		143249365						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	1433249645						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		143330690						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1433338512						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1437062506						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	144133931	P19320	rs144133931	N13Y	0.023		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	144133931	P19320	rs144133931	N13Y	0.05		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1442149659						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1442560617						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1445236506						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1451375298						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1452818900						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		145440082						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1457624909						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1460156830	P19320	rs1460156830	G155R	0.876		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1460156830	P19320	rs1460156830	G155R	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1460156830	P19320	rs1460156830	G155R	0.906		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1460156830	P19320	rs1460156830	G155R	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1460640378						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1462230861						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1462381638						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1462535739						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1463430244						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1463605144						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1464863317						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		146573744	P19320	rs146573744	A658S	0.849		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		146573744	P19320	rs146573744	A658S	0.07		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		146573744	P19320	rs146573744	A658S	0.855		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		146573744	P19320	rs146573744	A658S	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1469398309						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1470791142	P19320	rs1470791142	E378K	0.967		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1470791142	P19320	rs1470791142	E378K	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1470791142	P19320	rs1470791142	E378K	0.974		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1470791142	P19320	rs1470791142	E378K	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1471750028						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		147446410						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	147743071	P19320	rs147743071	M338V	0.001		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	147743071	P19320	rs147743071	M338V	0.16		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1481596443						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1482153192	P19320	rs1482153192	I474T	0.001		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1482153192	P19320	rs1482153192	I474T	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1482153192	P19320	rs1482153192	I474T	0.052		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1482153192	P19320	rs1482153192	I474T	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	148280495	P19320	rs148280495	A11T	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	148280495	P19320	rs148280495	A11T	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		148445318						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1486604569	P19320	rs1486604569	L564V	0.803		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1486604569	P19320	rs1486604569	L564V	0.07		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1486604569	P19320	rs1486604569	L564V	0.809		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1486604569	P19320	rs1486604569	L564V	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		148968921						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		149896351						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1557905708						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1557905969						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1557906633						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1557906653						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1557907768						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1557909460						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1571452488						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1571455199						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1571458109						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1571460878						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1571460993						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1571464361						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659889295						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659890156						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	likely benign	1659891136						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659891352						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659898643						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659924075						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659924867						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659927456						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659927516						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1659927741						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660008211						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660008338						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660011906						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660012983						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660013097						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660022142						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660023010						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660023379						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660024966						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660027554						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660028947						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660032477						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660036016						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660036394						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660036550						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660094577						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660094930						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660096226						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660097849						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660097980						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660098270						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660098926						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660099225						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660099934						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660101096						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660102904						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660103763						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660104203						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660305434						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660305587						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660306052						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660306708						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660307672						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660309457						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660311050						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660311154						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660312403						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660343246						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660344329						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660344543						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660345838						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660346142						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660346421						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660346531						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660439429						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660439796						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660440257						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660440542						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660442158						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660442552						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660444346						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660444943						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660446236						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660446377						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660447370						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660449963						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660450864						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660451836						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660452448						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660452550						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660456219						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660493546						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660494100						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660494420						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660494729						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660495111						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660495344						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660496158						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660498001						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660501453						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660502622						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660503327						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660504076						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660504645						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660581452						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660581621						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660583000						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660585138						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660585359						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	likely benign	1660585480	P19320	rs1660585480	I649T	0.006		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	likely benign	1660585480	P19320	rs1660585480	I649T	0.47		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660586655						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660586890						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660588793						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660588866						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660722516						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660723744						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660728337						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660728448						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660730071						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660730199						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660730429						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		1660731053						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		183791313						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		184836168						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		187565500						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		190280671	P19320	rs190280671	S420C	0.379		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		190280671	P19320	rs190280671	S420C	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		190280671	P19320	rs190280671	S420C	0.39		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		190280671	P19320	rs190280671	S420C	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		199575282						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		199733528						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200216708	P19320	rs200216708	R196Q	0.007		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200216708	P19320	rs200216708	R196Q	0.46		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200216708	P19320	rs200216708	R196Q	0.007		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200216708	P19320	rs200216708	R196Q	0.46		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200627951	P19320	rs200627951	E437D	0.954		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200627951	P19320	rs200627951	E437D	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200627951	P19320	rs200627951	E437D	0.96		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200627951	P19320	rs200627951	E437D	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200879051	P19320	rs200879051	R656Q	0.011		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200879051	P19320	rs200879051	R656Q	0.14		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200879051	P19320	rs200879051	R656Q	0.011		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		200879051	P19320	rs200879051	R656Q	0.18		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	200910233	P19320	rs200910233	A652T	0.013		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	200910233	P19320	rs200910233	A652T	0.86		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	200910233	P19320	rs200910233	A652T	0.012		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	200910233	P19320	rs200910233	A652T	0.78		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	200949878	P19320	rs200949878	G553R	0.989		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	200949878	P19320	rs200949878	G553R	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201166464						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201533112						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	201542521	P19320	rs201542521	D205G	0.994		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	201542521	P19320	rs201542521	D205G	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201800927	P19320	rs201800927	F375C	0.898		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201800927	P19320	rs201800927	F375C	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201800927	P19320	rs201800927	F375C	0.979		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201800927	P19320	rs201800927	F375C	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		201899191						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		202092399						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100821702						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100821880						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100824192						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100825457						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100825521						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100830031						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100831792						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100831821						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100831852						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100832921						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100832973						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100833018						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100834903						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		2100837991						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	likely benign	2524021422						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	2524028591						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	2524029171						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	2524051819						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	2524057408						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		267597893						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		34100871						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	benign	34199378						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		34228330						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		34708918						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	368309387	P19320	rs368309387	L36R	0.629		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	368309387	P19320	rs368309387	L36R	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		368331464						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		368445400						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		368795788						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	368917883	P19320	rs368917883	G586E	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	368917883	P19320	rs368917883	G586E	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		369761581	P19320	rs369761581	A639V	0.053		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		369761581	P19320	rs369761581	A639V	0.16		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		369761581	P19320	rs369761581	A639V	0.052		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		369761581	P19320	rs369761581	A639V	0.14		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		369802629						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		371792940						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	likely benign	372282003						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	375080958						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375185009	P19320	rs375185009	V516I	0.006		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375185009	P19320	rs375185009	V516I	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375185009	P19320	rs375185009	V516I	0.006		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375185009	P19320	rs375185009	V516I	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375202659						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375362739						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	375517524	P19320	rs375517524	Y703C	0.997		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	375517524	P19320	rs375517524	Y703C	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	375517524	P19320	rs375517524	Y703C	0.997		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	375517524	P19320	rs375517524	Y703C	0.05		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		375980259						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		376072377						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		3783611						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		3783612						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		3783613						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		3783615						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		527373263						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	529856837						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		531442025						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		533279347						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		533475074						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		533971321	P19320	rs533971321	R435W	0.874		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		533971321	P19320	rs533971321	R435W	0.1		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		533971321	P19320	rs533971321	R435W	0.812		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		533971321	P19320	rs533971321	R435W	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		536520212						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		538348728						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		542428165						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		543057527						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		544572881	P19320	rs544572881	Q397H	0.664		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		544572881	P19320	rs544572881	Q397H	0.12		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		544572881	P19320	rs544572881	Q397H	0.728		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		544572881	P19320	rs544572881	Q397H	0.11		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		545204409						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	560169201						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		563245996						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		565225501						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		568303508						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		572677769						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		573380761						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		575584266						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		62638734						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		745399021						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		745541794						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		745882659						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		745936061						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746155083	P19320	rs746155083	D650N	0.009		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746155083	P19320	rs746155083	D650N	0.71		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746155083	P19320	rs746155083	D650N	0.009		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746155083	P19320	rs746155083	D650N	0.71		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746167048						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746438127						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746519897						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	likely benign	746592774						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746723280						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		746814193						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747063219						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	747347841	P19320	rs747347841	L700V	0.088		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	747347841	P19320	rs747347841	L700V	0.17		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747387020						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747528960						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747609710						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747628881						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747911510						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		747913326						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		748243917						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	748417631	P19320	rs748417631	A168T	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	748417631	P19320	rs748417631	A168T	0.66		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		748956130						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749064789						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749121016						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749370572						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749389467						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749586059						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749688137						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749724573						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749910554						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		749984826						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750043243						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750179383						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750227130						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750485459						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750726850	P19320	rs750726850	G51S	0.997		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750726850	P19320	rs750726850	G51S	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750726850	P19320	rs750726850	G51S	0.996		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		750726850	P19320	rs750726850	G51S	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751036237						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751269288						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751452005						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751672963						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751758027						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751805510						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		751870424						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752176325						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752260230						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752679660						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752740188						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752784297						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752911535						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752912404						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		752955356						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		753019771						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		753065002						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		753566100						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		754390004						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	754424141	P19320	rs754424141	T72M	0.339		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	754424141	P19320	rs754424141	T72M	0.04		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	754424141	P19320	rs754424141	T72M	0.395		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	754424141	P19320	rs754424141	T72M	0.07		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		754442853						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		755138045						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		755354050						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		755371683						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		755570186						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		755678326						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	755932839	P19320	rs755932839	H157N	0.142		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	755932839	P19320	rs755932839	H157N	0.23		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	755932839	P19320	rs755932839	H157N	0.742		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	755932839	P19320	rs755932839	H157N	0.12		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		756027414						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		756538546						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	757039798	P19320	rs757039798	P404R	0.619		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	757039798	P19320	rs757039798	P404R	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		757451312	P19320	rs757451312	E495K	0.945		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		757451312	P19320	rs757451312	E495K	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		757451312	P19320	rs757451312	E495K	0.944		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		757451312	P19320	rs757451312	E495K	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		757996796						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		758450068						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		758546876						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		758547564						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	758576380	P19320	rs758576380	I317V	0.081		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	758576380	P19320	rs758576380	I317V	0.15		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	758782913	P19320	rs758782913	S696A	0.959		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	758782913	P19320	rs758782913	S696A	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		759196885						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		759623061						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		759683632	P19320	rs759683632	Q309R	0.341		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		759683632	P19320	rs759683632	Q309R	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		759683632	P19320	rs759683632	Q309R	0.351		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		759683632	P19320	rs759683632	Q309R	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		760022420						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		760338030						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		760496519						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		760845078						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761041789						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761120366						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761247461	P19320	rs761247461	V192A	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761247461	P19320	rs761247461	V192A	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761247461	P19320	rs761247461	V192A	0.028		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761247461	P19320	rs761247461	V192A	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761338250						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761593060						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		761877168						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		762193254						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		762533495						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		762803563						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		762833016						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		762913338						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	762937799	P19320	rs762937799	E410K	0.039		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	762937799	P19320	rs762937799	E410K	0.04		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	762937799	P19320	rs762937799	E410K	0.039		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	762937799	P19320	rs762937799	E410K	0.04		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		763026427						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		763040907						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		763348531						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		763847253						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		764057609						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		764595241						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	764677426	P19320	rs764677426	G727R	1.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	764677426	P19320	rs764677426	G727R	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		765166994						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	765235459						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		765786995						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		765906375						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		765963130						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		766568545						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		766711114						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		766767378						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		766814579						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		766893022						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767170467						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767369724	P19320	rs767369724	I713V	0.009		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767369724	P19320	rs767369724	I713V	0.34		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767369724	P19320	rs767369724	I713V	0.009		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767369724	P19320	rs767369724	I713V	0.22		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767371594						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	767446399	P19320	rs767446399	L193I	0.095		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	767446399	P19320	rs767446399	L193I	0.53		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767797928						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767811882	P19320	rs767811882	A274T	0.987		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767811882	P19320	rs767811882	A274T	0.2		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767811882	P19320	rs767811882	A274T	0.987		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767811882	P19320	rs767811882	A274T	0.16		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		767986742						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		768105595						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		768623427						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769108310						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	769161166	P19320	rs769161166	S612T	0.265		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	769161166	P19320	rs769161166	S612T	0.18		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769528923	P19320	rs769528923	R435Q	0.007		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769528923	P19320	rs769528923	R435Q	0.23		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769528923	P19320	rs769528923	R435Q	0.019		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769528923	P19320	rs769528923	R435Q	0.24		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769573494						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769862238	P19320	rs769862238	I27M	0.122		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769862238	P19320	rs769862238	I27M	0.16		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769862238	P19320	rs769862238	I27M	0.545		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769862238	P19320	rs769862238	I27M	0.24		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769911393						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769919999						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		769974551						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		770332711						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		770478132	P19320	rs770478132	F257L	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		770478132	P19320	rs770478132	F257L	0.56		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		770478132	P19320	rs770478132	F257L	0.031		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		770478132	P19320	rs770478132	F257L	0.49		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		771194190						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		771227860						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		771421436						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		771620833						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772031058						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772033172	P19320	rs772033172	L355V	0.966		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772033172	P19320	rs772033172	L355V	0.04		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772033172	P19320	rs772033172	L355V	0.985		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772033172	P19320	rs772033172	L355V	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772178628						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772584020						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		772917955						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		773000426						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		773551543						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		773604592						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		773680752						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		773736719						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		773850624						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		774318799						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		775090221						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		775374597						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	775533364	P19320	rs775533364	N300S	0.001		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	775533364	P19320	rs775533364	N300S	0.42		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		775580385						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		775858763						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		776942875						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		776997819						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	777392031	P19320	rs777392031	A663G	0.984		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	777392031	P19320	rs777392031	A663G	0.06		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	777392031	P19320	rs777392031	A663V	0.961		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	777392031	P19320	rs777392031	A663V	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	777392031	P19320	rs777392031	A663V	0.96		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	777392031	P19320	rs777392031	A663V	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		777434382						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		777881481						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		777975282						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	778041376	P19320	rs778041376	V337A	0.023		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	778041376	P19320	rs778041376	V337A	0.33		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		778131038						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		778322449						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		778661707						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		778901841						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779017959						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779073619	P19320	rs779073619	E163K	0.287		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779073619	P19320	rs779073619	E163K	0.03		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779073619	P19320	rs779073619	E163K	0.21		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779073619	P19320	rs779073619	E163K	0.02		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779131811						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779684478						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		779739539						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		780212367	P19320	rs780212367	T502M	0.919		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		780212367	P19320	rs780212367	T502M	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		780212367	P19320	rs780212367	T502M	0.918		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		780212367	P19320	rs780212367	T502M	0.01		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		780698508						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	780974781						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		780986173						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		781257237						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		781641145	P19320	rs781641145	V430M	0.996		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		781641145	P19320	rs781641145	V430M	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		781641145	P19320	rs781641145	V430M	0.993		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		781641145	P19320	rs781641145	V430M	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		781710237						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		867617884						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		879099489						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		887623377						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		889308059						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		897497946						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	900346086	P19320	rs900346086	L80V	0.999		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant	uncertain significance	900346086	P19320	rs900346086	L80V	0.0		P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		917209545						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		933126183						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		937228921						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		938866531						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		964195951						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		971110131						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		995681057						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		996267693						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320
+VCAM1	missense_variant		997222151						P19320	Vascular cell adhesion protein 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P19320

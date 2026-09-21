@@ -1,509 +1,386 @@
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import json
 import os
-import re
-import urllib.parse
+from typing import Optional
+import numpy as np
 import pandas as pd
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Otimização de Sessão HTTP com pool de conexões e retentativas automáticas
-session = requests.Session()
-adapter = HTTPAdapter(
-    pool_connections=50,
-    pool_maxsize=50,
-    max_retries=Retry(
-        total=3, backoff_factor=0.2, status_forcelist=[500, 502, 503, 504]
-    ),
-)
-session.mount("http://", adapter)
-session.mount("https://", adapter)
-session.headers.update({"User-Agent": "Python-Genomics-Pipeline/2.0"})
+sns.set_theme(style="whitegrid", palette="muted")
+plt.rcParams.update({
+    "font.sans-serif": "DejaVu Sans",
+    "font.size": 10,
+    "axes.titlesize": 12,
+    "axes.titleweight": "bold",
+    "figure.titlesize": 14,
+    "figure.titleweight": "bold"
+})
 
-# Desativa avisos de certificados SSL não verificados
-requests.packages.urllib3.disable_warnings()
+PASTA_RESULTADOS = "resultados"
+PASTA_FIGURAS_GENES = os.path.join(PASTA_RESULTADOS, "figuras_por_gene")
+PASTA_RELATORIOS_GENES = os.path.join(PASTA_RESULTADOS, "relatorios_por_gene")
 
-# Mapeamento de propriedades dos aminoácidos
-AA_PROPS = {
-    "Arg": "Básico/Carga Positiva",
-    "Lys": "Básico/Carga Positiva",
-    "His": "Básico/Carga Positiva",
-    "Asp": "Ácido/Carga Negativa",
-    "Glu": "Ácido/Carga Negativa",
-    "Ser": "Polar Neutro",
-    "Thr": "Polar Neutro",
-    "Asn": "Polar Neutro",
-    "Gln": "Polar Neutro",
-    "Cys": "Especial/Reativo",
-    "Gly": "Especial/Flexível",
-    "Pro": "Especial/Rígido",
-    "Ala": "Apolar/Hidrofóbico",
-    "Val": "Apolar/Hidrofóbico",
-    "Ile": "Apolar/Hidrofóbico",
-    "Leu": "Apolar/Hidrofóbico",
-    "Met": "Apolar/Hidrofóbico",
-    "Phe": "Apolar/Aromático",
-    "Tyr": "Apolar/Aromático",
-    "Trp": "Apolar/Aromático",
+ARQUIVOS_DBSNP = [
+    "comparacao_dbsnp_alphamissense.tsv",
+    "dbsnp_missense_resultados.tsv",
+    "dbsnp_alphamissense_unificado.tsv",
+    "tabela_comparativa_completa.tsv"
+]
+
+ARQUIVOS_EXTRAS = {
+    "alphamissense": ["alphamissense_resultados.tsv"],
+    "uniprot": ["resultados_uniprot.tsv"]
 }
 
-AA_1_TO_3 = {
-    "A": "Ala",
-    "R": "Arg",
-    "N": "Asn",
-    "D": "Asp",
-    "C": "Cys",
-    "E": "Glu",
-    "Q": "Gln",
-    "G": "Gly",
-    "H": "His",
-    "I": "Ile",
-    "L": "Leu",
-    "K": "Lys",
-    "M": "Met",
-    "F": "Phe",
-    "P": "Pro",
-    "S": "Ser",
-    "T": "Thr",
-    "W": "Trp",
-    "Y": "Tyr",
-    "V": "Val",
-}
+# Base do link do AlphaFold (AlphaFold DB usa o UniProt accession na URL)
+URL_BASE_ALPHAFOLD = "https://alphafold.ebi.ac.uk/entry/"
 
 
-def consultar_gene_uniprot_unidade(gene):
-    """Consulta individual de um único gene no UniProt."""
-    try:
-        query = f"gene_exact:{gene} AND organism_id:9606 AND reviewed:true"
-        url = f"https://rest.uniprot.org/uniprotkb/search?query={urllib.parse.quote(query)}&fields=accession,protein_name&size=1"
-        resp = session.get(url, timeout=10, verify=False)
-        if resp.status_code == 200:
-            data = resp.json()
-            results = data.get("results", [])
-            if results:
-                uniprot_id = results[0].get("primaryAccession", "-")
-                nome_rec = (
-                    results[0]
-                    .get("proteinDescription", {})
-                    .get("recommendedName", {})
-                    .get("fullName", {})
-                    .get("value", "-")
-                )
-                return gene, {"uniprot_id": uniprot_id, "nome_proteina": nome_rec}
-    except Exception:
-        pass
-    return gene, {"uniprot_id": "-", "nome_proteina": "-"}
+def limpar_e_converter_numerico(serie: pd.Series) -> pd.Series:
+    """Converte e limpa qualquer formato decimal (ponto ou vírgula)."""
+    s = serie.astype(str).str.replace(',', '.').str.strip()
+    s = s.replace(['nan', 'none', 'n/a', '-', 'null', '', '<na>', 'None'], np.nan)
+    return pd.to_numeric(s, errors="coerce")
 
 
-def buscar_dados_uniprot(lista_genes, max_workers=20):
-    """Consulta a API REST do UniProt em paralelo com Múltiplas Threads."""
-    mapa_uniprot = {}
-    genes_unicos = [
-        str(g).strip()
-        for g in set(lista_genes)
-        if pd.notna(g) and str(g).strip() not in ["", "nan", "NA", "-"]
-    ]
+def buscar_e_carregar_tsv(lista_nomes: list, obrigatorio: bool = True) -> Optional[pd.DataFrame]:
+    """Procura o arquivo tanto na raiz quanto dentro de resultados/."""
+    for nome in lista_nomes:
+        caminhos_para_testar = [nome, os.path.join(PASTA_RESULTADOS, nome)]
+        for caminho in caminhos_para_testar:
+            if os.path.exists(caminho):
+                try:
+                    df = pd.read_csv(caminho, sep="\t", engine="python", on_bad_lines="skip")
+                    df.columns = df.columns.str.strip()
+                    print(f"[OK] Arquivo carregado com sucesso: {caminho}")
+                    return df
+                except Exception as e:
+                    print(f"[AVISO] Falha ao ler {caminho}: {e}")
+                    continue
 
-    print(
-        f"Buscando IDs e nomes no UniProt para {len(genes_unicos)} gene(s) em paralelo..."
-    )
-
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {
-            executor.submit(consultar_gene_uniprot_unidade, g): g
-            for g in genes_unicos
-        }
-        for future in as_completed(futures):
-            gene, res = future.result()
-            mapa_uniprot[gene] = res
-
-    return mapa_uniprot
+    if obrigatorio:
+        print(f"[ERRO] Nenhum arquivo válido encontrado para a lista: {lista_nomes}")
+    return None
 
 
-def consultar_rcsb_pdb_unidade(uniprot_id):
-    """Consulta estruturas 3D no RCSB PDB usando o UniProt ID."""
-    if uniprot_id == "-" or not uniprot_id:
-        return uniprot_id, {"pdb_ids": "-", "link_rcsb": "-"}
+def tratar_colunas_base(df: pd.DataFrame) -> pd.DataFrame:
+    """Normaliza o nome do gene (mantendo em maiúsculas) e limpa os rsIDs."""
+    if "Gene_Original" in df.columns and "Gene" not in df.columns:
+        df = df.rename(columns={"Gene_Original": "Gene"})
 
-    url = "https://search.rcsb.org/rcsbsearch/v2/query"
-    query_json = {
-        "query": {
-            "type": "terminal",
-            "service": "text",
-            "parameters": {
-                "attribute": "rcsb_polymer_entity_container_identifiers.reference_sequence_identifiers.database_accession",
-                "operator": "exact_match",
-                "value": uniprot_id,
-            },
-        },
-        "return_type": "entry",
-        "request_options": {"paginate": {"start": 0, "rows": 10}},
-    }
+    for col in df.columns:
+        if col.lower() in ["gene", "gene_name", "symbol"]:
+            df[col] = df[col].astype(str).str.strip().str.upper()
+        elif "rs" in col.lower() or "dbsnp" in col.lower():
+            df['rs_key'] = df[col].astype(str).str.replace("rs", "", case=False).str.strip()
 
-    try:
-        resp = session.post(url, json=query_json, timeout=10, verify=False)
-        if resp.status_code == 200:
-            data = resp.json()
-            result_set = data.get("result_set", [])
-            if result_set:
-                pdbs = [item["identifier"] for item in result_set]
-                pdb_str = ", ".join(pdbs)
-                primeiro_pdb = pdbs[0]
-                link_rcsb = f"https://www.rcsb.org/structure/{primeiro_pdb}"
-                return uniprot_id, {"pdb_ids": pdb_str, "link_rcsb": link_rcsb}
-    except Exception:
-        pass
-
-    return uniprot_id, {"pdb_ids": "Sem Estrutura PDB", "link_rcsb": "-"}
+    return df
 
 
-def buscar_estruturas_rcsb_batch(lista_uniprot_ids, max_workers=15):
-    """Consulta em lote dados estruturais do RCSB PDB em paralelo."""
-    uniprot_unicos = [
-        str(u).strip()
-        for u in set(lista_uniprot_ids)
-        if pd.notna(u) and str(u).strip() not in ["", "-", "nan"]
-    ]
-    mapa_pdb = {}
-
-    print(
-        f"Consultando RCSB PDB para {len(uniprot_unicos)} UniProt IDs em paralelo..."
-    )
-
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {
-            executor.submit(consultar_rcsb_pdb_unidade, u): u
-            for u in uniprot_unicos
-        }
-        for future in as_completed(futures):
-            u_id, res = future.result()
-            mapa_pdb[u_id] = res
-
-    return mapa_pdb
+def _detectar_coluna(df: pd.DataFrame, chaves: list, excluir_prefixo: Optional[str] = None) -> Optional[str]:
+    """Procura a primeira coluna cujo nome (em minúsculas) contenha alguma das chaves."""
+    for c in df.columns:
+        cl = c.lower()
+        if excluir_prefixo and cl.startswith(excluir_prefixo):
+            continue
+        if any(k in cl for k in chaves):
+            return c
+    return None
 
 
-def consultar_ncbi_rsid_unidade(rsid):
-    """Consulta individual de um rsID na API do dbSNP NCBI mantendo buscas regex originais."""
-    clean_id = rsid.lower().replace("rs", "").strip()
-    if not clean_id.isdigit():
-        return rsid, "-"
+def carregar_dados_dbsnp():
+    # 1. Carrega a tabela principal
+    df_dbsnp = buscar_e_carregar_tsv(ARQUIVOS_DBSNP, obrigatorio=True)
+    if df_dbsnp is None:
+        return None
 
-    url = f"https://api.ncbi.nlm.nih.gov/variation/v0/beta/refsnp/{clean_id}"
-    hgvs_encontrado = "-"
+    df_dbsnp = tratar_colunas_base(df_dbsnp)
+    col_gene = next((c for c in df_dbsnp.columns if "gene" in c.lower()), "Gene")
 
-    try:
-        resp = session.get(url, timeout=5, verify=False)
-        if resp.status_code == 200:
-            data = resp.json()
-            primary = data.get("primary_snapshot_data", {})
+    # 2. Carrega o arquivo do AlphaMissense
+    df_am = buscar_e_carregar_tsv(ARQUIVOS_EXTRAS["alphamissense"], obrigatorio=False)
 
-            for allele in primary.get("allele_annotations", []):
-                for assembly in allele.get("assembly_annotation", []):
-                    for hgvs in assembly.get("hgvs_genomic", []):
-                        if "p." in hgvs:
-                            hgvs_encontrado = hgvs
-                            break
-                    if hgvs_encontrado != "-":
-                        break
-                if hgvs_encontrado != "-":
-                    break
+    if df_am is not None:
+        df_am = tratar_colunas_base(df_am)
 
-            if hgvs_encontrado == "-":
-                json_str = json.dumps(primary)
-                matches_3 = re.findall(
-                    r"p\.[A-Z][a-z]{2}\d+[A-Z][a-z]{2}", json_str
-                )
-                if matches_3:
-                    hgvs_encontrado = matches_3[0]
-                else:
-                    matches_1 = re.findall(r"p\.[A-Z]\d+[A-Z]", json_str)
-                    if matches_1:
-                        hgvs_encontrado = matches_1[0]
-    except Exception:
-        pass
+        candidatos_score = [c for c in df_am.columns if any(k in c.lower() for k in ["pathogenicity", "score", "am_score", "alphamissense"])]
+        col_score_am = candidatos_score[0] if candidatos_score else None
 
-    return rsid, hgvs_encontrado
+        # DIAGNÓSTICO 1: mostra TODAS as colunas candidatas a "score" no arquivo do
+        # AlphaMissense. Se houver mais de uma, a escolhida (a primeira) pode não ser
+        # a certa — nesse caso, ajuste manualmente qual usar.
+        print(f"[DIAGNÓSTICO] Colunas candidatas a score no AlphaMissense: {candidatos_score}")
+        print(f"[DIAGNÓSTICO] Coluna escolhida para score: {col_score_am!r}")
 
+        if col_score_am:
+            amostra_bruta = df_am[col_score_am].dropna().astype(str).head(5).tolist()
+            print(f"[DIAGNÓSTICO] Amostra de valores BRUTOS (antes de converter) em {col_score_am!r}: {amostra_bruta}")
+            df_am[col_score_am] = limpar_e_converter_numerico(df_am[col_score_am])
+            print(f"[DIAGNÓSTICO] Após conversão numérica: {df_am[col_score_am].notna().sum()} válidos de {len(df_am)} no arquivo AlphaMissense")
 
-def buscar_aminoácidos_ncbi_batch(lista_rsids, max_workers=30):
-    """Consulta paralelizada de alta velocidade para centenas de milhares de rsIDs."""
-    rsids_unicos = list(
-        set([
-            str(r).strip()
-            for r in lista_rsids
-            if pd.notna(r) and str(r).startswith("rs")
-        ])
-    )
-    cache_rsid = {}
-    total = len(rsids_unicos)
+        usa_rs_key = 'rs_key' in df_dbsnp.columns and 'rs_key' in df_am.columns
+        chave_merge = [col_gene, 'rs_key'] if usa_rs_key else [col_gene]
 
-    print(
-        f"Iniciando busca paralela otimizada ({max_workers} threads) para {total} rsIDs únicos..."
-    )
+        # DIAGNÓSTICO 2: compara os valores de chave dos dois lados ANTES do merge.
+        genes_dbsnp = set(df_dbsnp[col_gene].dropna().unique())
+        genes_am = set(df_am[col_gene].dropna().unique())
+        print(f"[DIAGNÓSTICO] Genes únicos no dbSNP: {len(genes_dbsnp)} | no AlphaMissense: {len(genes_am)} | em comum: {len(genes_dbsnp & genes_am)}")
+        if usa_rs_key:
+            rs_dbsnp = set(df_dbsnp['rs_key'].dropna().unique())
+            rs_am = set(df_am['rs_key'].dropna().unique())
+            print(f"[DIAGNÓSTICO] rs_key únicos no dbSNP: {len(rs_dbsnp)} | no AlphaMissense: {len(rs_am)} | em comum: {len(rs_dbsnp & rs_am)}")
+            print(f"[DIAGNÓSTICO] Exemplo rs_key dbSNP: {list(rs_dbsnp)[:5]} | Exemplo rs_key AlphaMissense: {list(rs_am)[:5]}")
 
-    processed_count = 0
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {
-            executor.submit(consultar_ncbi_rsid_unidade, rsid): rsid
-            for rsid in rsids_unicos
-        }
+        colunas_para_substituir = [c for c in df_am.columns if c in df_dbsnp.columns and c not in chave_merge]
+        if colunas_para_substituir:
+            print(f"[INFO] Substituindo colunas placeholder do dbSNP pelos dados reais do AlphaMissense: {colunas_para_substituir}")
+            df_dbsnp = df_dbsnp.drop(columns=colunas_para_substituir)
 
-        for future in as_completed(futures):
-            processed_count += 1
-            rsid, hgvs = future.result()
-            cache_rsid[rsid] = hgvs
+        if usa_rs_key:
+            df_dbsnp = pd.merge(df_dbsnp, df_am, on=[col_gene, 'rs_key'], how='left')
+        else:
+            df_dbsnp = pd.merge(df_dbsnp, df_am, on=col_gene, how='left')
 
-            if processed_count % 2000 == 0 or processed_count == total:
-                print(
-                    f"   [{processed_count}/{total}] Processando {rsid}...",
-                    flush=True,
-                )
+        if col_score_am and col_score_am in df_dbsnp.columns:
+            print(f"[DIAGNÓSTICO] Após o merge com AlphaMissense: {df_dbsnp[col_score_am].notna().sum()} de {len(df_dbsnp)} linhas com score preenchido")
+    else:
+        print("[AVISO] Arquivo do AlphaMissense não encontrado — seguindo só com dbSNP.")
 
-    print("\nConsultas ao NCBI concluídas!")
-    return cache_rsid
+    # 3. Carrega o arquivo do UniProt (código UniProt, posição no gene/proteína, etc.)
+    #    Esse merge não existia antes, por isso UniProt_ID/posições/AlphaFold ficavam
+    #    sempre "None" na tabela final, mesmo a coluna já existindo no esquema.
+    df_uniprot = buscar_e_carregar_tsv(ARQUIVOS_EXTRAS["uniprot"], obrigatorio=False)
 
+    if df_uniprot is not None:
+        df_uniprot = tratar_colunas_base(df_uniprot)
 
-def extrair_detalhes_troca_aminoacido(var_str):
-    """Desmembra e classifica a troca de aminoácido."""
-    if var_str == "-" or not var_str or pd.isna(var_str):
-        return {
-            "HGVS_Proteina": "-",
-            "AA_Ref": "-",
-            "AA_Alt": "-",
-            "Posicao": "-",
-            "Troca_Formatada": "-",
-            "Tipo_Modificacao": "Não Informado",
-        }
+        col_uniprot_id = _detectar_coluna(df_uniprot, ["uniprot", "accession", "swissprot"])
+        col_pos_proteina = _detectar_coluna(df_uniprot, ["protein_pos", "posicao_proteina", "aa_position", "protein_start", "residue"])
+        col_pos_gene = _detectar_coluna(df_uniprot, ["genomic_pos", "posicao_genomica", "posicao_gene", "gene_pos", "chrom_pos", "cds_pos"])
+        col_mudanca_proteina = _detectar_coluna(df_uniprot, ["proteina_mudanca", "protein_change", "aa_change", "hgvs_p", "hgvsp"])
 
-    match_3 = re.search(
-        r"(?:p\.)?([A-Z][a-z]{2})(\d+)([A-Z][a-z]{2})",
-        str(var_str),
-        re.IGNORECASE,
-    )
-    if match_3:
-        aa_ref = match_3.group(1).capitalize()
-        posicao = match_3.group(2)
-        aa_alt = match_3.group(3).capitalize()
+        # DIAGNÓSTICO 3: mostra o que foi detectado no arquivo de UniProt, já que os
+        # nomes de coluna exatos desse arquivo não estavam disponíveis no momento do
+        # ajuste — confira estas linhas na saída e me avise se algo bateu errado.
+        print(f"[DIAGNÓSTICO] Colunas do arquivo UniProt: {list(df_uniprot.columns)}")
+        print(f"[DIAGNÓSTICO] UniProt_ID detectado: {col_uniprot_id!r} | Posição na proteína: {col_pos_proteina!r} | "
+              f"Posição no gene: {col_pos_gene!r} | Mudança na proteína: {col_mudanca_proteina!r}")
 
-        prop_ref = AA_PROPS.get(aa_ref, "Desconhecido")
-        prop_alt = AA_PROPS.get(aa_alt, "Desconhecido")
+        usa_rs_key_up = 'rs_key' in df_dbsnp.columns and 'rs_key' in df_uniprot.columns
+        chave_merge_up = [col_gene, 'rs_key'] if usa_rs_key_up else [col_gene]
 
-        tipo = (
-            f"Conservativa ({prop_ref})"
-            if prop_ref == prop_alt
-            else f"Não-Conservativa ({prop_ref} -> {prop_alt})"
-        )
-        return {
-            "HGVS_Proteina": var_str,
-            "AA_Ref": aa_ref,
-            "AA_Alt": aa_alt,
-            "Posicao": posicao,
-            "Troca_Formatada": f"{aa_ref}{posicao}{aa_alt}",
-            "Tipo_Modificacao": tipo,
-        }
+        colunas_para_substituir_up = [c for c in df_uniprot.columns if c in df_dbsnp.columns and c not in chave_merge_up]
+        if colunas_para_substituir_up:
+            print(f"[INFO] Substituindo colunas placeholder do dbSNP pelos dados reais do UniProt: {colunas_para_substituir_up}")
+            df_dbsnp = df_dbsnp.drop(columns=colunas_para_substituir_up)
 
-    match_1 = re.search(r"(?:p\.)?([A-Z])(\d+)([A-Z])", str(var_str))
-    if match_1:
-        a1, posicao, a2 = match_1.group(1), match_1.group(2), match_1.group(3)
-        aa_ref = AA_1_TO_3.get(a1, a1)
-        aa_alt = AA_1_TO_3.get(a2, a2)
+        if usa_rs_key_up:
+            df_dbsnp = pd.merge(df_dbsnp, df_uniprot, on=[col_gene, 'rs_key'], how='left')
+        else:
+            df_dbsnp = pd.merge(df_dbsnp, df_uniprot, on=col_gene, how='left')
 
-        prop_ref = AA_PROPS.get(aa_ref, "Desconhecido")
-        prop_alt = AA_PROPS.get(aa_alt, "Desconhecido")
+        if col_uniprot_id and col_uniprot_id in df_dbsnp.columns:
+            print(f"[DIAGNÓSTICO] Após o merge com UniProt: {df_dbsnp[col_uniprot_id].notna().sum()} de {len(df_dbsnp)} linhas com UniProt_ID preenchido")
 
-        tipo = (
-            f"Conservativa ({prop_ref})"
-            if prop_ref == prop_alt
-            else f"Não-Conservativa ({prop_ref} -> {prop_alt})"
-        )
-        return {
-            "HGVS_Proteina": var_str,
-            "AA_Ref": aa_ref,
-            "AA_Alt": aa_alt,
-            "Posicao": posicao,
-            "Troca_Formatada": f"{aa_ref}{posicao}{aa_alt} ({a1}>{a2})",
-            "Tipo_Modificacao": tipo,
-        }
+            # 4. Gera o link para o AlphaFold a partir do UniProt_ID
+            df_dbsnp["Link_AlphaFold"] = df_dbsnp[col_uniprot_id].apply(
+                lambda uid: f"{URL_BASE_ALPHAFOLD}{str(uid).strip()}" if pd.notna(uid) and str(uid).strip().lower() not in ("", "nan", "none") else np.nan
+            )
+        else:
+            print("[AVISO] Não foi possível localizar a coluna de UniProt_ID no arquivo de UniProt — link do AlphaFold não gerado. "
+                  "Confira o nome real da coluna na lista impressa acima e ajuste `_detectar_coluna` se necessário.")
+    else:
+        print("[AVISO] Arquivo de UniProt (resultados_uniprot.tsv) não encontrado — UniProt_ID, "
+              "posições e link do AlphaFold ficarão vazios.")
 
-    return {
-        "HGVS_Proteina": var_str,
-        "AA_Ref": "-",
-        "AA_Alt": "-",
-        "Posicao": "-",
-        "Troca_Formatada": "-",
-        "Tipo_Modificacao": "Substituição Missense",
-    }
+    return df_dbsnp
 
 
-def gerar_tabela_completa_proteina_tsv():
-    print("Iniciando processo de consolidação e busca online...")
-    pasta_resultados = "resultados"
-    os.makedirs(pasta_resultados, exist_ok=True)
+def gerar_figuras_e_relatorios(df_merged: pd.DataFrame):
+    os.makedirs(PASTA_FIGURAS_GENES, exist_ok=True)
+    os.makedirs(PASTA_RELATORIOS_GENES, exist_ok=True)
 
-    try:
-        df_dbsnp = pd.read_csv("dbsnp_missense_resultados.tsv", sep="\t")
-        df_am = pd.read_csv("alphamissense_resultados.tsv", sep="\t")
-    except FileNotFoundError as e:
-        print(f"[ERRO] Arquivo de entrada não encontrado: {e}")
+    col_gene = next((c for c in df_merged.columns if "gene" in c.lower()), None)
+    if not col_gene:
+        print("[ERRO] Coluna referente a 'Gene' não foi encontrada.")
         return
 
-    # Trata espaços e tipos
-    for df in [df_dbsnp, df_am]:
-        if "rsID_dbSNP" in df.columns:
-            df["rsID_dbSNP"] = df["rsID_dbSNP"].astype(str).str.strip()
-        if "Gene" in df.columns:
-            df["Gene"] = df["Gene"].astype(str).str.strip()
-
-    # Outer Merge Preservando TODAS as colunas
-    df_merged = pd.merge(
-        df_dbsnp,
-        df_am,
-        on=["Gene", "rsID_dbSNP"],
-        how="outer",
-        suffixes=("_dbSNP", "_AlphaMissense"),
+    col_score_am = next((c for c in df_merged.columns if any(k in c.lower() for k in ["pathogenicity", "score", "am_score", "alphamissense", "am_pathogenicity"])), None)
+    col_class_dbsnp = next(
+        (c for c in df_merged.columns
+         if not c.lower().startswith("alphamissense")
+         and any(k in c.lower() for k in ["classificacao", "clinical", "significance", "clinvar", "significancia"])),
+        None
     )
+    col_pos = next((c for c in df_merged.columns if any(k in c.lower() for k in ["pos", "protein_start", "position", "posicao"])), None)
+    col_rs = next((c for c in df_merged.columns if "rs" in c.lower() or "dbsnp" in c.lower()), None)
 
-    # 1. Mapear ID UniProt e Nome Oficial
-    mapa_uniprot = buscar_dados_uniprot(
-        df_merged["Gene"].dropna().unique(), max_workers=20
-    )
-    df_merged["UniProt_ID"] = df_merged["Gene"].map(
-        lambda g: mapa_uniprot.get(g, {}).get("uniprot_id", "-")
-    )
-    df_merged["Nome_Oficial_Proteina"] = df_merged["Gene"].map(
-        lambda g: mapa_uniprot.get(g, {}).get("nome_proteina", "-")
-    )
-    df_merged["Link_UniProt"] = df_merged["UniProt_ID"].apply(
-        lambda x: f"https://www.uniprot.org/uniprotkb/{x}" if x != "-" else "-"
-    )
+    if col_score_am:
+        df_merged[col_score_am] = limpar_e_converter_numerico(df_merged[col_score_am])
+        print(f"[INFO] Usando coluna de score: {col_score_am!r} — {df_merged[col_score_am].notna().sum()} valores válidos de {len(df_merged)}")
+    if col_class_dbsnp:
+        print(f"[DIAGNÓSTICO] Coluna de classificação (dbSNP/ClinVar) escolhida: {col_class_dbsnp!r} — {df_merged[col_class_dbsnp].notna().sum()} valores válidos de {len(df_merged)}")
+    else:
+        print("[DIAGNÓSTICO] Nenhuma coluna de classificação dbSNP/ClinVar encontrada.")
+    if col_pos:
+        df_merged[col_pos] = limpar_e_converter_numerico(df_merged[col_pos])
 
-    # 2. Mapear Estruturas 3D no RCSB PDB
-    mapa_pdb = buscar_estruturas_rcsb_batch(
-        df_merged["UniProt_ID"].dropna().unique(), max_workers=15
-    )
-    df_merged["PDB_IDs"] = df_merged["UniProt_ID"].map(
-        lambda u: mapa_pdb.get(u, {}).get("pdb_ids", "-")
-    )
-    df_merged["Link_RCSB_PDB"] = df_merged["UniProt_ID"].map(
-        lambda u: mapa_pdb.get(u, {}).get("link_rcsb", "-")
-    )
+    todos_os_genes = df_merged[col_gene].dropna().unique()
+    total_genes = len(todos_os_genes)
 
-    # 3. Reconciliação do HGVS de Proteína
-    col_prot_input = None
-    for c in ["protein_variant", "hgvs_p", "proteina_mudanca", "HGVS_p"]:
-        if c in df_merged.columns:
-            col_prot_input = c
-            break
+    print(f"\n -> Iniciando processamento de {total_genes} genes encontrados a partir dos dados do dbSNP...")
 
-    mapa_rsid_hgvs = buscar_aminoácidos_ncbi_batch(
-        df_merged["rsID_dbSNP"], max_workers=30
-    )
+    resumo_geral = []
 
-    def obter_hgvs_final(row):
-        hgvs_ncbi = mapa_rsid_hgvs.get(str(row["rsID_dbSNP"]).strip(), "-")
-        if hgvs_ncbi != "-":
-            return hgvs_ncbi
-        if (
-            col_prot_input
-            and pd.notna(row[col_prot_input])
-            and str(row[col_prot_input]).strip() != ""
-        ):
-            return row[col_prot_input]
-        return "-"
+    for idx, gene in enumerate(todos_os_genes, 1):
+        if str(gene).strip().lower() in ['nan', '', 'none', 'null']:
+            continue
 
-    df_merged["HGVS_Proteina_Consolidado"] = df_merged.apply(
-        obter_hgvs_final, axis=1
-    )
+        df_gene = df_merged[df_merged[col_gene] == gene].copy()
+        if df_gene.empty:
+            continue
 
-    # 4. Detalhamento Fisico-Químico
-    detalhes = [
-        extrair_detalhes_troca_aminoacido(m)
-        for m in df_merged["HGVS_Proteina_Consolidado"]
-    ]
+        gene_nome = str(gene).upper()
+        nome_limpo = "".join(c for c in gene_nome if c.isalnum() or c in ('_', '-'))
 
-    df_merged["Proteina_HGVS"] = [d["HGVS_Proteina"] for d in detalhes]
-    df_merged["AA_Referencia"] = [d["AA_Ref"] for d in detalhes]
-    df_merged["AA_Alterado"] = [d["AA_Alt"] for d in detalhes]
-    df_merged["Posicao_Proteina"] = [d["Posicao"] for d in detalhes]
-    df_merged["Troca_Aminoacido"] = [d["Troca_Formatada"] for d in detalhes]
-    df_merged["Tipo_Modificacao_FisicoQuimica"] = [
-        d["Tipo_Modificacao"] for d in detalhes
-    ]
+        caminho_tsv = os.path.join(PASTA_RELATORIOS_GENES, f"tabela_{nome_limpo}.tsv")
+        df_gene.to_csv(caminho_tsv, sep="\t", index=False)
 
-    # 5. Análise de Comparação de Presença
-    set_dbsnp = set(df_dbsnp["rsID_dbSNP"].dropna())
-    set_am = set(df_am["rsID_dbSNP"].dropna())
+        scores = df_gene[col_score_am].dropna() if col_score_am else pd.Series(dtype=float)
+        score_medio = scores.mean() if not scores.empty else np.nan
+        score_max = scores.max() if not scores.empty else np.nan
+        score_min = scores.min() if not scores.empty else np.nan
 
-    def determinar_fonte(rsid):
-        no_dbsnp = rsid in set_dbsnp
-        no_am = rsid in set_am
-        if no_dbsnp and no_am:
-            return "Em Ambos (dbSNP + AlphaMissense)"
-        elif no_dbsnp:
-            return "Apenas dbSNP"
-        elif no_am:
-            return "Apenas AlphaMissense"
-        return "Desconhecido"
+        cobertura_pct = round(100 * len(scores) / len(df_gene), 1) if len(df_gene) > 0 else 0.0
 
-    df_merged["Comparativo_Fontes"] = df_merged["rsID_dbSNP"].apply(
-        determinar_fonte
-    )
-    df_merged["Link_dbSNP"] = df_merged["rsID_dbSNP"].apply(
-        lambda x: (
-            f"https://www.ncbi.nlm.nih.gov/snp/{str(x).strip()}"
-            if str(x).startswith("rs")
-            else "-"
-        )
-    )
+        resumo_geral.append({
+            "Gene": gene_nome,
+            "Total_Variantes": len(df_gene),
+            "Variantes_Com_Score_AM": len(scores),
+            "Cobertura_AM_%": cobertura_pct,
+            "Score_Medio_AM": round(score_medio, 4) if not np.isnan(score_medio) else "N/A",
+            "Score_Max_AM": round(score_max, 4) if not np.isnan(score_max) else "N/A",
+            "Score_Min_AM": round(score_min, 4) if not np.isnan(score_min) else "N/A",
+            "Variantes_Patogenicas": (scores >= 0.56).sum() if not scores.empty else 0,
+            "Variantes_Benignas": (scores <= 0.34).sum() if not scores.empty else 0,
+        })
 
-    # 6. Organização das Colunas com Informações Estruturais do PDB
-    cols_bloco_identificacao = [
-        "Gene",
-        "UniProt_ID",
-        "Nome_Oficial_Proteina",
-        "PDB_IDs",
-        "rsID_dbSNP",
-        "Comparativo_Fontes",
-    ]
+        fig = plt.figure(figsize=(16, 10), dpi=300)
+        gs = fig.add_gridspec(2, 2, height_ratios=[1, 1])
+        fig.suptitle(f"Análise dbSNP / AlphaMissense — Gene {gene_nome} ({idx}/{total_genes})", fontsize=16, fontweight="bold", y=0.98)
 
-    cols_bloco_mutacao = [
-        "Proteina_HGVS",
-        "AA_Referencia",
-        "AA_Alterado",
-        "Posicao_Proteina",
-        "Troca_Aminoacido",
-        "Tipo_Modificacao_FisicoQuimica",
-    ]
+        df_valid = df_gene.dropna(subset=[col_score_am]).copy() if col_score_am else pd.DataFrame()
 
-    cols_bloco_links = [
-        "Link_UniProt",
-        "Link_RCSB_PDB",
-        "Link_dbSNP",
-    ]
+        # Gráfico 1: Posição vs Score
+        ax1 = fig.add_subplot(gs[0, :])
+        if not df_valid.empty:
+            eixo_x = df_valid[col_pos] if (col_pos and df_valid[col_pos].dropna().count() > 0) else np.arange(len(df_valid))
 
-    cols_scores_original = [
-        c
-        for c in df_merged.columns
-        if c
-        not in cols_bloco_identificacao + cols_bloco_mutacao + cols_bloco_links
-        and c not in ["HGVS_Proteina_Consolidado"]
-    ]
+            tem_hue_valido = (
+                col_class_dbsnp is not None
+                and col_class_dbsnp in df_valid.columns
+                and df_valid[col_class_dbsnp].notna().any()
+            )
+            hue_var = df_valid[col_class_dbsnp] if tem_hue_valido else None
 
-    ordem_final = (
-        cols_bloco_identificacao
-        + cols_bloco_mutacao
-        + cols_scores_original
-        + cols_bloco_links
-    )
-    df_merged = df_merged[ordem_final]
+            plot_kwargs = {
+                "data": df_valid,
+                "x": eixo_x,
+                "y": col_score_am,
+                "s": 100,
+                "alpha": 0.85,
+                "ax": ax1
+            }
+            if hue_var is not None:
+                plot_kwargs["hue"] = hue_var
+                plot_kwargs["style"] = hue_var
+                plot_kwargs["palette"] = "tab10"
 
-    output_path = os.path.join(
-        pasta_resultados, "tabela_comparativa_detalhada_proteinas.tsv"
-    )
-    df_merged.to_csv(output_path, sep="\t", index=False)
-    print(f"\n[SUCESSO] Tabela unificada gerada em: '{output_path}'!")
+            sns.scatterplot(**plot_kwargs)
+
+            if col_rs and col_rs in df_valid.columns:
+                top_variants = df_valid.nlargest(3, col_score_am)
+                for _, row in top_variants.iterrows():
+                    pos_x = row[col_pos] if (col_pos and not np.isnan(row[col_pos])) else row.name
+                    rs_val = str(row[col_rs]).replace('rs', '').strip()
+                    ax1.annotate(
+                        f"rs{rs_val}\n({row[col_score_am]:.2f})",
+                        (pos_x, row[col_score_am]),
+                        textcoords="offset points", xytext=(0, 8),
+                        ha='center', fontsize=8, weight='bold',
+                        bbox=dict(boxstyle="round,pad=0.2", fc="yellow", alpha=0.6)
+                    )
+
+            ax1.axhline(0.56, color="#d9534f", linestyle="--", linewidth=1.5, label="Corte Patogênico (>= 0.56)")
+            ax1.axhline(0.34, color="#5cb85c", linestyle="--", linewidth=1.5, label="Corte Benigno (<= 0.34)")
+            ax1.set_title("Pontuação de Patogenicidade por Posição na Sequência", fontweight="bold")
+            ax1.set_ylabel("AlphaMissense Score")
+            ax1.set_xlabel("Posição do Aminoácido")
+            ax1.set_ylim(-0.05, 1.08)
+            ax1.legend(loc="upper right", frameon=True, facecolor="white")
+        else:
+            ax1.text(0.5, 0.5, "Sem dados numéricos de pontuação AlphaMissense", ha="center", va="center", fontsize=12)
+
+        # Gráfico 2: Histograma
+        ax2 = fig.add_subplot(gs[1, 0])
+        if not df_valid.empty:
+            sns.histplot(df_valid[col_score_am], kde=True, bins=15, color="#337ab7", ax=ax2)
+            if not np.isnan(score_medio):
+                ax2.axvline(score_medio, color="black", linestyle=":", label=f"Média: {score_medio:.2f}")
+                ax2.legend()
+            ax2.set_title("Distribuição Numérica dos Scores", fontweight="bold")
+            ax2.set_xlabel("AlphaMissense Score")
+            ax2.set_ylabel("Frequência de Variantes")
+        else:
+            ax2.text(0.5, 0.5, "Sem dados suficientes para histograma", ha="center", va="center", fontsize=12)
+
+        # Gráfico 3: Boxplot por classificação
+        ax3 = fig.add_subplot(gs[1, 1])
+        if not df_valid.empty and col_class_dbsnp and col_class_dbsnp in df_valid.columns and df_valid[col_class_dbsnp].dropna().count() > 0:
+            df_box = df_valid.dropna(subset=[col_class_dbsnp])
+            sns.boxplot(
+                data=df_box,
+                x=col_class_dbsnp,
+                y=col_score_am,
+                hue=col_class_dbsnp,
+                palette="Set2",
+                legend=False,
+                ax=ax3
+            )
+            sns.stripplot(
+                data=df_box,
+                x=col_class_dbsnp,
+                y=col_score_am,
+                color="black",
+                alpha=0.5,
+                jitter=0.2,
+                ax=ax3
+            )
+            ax3.set_title("Validação: Scores vs Classificação dbSNP / ClinVar", fontweight="bold")
+            ax3.set_ylabel("AlphaMissense Score")
+            ax3.set_xlabel("Classificação dbSNP")
+            ax3.tick_params(axis='x', rotation=25)
+        else:
+            ax3.text(0.5, 0.5, "Sem cruzamento com classificações dbSNP", ha="center", va="center", fontsize=12)
+
+        plt.tight_layout()
+        caminho_figura = os.path.join(PASTA_FIGURAS_GENES, f"figura_gene_{nome_limpo}.png")
+        plt.savefig(caminho_figura, dpi=300, bbox_inches="tight")
+        plt.close()
+
+    df_resumo = pd.DataFrame(resumo_geral)
+    df_resumo.to_csv(os.path.join(PASTA_RESULTADOS, "resumo_estatistico_genes.tsv"), sep="\t", index=False)
+
+    caminho_unificado = os.path.join(PASTA_RESULTADOS, "dbsnp_alphamissense_unificado.tsv")
+    df_merged.to_csv(caminho_unificado, sep="\t", index=False)
+
+    print(f"\n[SUCESSO] Processamento concluído!")
+    print(f" -> Tabelas salvas em: '{PASTA_RELATORIOS_GENES}/'")
+    print(f" -> Gráficos salvos em: '{PASTA_FIGURAS_GENES}/'")
+    print(f" -> Resumo consolidado: '{PASTA_RESULTADOS}/resumo_estatistico_genes.tsv'")
+    print(f" -> Tabela unificada (usada pela interface): '{caminho_unificado}'")
 
 
 if __name__ == "__main__":
-    gerar_tabela_completa_proteina_tsv()
+    df_dbsnp = carregar_dados_dbsnp()
+    if df_dbsnp is not None:
+        gerar_figuras_e_relatorios(df_dbsnp)

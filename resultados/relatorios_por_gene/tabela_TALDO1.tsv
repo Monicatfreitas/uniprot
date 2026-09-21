@@ -1,0 +1,519 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+TALDO1	missense_variant		1009699544						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1013202184						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1025695642						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1027958927						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1036675790						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1037842621						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1041761102						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1043591774						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1047037809						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1049958981						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1056954179						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic	1057524714	P37837	rs1057524714	W196R	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic	1057524714	P37837	rs1057524714	W196R	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1064796881	P37837	rs1064796881	F238S	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1064796881	P37837	rs1064796881	F238S	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		112987780						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	benign, likely benign	11302	P37837	rs11302	K321R	0.506		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	benign, likely benign	11302	P37837	rs11302	K321R	0.02		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1163502679						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1165057276						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1168631519						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		117017693						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1171948690						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1172198949						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1173660019						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1173809058						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1181485719						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1186385979						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1191010733						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1192794423						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1195564913						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1198150216						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1198238791						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1203803441						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1205919230						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1216265298						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1218856806						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1225410619	P37837	rs1225410619	E127K	0.003		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1225410619	P37837	rs1225410619	E127K	0.79		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1225410619	P37837	rs1225410619	E127K	0.003		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1225410619	P37837	rs1225410619	E127K	0.66		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1228478545						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1231694114						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1234186123						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	1240149971						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1255071953						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1255769566						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1256640159						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1256708878						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1258372491	P37837	rs1258372491	A173V	0.085		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1258372491	P37837	rs1258372491	A173V	0.05		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1260511229						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1261202722						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1263376020	P37837	rs1263376020	Q159H	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1263376020	P37837	rs1263376020	Q159H	0.04		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1269460025						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1269884663						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1273427129						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1273541268						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic	1279835702	P37837	rs1279835702	S171F	0.988		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic	1279835702	P37837	rs1279835702	S171F	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic	1279835702	P37837	rs1279835702	S171F	0.982		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic	1279835702	P37837	rs1279835702	S171F	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1280464276						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1281117342						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	1288066290						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1294895868						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1297500443						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1302905638						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1304619374						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1312952307						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1313041760						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1315654562	P37837	rs1315654562	E243K	0.919		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1315654562	P37837	rs1315654562	E243K	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1315654562	P37837	rs1315654562	E243K	0.878		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1315654562	P37837	rs1315654562	E243K	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1316215564						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1325650889						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	1326241496						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1327727416						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1342357618						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1343389392						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1343687923						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1348115409	P37837	rs1348115409	R138Q	0.679		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1348115409	P37837	rs1348115409	R138Q	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1353208725						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	1357410923						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1362676827						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1367555339						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1374740866						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1374791026						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1375970838						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1377456431	P37837	rs1377456431	Y129H	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1377456431	P37837	rs1377456431	Y129H	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	138088112	P37837	rs138088112	A268T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	138088112	P37837	rs138088112	A268T	0.65		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	138088112	P37837	rs138088112	A268T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	138088112	P37837	rs138088112	A268T	0.27		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1382222983						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	138232181	P37837	rs138232181	K19Q	0.983		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	138232181	P37837	rs138232181	K19Q	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		138657586						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	138714955						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1388815765						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1391258906	P37837	rs1391258906	S275L	0.775		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1391258906	P37837	rs1391258906	S275L	0.06		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1391258906	P37837	rs1391258906	S275L	0.823		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1391258906	P37837	rs1391258906	S275L	0.05		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1393108763						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	139416578	P37837	rs139416578	A317T	0.462		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	139416578	P37837	rs139416578	A317T	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1400212400	P37837	rs1400212400	A109T	0.978		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1400212400	P37837	rs1400212400	A109T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1400212400	P37837	rs1400212400	A109T	0.966		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1400212400	P37837	rs1400212400	A109T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1401876554	P37837	rs1401876554	V24L	0.496		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1401876554	P37837	rs1401876554	V24L	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1402390716						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1402536505						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140348538	P37837	rs140348538	T241M	0.89		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140348538	P37837	rs140348538	T241M	0.02		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		140887745						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1409098796						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140952110	P37837	rs140952110	E157K	0.946		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140952110	P37837	rs140952110	E157K	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140985565	P37837	rs140985565	D202N	0.025		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140985565	P37837	rs140985565	D202N	0.19		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140985565	P37837	rs140985565	D202N	0.009		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	140985565	P37837	rs140985565	D202N	0.07		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1410172790						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1414426846						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1416091215						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	141640651						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1418720982						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1419472001						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	142741895						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	142801207	P37837	rs142801207	L169P	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	142801207	P37837	rs142801207	L169P	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1429097477						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		143020914						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	143237187	P37837	rs143237187	R313H	0.996		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	143237187	P37837	rs143237187	R313H	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1435629227						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1437021308						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1440882021						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1441114572						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1441896726						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1442164336						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1445973117						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	144787855	P37837	rs144787855	T23S	0.198		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	144787855	P37837	rs144787855	T23S	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1448739027						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	144914498	P37837	rs144914498	Q159E	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	144914498	P37837	rs144914498	Q159E	0.82		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1449553883						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1449857078						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	145069149	P37837	rs145069149	P208S	0.116		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	145069149	P37837	rs145069149	P208S	0.09		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1450947947						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1451011493						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1458044462						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1459846308						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1462475180						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, benign	146282855	P37837	rs146282855	I66T	0.921		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, benign	146282855	P37837	rs146282855	I66T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1464513919						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1465146368						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1466063911						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1466993999						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1467085050	P37837	rs1467085050	L284M	0.722		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1467085050	P37837	rs1467085050	L284M	0.06		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1468596757						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	147297551	P37837	rs147297551	E155D	0.335		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	147297551	P37837	rs147297551	E155D	0.37		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		147388331						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	147961544	P37837	rs147961544	Q159R	0.027		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	147961544	P37837	rs147961544	Q159R	0.08		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		147971604						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		148205547						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	149073638	P37837	rs149073638	F21I	0.012		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	149073638	P37837	rs149073638	F21I	0.19		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	149073638	P37837	rs149073638	F21L	0.003		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	149073638	P37837	rs149073638	F21L	0.45		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	149640294	P37837	rs149640294	L61V	0.226		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	149640294	P37837	rs149640294	L61V	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		149702835						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		150523213						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	150892505						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	151052416	P37837	rs151052416	R192H	0.994		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	151052416	P37837	rs151052416	R192H	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	151052416	P37837	rs151052416	R192H	0.997		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	151052416	P37837	rs151052416	R192H	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1554956982						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564991272						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564991342						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564991348						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564992460						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564992476						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564992495						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1564994861	P37837	rs1564994861	R295H	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1564994861	P37837	rs1564994861	R295H	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564994897						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1564994961						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1590071830						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1590072154						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1590072173						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1590072176						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1590072283						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1804555						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	181385165	P37837	rs181385165	D310E	0.001		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	181385165	P37837	rs181385165	D310E	0.57		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		184467713						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	186015859						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862680554						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862681176						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862681645						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862681846						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862682250						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862827160						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862827774						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862828752						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862830782						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862831067						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862831312						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862889473						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1862905275	P37837	rs1862905275	V119A	0.983		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1862905275	P37837	rs1862905275	V119A	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862905375						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862905979						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862906133						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862906343						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862906638						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862906673						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1862906743	P37837	rs1862906743	G153E	0.873		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1862906743	P37837	rs1862906743	G153E	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862906823						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862986451						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	1862986520						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862988528						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862989612						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862990082						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862990232						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862990668						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862999520						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862999597						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862999672						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1862999986						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863000581						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863000839						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863001576						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863002259						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863002339						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863004606						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863005215						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863005498						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863005891						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863006077						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863006104						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863010312						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863010595						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863010751						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863011548						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863011882						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863011917						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		1863021793						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		188547252						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		199783002						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		200086212						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	200473365	P37837	rs200473365	R324W	0.664		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	200473365	P37837	rs200473365	R324W	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	200500899						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	benign, likely benign	200597243	P37837	rs200597243	D116V	0.576		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	benign, likely benign	200597243	P37837	rs200597243	D116V	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, pathogenic	201836196	P37837	rs201836196	R239C	0.978		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, pathogenic	201836196	P37837	rs201836196	R239C	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, pathogenic	201836196	P37837	rs201836196	R239G	0.999		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, pathogenic	201836196	P37837	rs201836196	R239G	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	201855399	P37837	rs201855399	A181V	0.972		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	201855399	P37837	rs201855399	A181V	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133565792						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133565827						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133565831						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133565943						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2133577917	P37837	rs2133577917	G153R	0.936		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2133577917	P37837	rs2133577917	G153R	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133582086						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2133582267	P37837	rs2133582267	P188T	0.99		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2133582267	P37837	rs2133582267	P188T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2133582997	P37837	rs2133582997	C250Y	0.999		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2133582997	P37837	rs2133582997	C250Y	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133583058						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133583069						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		2133583739						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2494706981						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2494711330						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2494713023						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	2494719884						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	2494720852						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	367601205						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		369084696						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	369679261	P37837	rs369679261	E328K	0.003		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	369679261	P37837	rs369679261	E328K	0.11		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	373696191						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		374070075						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		375159325						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	375231328	P37837	rs375231328	A236T	0.945		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	375231328	P37837	rs375231328	A236T	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		375517315						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, not provided	376434268	P37837	rs376434268	D137N	0.005		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, not provided	376434268	P37837	rs376434268	D137N	0.02		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, not provided	376434268	P37837	rs376434268	D137Y	0.02		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, not provided	376434268	P37837	rs376434268	D137Y	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	376498381						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	376926927	P37837	rs376926927	E64A	0.372		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	376926927	P37837	rs376926927	E64A	0.07		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		3891028						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		541236541						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		550886986						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		550990914						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		558287970						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		561919659	P37837	rs561919659	E36K	0.015		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		561919659	P37837	rs561919659	E36K	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		561919659	P37837	rs561919659	E36K	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		561919659	P37837	rs561919659	E36K	0.4		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	567606097	P37837	rs567606097	E291K	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	567606097	P37837	rs567606097	E291K	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	745426306						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745474457	P37837	rs745474457	A173T	0.362		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745474457	P37837	rs745474457	A173T	0.07		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745474457	P37837	rs745474457	A173T	0.157		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745474457	P37837	rs745474457	A173T	0.05		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745623008						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745777729						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		745839366						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		746811095						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		746900968						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		747109646						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		747756044						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	748093653	P37837	rs748093653	I134V	0.022		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	748093653	P37837	rs748093653	I134V	0.35		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	748362217	P37837	rs748362217	G261E	0.012		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	748362217	P37837	rs748362217	G261E	0.79		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		748866950						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	749024627	P37837	rs749024627	F21L	0.003		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	749024627	P37837	rs749024627	F21L	0.45		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		749386756						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		749744736						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		750719405						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	750723154	P37837	rs750723154	R124W	0.674		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	750723154	P37837	rs750723154	R124W	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		750834906						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	750925017	P37837	rs750925017	T231S	0.997		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	750925017	P37837	rs750925017	T231S	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		751243397						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	pathogenic	751425603						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		751835955						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		752130789	P37837	rs752130789	S145L	0.977		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		752130789	P37837	rs752130789	S145L	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		752130789	P37837	rs752130789	S145L	0.967		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		752130789	P37837	rs752130789	S145L	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		752286797						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	752356764	P37837	rs752356764	S228N	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	752356764	P37837	rs752356764	S228N	0.08		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	752425020	P37837	rs752425020	A57T	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	752425020	P37837	rs752425020	A57T	0.31		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		752845518						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	753751838						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	753787975	P37837	rs753787975	G311R	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	753787975	P37837	rs753787975	G311R	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	753787975	P37837	rs753787975	G311W	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely pathogenic, pathogenic	753787975	P37837	rs753787975	G311W	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		753999490						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		754266881						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		754362921						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		754510275						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		754826318						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		754845173						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		756007243						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		757952403						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	758128567	P37837	rs758128567	V6L	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	758128567	P37837	rs758128567	V6L	0.3		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	758740693	P37837	rs758740693	Y206C	0.985		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	758740693	P37837	rs758740693	Y206C	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	758756190	P37837	rs758756190	K98M	0.361		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	758756190	P37837	rs758756190	K98M	0.04		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		759052251						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		759782370						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		759875931						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	759905924	P37837	rs759905924	N165S	0.941		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	759905924	P37837	rs759905924	N165S	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		759958255						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	759996071						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	760152345	P37837	rs760152345	G73D	0.12		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	760152345	P37837	rs760152345	G73D	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		761374175						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		762316206						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		762549496						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		762613889						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		762710253						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		762947540						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		763487428						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		763695666						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		763940714						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	764035451	P37837	rs764035451	F189L	0.978		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	764035451	P37837	rs764035451	F189L	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		764703431	P37837	rs764703431	A117V	0.731		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		764703431	P37837	rs764703431	A117V	0.04		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		764703431	P37837	rs764703431	A117V	0.611		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		764703431	P37837	rs764703431	A117V	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		764946113						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		765022845						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	765509037	P37837	rs765509037	S4P	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	likely benign	765509037	P37837	rs765509037	S4P	0.26		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		765835310						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	765872752	P37837	rs765872752	Y221C	0.999		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	765872752	P37837	rs765872752	Y221C	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		766267839						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		766657765						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	766745943	P37837	rs766745943	R110G	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	766745943	P37837	rs766745943	R110G	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	766851420	P37837	rs766851420	I162M	0.997		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	766851420	P37837	rs766851420	I162M	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		766902187						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		767689617						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		767818789						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	769890641	P37837	rs769890641	V62A	0.989		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	769890641	P37837	rs769890641	V62A	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	770152594						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		770229183						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		770893808						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		771194946						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		771384980						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	771652130	P37837	rs771652130	R70W	0.562		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	771652130	P37837	rs771652130	R70W	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		771865387						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	772647470	P37837	rs772647470	R329P	0.015		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	772647470	P37837	rs772647470	R329P	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	772647470	P37837	rs772647470	R329Q	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	772647470	P37837	rs772647470	R329Q	0.22		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	772647470	P37837	rs772647470	R329Q	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance, likely benign	772647470	P37837	rs772647470	R329Q	0.1		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	772888456	P37837	rs772888456	R70Q	0.011		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	772888456	P37837	rs772888456	R70Q	0.04		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773023043	P37837	rs773023043	R239H	0.98		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773023043	P37837	rs773023043	R239H	0.03		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773023043	P37837	rs773023043	R239H	0.996		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773023043	P37837	rs773023043	R239H	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773292742						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773580366	P37837	rs773580366	E180K	0.946		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773580366	P37837	rs773580366	E180K	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773580366	P37837	rs773580366	E180K	0.957		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		773580366	P37837	rs773580366	E180K	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	773834325	P37837	rs773834325	G161S	0.471		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	773834325	P37837	rs773834325	G161S	0.04		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		774210869						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		774215394						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	774217411	P37837	rs774217411	K277T	0.92		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	774217411	P37837	rs774217411	K277T	0.05		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		774889866						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		775183293						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	775352129	P37837	rs775352129	T105I	0.913		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	775352129	P37837	rs775352129	T105I	0.02		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		775546210						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		775734338						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		775836671						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		776102808						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	776579650	P37837	rs776579650	A33V	0.045		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	776579650	P37837	rs776579650	A33V	0.07		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		776969036						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		777253560						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		777277109						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		777514441						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		777965407						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778205812	P37837	rs778205812	P100L	0.834		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778205812	P37837	rs778205812	P100L	0.04		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778205812	P37837	rs778205812	P100L	0.865		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778205812	P37837	rs778205812	P100L	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778240722						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	778508997						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778598959						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		778966329						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		779609987						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		779846428						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		780229014						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		780886871						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		781092234						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		781140462						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	866261597	P37837	rs866261597	D318N	1.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	866261597	P37837	rs866261597	D318N	0.0		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	886048658						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	886048664	P37837	rs886048664	H163R	0.062		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	886048664	P37837	rs886048664	H163R	0.02		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		892591626						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		893159233	P37837	rs893159233	A52T	0.488		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		893159233	P37837	rs893159233	A52T	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		893159233	P37837	rs893159233	A52T	0.133		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		893159233	P37837	rs893159233	A52T	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	910828121	P37837	rs910828121	N82I	0.015		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	910828121	P37837	rs910828121	N82I	0.31		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		913146515						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		917485070						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		919739889						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		925414532						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		926630549						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		929864045						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	932808360	P37837	rs932808360	K219R	0.011		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	932808360	P37837	rs932808360	K219R	0.18		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		936606911						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	942358093	P37837	rs942358093	L90V	0.193		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	942358093	P37837	rs942358093	L90V	0.16		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	948450387	P37837	rs948450387	R8S	0.13		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant	uncertain significance	948450387	P37837	rs948450387	R8S	0.01		P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		956894826						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		958641981						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		972931382						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		974731143						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		979440433						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837
+TALDO1	missense_variant		988688570						P37837	Transaldolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P37837

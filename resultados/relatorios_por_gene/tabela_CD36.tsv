@@ -1,0 +1,949 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CD36	missense_variant		1000548077						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1007966778						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1009392987						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1009875472						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1010468957						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1022577828						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1025836162						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1027936217						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1033691658						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1038418267						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1040824688						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1045596871						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1047610066						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1052005685						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1054123151						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1057086208						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		113887411						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1158827902						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1161099488						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1163997718						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1166688649						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1166872509						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1166939778						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1173010829						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1176782716						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1178238202						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1183846110						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1184999678						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1189583608						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1192740004						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1195583966						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1199022998						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1202563565						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1207161070						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1209651691						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1210365835						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1210495189						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1210610856						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1213827900						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1214706981						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1214708103						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	pathogenic	121918035						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1219625295						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1219731292						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1220821769						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1221723023						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1223118461						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1224089557						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1224435572						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1224806070						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1226072985						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1226158137						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1226293444						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1226326034						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1228434700						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1230577244						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1234395453						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1234457184						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1238988159						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1238996814						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1241080617						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1243654269						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1244028699						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1244985137						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1246491968						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1246866048						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1246968795						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1247074330						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1250815429						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1250857302	P16671	rs1250857302	G119C	0.965		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1250857302	P16671	rs1250857302	G119C	0.03		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1253310619						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1258468673						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1258734747						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1259022577						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1263742910						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1265184675						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1266016354						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1266830257						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1267009658						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1267550745						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1273026001						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1274934425						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1274967185						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1276353079						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1276574612						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1282209792						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1282696553						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1286758110						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1288951485						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1291303625						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1292364971						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1294367798						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1296329264						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1296421249						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1297201545						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1297495774	P16671	rs1297495774	S81G	0.015		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1297495774	P16671	rs1297495774	S81G	0.1		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1299872036						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1300852597						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1303133674						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1305910271						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1309296096						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1310150448						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1310760691						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1314938115						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1315054943						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1320297094						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1320397634						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1321733858						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1321845024						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1329059719						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1330002284						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	13306227	P16671	rs13306227	R5Q	0.018		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	13306227	P16671	rs13306227	R5Q	0.1		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1330732092						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1335758404						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1335801994						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1336820240						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1337237252						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1339601618						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1339627308						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1339711029						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1340785021						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1340984692						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1341333923						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1341976480						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1342268716						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1344319272						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1346335131						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1347852735						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1349330775						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1350375035						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1350609446						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1351090681						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1351991159						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1353044937						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1353719867						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1355656169						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1357908423						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1361703473						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1362066858						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1362126500						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1364302132						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1366265747						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1368920859						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1369322883						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1369671455						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1370157295						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1372491368						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1373811871						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1375879584						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1378090030						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		137882740						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1379301335						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1381074361						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1381742090						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1382964603						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1383257975						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1384279827						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1384995288						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		138597844						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	138660064						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1387092774						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1388429104						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1388542365						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely benign	138897347	P16671	rs138897347	D184N	0.595		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely benign	138897347	P16671	rs138897347	D184N	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1389122783						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely benign	138937215						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1389441371						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1394681670						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1395286674						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1395520405						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1395713119						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1396367708						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1397296795						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1398779645	P16671	rs1398779645	T104N	0.404		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1398779645	P16671	rs1398779645	T104N	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1400244207						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1401898903						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		140276867						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1403238663						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1405187088						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	140528748	P16671	rs140528748	N118S	0.265		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	140528748	P16671	rs140528748	N118S	0.14		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1405629684						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1405864363						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1406443173						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1407092324						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1407976855						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely benign	140968958	P16671	rs140968958	F135L	0.005		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely benign	140968958	P16671	rs140968958	F135L	0.19		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1410669906						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1410938774						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1412502203						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1413281589						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		141475532	P16671	rs141475532	R96C	0.99		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		141475532	P16671	rs141475532	R96C	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely benign	141604812						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1417410177						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1417943997						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1419251582						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely benign	1420826904						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1421305086						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		142148421						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	pathogenic	142186404						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1422975389						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	142698840	P16671	rs142698840	P185T	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	142698840	P16671	rs142698840	P185T	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1427012158						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	142879856	P16671	rs142879856	V294L	0.025		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	142879856	P16671	rs142879856	V294L	0.1		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1429411450						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1430487041						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1431079071						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		143118835						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	143150225	P16671	rs143150225	P191L	0.749		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	143150225	P16671	rs143150225	P191L	0.03		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1434033600						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1436087073						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1437127524						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		143724791						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1438503668						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1438616514						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	143878695						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		143960084						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1440996036						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1441299081						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1441940846						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	benign	144344249	P16671	rs144344249	N53S	0.401		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	benign	144344249	P16671	rs144344249	N53S	0.05		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1449919373						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1450242803						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1450506488						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	145187459	P16671	rs145187459	T249A	0.926		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	145187459	P16671	rs145187459	T249A	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1452003622						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1453225997						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1455369948						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	145624370	P16671	rs145624370	I121T	0.162		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	145624370	P16671	rs145624370	I121T	0.12		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1458693892						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		145908803	P16671	rs145908803	P255L	0.979		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		145908803	P16671	rs145908803	P255L	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	146027667	P16671	rs146027667	G378V	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	146027667	P16671	rs146027667	G378V	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1461622832						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1463388933						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1464134120						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1464675807						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1464742952						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1464789004						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1466355543						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		146885545						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1470832038						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1470892647						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1471148652						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		147153095						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1471928871						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1472112047						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		147624636						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1476968682						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1476981182						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1478696898						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		147903735						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1479485162						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1480385888						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1480445431						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1481852685						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1481852991	P16671	rs1481852991	R88S	0.166		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1481852991	P16671	rs1481852991	R88S	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1483115199						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1484367408						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1487610752						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely pathogenic	148910227						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1489861412						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		149178142						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		149492740						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150037612	P16671	rs150037612	T92M	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150037612	P16671	rs150037612	T92M	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		150075775						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150308664						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150674228	P16671	rs150674228	D209H	0.999		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150674228	P16671	rs150674228	D209H	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150674228	P16671	rs150674228	D209Y	0.999		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	150674228	P16671	rs150674228	D209Y	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		150697646						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1562718895						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1562801524						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1562801820						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1562819965						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1562821861						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1562823245						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1562825319						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1562825696						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1584177335						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1584403471						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1584432464						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1584457319						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1665751698						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1783672954						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789996253						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789996363						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789996407						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789996641						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789997181						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789997368						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789997547						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789997904						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789998283						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1789999121						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790060877						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790060977						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790061258						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790061575						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790062023						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790062872						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790063103						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790063625						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790063870						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790063989						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790064110						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790067590						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790068300						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790068764						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790069156						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790266996						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1790267324						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790267375						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790269788						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790269836						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790345367						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790345613						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790346029						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790346701						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790347465						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790347984						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790348331						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790533994						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790534274						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790534325						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790535068						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790680329						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1790680383						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1791070066						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1791071630						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1791072322						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1791072575						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1791074607						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1795199961						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1795202887						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1795203830						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796093942						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796096390						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796097712						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796100022						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796110698						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796111377						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796113553						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796113721						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796113944						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796114131						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796116759						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796118367	P16671	rs1796118367	R94K	0.498		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796118367	P16671	rs1796118367	R94K	0.24		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796484029						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796485980						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796487205						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796487379						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796488413						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796489335						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796496564						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796501544						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796681246						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796683874						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796684048						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796684408						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796691920						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796693266						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796693640						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796694806						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796697636						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796699020	P16671	rs1796699020	F201L	0.133		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1796699020	P16671	rs1796699020	F201L	0.02		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796699199						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796699604						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796828528						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796829786						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796830323						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796835546						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796836107						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1796839828						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797104019						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797106375						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797495925						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797501450						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797504654						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797604298						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797606560						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797614868						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797615635						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797616372						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797622346						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1797624389	P16671	rs1797624389	P303A	0.982		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1797624389	P16671	rs1797624389	P303A	0.07		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797625250						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797625684						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797626197						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797629180						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1797636967	P16671	rs1797636967	G326C	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	1797636967	P16671	rs1797636967	G326C	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797638355						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797638802						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797717142						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797730238						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797837297						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797914446						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797997648						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1797999537						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798002393						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798003401						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798004724						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798004905						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798021371						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798023290						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798024774						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		1798025382						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		183461468						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		186086930						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		186804021						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		187500047	P16671	rs187500047	R386Q	0.828		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		187500047	P16671	rs187500047	R386Q	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, benign	188717259						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	190735330	P16671	rs190735330	V214I	0.261		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	190735330	P16671	rs190735330	V214I	0.36		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		191233535						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	192064811						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	199628571	P16671	rs199628571	K334E	0.664		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	199628571	P16671	rs199628571	K334E	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		199681631						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		199806731						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	199873856						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		199889102						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200010494						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		200194486						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		200302524						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200534930	P16671	rs200534930	P338L	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200534930	P16671	rs200534930	P338L	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		200684873						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200752989	P16671	rs200752989	Y291C	0.985		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200752989	P16671	rs200752989	Y291C	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200757788	P16671	rs200757788	R292I	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200757788	P16671	rs200757788	R292I	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	200771788						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		200906462						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		200959065						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		201155452						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		201346212						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201355711	P16671	rs201355711	Q388L	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201355711	P16671	rs201355711	Q388L	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201376087	P16671	rs201376087	S269F	0.913		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201376087	P16671	rs201376087	S269F	0.02		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201527696	P16671	rs201527696	A427S	0.973		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201527696	P16671	rs201527696	A427S	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		201558608						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		201706287						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201715989	P16671	rs201715989	D219Y	0.209		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201715989	P16671	rs201715989	D219Y	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		201728797						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		201759307						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201759988	P16671	rs201759988	G2V	0.041		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201759988	P16671	rs201759988	G2V	0.05		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201801344	P16671	rs201801344	K164R	0.007		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	201801344	P16671	rs201801344	K164R	0.35		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2074674						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116137463						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116137558						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116137674						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116138260						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116138266						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116138310						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116191920						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116207926						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116655129						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116694977						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116856978						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116871482						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116872074						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		2116887126						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2272350	P16671	rs2272350	V137A	0.18		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2272350	P16671	rs2272350	V137A	0.3		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2535275161						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2535278957						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2535290774						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2535304790						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2535775801						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	2535883120						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		35398731						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	35776095						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	35793888	P16671	rs35793888	C243Y	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	35793888	P16671	rs35793888	C243Y	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		367954954	P16671	rs367954954	I422T	0.985		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		367954954	P16671	rs367954954	I422T	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368080010						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368283449						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	368367378						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368500348						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	368632002						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	368789777	P16671	rs368789777	N134I	0.082		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	368789777	P16671	rs368789777	N134I	0.2		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368907671	P16671	rs368907671	A11T	0.001		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368907671	P16671	rs368907671	A11T	0.73		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368939353						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		368967839						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		369183808						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		369236071						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		369453320						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		369987714						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		370072057						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	370507981						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	370701210	P16671	rs370701210	A349P	0.98		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	370701210	P16671	rs370701210	A349P	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		370843596						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely benign	370851852						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		370961987						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		371101723						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	371288725						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		371551921						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		371782363						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		371884082						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		371888778						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		372150618						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		372169094						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		372308376						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		372732114						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		373645211	P16671	rs373645211	D372N	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		373645211	P16671	rs373645211	D372N	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		373802173						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		374208165						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		374220841						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	374729345	P16671	rs374729345	G89C	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	374729345	P16671	rs374729345	G89C	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		374920999						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		374934864						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		375090911						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	375145572						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		375522580						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	375587618	P16671	rs375587618	N428S	0.036		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	375587618	P16671	rs375587618	N428S	0.05		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		375872413						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		376311045	P16671	rs376311045	P362S	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		376311045	P16671	rs376311045	P362S	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		376421152						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		377027726						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		377172957						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	377539852						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		377657840						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		41478146						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		4645507	P16671	rs4645507	L405M	0.981		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		4645507	P16671	rs4645507	L405M	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		527289991						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		529046839						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		529417293						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		530422035						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		533524866						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		534577878						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		534737948						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	534902139						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	535150936	P16671	rs535150936	G232V	0.931		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	535150936	P16671	rs535150936	G232V	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		535549168						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		539041801						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	539357012						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		542314215						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		545908202						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		548507859						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	548747137	P16671	rs548747137	V278L	0.176		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	548747137	P16671	rs548747137	V278L	0.33		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		550279316						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		551568553						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		554019170						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		556181210						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		55649257						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		557732736						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		55921427						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		559876270						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		559916528						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		563097847						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		564971571						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		566401120						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		567491856						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		568503917						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	570030158						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		571120313						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely benign	573439520	P16671	rs573439520	I148N	0.301		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely benign	573439520	P16671	rs573439520	I148N	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		574320957						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		576254639						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		5957						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		6956292						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	70961715	P16671	rs70961715	R96P	0.98		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	70961715	P16671	rs70961715	R96P	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		73369087						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		745305676						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		745308903						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	745389940						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		745750711						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746020819						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely benign	746085102	P16671	rs746085102	V18I	0.025		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	likely benign	746085102	P16671	rs746085102	V18I	0.09		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746390156						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746438953						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746661865						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746692013						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746841313						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746905665						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		746930611						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		747181121						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		747187193						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		747221727						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	747406134	P16671	rs747406134	P375L	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	747406134	P16671	rs747406134	P375L	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	747515126	P16671	rs747515126	F135L	0.005		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	747515126	P16671	rs747515126	F135L	0.19		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		747606498						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		747702698						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748050219						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748220870						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748334448						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748360708						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748522221						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748787273						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		748788470						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	748982620						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	749041022						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		749326837						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		749700447						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		749857921						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750003856						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750173933						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750185259	P16671	rs750185259	N6S	0.013		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750185259	P16671	rs750185259	N6S	0.27		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750187438	P16671	rs750187438	G336R	0.368		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750187438	P16671	rs750187438	G336R	0.02		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750344976						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750510484						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750524391						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750745373						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		75075195						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750809700						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750848298						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		750875894						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751046204						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751053951						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751164081						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751314404						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751459986						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751586531						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		751997938						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	752205046						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752303413						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752409250						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752451717						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	752489479						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752649696						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752673092						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752747964						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752826096						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	752841786	P16671	rs752841786	R5W	0.796		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	752841786	P16671	rs752841786	R5W	0.02		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	752948773	P16671	rs752948773	Y230C	0.997		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	752948773	P16671	rs752948773	Y230C	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		752951446						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753135305						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance, likely pathogenic, pathogenic	75326924						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753295885						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753336151						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753352924						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753406149						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753435900						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753586831						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753775389						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		753924527						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		754124323						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		754454509						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	754569137						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		754889451						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		755126876						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		755136240						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		755730672						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756060593						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756489185	P16671	rs756489185	D270N	0.982		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756489185	P16671	rs756489185	D270N	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756525492						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	756575164						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756624996						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756732146						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756808645						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		756883385						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757076224						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	757152594						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757153945						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757331847	P16671	rs757331847	P395L	0.995		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757331847	P16671	rs757331847	P395L	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	757519562						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757609166						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757665265						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		757739441						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	757827176	P16671	rs757827176	T197I	0.245		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	757827176	P16671	rs757827176	T197I	0.17		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		758161307						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		758247751						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	758368075						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	758752334	P16671	rs758752334	V224F	0.994		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	758752334	P16671	rs758752334	V224F	0.06		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		758768960						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759002665						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759083137						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759156552						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759271341						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759293657						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759343754						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759799731						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759815213						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		759860687						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		760141871						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	760233317	P16671	rs760233317	V194F	0.435		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	760233317	P16671	rs760233317	V194F	0.1		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		760326151						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		760691855						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	760763829						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	760770333						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		760850297						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761063834						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761115549						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	761316200						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761342716						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761499624						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761625379						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761633220						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761671835						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761717231						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	761732281	P16671	rs761732281	Q262P	0.268		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	761732281	P16671	rs761732281	Q262P	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		761848440						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762064632						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762325597						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762387267						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762648351						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762717539						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762752772						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762778706						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762817796						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		762965665						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		763761945						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		763840954						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		763872192						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		764076950	P16671	rs764076950	Y340C	0.964		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		764076950	P16671	rs764076950	Y340C	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		764641614						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		765117132						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		765183644						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	765194791	P16671	rs765194791	G442R	0.039		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	765194791	P16671	rs765194791	G442R	0.27		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		765543002						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		765667449						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		765751204						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766063043						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766089131						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766266735						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	766291717						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	766306376						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766471084						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766552698						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766655957						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	766712972						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766732869						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766936015						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766961875	P16671	rs766961875	R88K	0.003		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		766961875	P16671	rs766961875	R88K	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767060552						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767119396						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767207933						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767453540						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767497845						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767570219						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767571893						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	767628133						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767762279						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767803466						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		767866686						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768027647						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	768124733						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	768230809						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768355632						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768484895						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768653012						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768809508						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768883824						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768900454						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		768937224						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		769238589						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		769390260						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		769770336						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		769902176						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770021143						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770211489						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770521031						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770717261						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770734754						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770839462						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		770887726						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	771137976						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		771293976						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		771339607						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		771442181						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	771625680						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		771820004						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		771825472						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		771881270						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772292451						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772343580						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772524792						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772635988						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772751297						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772776895						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772879589						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		772886967						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		773082648						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	773314523	P16671	rs773314523	A143S	0.907		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	773314523	P16671	rs773314523	A143S	0.05		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		773363848						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	773511062						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		773534827						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		773880375						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		773981099						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		774070678						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		774272468						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		774561898						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		774751760						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	774794181	P16671	rs774794181	D228N	0.079		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	774794181	P16671	rs774794181	D228N	0.04		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		774828440						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		774920344						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		775124558						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		775392925						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		775627425						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		775635099						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		775913229						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	775941131	P16671	rs775941131	D244N	0.668		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	775941131	P16671	rs775941131	D244N	0.35		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	776068977						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		776073456						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	776223582						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		776269710						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		776624024						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		776740918						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		776752565						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		776927712						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777018321						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777150473						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777236393						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777291291						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777312113						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777437579						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777565473						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		777589837						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		778053200						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		778073876						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	778081291	P16671	rs778081291	K394R	0.039		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	778081291	P16671	rs778081291	K394R	0.52		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	778170886	P16671	rs778170886	I15L	0.021		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	778170886	P16671	rs778170886	I15L	0.23		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		778280648						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		778459168						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	778587030	P16671	rs778587030	I15T	0.02		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	778587030	P16671	rs778587030	I15T	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		778804205						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779110338						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779307513						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779330608						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779394558	P16671	rs779394558	M455K	0.184		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779394558	P16671	rs779394558	M455K	0.01		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779508773						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779589356						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779707713						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		779886674						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	779975352						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	780265725	P16671	rs780265725	T48I	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	780265725	P16671	rs780265725	T48I	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	780279531						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		780355823						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		780587404						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	780762489						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		780953752						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		781468694						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		781503879						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	781576153	P16671	rs781576153	I376V	0.041		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	781576153	P16671	rs781576153	I376V	0.39		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		781684471						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		79599389						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		80209122						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		866158583	P16671	rs866158583	A458D	0.728		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		866158583	P16671	rs866158583	A458D	0.04		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		867495104						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		868333686						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	878935499	P16671	rs878935499	Q382P	0.577		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	878935499	P16671	rs878935499	Q382P	0.02		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		879046466						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	879729491	P16671	rs879729491	P344S	1.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	879729491	P16671	rs879729491	P344S	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		879833721						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	886062453	P16671	rs886062453	S125L	0.355		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	886062453	P16671	rs886062453	S125L	0.03		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		886175509						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		889795023						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		896783228						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		900082707						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		907755810						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		909828190						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		912125854						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		929765875						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		932530079						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		933173816						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		933325355						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		935051492						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		935598569						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		936412800						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		938907026						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		939987382						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	940378066	P16671	rs940378066	A301T	0.996		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	940378066	P16671	rs940378066	A301T	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		941952148						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		947550070						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		958616073	P16671	rs958616073	Y276C	0.997		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		958616073	P16671	rs958616073	Y276C	0.03		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	960128929	P16671	rs960128929	V411M	0.787		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant	uncertain significance	960128929	P16671	rs960128929	V411M	0.0		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		964172581						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		967675472						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		968748991						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		974774025						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		982794413						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		983253023						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		983419614	P16671	rs983419614	L414I	0.134		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		983419614	P16671	rs983419614	L414I	0.06		P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671
+CD36	missense_variant		994055827						P16671	Platelet glycoprotein 4	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P16671

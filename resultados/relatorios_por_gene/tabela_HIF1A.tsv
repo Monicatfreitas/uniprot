@@ -1,0 +1,656 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+HIF1A	missense_variant		1001098403						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1002016670						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1004150577						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1005469197						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1008529581						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1029399010						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1042334336						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1042346794						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1043056709						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1043387897						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1043702669						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		112421347						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance, other	11549465						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	11549467						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1157339420						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1158303743						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1161332722						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1163104034	Q16665	rs1163104034	R17H	0.996		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1163104034	Q16665	rs1163104034	R17H	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1163104034	Q16665	rs1163104034	R17H	0.963		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1163104034	Q16665	rs1163104034	R17H	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1166117702						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1167775993						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1167794652						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1172033904						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1174275971						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1176753268						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1178858567						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1178926655						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1180255844						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1181702574						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1183093750						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1183533333						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1185748733						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1185903250						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1186123822						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1186873773						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1188283601						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1192051964						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1206242034						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1206869348						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1213044301						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1213384596						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1215299190						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1215694653						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1220369809						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1230010684						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1230594488						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1234257243						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1236562068						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1237094820						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1239751251						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1242097924						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1242674231						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1244683277						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1246855328	Q16665	rs1246855328	R665Q	0.08		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1249408665						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1251296620						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1251468432	Q16665	rs1251468432	R754C	0.018		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1251468432	Q16665	rs1251468432	R754C	0.02		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1251468432	Q16665	rs1251468432	R754C	0.02		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1251904621						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1252020623						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1253672869						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1253716282						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1253917751	Q16665	rs1253917751	R754H	0.818		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1253917751	Q16665	rs1253917751	R754H	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1253917751	Q16665	rs1253917751	R754H	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1255337779						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1257784802						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign	1258843938	Q16665	rs1258843938	I806V	0.003		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign	1258843938	Q16665	rs1258843938	I806V	1.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign	1258843938	Q16665	rs1258843938	I806V	0.74		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1263447176						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1265577831						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1270407994						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1272608663						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1273820349						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1278473441						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1278767299						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1279988447						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1282161067						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1282575036						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1284486621						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1287949987						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1292010392						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1294810529						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1295081837						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1295805684						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1302995438						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1305886384						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1306909077						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1311390641	Q16665	rs1311390641	Q596H	0.17		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1311840912						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1312868950						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1319118404						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1320657337	Q16665	rs1320657337	M120T	0.777		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1320657337	Q16665	rs1320657337	M120T	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1320657337	Q16665	rs1320657337	M120T	0.784		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1320657337	Q16665	rs1320657337	M120T	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1320936494						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1323460722						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1325615405						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1325730250	Q16665	rs1325730250	L78M	0.029		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1325730250	Q16665	rs1325730250	L78M	0.25		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1326588001						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1326795520						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1332732959						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1334246808						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1334800559						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1336523309						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1337477415						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1339195532						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1340954723						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1343087029						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1346184701						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1349399903						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1349444864						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1354416944						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1361642879						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1362488420						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1363284799						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1366526923						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1367462066	Q16665	rs1367462066	L430S	0.04		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1370649133						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1372973337	Q16665	rs1372973337	V155M	0.337		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1372973337	Q16665	rs1372973337	V155M	0.06		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1372973337	Q16665	rs1372973337	V155M	0.346		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1372973337	Q16665	rs1372973337	V155M	0.04		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1373176851						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1375620284						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1377719468						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1381177451						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1381507939						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1381924929						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		138451482						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1384618915						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1384654730						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1387749904						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1387997497						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1388496031						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		139400630						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1394037489	Q16665	rs1394037489	V732I	0.49		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1394308052						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1396364190						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1404187796						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1406632918	Q16665	rs1406632918	S589T	0.34		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1408778181						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1409017989						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1412231023						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1414586940	Q16665	rs1414586940	Q596E	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1414586940	Q16665	rs1414586940	Q596E	0.8		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1414586940	Q16665	rs1414586940	Q596E	0.99		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1414630131						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1414883260						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1414931713						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1417614988						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1419855024						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	benign, likely benign	142179458	Q16665	rs142179458	D349N	0.14		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	142325668	Q16665	rs142325668	Q679E	0.66		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		142376463						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1423792468						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		142614329	Q16665	rs142614329	V341I	0.991		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		142614329	Q16665	rs142614329	V341I	0.05		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		142614329	Q16665	rs142614329	V341I	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1428109973						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1429837920						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1430392830						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1430452530						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1432251911						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1434107649						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1438741730						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1440923983						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1442800278						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1443027007						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1444557102						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		144630332						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1451431379						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1451687333						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1452218197						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1452380170						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1455632456						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1455974167						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1460052863						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1460497656						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1461259695	Q16665	rs1461259695	K21R	0.903		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1461259695	Q16665	rs1461259695	K21R	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		146178214						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1462818743						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1470592680						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1470783013						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1471152502						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		147259114						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1473810356						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1474412346						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1476116738						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1479590810						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1481875250						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1482829440						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1482931874						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1483937315						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1484907411						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1488491748						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	benign, likely pathogenic	149348765	Q16665	rs149348765	D422Y	0.03		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		149721384						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		150016527						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566567018						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566570665						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1566573158	Q16665	rs1566573158	T290S	0.8		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566573924	Q16665	rs1566573924	V315I	0.993		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566573924	Q16665	rs1566573924	V315I	0.05		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566573924	Q16665	rs1566573924	V315I	0.03		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566576091						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566576137						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566576174						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1566579906						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594871023						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594871028						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594871043						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594874915						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594874921						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594881062						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594881068						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594883489						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594883534						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594884549						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594884697						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594886671						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594889801						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1594890775						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	1594891971	Q16665	rs1594891971	L813P	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		1802821						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	182139975	Q16665	rs182139975	V693I	0.34		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		184831554						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		185838383						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		188461135	Q16665	rs188461135	R273C	0.992		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		188461135	Q16665	rs188461135	R273C	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		188461135	Q16665	rs188461135	R273C	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign	189765835						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	193920781	Q16665	rs193920781	E234K	0.999		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	193920781	Q16665	rs193920781	E234K	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely pathogenic	199752292	Q16665	rs199752292	R631H	0.15		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		199775054	Q16665	rs199775054	A593T	0.001		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		199775054	Q16665	rs199775054	A593T	0.58		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		199775054	Q16665	rs199775054	A593T	0.68		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign	199845303						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	200756402						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		201307354						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		201700009						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		201730640						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		201916664						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	202183359	Q16665	rs202183359	Q355H	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044106465						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044106582						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044106654						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2044412573						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044412888						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044413699						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044414243						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044414278						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044414353						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044414734						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044415066						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	pathogenic	2044427387	Q16665	rs2044427387	G98D	1.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	pathogenic	2044427387	Q16665	rs2044427387	G98D	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044428014						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044428141						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044428267						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044429844						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433070						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433325						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433364						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433480						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433527						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433572						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044433789						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044509314						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044509481						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044510593						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044510744						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044510792						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044510852						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044520735						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044520806						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044520858						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044521002						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044521150						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044521252						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044522204						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044522237						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044522269						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044522310						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044522344						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044522437						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044587460						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044587857						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044587992						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044588340						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044588395						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044588408						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044588454						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044608384						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044608437						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044608706						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044608765						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044608984						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044609105						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044609542						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044609595						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044609904						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044610363						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044644354						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044644459						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044644657						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044644760						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044645079						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044645109						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044645939						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044646007						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2044661258	Q16665	rs2044661258	V428I	0.08		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044662514						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044662966						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044663365						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044663762						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044663823						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044663974						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044664003						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044664165						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044664444						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044664725						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044665053						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044696581						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044697362						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044697439						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044697833						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044699675						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044701117						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044701166						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044702110						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044702288						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044702685						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044702791						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044702928						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044703292						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044703433						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044703731						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044704048						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely pathogenic	2044704486	Q16665	rs2044704486	A654V	0.43		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2044704786						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044704826						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044705134						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044705336						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044705580						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044705689						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044705781						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044706572						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044755460						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044755709						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044755860						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044756145						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044756841						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044756919						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044756961						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044757059						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044757264						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044772556						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044773805						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044773941						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044774078						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044774243						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044774761						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044800883						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044801183						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2044802603						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140112009						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140136522						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140137793						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140142918						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140149468						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140156279						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140156322						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140156757						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140156760						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140156847						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2140157026						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		2140157033						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2503118753						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely pathogenic	2503132758						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2503132933						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely pathogenic	2503149952						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2503155852						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely pathogenic	2503156139						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	2503169960						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		367738310						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		367767967						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		368427470						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		369187768						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		369217648						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		369380565						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		370017457						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		370608348						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		371013193						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	371189823	Q16665	rs371189823	D524E	0.23		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		372113446						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		372384422						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		372737947						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	372868999	Q16665	rs372868999	M371I	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	372868999	Q16665	rs372868999	M371I	0.15		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	372868999	Q16665	rs372868999	M371I	0.13		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		373303038						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		373399672						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		374224409						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		374395794						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		374681152						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		375467664						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		376161894						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	376459372	Q16665	rs376459372	D578N	0.167		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	376459372	Q16665	rs376459372	D578N	0.86		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	376459372	Q16665	rs376459372	D578N	0.44		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		377058629						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		377669974	Q16665	rs377669974	R463Q	0.833		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		377669974	Q16665	rs377669974	R463Q	0.37		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		377669974	Q16665	rs377669974	R463Q	0.42		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	benign, likely benign	41508050	Q16665	rs41508050	T418I	0.13		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		529532723						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		531442665						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		539549822						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	540883086	Q16665	rs540883086	E261K	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		543260409						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		547805630						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		550757094						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		553739730						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		559928080	Q16665	rs559928080	R165Q	0.982		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		559928080	Q16665	rs559928080	R165Q	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		559928080	Q16665	rs559928080	R165Q	0.982		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		559928080	Q16665	rs559928080	R165Q	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		571064312						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		573267725						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		574603732						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		61755644						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign, likely pathogenic	61755705	Q16665	rs61755705	V50L	0.54		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	likely benign, likely pathogenic	61755705	Q16665	rs61755705	V50L	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		61755706						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		745776850						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		746540920						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		746839427						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		746881128						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		747531111						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		747613136						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		747770607						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	748009728	Q16665	rs748009728	T544K	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		748245871						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		748620045						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		748622181						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		748707979						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749193727						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	749381048						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749504078						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749537571						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749595399						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749686395	Q16665	rs749686395	S668L	0.293		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749686395	Q16665	rs749686395	S668L	0.12		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749686395	Q16665	rs749686395	S668L	0.09		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	749692031	Q16665	rs749692031	R671G	0.11		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		749918683						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	750034759						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		750216888						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		750413019						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		750734712						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		750815376						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		751473974						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		751560090						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		751931907						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752063685	Q16665	rs752063685	D9H	0.112		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752063685	Q16665	rs752063685	D9H	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752063685	Q16665	rs752063685	D9H	0.066		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752063685	Q16665	rs752063685	D9H	0.02		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752261975						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752350520						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		752483214						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		753037065						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		753064700						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		753487050						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		753636092						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	753638009						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		753967037						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754062510						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754129452						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754260360						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754352541						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754986249	Q16665	rs754986249	S809N	0.005		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754986249	Q16665	rs754986249	S809N	0.7		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		754986249	Q16665	rs754986249	S809N	0.83		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755050964						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755105010						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755145905						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		75521089						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755243230						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	755284944						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	755477292						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755627627						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755629700	Q16665	rs755629700	A86T	0.005		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755629700	Q16665	rs755629700	A86T	0.51		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755629700	Q16665	rs755629700	A86T	0.006		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755629700	Q16665	rs755629700	A86T	0.56		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755787915	Q16665	rs755787915	I710V	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755787915	Q16665	rs755787915	I710V	0.49		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755787915	Q16665	rs755787915	I710V	0.53		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755825658	Q16665	rs755825658	D417N	0.144		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755825658	Q16665	rs755825658	D417N	0.32		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		755825658	Q16665	rs755825658	D417N	0.19		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		756312158						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		756924216						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757183616						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757192733						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757398838	Q16665	rs757398838	I64V	0.542		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757398838	Q16665	rs757398838	I64V	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757398838	Q16665	rs757398838	I64V	0.552		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757398838	Q16665	rs757398838	I64V	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757408166						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757601767						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		757881795						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		758129742						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		758447703						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		758643931						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		759156907						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		759533894						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		759565785						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		759601882						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		759636243						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		759997712						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	760184669	Q16665	rs760184669	S52L	0.803		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	760184669	Q16665	rs760184669	S52L	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	760184669	Q16665	rs760184669	S52L	0.799		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	760184669	Q16665	rs760184669	S52L	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		760294729						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		760502658						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		760695115						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	760741217						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761301966	Q16665	rs761301966	M787V	0.055		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761301966	Q16665	rs761301966	M787V	0.12		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761301966	Q16665	rs761301966	M787V	0.11		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761337243						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761540947						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761548161	Q16665	rs761548161	V690M	0.024		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761548161	Q16665	rs761548161	V690M	0.13		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761548161	Q16665	rs761548161	V690M	0.27		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		761784618						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		762002961						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		762174521						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		762302243						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		762383271						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		763159088						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		763536964						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		763538721						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		763574610						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		763588017						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		763946371						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	763977857	Q16665	rs763977857	S205G	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	763977857	Q16665	rs763977857	S205G	0.1		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		764016802						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	764044268	Q16665	rs764044268	M60I	0.623		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	764044268	Q16665	rs764044268	M60I	0.0		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	764342882						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		764684943						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		764960611						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		764988486						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		765076295						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		765575235						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		765661722						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		765856266						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	766245778	Q16665	rs766245778	A404T	0.98		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	766245778	Q16665	rs766245778	A404T	0.05		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	766245778	Q16665	rs766245778	A404T	0.05		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		766542880						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		766724192						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	767844548						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		768525029						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		769273992						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		769821925						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		769824054						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		770066217						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		770277757						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		770336870						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		770478264						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		770582604						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		771199130						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	771469186	Q16665	rs771469186	V364A	0.48		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		771815531						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		772161194						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		772672562						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		773258236						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		773462944						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		773811107						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774190899	Q16665	rs774190899	E441K	0.005		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774190899	Q16665	rs774190899	E441K	0.39		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774190899	Q16665	rs774190899	E441K	0.34		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774379890						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774389470						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774479232						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		774872613						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		775520128						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		775545098						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		775612177						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		775739366						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776147351						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776204091						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776377120	Q16665	rs776377120	H42Y	0.025		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776377120	Q16665	rs776377120	H42Y	0.02		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776377120	Q16665	rs776377120	H42Y	0.026		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776377120	Q16665	rs776377120	H42Y	0.01		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		776789375						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		777173441						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		777594220						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		777807729						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		778074616						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		778648481						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		778847629						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		779116374						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		779191546						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		779310473						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		779328210						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	779598237	Q16665	rs779598237	R665W	0.03		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	779702949	Q16665	rs779702949	T598P	0.45		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		779855998						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		779897997						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	780360794	Q16665	rs780360794	S525G	0.04		Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		780447577						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		780456004						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		780573087						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		780928465						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		781241665						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		781578854						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		781619039						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		866256509						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		866857725						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		868478430						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		868622165						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	879236938						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		899663634						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		900640749						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		902275287						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		904387412						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		912894413						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	918607520						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		942198167						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		943135091						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		944036180						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		949070716						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		954373305						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		955767196						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		979968854						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		982272328						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant		985666420						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665
+HIF1A	missense_variant	uncertain significance	990026533						Q16665	Hypoxia-inducible factor 1-alpha	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q16665

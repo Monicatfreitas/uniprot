@@ -1,0 +1,262 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+SOST	missense_variant		1003605850						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1004221324						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1008216290						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1033871363	Q9BQB4	rs1033871363	A156V	0.01		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1033871363	Q9BQB4	rs1033871363	A156V	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1033871363	Q9BQB4	rs1033871363	A156V	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1053399949						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		112075264						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1159168815						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1169649367						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1170143511						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1179642164						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1182524882						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1182641773						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1189682019						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1201235150	Q9BQB4	rs1201235150	G107C	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1201235150	Q9BQB4	rs1201235150	G107S	0.152		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1201235150	Q9BQB4	rs1201235150	G107S	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1201235150	Q9BQB4	rs1201235150	G107S	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1219826217						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1227335333						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1231556211						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1231867184						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1233181863						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1245595709						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1248654294						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1249296225	Q9BQB4	rs1249296225	D32E	0.977		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1249296225	Q9BQB4	rs1249296225	D32E	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1249296225	Q9BQB4	rs1249296225	D32E	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1257757037						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1259766560						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1261726802						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1264311335						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1285885063						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1286037743						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1286080574						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1304696889						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1319983010						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1325102301	Q9BQB4	rs1325102301	R95L	0.164		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1325102301	Q9BQB4	rs1325102301	R95L	0.03		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1325102301	Q9BQB4	rs1325102301	R95L	0.03		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1330217415						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1336375440						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1344864833						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1347080209						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1354174943						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1356126797						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1356372498						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1362211882						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1363534429						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1364374381						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1367907215						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1368513815						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1370224367						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1374561504						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1375948495						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1380461935						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		138163431						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1388270793						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1391350953						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		139822050						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1401026410						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1405992033						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1410472361						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		141856582						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1419851479						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1420343521	Q9BQB4	rs1420343521	R121H	0.569		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1420343521	Q9BQB4	rs1420343521	R121H	0.03		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1420343521	Q9BQB4	rs1420343521	R121H	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1421157409						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1428033627						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1429489212	Q9BQB4	rs1429489212	N117K	0.999		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1429489212	Q9BQB4	rs1429489212	N117K	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1429489212	Q9BQB4	rs1429489212	N117K	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1433615680	Q9BQB4	rs1433615680	R193P	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1437281650						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		143755073						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1439063195						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1441494673						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1443836437	Q9BQB4	rs1443836437	R155C	0.996		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1443836437	Q9BQB4	rs1443836437	R155C	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1443836437	Q9BQB4	rs1443836437	R155C	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1448517799						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1449266973						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1449750337						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1463056209						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	146848252	Q9BQB4	rs146848252	Q24L	0.194		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	146848252	Q9BQB4	rs146848252	Q24L	0.1		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1469775634						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1473050965						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1474100674						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		147448439						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1476285353						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1476322352						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1477850027						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1482371714	Q9BQB4	rs1482371714	E82K	0.999		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1482371714	Q9BQB4	rs1482371714	E82K	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1482371714	Q9BQB4	rs1482371714	E82K	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1482585716						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1485333887						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1598295947						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1598295965						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1598296166						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1598296941						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	benign	17882143	Q9BQB4	rs17882143	V10I	0.308		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	benign	17882143	Q9BQB4	rs17882143	V10I	0.35		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974115469						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974116099						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974116290						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974116580						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974116693						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974116897						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974117236						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974117413						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	1974117814						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974118204						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974118298						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974118510						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974118921						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974119665						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974120152						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974121166						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974122727						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974123349						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974123446						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974123745						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974155825						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974157026						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974158689						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974158785						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974158843						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974160884						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		1974161107						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	likely benign	199514554	Q9BQB4	rs199514554	R19H	0.001		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	likely benign	199514554	Q9BQB4	rs199514554	R19H	0.59		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	199579218	Q9BQB4	rs199579218	R160P	0.01		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		200581535	Q9BQB4	rs200581535	T34M	0.999		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		200581535	Q9BQB4	rs200581535	T34M	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		200581535	Q9BQB4	rs200581535	T34M	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	not provided	2154590425						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		2154590426						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		2154590430						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	2508693141						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	2508693316						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	372515234	Q9BQB4	rs372515234	G62R	1.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	372515234	Q9BQB4	rs372515234	G62R	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	372515234	Q9BQB4	rs372515234	G62R	0.02		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		373260820						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		373660644						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	375589560	Q9BQB4	rs375589560	V20A	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	375589560	Q9BQB4	rs375589560	V20A	0.51		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	likely pathogenic, pathogenic	387907169						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		528251296						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		541123476	Q9BQB4	rs541123476	A59V	0.969		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		541123476	Q9BQB4	rs541123476	A59V	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		541123476	Q9BQB4	rs541123476	A59V	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		547034446						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance, likely benign	548849329	Q9BQB4	rs548849329	G150R	0.15		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance, likely benign	548849329	Q9BQB4	rs548849329	G150S	0.19		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	553781758	Q9BQB4	rs553781758	A199S	0.32		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		559177656						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		560674342						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	574411567	Q9BQB4	rs574411567	G41R	0.007		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	574411567	Q9BQB4	rs574411567	G41R	0.7		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	574411567	Q9BQB4	rs574411567	G41R	0.62		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		745471377						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		745735992	Q9BQB4	rs745735992	L3F	0.003		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		745735992	Q9BQB4	rs745735992	L3F	0.09		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		745735992	Q9BQB4	rs745735992	L3F	0.855		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		745735992	Q9BQB4	rs745735992	L3F	0.06		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		745824050						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		746598589						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	likely benign	747491535						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		748258858						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		748490190						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		748578329						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		750840300	Q9BQB4	rs750840300	R58W	0.872		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		750840300	Q9BQB4	rs750840300	R58W	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		750840300	Q9BQB4	rs750840300	R58W	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		751451296						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		752555928						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		752580629						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	754840151						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		754855270						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		755487430						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		756754655	Q9BQB4	rs756754655	R138H	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		756754655	Q9BQB4	rs756754655	R138H	0.81		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		756754655	Q9BQB4	rs756754655	R138H	1.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		758338208	Q9BQB4	rs758338208	E185Q	0.168		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		758338208	Q9BQB4	rs758338208	E185Q	0.15		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		758338208	Q9BQB4	rs758338208	E185Q	0.09		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		759800041						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	760682674	Q9BQB4	rs760682674	R64Q	0.972		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	760682674	Q9BQB4	rs760682674	R64Q	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	760682674	Q9BQB4	rs760682674	R64Q	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	760883576	Q9BQB4	rs760883576	P154L	0.52		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		760971779						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	762683331						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		762778690	Q9BQB4	rs762778690	A112V	0.639		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		762778690	Q9BQB4	rs762778690	A112V	0.04		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		762778690	Q9BQB4	rs762778690	A112V	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		763425001	Q9BQB4	rs763425001	R200Q	0.308		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		763425001	Q9BQB4	rs763425001	R200Q	0.11		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		763425001	Q9BQB4	rs763425001	R200Q	0.08		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		763910005						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		765024136						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		765162616						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	765435662						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	765929030	Q9BQB4	rs765929030	R64W	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		766678124						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		766988755						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		767644132						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		768384322						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		769015314						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		769020735						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	769369803						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770637509	Q9BQB4	rs770637509	A202T	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770637509	Q9BQB4	rs770637509	A202T	0.27		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770637509	Q9BQB4	rs770637509	A202T	0.19		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770960308	Q9BQB4	rs770960308	A28V	0.006		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770960308	Q9BQB4	rs770960308	A28V	0.49		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770960308	Q9BQB4	rs770960308	A28V	1.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		770994134						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		771530778						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		772369267						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		772769296						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		773071580						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		773894662						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		774141032						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		774959099						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		775073017						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		775244532						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		775651591						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		775705851						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		776585836						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	776670653	Q9BQB4	rs776670653	G25E	0.999		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	776670653	Q9BQB4	rs776670653	G25E	0.02		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		777286638						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		777424828						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	778302663	Q9BQB4	rs778302663	P99A	0.03		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	779039644	Q9BQB4	rs779039644	P48L	0.41		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		779412432						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		779900257						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		780592378						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	781149929	Q9BQB4	rs781149929	A6V	0.794		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	781149929	Q9BQB4	rs781149929	A6V	0.14		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		781320035						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		867579353	Q9BQB4	rs867579353	V89M	0.659		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		867579353	Q9BQB4	rs867579353	V89M	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		867579353	Q9BQB4	rs867579353	V89M	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		879666342						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	886052980	Q9BQB4	rs886052980	E178G	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	886052981	Q9BQB4	rs886052981	G110S	0.05		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		888486297						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		889328070						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		899416278						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		914981653						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		921804354						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		967324165						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant		969885457						Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4
+SOST	missense_variant	uncertain significance	977792055	Q9BQB4	rs977792055	N117S	0.0		Q9BQB4	Sclerostin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BQB4

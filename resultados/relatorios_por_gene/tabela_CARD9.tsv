@@ -1,0 +1,864 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CARD9	missense_variant	uncertain significance	1011068857	Q9H257	rs1011068857	R357Q	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1011068857	Q9H257	rs1011068857	R357Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1011068857	Q9H257	rs1011068857	R357Q	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1011068857	Q9H257	rs1011068857	R357Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1015554677						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1022441593						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1025690812						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1027073004						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1027396974						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1034840190						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1035251446						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1036710533	Q9H257	rs1036710533	G514A	0.015		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1036710533	Q9H257	rs1036710533	G514A	0.41		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1040324141						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1043128646	Q9H257	rs1043128646	R177H	0.014		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1043128646	Q9H257	rs1043128646	R177H	0.16		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1045323623	Q9H257	rs1045323623	Q69H	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1045323623	Q9H257	rs1045323623	Q69H	0.4		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1045323623	Q9H257	rs1045323623	Q69H	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1045323623	Q9H257	rs1045323623	Q69H	0.31		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1049019466	Q9H257	rs1049019466	Y86C	0.992		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1049019466	Q9H257	rs1049019466	Y86C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1049117042	Q9H257	rs1049117042	R386W	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1049117042	Q9H257	rs1049117042	R386W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1049117042	Q9H257	rs1049117042	R386W	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1049117042	Q9H257	rs1049117042	R386W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	112244317	Q9H257	rs112244317	A170T	0.025		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	112244317	Q9H257	rs112244317	A170T	0.51		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	114895119	Q9H257	rs114895119	E270V	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	114895119	Q9H257	rs114895119	E270V	0.33		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1159160299						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1162006405	Q9H257	rs1162006405	T526R	0.178		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1162006405	Q9H257	rs1162006405	T526R	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1168769407						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1171363898						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1171727333						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1171915203	Q9H257	rs1171915203	L119P	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1171915203	Q9H257	rs1171915203	L119P	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1174420190						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1174464433						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1175148607						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1177629322						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1180364209						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1180563428						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1180760730						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1182277747						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1183310191						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1185498565						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1186496045						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1187475967						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1188918578	Q9H257	rs1188918578	E486Q	0.196		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1188918578	Q9H257	rs1188918578	E486Q	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1191571837						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1193860026						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1194511412						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1195029502						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1197970700						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1201698109						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1202481712						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1203654678						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1203818122						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1209593337						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1212610666						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1213183040						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1214060145						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1230264069						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1234379041	Q9H257	rs1234379041	R317Q	0.009		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1234379041	Q9H257	rs1234379041	R317Q	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1234379041	Q9H257	rs1234379041	R317Q	0.009		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1234379041	Q9H257	rs1234379041	R317Q	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1236811222						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1239413034						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1239721232	Q9H257	rs1239721232	L85F	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1239721232	Q9H257	rs1239721232	L85F	0.35		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1245788237						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1246515596						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1247747413						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1249693190						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1252059533	Q9H257	rs1252059533	E180G	0.025		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1252059533	Q9H257	rs1252059533	E180G	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1253739630						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1260624695						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1262961255						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1265712771						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1266195975	Q9H257	rs1266195975	P464L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1266195975	Q9H257	rs1266195975	P464L	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1268381681						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1268643152						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1268928951	Q9H257	rs1268928951	R492Q	0.559		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1268928951	Q9H257	rs1268928951	R492Q	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1268928951	Q9H257	rs1268928951	R492Q	0.554		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1268928951	Q9H257	rs1268928951	R492Q	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1272989117						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1273655087	Q9H257	rs1273655087	L283P	0.018		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1273655087	Q9H257	rs1273655087	L283P	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1273655087	Q9H257	rs1273655087	L283P	0.019		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1273655087	Q9H257	rs1273655087	L283P	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1274878660	Q9H257	rs1274878660	M124T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1274878660	Q9H257	rs1274878660	M124T	0.71		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1276381998						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1278536786						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1285747619	Q9H257	rs1285747619	R506H	0.825		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1285747619	Q9H257	rs1285747619	R506H	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1286367809	Q9H257	rs1286367809	R342C	0.992		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1286367809	Q9H257	rs1286367809	R342C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1291757290						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1293607739						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1294011106						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1302956100	Q9H257	rs1302956100	M187T	0.031		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1302956100	Q9H257	rs1302956100	M187T	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1310160104						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1319124870	Q9H257	rs1319124870	T300I	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1319124870	Q9H257	rs1319124870	T300I	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1319124870	Q9H257	rs1319124870	T300I	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1319124870	Q9H257	rs1319124870	T300I	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1319695978						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1320544361	Q9H257	rs1320544361	V261M	0.39		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1320544361	Q9H257	rs1320544361	V261M	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1326413579						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1326775525	Q9H257	rs1326775525	T231M	0.965		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1326775525	Q9H257	rs1326775525	T231M	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1326775525	Q9H257	rs1326775525	T231M	0.964		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1326775525	Q9H257	rs1326775525	T231M	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1329073688						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1329681150						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1333436987						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1334082405						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1334589111	Q9H257	rs1334589111	R509G	0.624		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1334589111	Q9H257	rs1334589111	R509G	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1338999078	Q9H257	rs1338999078	I361V	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1338999078	Q9H257	rs1338999078	I361V	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	1339311526						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1341937846						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1342644932						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1344488795						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1344909246						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1345349795						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1345510343						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1346520191						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1349658399						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1357502344						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1358186688						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1358233637	Q9H257	rs1358233637	T531I	0.837		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1358233637	Q9H257	rs1358233637	T531I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1359993470						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1363765487						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1365772840						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1372744930						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1372834289						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1372869351						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1374257837						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1380371712						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	138048592	Q9H257	rs138048592	E284A	0.134		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	138048592	Q9H257	rs138048592	E284A	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1383238223						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		138379141						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1388447556						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1391085330						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	139295959	Q9H257	rs139295959	A198T	0.056		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	139295959	Q9H257	rs139295959	A198T	0.33		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	139436668	Q9H257	rs139436668	I25M	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	139436668	Q9H257	rs139436668	I25M	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	139454076						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	139646302	Q9H257	rs139646302	A380T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	139646302	Q9H257	rs139646302	A380T	0.19		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1400360367						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1400756254	Q9H257	rs1400756254	R160C	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1400756254	Q9H257	rs1400756254	R160C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1402747741						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1402887021						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		140362628						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	140508365	Q9H257	rs140508365	G171S	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	140508365	Q9H257	rs140508365	G171S	0.33		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1405347175	Q9H257	rs1405347175	A507V	0.113		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1405347175	Q9H257	rs1405347175	A507V	0.05		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1406534280	Q9H257	rs1406534280	D479E	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1406534280	Q9H257	rs1406534280	D479E	0.71		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1407238585						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1407323914						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1407588129	Q9H257	rs1407588129	E146Q	0.104		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1407588129	Q9H257	rs1407588129	E146Q	0.76		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1408692813						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141105175	Q9H257	rs141105175	R315H	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141105175	Q9H257	rs141105175	R315H	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141105175	Q9H257	rs141105175	R315L	0.048		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141105175	Q9H257	rs141105175	R315L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1411071075	Q9H257	rs1411071075	D451N	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1411071075	Q9H257	rs1411071075	D451N	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141270365	Q9H257	rs141270365	A369T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141270365	Q9H257	rs141270365	A369T	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141310444	Q9H257	rs141310444	N524T	0.444		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	141310444	Q9H257	rs141310444	N524T	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1413588215						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1414612967						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1414848495						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		141691778	Q9H257	rs141691778	P88L	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		141691778	Q9H257	rs141691778	P88L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		141691778	Q9H257	rs141691778	P88L	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		141691778	Q9H257	rs141691778	P88L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1417369241						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1419197999						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1420017314	Q9H257	rs1420017314	R309H	0.037		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1420017314	Q9H257	rs1420017314	R309H	0.16		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1420017314	Q9H257	rs1420017314	R309H	0.037		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1420017314	Q9H257	rs1420017314	R309H	0.13		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1420662699						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1420963664						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	142221470	Q9H257	rs142221470	R241W	0.995		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	142221470	Q9H257	rs142221470	R241W	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1422565556						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1422852753						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1425733902	Q9H257	rs1425733902	T525I	0.229		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1425733902	Q9H257	rs1425733902	T525I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1430559286						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1432119909						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1432428102						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143263677	Q9H257	rs143263677	R292L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143263677	Q9H257	rs143263677	R292L	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143263677	Q9H257	rs143263677	R292Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143263677	Q9H257	rs143263677	R292Q	0.19		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143263677	Q9H257	rs143263677	R292Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143263677	Q9H257	rs143263677	R292Q	0.11		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1433023025	Q9H257	rs1433023025	D274E	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1433023025	Q9H257	rs1433023025	D274E	0.57		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1434258703						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143669690	Q9H257	rs143669690	E326K	0.274		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143669690	Q9H257	rs143669690	E326K	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143669690	Q9H257	rs143669690	E326Q	0.046		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	143669690	Q9H257	rs143669690	E326Q	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1437329318						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1437385436	Q9H257	rs1437385436	G75S	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1437385436	Q9H257	rs1437385436	G75S	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1439129616	Q9H257	rs1439129616	D274N	0.038		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1439129616	Q9H257	rs1439129616	D274N	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		144081957						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	144115318	Q9H257	rs144115318	S193N	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	144115318	Q9H257	rs144115318	S193N	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		144193548						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1442047796	Q9H257	rs1442047796	A290V	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1442047796	Q9H257	rs1442047796	A290V	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1442164218	Q9H257	rs1442164218	A480T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1442164218	Q9H257	rs1442164218	A480T	0.41		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	144348041	Q9H257	rs144348041	G458A	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	144348041	Q9H257	rs144348041	G458A	0.42		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	144348041	Q9H257	rs144348041	G458V	0.024		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	144348041	Q9H257	rs144348041	G458V	0.13		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1448042281						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1448397897	Q9H257	rs1448397897	A507T	0.788		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1448397897	Q9H257	rs1448397897	A507T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1448397897	Q9H257	rs1448397897	A507T	0.784		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1448397897	Q9H257	rs1448397897	A507T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	144943839	Q9H257	rs144943839	E523Q	0.09		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	144943839	Q9H257	rs144943839	E523Q	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1449809662						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	145052557	Q9H257	rs145052557	H368Q	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	145052557	Q9H257	rs145052557	H368Q	0.47		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1450919887						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	145198648	Q9H257	rs145198648	R155H	0.021		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	145198648	Q9H257	rs145198648	R155H	0.12		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1452844397						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1453391726	Q9H257	rs1453391726	E489K	0.203		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1453391726	Q9H257	rs1453391726	E489K	0.18		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1454037218						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	1455610083						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	145574224	Q9H257	rs145574224	A372T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	145574224	Q9H257	rs145574224	A372T	0.06		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1458932569						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1460267430						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1460589648						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1463581048						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1463974856						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1464905457						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1466608983						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1467509517						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	146829177	Q9H257	rs146829177	E366K	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	146829177	Q9H257	rs146829177	E366K	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1468502009	Q9H257	rs1468502009	E296K	0.007		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1468502009	Q9H257	rs1468502009	E296K	0.06		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1472007566	Q9H257	rs1472007566	E221G	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1472007566	Q9H257	rs1472007566	E221G	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1472305486						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	147340708	Q9H257	rs147340708	R415Q	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	147340708	Q9H257	rs147340708	R415Q	0.15		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	147340708	Q9H257	rs147340708	R415Q	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	147340708	Q9H257	rs147340708	R415Q	0.15		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1473942095						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1474413260						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1475912007						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1476380832						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1480017098						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	benign	148523221						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	148681933	Q9H257	rs148681933	R260W	0.728		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	148681933	Q9H257	rs148681933	R260W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1487066101						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1488546054	Q9H257	rs1488546054	P99T	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1488546054	Q9H257	rs1488546054	P99T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1489924914	Q9H257	rs1489924914	R503C	0.995		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1489924914	Q9H257	rs1489924914	R503C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1490862744						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	149206311	Q9H257	rs149206311	R148W	0.007		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	149206311	Q9H257	rs149206311	R148W	0.18		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	149255047						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	149308743	Q9H257	rs149308743	R494H	0.645		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	149308743	Q9H257	rs149308743	R494H	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		149608339						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	149712114	Q9H257	rs149712114	R373Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	149712114	Q9H257	rs149712114	R373Q	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	150234370	Q9H257	rs150234370	R305H	0.958		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	150234370	Q9H257	rs150234370	R305H	0.23		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	150480370						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	151211588	Q9H257	rs151211588	R364W	0.828		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	151211588	Q9H257	rs151211588	R364W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	151211588	Q9H257	rs151211588	R364W	0.825		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	151211588	Q9H257	rs151211588	R364W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1564367133						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1564367778						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1564369070						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	1564369282						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1564369501						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1564370286						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588718884						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588718891						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588719110						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1588719771	Q9H257	rs1588719771	H478R	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1588719771	Q9H257	rs1588719771	H478R	0.39		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588719792						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1588719803	Q9H257	rs1588719803	H469Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1588719803	Q9H257	rs1588719803	H469Q	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588726458						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588726463						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1588726560						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1795504480						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1815637048						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833059447						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833060212						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833061081						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833062822						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833070135						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833070179	Q9H257	rs1833070179	G481R	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833070179	Q9H257	rs1833070179	G481R	0.11		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833090922	Q9H257	rs1833090922	L474S	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833090922	Q9H257	rs1833090922	L474S	0.76		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833092741						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833093056						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833134746	Q9H257	rs1833134746	K452I	0.312		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833134746	Q9H257	rs1833134746	K452I	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833135731						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833155349						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833155593						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833157753						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833161628						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833162418						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833167968						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833212057						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833214131						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833214320						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833227931						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833233725						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833234296	Q9H257	rs1833234296	L283V	0.013		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833234296	Q9H257	rs1833234296	L283V	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833234346						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833234419						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833234700						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833236132						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833240065						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833240171	Q9H257	rs1833240171	K254A	0.076		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833240171	Q9H257	rs1833240171	K254A	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833240828	Q9H257	rs1833240828	L246V	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833240828	Q9H257	rs1833240828	L246V	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833240944						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833241190						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833241325	Q9H257	rs1833241325	M238V	0.015		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833241325	Q9H257	rs1833241325	M238V	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833242172	Q9H257	rs1833242172	K229N	0.45		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833242172	Q9H257	rs1833242172	K229N	0.18		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833243130						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833243291						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833249495						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833249736	Q9H257	rs1833249736	M201T	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833249736	Q9H257	rs1833249736	M201T	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833251104						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833252453						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833252645						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833252763						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833256414						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833257523						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833257712						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833257824						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833258944						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833259560						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833268163						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833268870						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833269956						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833285586						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		1833287648						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833288953	Q9H257	rs1833288953	F17S	0.968		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833288953	Q9H257	rs1833288953	F17S	0.06		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833289004	Q9H257	rs1833289004	G16D	0.007		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	1833289004	Q9H257	rs1833289004	G16D	0.85		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	189645633	Q9H257	rs189645633	S336F	0.249		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	189645633	Q9H257	rs189645633	S336F	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	199947855	Q9H257	rs199947855	R155C	0.891		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	199947855	Q9H257	rs199947855	R155C	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200189320	Q9H257	rs200189320	C454Y	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200189320	Q9H257	rs200189320	C454Y	0.46		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200248442	Q9H257	rs200248442	P99L	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200248442	Q9H257	rs200248442	P99L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200709047	Q9H257	rs200709047	V268I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200709047	Q9H257	rs200709047	V268I	0.57		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200709047	Q9H257	rs200709047	V268I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200709047	Q9H257	rs200709047	V268I	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	benign, likely benign	200735402	Q9H257	rs200735402	E221K	0.996		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	benign, likely benign	200735402	Q9H257	rs200735402	E221K	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200783121	Q9H257	rs200783121	R333H	0.898		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	200783121	Q9H257	rs200783121	R333H	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		200980160						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		201183869						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		201289327						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		201544368						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	201587695	Q9H257	rs201587695	R29H	0.993		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	201587695	Q9H257	rs201587695	R29H	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	201802044	Q9H257	rs201802044	S172N	0.113		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	201802044	Q9H257	rs201802044	S172N	0.49		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		201816932						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	202052103	Q9H257	rs202052103	R475W	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	202052103	Q9H257	rs202052103	R475W	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131430592	Q9H257	rs2131430592	T526A	0.026		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131430592	Q9H257	rs2131430592	T526A	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131430667	Q9H257	rs2131430667	D521E	0.33		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131430667	Q9H257	rs2131430667	D521E	0.13		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131430673	Q9H257	rs2131430673	D521A	0.013		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131430673	Q9H257	rs2131430673	D521A	0.12		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131431283						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131432720	Q9H257	rs2131432720	H478D	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131432720	Q9H257	rs2131432720	H478D	0.58		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131432731						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131432810						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131432815						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131437885						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131438072						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131441779						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131441804	Q9H257	rs2131441804	I343V	0.062		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131441804	Q9H257	rs2131441804	I343V	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131441834						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131441959						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131443309						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131443372	Q9H257	rs2131443372	E239K	0.887		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131443372	Q9H257	rs2131443372	E239K	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131443529						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131443970	Q9H257	rs2131443970	M187I	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131443970	Q9H257	rs2131443970	M187I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131444130						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131444271	Q9H257	rs2131444271	S138R	0.041		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131444271	Q9H257	rs2131444271	S138R	0.47		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131444353	Q9H257	rs2131444353	M124V	0.006		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2131444353	Q9H257	rs2131444353	M124V	0.09		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131444368						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131444790						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131445586						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		2131445679						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2538651834						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2538665858						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2538669504						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	2538671919						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	benign, likely benign	3124993	Q9H257	rs3124993	V385L	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	benign, likely benign	3124993	Q9H257	rs3124993	V385L	0.11		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		367638485						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		367837889						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	368200571	Q9H257	rs368200571	V409M	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	368200571	Q9H257	rs368200571	V409M	0.13		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		368657832						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		368845667						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		369155916						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	369657798	Q9H257	rs369657798	R241Q	0.943		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	369657798	Q9H257	rs369657798	R241Q	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		369675305						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	369865691	Q9H257	rs369865691	E9K	0.038		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	369865691	Q9H257	rs369865691	E9K	0.54		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	369865691	Q9H257	rs369865691	E9K	0.038		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	369865691	Q9H257	rs369865691	E9K	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	370908281	Q9H257	rs370908281	D521N	0.408		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	370908281	Q9H257	rs370908281	D521N	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	370912459						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	370943995	Q9H257	rs370943995	M187V	0.017		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	370943995	Q9H257	rs370943995	M187V	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	371061371	Q9H257	rs371061371	E5K	0.566		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	371061371	Q9H257	rs371061371	E5K	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	371061371	Q9H257	rs371061371	E5K	0.561		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	371061371	Q9H257	rs371061371	E5K	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		371601937						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	371695061	Q9H257	rs371695061	G111E	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	371695061	Q9H257	rs371695061	G111E	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		371942000						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		372586424						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	372651415	Q9H257	rs372651415	R292W	0.324		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	372651415	Q9H257	rs372651415	R292W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		373303924						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	373635926	Q9H257	rs373635926	F465L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	373635926	Q9H257	rs373635926	F465L	0.73		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374091388	Q9H257	rs374091388	D7N	0.528		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374091388	Q9H257	rs374091388	D7N	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	374115294	Q9H257	rs374115294	R475L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	374115294	Q9H257	rs374115294	R475L	0.43		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	374115294	Q9H257	rs374115294	R475Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	374115294	Q9H257	rs374115294	R475Q	0.6		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374295826	Q9H257	rs374295826	V422I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374295826	Q9H257	rs374295826	V422I	0.67		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374295826	Q9H257	rs374295826	V422I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374295826	Q9H257	rs374295826	V422I	0.61		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374298700	Q9H257	rs374298700	D184N	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374298700	Q9H257	rs374298700	D184N	0.8		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374308759	Q9H257	rs374308759	M105V	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	374308759	Q9H257	rs374308759	M105V	0.25		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	375098569						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	375341696	Q9H257	rs375341696	D141N	0.244		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	375341696	Q9H257	rs375341696	D141N	0.18		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	375345378						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	376793464	Q9H257	rs376793464	R70Q	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	376793464	Q9H257	rs376793464	R70Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		376921377						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	377431254	Q9H257	rs377431254	V13I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	377431254	Q9H257	rs377431254	V13I	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	377708969	Q9H257	rs377708969	N53S	0.017		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	377708969	Q9H257	rs377708969	N53S	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	398122362	Q9H257	rs398122362	G72C	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	398122362	Q9H257	rs398122362	G72C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	risk factor	398122364						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	benign	4077515						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		529268922						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		530135236						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		530306494						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	532713129	Q9H257	rs532713129	A380V	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	532713129	Q9H257	rs532713129	A380V	0.1		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	533844645	Q9H257	rs533844645	E365G	0.964		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	533844645	Q9H257	rs533844645	E365G	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	535051926	Q9H257	rs535051926	R309C	0.891		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	535051926	Q9H257	rs535051926	R309C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	535114962	Q9H257	rs535114962	D222N	0.249		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	535114962	Q9H257	rs535114962	D222N	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		537666229						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	539919395	Q9H257	rs539919395	S152N	0.033		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	539919395	Q9H257	rs539919395	S152N	0.13		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	540891739	Q9H257	rs540891739	R382H	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	540891739	Q9H257	rs540891739	R382H	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	540891739	Q9H257	rs540891739	R382H	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	540891739	Q9H257	rs540891739	R382H	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		545240228						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	551482416	Q9H257	rs551482416	R228H	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	551482416	Q9H257	rs551482416	R228H	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		560188869						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	567395579	Q9H257	rs567395579	A392V	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	567395579	Q9H257	rs567395579	A392V	0.14		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		571629670						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	572881831	Q9H257	rs572881831	A199V	0.996		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	572881831	Q9H257	rs572881831	A199V	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	577731110	Q9H257	rs577731110	T533I	0.383		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	577731110	Q9H257	rs577731110	T533I	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	745340091	Q9H257	rs745340091	G453D	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	745340091	Q9H257	rs745340091	G453D	0.2		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	745730969	Q9H257	rs745730969	R522Q	0.015		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely benign	745730969	Q9H257	rs745730969	R522Q	0.33		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	745942827	Q9H257	rs745942827	D223N	0.974		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	745942827	Q9H257	rs745942827	D223N	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	745942827	Q9H257	rs745942827	D223N	0.974		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	745942827	Q9H257	rs745942827	D223N	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		746089018						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	746544609	Q9H257	rs746544609	A362V	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	746544609	Q9H257	rs746544609	A362V	0.42		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		746599709						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747120908	Q9H257	rs747120908	Y183C	0.884		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747120908	Q9H257	rs747120908	Y183C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747645575	Q9H257	rs747645575	L395V	0.593		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747645575	Q9H257	rs747645575	L395V	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		747779269						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747925378	Q9H257	rs747925378	R160H	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747925378	Q9H257	rs747925378	R160H	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747925378	Q9H257	rs747925378	R160H	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747925378	Q9H257	rs747925378	R160H	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747970437	Q9H257	rs747970437	R314Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	747970437	Q9H257	rs747970437	R314Q	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		748156964						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	748158820	Q9H257	rs748158820	E344G	0.225		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	748158820	Q9H257	rs748158820	E344G	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	748703154	Q9H257	rs748703154	E253Q	0.331		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	748703154	Q9H257	rs748703154	E253Q	0.06		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		749738633						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	749914021	Q9H257	rs749914021	Q192R	0.183		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	749914021	Q9H257	rs749914021	Q192R	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		749994446						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	750049509	Q9H257	rs750049509	L444V	0.053		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	750049509	Q9H257	rs750049509	L444V	0.15		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		750490172						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		750817144						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		750856827						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		750954369						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		750996208						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751616314	Q9H257	rs751616314	R382C	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751616314	Q9H257	rs751616314	R382C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751616314	Q9H257	rs751616314	R382C	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751616314	Q9H257	rs751616314	R382C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751776187	Q9H257	rs751776187	E169K	0.466		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751776187	Q9H257	rs751776187	E169K	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751776187	Q9H257	rs751776187	E169K	0.461		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751776187	Q9H257	rs751776187	E169K	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751849304	Q9H257	rs751849304	N299S	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	751849304	Q9H257	rs751849304	N299S	0.12		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		752221728						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		752622733						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	752685448	Q9H257	rs752685448	L413F	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	752685448	Q9H257	rs752685448	L413F	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	752685448	Q9H257	rs752685448	L413F	0.998		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	752685448	Q9H257	rs752685448	L413F	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		752754226						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	752913001	Q9H257	rs752913001	R386Q	0.994		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	752913001	Q9H257	rs752913001	R386Q	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	753025581						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	753366983	Q9H257	rs753366983	S439A	0.007		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	753366983	Q9H257	rs753366983	S439A	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	753366983	Q9H257	rs753366983	S439P	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	753366983	Q9H257	rs753366983	S439P	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		753492242						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		753501051						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	754119986	Q9H257	rs754119986	R415W	0.525		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	754119986	Q9H257	rs754119986	R415W	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		754129074						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	754223003	Q9H257	rs754223003	R202W	0.639		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	754223003	Q9H257	rs754223003	R202W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	754223003	Q9H257	rs754223003	R202W	0.634		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	754223003	Q9H257	rs754223003	R202W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		754297768						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	755256889	Q9H257	rs755256889	M201I	0.061		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	755256889	Q9H257	rs755256889	M201I	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		755342196						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		755380617						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		755467048						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		755827252						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		755876210						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756177404	Q9H257	rs756177404	A135V	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756177404	Q9H257	rs756177404	A135V	0.31		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756275149	Q9H257	rs756275149	H294Q	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756275149	Q9H257	rs756275149	H294Q	0.1		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756583189	Q9H257	rs756583189	R204C	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756583189	Q9H257	rs756583189	R204C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756953515	Q9H257	rs756953515	G457S	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	756953515	Q9H257	rs756953515	G457S	0.76		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757342734						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		757521454						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		757521707	Q9H257	rs757521707	P432L	0.656		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		757521707	Q9H257	rs757521707	P432L	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		757521707	Q9H257	rs757521707	P432L	0.666		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		757521707	Q9H257	rs757521707	P432L	0.11		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757627986	Q9H257	rs757627986	R148Q	0.007		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757627986	Q9H257	rs757627986	R148Q	0.54		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757745178	Q9H257	rs757745178	T363M	0.031		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757745178	Q9H257	rs757745178	T363M	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757745178	Q9H257	rs757745178	T363M	0.031		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	757745178	Q9H257	rs757745178	T363M	0.05		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	758540382						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		758753704						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	759264924	Q9H257	rs759264924	R173C	0.245		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	759264924	Q9H257	rs759264924	R173C	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	759837396	Q9H257	rs759837396	R373W	0.324		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	759837396	Q9H257	rs759837396	R373W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		759954061						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		759998766						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760135155	Q9H257	rs760135155	D151N	0.164		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760135155	Q9H257	rs760135155	D151N	0.35		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		760181332						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760553828	Q9H257	rs760553828	D426G	0.488		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760553828	Q9H257	rs760553828	D426G	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760681802	Q9H257	rs760681802	A109V	0.191		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760681802	Q9H257	rs760681802	A109V	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760681802	Q9H257	rs760681802	A109V	0.188		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	760681802	Q9H257	rs760681802	A109V	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	761020680						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		761129740						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	761143967	Q9H257	rs761143967	Q417L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	761143967	Q9H257	rs761143967	Q417L	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	761369989	Q9H257	rs761369989	E194D	0.941		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	761369989	Q9H257	rs761369989	E194D	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		761400518						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		761411125						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	761720338	Q9H257	rs761720338	D446N	0.132		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	761720338	Q9H257	rs761720338	D446N	0.11		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		761957942						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		762536086						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	763713013	Q9H257	rs763713013	T20M	0.147		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	763713013	Q9H257	rs763713013	T20M	0.2		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		764093590						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		764533162						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		764561565						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		764674043						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		765010252						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		765298420						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	765405752	Q9H257	rs765405752	E387K	0.994		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	765405752	Q9H257	rs765405752	E387K	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		766469254						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766890741	Q9H257	rs766890741	G514R	0.117		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766890741	Q9H257	rs766890741	G514R	0.16		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		766903486						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766920744	Q9H257	rs766920744	R509K	0.04		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766920744	Q9H257	rs766920744	R509K	0.05		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		766925666						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766983144	Q9H257	rs766983144	A354T	0.078		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766983144	Q9H257	rs766983144	A354T	0.26		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766983144	Q9H257	rs766983144	A354T	0.076		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	766983144	Q9H257	rs766983144	A354T	0.22		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		767094927						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		767265193						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		767522068						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	767880614	Q9H257	rs767880614	T420M	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	767880614	Q9H257	rs767880614	T420M	0.24		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	767880614	Q9H257	rs767880614	T420M	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	767880614	Q9H257	rs767880614	T420M	0.29		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		767935044						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		768109613						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	768281299						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		769183409	Q9H257	rs769183409	G111R	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		769183409	Q9H257	rs769183409	G111R	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		769183409	Q9H257	rs769183409	G111R	0.999		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		769183409	Q9H257	rs769183409	G111R	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		769905929						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		769996548						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770567400	Q9H257	rs770567400	H469Y	0.013		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770567400	Q9H257	rs770567400	H469Y	0.4		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770587024	Q9H257	rs770587024	D426N	0.616		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770587024	Q9H257	rs770587024	D426N	0.15		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770587024	Q9H257	rs770587024	D426N	0.611		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770587024	Q9H257	rs770587024	D426N	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770668488	Q9H257	rs770668488	R288W	0.65		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770668488	Q9H257	rs770668488	R288W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770668488	Q9H257	rs770668488	R288W	0.645		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	770668488	Q9H257	rs770668488	R288W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		771788289						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772249417	Q9H257	rs772249417	A199T	0.996		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772249417	Q9H257	rs772249417	A199T	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772249417	Q9H257	rs772249417	A199T	0.996		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772249417	Q9H257	rs772249417	A199T	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772871267	Q9H257	rs772871267	E312K	0.055		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772871267	Q9H257	rs772871267	E312K	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772871267	Q9H257	rs772871267	E312K	0.054		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		772871267	Q9H257	rs772871267	E312K	0.02		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		773760350						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		773817103						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	773889930	Q9H257	rs773889930	R516W	0.451		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	773889930	Q9H257	rs773889930	R516W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	773889930	Q9H257	rs773889930	R516W	0.446		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	773889930	Q9H257	rs773889930	R516W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	773952828	Q9H257	rs773952828	C402R	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	773952828	Q9H257	rs773952828	C402R	0.47		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	774113192	Q9H257	rs774113192	E195Q	0.977		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	774113192	Q9H257	rs774113192	E195Q	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		774264495						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		774343383						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	774571551	Q9H257	rs774571551	P461L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	774571551	Q9H257	rs774571551	P461L	0.25		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	774571551	Q9H257	rs774571551	P461L	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	774571551	Q9H257	rs774571551	P461L	0.19		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, benign	77469895	Q9H257	rs77469895	Q517H	0.001		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, benign	77469895	Q9H257	rs77469895	Q517H	0.49		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		774882992						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	775128842	Q9H257	rs775128842	Y4H	0.703		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	775128842	Q9H257	rs775128842	Y4H	0.21		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		775708373						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		775922619						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		775962800						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		776229142						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	776265820	Q9H257	rs776265820	W287C	0.005		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	776265820	Q9H257	rs776265820	W287C	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	776666302	Q9H257	rs776666302	R29C	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	776666302	Q9H257	rs776666302	R29C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	776666302	Q9H257	rs776666302	R29C	0.997		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	776666302	Q9H257	rs776666302	R29C	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		777324101						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	777420944	Q9H257	rs777420944	G374D	0.017		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	777420944	Q9H257	rs777420944	G374D	0.08		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		778562065						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	778706578	Q9H257	rs778706578	R364Q	0.031		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	778706578	Q9H257	rs778706578	R364Q	0.06		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		778718632						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		778826719						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	778923486	Q9H257	rs778923486	R315C	0.014		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	778923486	Q9H257	rs778923486	R315C	0.03		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		779130876						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		779301338						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		779886479						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		780444469						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		780560852						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	780846137	Q9H257	rs780846137	V123I	0.018		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	780846137	Q9H257	rs780846137	V123I	0.27		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	781016718	Q9H257	rs781016718	R260Q	0.251		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	781016718	Q9H257	rs781016718	R260Q	0.21		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		781419489						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		781460508						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	781498143	Q9H257	rs781498143	P432S	0.066		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	781498143	Q9H257	rs781498143	P432S	0.37		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		865827438						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	866295639	Q9H257	rs866295639	A259D	0.988		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	866295639	Q9H257	rs866295639	A259D	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	866295639	Q9H257	rs866295639	A259D	0.989		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	866295639	Q9H257	rs866295639	A259D	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	866295639	Q9H257	rs866295639	A259V	0.543		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	866295639	Q9H257	rs866295639	A259V	0.06		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		866635498						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		867291822						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		867858918						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		867997087						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		868007797						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		878945189						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	888151831	Q9H257	rs888151831	G518W	0.329		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	888151831	Q9H257	rs888151831	G518W	0.05		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		895657922						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		899947136						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		903427838						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		903633185						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		907350338						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		907791516	Q9H257	rs907791516	R59W	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		907791516	Q9H257	rs907791516	R59W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		907791516	Q9H257	rs907791516	R59W	1.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		907791516	Q9H257	rs907791516	R59W	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	909815670	Q9H257	rs909815670	D479N	0.015		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	909815670	Q9H257	rs909815670	D479N	0.21		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		913996997						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance, likely pathogenic	921151054						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		921246629						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		922901788						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	926038111	Q9H257	rs926038111	M124I	0.006		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	926038111	Q9H257	rs926038111	M124I	0.43		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	930352441	Q9H257	rs930352441	A480E	0.017		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	930352441	Q9H257	rs930352441	A480E	0.53		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		931686923						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	932662849	Q9H257	rs932662849	C178R	0.9		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	932662849	Q9H257	rs932662849	C178R	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	937955016						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		940518611						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	940550122						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	948124005	Q9H257	rs948124005	Q192E	0.095		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	948124005	Q9H257	rs948124005	Q192E	0.01		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		960676324						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		961385067						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	964199466	Q9H257	rs964199466	A290S	0.006		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	964199466	Q9H257	rs964199466	A290S	0.15		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	likely benign	968702841						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		971785161						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		973150104						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	974044165	Q9H257	rs974044165	S498C	0.003		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	974044165	Q9H257	rs974044165	S498C	0.27		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	977007616	Q9H257	rs977007616	I144F	0.174		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	977007616	Q9H257	rs977007616	I144F	0.07		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	977007616	Q9H257	rs977007616	I144V	0.006		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	977007616	Q9H257	rs977007616	I144V	0.14		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		978282649						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		979849048						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		980067180						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	982980603	Q9H257	rs982980603	A190V	0.203		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	982980603	Q9H257	rs982980603	A190V	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	988002931	Q9H257	rs988002931	R101H	0.992		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	988002931	Q9H257	rs988002931	R101H	0.0		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		988070503						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		989407851						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	995161906	Q9H257	rs995161906	S2L	0.005		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant	uncertain significance	995161906	Q9H257	rs995161906	S2L	0.2		Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257
+CARD9	missense_variant		996948091						Q9H257	Caspase recruitment domain-containing protein 9	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9H257

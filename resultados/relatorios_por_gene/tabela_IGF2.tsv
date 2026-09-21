@@ -1,0 +1,339 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+IGF2	missense_variant		1001775755						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1006709496						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1014211286						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1018841144						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1027412893						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1032405005						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1038398154						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1042993851						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1050342	P01344	rs1050342	P173L	0.015		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1050342	P01344	rs1050342	P173L	0.07		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely pathogenic	1057518115	P01344	rs1057518115	C33R	0.999		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely pathogenic	1057518115	P01344	rs1057518115	C33R	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		10770125						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		112276039						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	11545014	P01344	rs11545014	P173S	0.001		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	11545014	P01344	rs11545014	P173S	0.39		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1157083222						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1160380880						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1161440871						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1162156441						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1165810404						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1172508915						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1182976773						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1189010305						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1191719522	P01344	rs1191719522	R127H	0.999		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1191719522	P01344	rs1191719522	R127H	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1191719522	P01344	rs1191719522	R127L	0.999		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1191719522	P01344	rs1191719522	R127L	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1211857236						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1212009594	P01344	rs1212009594	A56T	0.145		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1212009594	P01344	rs1212009594	A56T	0.83		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1212942287						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1226943034						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1228749924						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1230176657	P01344	rs1230176657	R27C	0.624		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1230176657	P01344	rs1230176657	R27C	0.08		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1233985024						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely benign	1234730342						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1240151267						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1243657106	P01344	rs1243657106	R156C	0.814		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1243657106	P01344	rs1243657106	R156C	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1256437532						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1257021707						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1260271030						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1263508864						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1268163024						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1268424766						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1271167222						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1272561346						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1281572845						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1290256492						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1291850589						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1294135404						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1297907428						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		12993						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1301744036						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1304549931						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1312436221						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1312898491						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1315236317						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1322694319						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1322797114						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1323423065						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1327197915						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1333440627	P01344	rs1333440627	P4A	0.084		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1333440627	P01344	rs1333440627	P4A	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1335551796						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1338558695	P01344	rs1338558695	R137C	0.878		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1338558695	P01344	rs1338558695	R137C	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1340808708						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1347870712	P01344	rs1347870712	A171T	0.005		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1347870712	P01344	rs1347870712	A171T	0.1		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1348568331						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1353234608						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1356855570	P01344	rs1356855570	R27H	0.007		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1356855570	P01344	rs1356855570	R27H	0.19		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1361412373						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1362109566						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1363016357						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1372848092	P01344	rs1372848092	R127C	0.999		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1372848092	P01344	rs1372848092	R127C	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1382829733						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1383314827	P01344	rs1383314827	R73C	0.91		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1383314827	P01344	rs1383314827	R73C	0.02		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1384290487						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	benign	139194127						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1392387785						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1396314297						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1400305788						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1407468267						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1413387573						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1415711276						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1421347729						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		14367						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	143785521	P01344	rs143785521	P98L	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	143785521	P01344	rs143785521	P98L	0.34		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1445948742						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1459983752	P01344	rs1459983752	R135C	0.938		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1459983752	P01344	rs1459983752	R135C	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1461838110						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1463278226						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely benign	146334276	P01344	rs146334276	K7N	0.944		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely benign	146334276	P01344	rs146334276	K7N	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		146962483						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1469636028						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1469973698						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1472622300						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		147404873						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1475007372						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1475263728						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		150610908						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1564894932	P01344	rs1564894932	C71R	0.936		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1564894932	P01344	rs1564894932	C71R	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1564894953	P01344	rs1564894953	V67I	0.854		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1564894953	P01344	rs1564894953	V67I	0.05		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1590114216						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1590114264						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1590114336						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1590115008						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1590146551						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858717239						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858722493						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858722695						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858723072						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858725546						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858729186						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858733946						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858735511						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858737198						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858737921						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858739301						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858741155						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858741775						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858741970						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858742167						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858771254						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858772902						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858774604						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858777283						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858778488						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	pathogenic	1858937182	P01344	rs1858937182	G34D	1.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	pathogenic	1858937182	P01344	rs1858937182	G34D	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1858937359	P01344	rs1858937359	G34C	1.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1858937359	P01344	rs1858937359	G34C	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1858937359	P01344	rs1858937359	G34S	1.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1858937359	P01344	rs1858937359	G34S	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858942506						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1858943636						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860049299						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860051224						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860053639						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860054106						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860055375						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860056117						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860056594						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860058166						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860059276						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860059887						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860161701						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860162164						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860163434						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860164447						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860166644						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	1860168345						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860172860						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860173162						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860173416						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860173949						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860177266						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860177738						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		1860179827						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		199684370						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		200140862						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		200726543						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely benign	200836416	P01344	rs200836416	A143T	0.015		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely benign	200836416	P01344	rs200836416	A143T	0.11		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		202124833						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2133582307	P01344	rs2133582307	H168P	0.37		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2133582307	P01344	rs2133582307	H168P	0.04		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133582426						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133582977						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133584646						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133584818						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133584913						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2133585057	P01344	rs2133585057	C71Y	0.976		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2133585057	P01344	rs2133585057	C71Y	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133585074						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133585080						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133585244						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133592119						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133592326						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133643224						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133643358						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133648184						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133648227						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		2133648890						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495569951						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495571544						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495571857						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495572002						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely pathogenic	2495576425						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495576592						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495576986						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495577040						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495577191						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495684986						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495697785						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	2495698808						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		368141284						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	368323611						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	368814253						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	369122420	P01344	rs369122420	P102L	0.404		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	369122420	P01344	rs369122420	P102L	0.02		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	369452652	P01344	rs369452652	G139V	0.961		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	369452652	P01344	rs369452652	G139V	0.49		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		369566517						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	369844466	P01344	rs369844466	R64H	0.881		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	369844466	P01344	rs369844466	R64H	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		370845078						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	371682005	P01344	rs371682005	R138G	0.766		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	371682005	P01344	rs371682005	R138G	0.03		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	371682005	P01344	rs371682005	R138W	0.957		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	371682005	P01344	rs371682005	R138W	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	372250811						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		373622226						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	375129654	P01344	rs375129654	V141M	0.005		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	375129654	P01344	rs375129654	V141M	0.29		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	375522759						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		376568033						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		376704926						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		376878619						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	377316111	P01344	rs377316111	A167S	0.015		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	377316111	P01344	rs377316111	A167S	0.07		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		530101369	P01344	rs530101369	L133V	0.451		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		530101369	P01344	rs530101369	L133V	0.04		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		531475925						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		543179100						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		546077421						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely benign	554804044	P01344	rs554804044	G169R	0.251		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely benign	554804044	P01344	rs554804044	G169R	0.03		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely benign	554804044	P01344	rs554804044	G169W	0.011		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance, likely benign	554804044	P01344	rs554804044	G169W	0.02		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		558114041						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		564130690						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		565575035						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		573338304						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		574503594						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	benign	61732764	P01344	rs61732764	R156H	0.017		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	benign	61732764	P01344	rs61732764	R156H	0.08		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		745308728						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		745901132	P01344	rs745901132	G111V	0.062		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		745901132	P01344	rs745901132	G111V	0.32		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		746579029						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	746888392	P01344	rs746888392	T82M	0.467		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	746888392	P01344	rs746888392	T82M	0.03		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		747026832						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	747135996	P01344	rs747135996	V44I	0.998		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	747135996	P01344	rs747135996	V44I	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		747266091						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	748117121	P01344	rs748117121	T86N	0.644		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	748117121	P01344	rs748117121	T86N	0.03		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		749768732						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		749836523						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		750333739						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		750845881						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		752191866						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		752989920						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		753157105						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		753511563						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	753904854						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		754921584						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		755066389						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		755400457						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		755482890						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		756085221						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		756776069						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		756847403						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		757547834						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	757907236	P01344	rs757907236	M5T	0.001		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	757907236	P01344	rs757907236	M5T	0.08		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		758114081						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		758164144						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	758849172	P01344	rs758849172	R154C	0.871		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	758849172	P01344	rs758849172	R154C	0.18		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		759261999						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		759931220						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		760747482						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		760894162						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		761163170						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		761436263						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	761665707	P01344	rs761665707	R107S	0.084		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	761665707	P01344	rs761665707	R107S	0.01		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		762018876						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	762200142	P01344	rs762200142	R64C	0.938		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	762200142	P01344	rs762200142	R64C	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		762472654						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	763681027	P01344	rs763681027	D165E	0.698		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	763681027	P01344	rs763681027	D165E	1.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	764865819	P01344	rs764865819	K7T	0.944		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	764865819	P01344	rs764865819	K7T	0.04		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		765516077						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		766966005						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		767507381						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		768105151						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		768134140						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		769766130						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		771138084						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		771744589						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		772898246						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		773217225						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		773449505	P01344	rs773449505	R61H	0.957		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		773449505	P01344	rs773449505	R61H	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		773624887						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		773951027						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		774104462						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		775000758						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		777421135						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		778075715						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	778304668	P01344	rs778304668	A136G	0.23		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	778304668	P01344	rs778304668	A136G	0.07		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		778465733	P01344	rs778465733	R48H	1.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		778465733	P01344	rs778465733	R48H	0.0		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		778633421						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		779818488						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		780612983						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		781325329						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		781483443						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	781634507	P01344	rs781634507	G2E	0.998		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	781634507	P01344	rs781634507	G2E	0.04		P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	868067982						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		886168876						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	uncertain significance	907064161						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		927034247						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		948648025						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		951900909						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant	likely benign	968282810						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		975030738						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344
+IGF2	missense_variant		984257990						P01344	Insulin-like growth factor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01344

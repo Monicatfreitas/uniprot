@@ -1,0 +1,438 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ENO1	missense_variant		1001859718						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1002135002						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1015434005						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1027507957						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1027854537						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1037805406						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1040788874	P06733	rs1040788874	A108V	0.561		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1040788874	P06733	rs1040788874	A108V	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1040788874	P06733	rs1040788874	A108V	0.295		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1040788874	P06733	rs1040788874	A108V	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1043773327						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		112546471						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544489						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	11544491						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544495						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544509						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544513						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544514						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544519	P06733	rs11544519	V124I	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544519	P06733	rs11544519	V124I	0.08		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544519	P06733	rs11544519	V124I	0.001		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		11544519	P06733	rs11544519	V124I	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1161304155						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1162677549						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1163118680						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1163190645						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1168663517						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1172064289						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1174890406						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1175025519						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1176993978						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1178982657						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1185107750						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1186220763						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1190205953						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1193187414						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1198995022						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1207221510						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1208761293						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1210382416						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1211983641						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1212275383						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1213630557						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1213802547						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1215771882						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1217623404						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1220243585						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1235678238						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1239302356						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1240148857						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1240519104						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1243975743						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1248903701						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1253014652						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1253383037						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1253918735						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1259324893						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1260445512						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1262089046						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1266627878						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1273583616						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1278862065						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1278972141	P06733	rs1278972141	A362T	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1278972141	P06733	rs1278972141	A362T	0.04		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1278972141	P06733	rs1278972141	A362T	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1278972141	P06733	rs1278972141	A362T	0.05		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1279534898						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1280453205						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1282419223						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1290612318						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1296861716						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	1297999877	P06733	rs1297999877	A34G	0.949		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	1297999877	P06733	rs1297999877	A34G	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1302446112						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1306396143						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1307806293						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1309230809						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1317377808						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1321599224						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1322566202						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1322834275						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1326268351						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1327591735						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1328241708						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1333632965						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1333715788						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1334268903						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1340307452						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1342149103						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1354424562						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1361597424						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1365935305						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1367111879						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1367278103						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1375850631						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1375963051						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1380948713						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1387944075						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		138820314						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	138834005	P06733	rs138834005	Y44C	0.536		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	138834005	P06733	rs138834005	Y44C	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1391780140						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1396357518						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1404080418						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1409935440						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1411896968						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	1413710226						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1414503479						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1420127167						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1421601381	P06733	rs1421601381	G232R	0.145		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1421601381	P06733	rs1421601381	G232R	0.19		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1421601381	P06733	rs1421601381	G232R	0.101		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1421601381	P06733	rs1421601381	G232R	0.26		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1422022104						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	142310173	P06733	rs142310173	G59R	0.821		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	142310173	P06733	rs142310173	G59R	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		142536267						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1425995514						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1430538001						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1432506362						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1433414834						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		143592223						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		143707545						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1438254945						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1441829886						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	1444039919						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1444415038						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1457370145						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1458348417						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1458497486						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1463676290						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		146619828						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1467324343						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1467337761						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	146867004	P06733	rs146867004	N333K	0.018		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	146867004	P06733	rs146867004	N333K	0.05		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		146938354						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1474027392	P06733	rs1474027392	N338S	0.415		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1474027392	P06733	rs1474027392	N338S	0.03		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1474027392	P06733	rs1474027392	N338S	0.629		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1474027392	P06733	rs1474027392	N338S	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1484614684						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		148752848						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		150781341						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		151047591						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1557576684						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1557580049						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1557580086						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1557585793						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569895644						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569895811						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569895856						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569896162						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569896294						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569898835						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569898857						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569899066						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569899107						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569899352						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569899370						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569899414						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569902427						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569902537						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569902686						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569904605						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569912371						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1569916205						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642434798						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642435100						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642441451						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642441789						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642442418						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642444009						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642444263						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642444371						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642457014						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642460805						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642485823						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642486409						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642486852						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642489030						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642489905						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642491219						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642513337						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642513802						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642514911						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642515203						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642515760						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642517318						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642536835						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642538689						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642538823						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642538892						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642539560						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642559205						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642559450						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642606636						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	1642606733						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642607445						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642607656						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642641205						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642641341						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642643061						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642643613						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642703270						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642704676						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		1642705075						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		193006639						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		199529530						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		199771237						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	200008125						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		200498822						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201032262						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	201238976						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201317089						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201508705						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201627070						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201636531						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201867667						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201943492						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		201990176						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124055437						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124056599						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124057230						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124064068						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124074969						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124078994						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124094441						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		2124094519						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	benign	2230874						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	2522190835						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	2522212373						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	2522220504						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		267598750	P06733	rs267598750	A331D	0.825		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		267598750	P06733	rs267598750	A331D	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		267598750	P06733	rs267598750	A331D	0.761		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		267598750	P06733	rs267598750	A331D	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		368175966						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		368706320						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		368960957						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		369611743						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		369657785	P06733	rs369657785	A74V	0.028		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		369657785	P06733	rs369657785	A74V	0.05		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		369657785	P06733	rs369657785	A74V	0.005		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		369657785	P06733	rs369657785	A74V	0.06		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	369746357	P06733	rs369746357	A424P	0.969		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	369746357	P06733	rs369746357	A424P	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		371286872						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		371371408						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	371689591	P06733	rs371689591	E334K	0.003		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	371689591	P06733	rs371689591	E334K	1.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	371689591	P06733	rs371689591	E334K	0.001		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	371689591	P06733	rs371689591	E334K	0.32		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		372656945						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		373459987						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		374667746						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		374790772						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		376026081						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	376416487						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		377334028						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		527568599	P06733	rs527568599	N151S	0.083		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		527568599	P06733	rs527568599	N151S	0.05		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		527568599	P06733	rs527568599	N151S	0.109		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		527568599	P06733	rs527568599	N151S	0.04		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		528116006						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		529227052						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	533860041	P06733	rs533860041	I292V	0.038		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	533860041	P06733	rs533860041	I292V	0.04		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	533860041	P06733	rs533860041	I292V	0.094		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	533860041	P06733	rs533860041	I292V	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		543609712						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		543941599						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		566372119						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		569618357						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		573584202						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		745490999						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		746309963						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		746317051	P06733	rs746317051	V367A	0.94		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		746317051	P06733	rs746317051	V367A	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		746317051	P06733	rs746317051	V367A	0.993		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		746317051	P06733	rs746317051	V367A	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		746966528						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		747481520						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		747530713						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		747730682						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	747799544						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748321467	P06733	rs748321467	E219D	0.013		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748321467	P06733	rs748321467	E219D	0.56		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748321467	P06733	rs748321467	E219D	0.019		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748321467	P06733	rs748321467	E219D	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	748376947	P06733	rs748376947	R183C	0.611		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	748376947	P06733	rs748376947	R183C	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748574195						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748626241						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		748849234						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		749723672						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750183904	P06733	rs750183904	G156S	0.594		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750183904	P06733	rs750183904	G156S	0.05		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750183904	P06733	rs750183904	G156S	0.325		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750183904	P06733	rs750183904	G156S	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750328073						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750467514						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		750827270						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		751103350						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		751731640						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		752638327						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		752870645						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		753250311						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		753259457						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		753387314						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		753708347						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		753905960						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		754321568						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	754352845	P06733	rs754352845	F106V	0.978		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	754352845	P06733	rs754352845	F106V	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		755146456						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		755341114						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		755472016						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		755795570						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		756099793						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		756538264						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		756633097						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		758533996						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		758777585						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		758905947						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759085015						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759414399						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759744149	P06733	rs759744149	I3V	0.015		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759744149	P06733	rs759744149	I3V	0.16		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759744149	P06733	rs759744149	I3V	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759744149	P06733	rs759744149	I3V	0.09		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		759874129						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		760103053						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		760225797						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	760635870						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		760834032						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761485123						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761689000						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761820305						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761970983	P06733	rs761970983	A135T	0.917		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761970983	P06733	rs761970983	A135T	0.01		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761970983	P06733	rs761970983	A135T	0.785		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761970983	P06733	rs761970983	A135T	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		761998408						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762074733						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762407240						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762479923						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762484760						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762486454						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762715266						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		762804604						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		763008060						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		763658948						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		763709873						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		764540749						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		764859285						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		764967196						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	765364110	P06733	rs765364110	Y287S	0.996		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	765364110	P06733	rs765364110	Y287S	0.01		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	765726565						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		766081275						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		766104320						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		766117452						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		766584131						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		767059816						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	767145197						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		767187362						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		767315379						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		767550451						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		767692238						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		767829239						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		768294836						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		768963635						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		769359480	P06733	rs769359480	E293K	0.806		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		769359480	P06733	rs769359480	E293K	0.06		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		769359480	P06733	rs769359480	E293K	0.145		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		769359480	P06733	rs769359480	E293K	0.01		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		769535629						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		770189543						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		770370916						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		771564625						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		771843287						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		771949097						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	772567946	P06733	rs772567946	I217V	0.027		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	772567946	P06733	rs772567946	I217V	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		772632044						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		774084402						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		774296904						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		775022376						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		775250261						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	775697989						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		775747323						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		776032554						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		776573770	P06733	rs776573770	A356V	0.125		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		776573770	P06733	rs776573770	A356V	0.05		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		776573770	P06733	rs776573770	A356V	0.083		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		776573770	P06733	rs776573770	A356V	0.02		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		776586770						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		777321133						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		777858656						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		778017872						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		778279765						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		778785912						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		779074419						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	779265966	P06733	rs779265966	R183H	0.047		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	779265966	P06733	rs779265966	R183H	0.07		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	779265966	P06733	rs779265966	R183H	0.051		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	779265966	P06733	rs779265966	R183H	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		779897060						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		780657040						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		780727797						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		781503761						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		866670758						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		889472772						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		898817611						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		900455502						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		904093597						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	906191457	P06733	rs906191457	N427S	0.003		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	906191457	P06733	rs906191457	N427S	0.12		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		914039866						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		914752854						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		919759012						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		920220427						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		924822910						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	940879815	P06733	rs940879815	A33G	0.918		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant	uncertain significance	940879815	P06733	rs940879815	A33G	0.0		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		952255762						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		952787415						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		962155672	P06733	rs962155672	N140S	0.55		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		962155672	P06733	rs962155672	N140S	0.09		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		962155672	P06733	rs962155672	N140S	0.624		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		962155672	P06733	rs962155672	N140S	0.01		P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		962578612						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		965030609						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		981501079						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		983597348						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733
+ENO1	missense_variant		984872117						P06733	Alpha-enolase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P06733

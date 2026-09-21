@@ -1,0 +1,402 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+APOL6	missense_variant		1019237230						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1024852796	Q9BWW8	rs1024852796	L35P	0.997		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1024852796	Q9BWW8	rs1024852796	L35P	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1027756545						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1040131970						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1044608188						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1044662290						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		112417158						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		114524776						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1162537613						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1168493430						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1172062494						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1175010135	Q9BWW8	rs1175010135	K40Q	0.393		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1175010135	Q9BWW8	rs1175010135	K40Q	0.34		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1175010135	Q9BWW8	rs1175010135	K40Q	0.403		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1175010135	Q9BWW8	rs1175010135	K40Q	0.23		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1176090140						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1176759372						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1179268747						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1179552241						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1181780173						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1189033247	Q9BWW8	rs1189033247	Q139R	0.039		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1189033247	Q9BWW8	rs1189033247	Q139R	0.23		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1204211172						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1205370612						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1208766459						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1209711430						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1212652918						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1212740082	Q9BWW8	rs1212740082	V80M	0.988		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1212740082	Q9BWW8	rs1212740082	V80M	0.03		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1212740082	Q9BWW8	rs1212740082	V80M	0.988		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1212740082	Q9BWW8	rs1212740082	V80M	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1218586318						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1222100627						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1222207608						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1223935796						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1227610736						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1231585990						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1244362531						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1247471274						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1247573067						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1250396525						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1250463379						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1255902080						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1263203045						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1266413882						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1269219805						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1269270139	Q9BWW8	rs1269270139	K72N	0.976		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1269270139	Q9BWW8	rs1269270139	K72N	0.01		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1269270139	Q9BWW8	rs1269270139	K72N	0.977		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1269270139	Q9BWW8	rs1269270139	K72N	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1270407810						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1270418905						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1273292820						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1279059000						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1287379257						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1299320980						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1307427072						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1308539760						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1314632192						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1318983344						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1322921951						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1326084338						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1326697605						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1330145884						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1334373599						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1336389646						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1339159022	Q9BWW8	rs1339159022	A22V	0.003		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1339159022	Q9BWW8	rs1339159022	A22V	0.56		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1339159022	Q9BWW8	rs1339159022	A22V	0.005		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1339159022	Q9BWW8	rs1339159022	A22V	0.45		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1343675147						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1346346021						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1346444421						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1355130489						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1356836287						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1365164143						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1366380930						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1367326668						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1373631701						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1375445121						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1376928938	Q9BWW8	rs1376928938	S212F	0.752		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1376928938	Q9BWW8	rs1376928938	S212F	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1376928938	Q9BWW8	rs1376928938	S212F	0.76		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1376928938	Q9BWW8	rs1376928938	S212F	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		138391724						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1386479013						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		138724137						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1388318623						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1391439199						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		139754230						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1406500230						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1406905253						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1407297168						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1408750149						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1410742229						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1410854656						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1413889792						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		141435261						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1423636635						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1432714126						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	143314363	Q9BWW8	rs143314363	G237R	0.039		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	143314363	Q9BWW8	rs143314363	G237R	0.1		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	143660228	Q9BWW8	rs143660228	T84I	0.014		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	143660228	Q9BWW8	rs143660228	T84I	1.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	143747983	Q9BWW8	rs143747983	R299M	0.795		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	143747983	Q9BWW8	rs143747983	R299M	0.02		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1439537696						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1444513475						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1446997257						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1450708009						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1453855077						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1454517338						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1455427269						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1455505412						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		145585585						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	145863080	Q9BWW8	rs145863080	V216M	0.025		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	145863080	Q9BWW8	rs145863080	V216M	0.03		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	145863080	Q9BWW8	rs145863080	V216M	0.024		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	145863080	Q9BWW8	rs145863080	V216M	0.03		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1470540049						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1470652307	Q9BWW8	rs1470652307	Y339S	0.413		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1470652307	Q9BWW8	rs1470652307	Y339S	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1480570400	Q9BWW8	rs1480570400	F42L	0.999		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1480570400	Q9BWW8	rs1480570400	F42L	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1480570400	Q9BWW8	rs1480570400	F42L	0.999		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1480570400	Q9BWW8	rs1480570400	F42L	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		148655812						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1488998268						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1489876155						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1490417626						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	149179370						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		149349834						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		151167916						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1555923810						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1569135410						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1569135416						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1601867981						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1601868580						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		182043190						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	184909665	Q9BWW8	rs184909665	T177N	0.015		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	184909665	Q9BWW8	rs184909665	T177N	0.29		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	186819188	Q9BWW8	rs186819188	A142V	0.39		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	186819188	Q9BWW8	rs186819188	A142V	0.58		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		190149914						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	191640929	Q9BWW8	rs191640929	D156N	0.326		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	191640929	Q9BWW8	rs191640929	D156N	0.49		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924846520						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924847830						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924910518						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924912274						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924913632						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924914251						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924914978						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924915067						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924915509						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924915881						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924915983						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924922793						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924923573						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924924759						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924925551						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924926042						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924926934						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924929268						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924929343						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924929689						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924932295						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924933113						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924934028						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924934119						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924935062						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924935411						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924935935						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924936261						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	1924939487						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924942849						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924943758						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924945789						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924947916						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924948623						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924950445						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924950910						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924951384						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924951694						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924951884						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924952297						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924952373						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924954163						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924954262						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924955215						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924955428						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924959493						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924959882						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924960133						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		1924961359						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	192850920	Q9BWW8	rs192850920	R186H	0.038		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	192850920	Q9BWW8	rs192850920	R186H	0.28		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	200170835	Q9BWW8	rs200170835	R196C	0.938		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	200170835	Q9BWW8	rs200170835	R196C	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	200170835	Q9BWW8	rs200170835	R196C	0.937		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	200170835	Q9BWW8	rs200170835	R196C	0.01		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		200252501						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		200300305						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		200425519						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		200500746						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	200520869	Q9BWW8	rs200520869	A228V	0.15		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	200520869	Q9BWW8	rs200520869	A228V	0.88		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	200805851	Q9BWW8	rs200805851	A112T	0.096		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	200805851	Q9BWW8	rs200805851	A112T	0.16		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		200976901						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		201496034						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	201547425	Q9BWW8	rs201547425	S88C	0.216		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	201547425	Q9BWW8	rs201547425	S88C	0.02		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		201669216						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	202011885						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		202238569						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958010						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958024						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958116						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958393						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958435						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958462						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958534						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		2145958570						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	2518090458						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	2518091640						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		368078894	Q9BWW8	rs368078894	V164A	0.049		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		368078894	Q9BWW8	rs368078894	V164A	0.31		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		368078894	Q9BWW8	rs368078894	V164A	0.052		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		368078894	Q9BWW8	rs368078894	V164A	0.26		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	368095413	Q9BWW8	rs368095413	G309E	0.998		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	368095413	Q9BWW8	rs368095413	G309E	0.01		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	368285618	Q9BWW8	rs368285618	A300S	0.617		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	368285618	Q9BWW8	rs368285618	A300S	0.34		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		369107640						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	369673517						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		369986072						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	370134377	Q9BWW8	rs370134377	R132H	0.003		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	370134377	Q9BWW8	rs370134377	R132H	0.99		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	370134377	Q9BWW8	rs370134377	R132H	0.003		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	370134377	Q9BWW8	rs370134377	R132H	1.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		371590566	Q9BWW8	rs371590566	A64T	1.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		371590566	Q9BWW8	rs371590566	A64T	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		371590566	Q9BWW8	rs371590566	A64T	1.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		371590566	Q9BWW8	rs371590566	A64T	0.01		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	373548173	Q9BWW8	rs373548173	G33R	0.028		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	373548173	Q9BWW8	rs373548173	G33R	0.77		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		373629795						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		374537194	Q9BWW8	rs374537194	K72R	0.359		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		374537194	Q9BWW8	rs374537194	K72R	0.34		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		374537194	Q9BWW8	rs374537194	K72R	0.369		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		374537194	Q9BWW8	rs374537194	K72R	0.38		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		377394530						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		527259076	Q9BWW8	rs527259076	E314K	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		527259076	Q9BWW8	rs527259076	E314K	0.91		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		527259076	Q9BWW8	rs527259076	E314K	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		527259076	Q9BWW8	rs527259076	E314K	1.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		529203399						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		537387869						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		537732644	Q9BWW8	rs537732644	V126M	0.984		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		537732644	Q9BWW8	rs537732644	V126M	0.05		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		537732644	Q9BWW8	rs537732644	V126M	0.984		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		537732644	Q9BWW8	rs537732644	V126M	0.03		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		540748972						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		553196772						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	558213377	Q9BWW8	rs558213377	Q219R	0.518		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	558213377	Q9BWW8	rs558213377	Q219R	0.07		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		560610184	Q9BWW8	rs560610184	R234H	0.87		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		560610184	Q9BWW8	rs560610184	R234H	0.29		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		560610184	Q9BWW8	rs560610184	R234H	0.868		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		560610184	Q9BWW8	rs560610184	R234H	0.17		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		562755241						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		564571719						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		567305473						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		5750145						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		575853273						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		576893978						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		5999923						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		745651790						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		746303294						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		746500379						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		746692910						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		747079013						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		747356175						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		747573264						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		747761917						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		748207068						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		748723037						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	748819725	Q9BWW8	rs748819725	T206A	0.722		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	748819725	Q9BWW8	rs748819725	T206A	0.05		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		749072763						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		749166063						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		749797800						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		750314066						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		750985299						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		751152444						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	751750988	Q9BWW8	rs751750988	R141W	0.725		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	751750988	Q9BWW8	rs751750988	R141W	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	752403368						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	752858557						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		753348072						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		753360497	Q9BWW8	rs753360497	V324M	0.34		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		753360497	Q9BWW8	rs753360497	V324M	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		753360497	Q9BWW8	rs753360497	V324M	0.618		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		753360497	Q9BWW8	rs753360497	V324M	0.01		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		753366134						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		754325930						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		754555812						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		755515085						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		755756726						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	756351017	Q9BWW8	rs756351017	C333G	0.234		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	756351017	Q9BWW8	rs756351017	C333G	0.25		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		756354553						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		757629402						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	758262301						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	758605616	Q9BWW8	rs758605616	A99V	0.809		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	758605616	Q9BWW8	rs758605616	A99V	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		759314537						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		759485812						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		760414599						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		760610849						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		760992573						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		761196484						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	761340876						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	761950647	Q9BWW8	rs761950647	A166P	0.834		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	761950647	Q9BWW8	rs761950647	A166P	0.01		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	762282595	Q9BWW8	rs762282595	N199H	0.747		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	762282595	Q9BWW8	rs762282595	N199H	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		763724484						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	763919417	Q9BWW8	rs763919417	A5V	0.865		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	763919417	Q9BWW8	rs763919417	A5V	0.04		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		763953185						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	764109784						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		764318291						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		764646495						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	764855542	Q9BWW8	rs764855542	V28M	0.286		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	764855542	Q9BWW8	rs764855542	V28M	0.11		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		764911197						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		765286120						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	765700064						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		766013217						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		766228407						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	766890316						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		767308597						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		768546329						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		768596928						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		768758490						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		769945846						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		770840573						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		771248197						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		771968404						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		772269044						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		772520677						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	772584922						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	773507616	Q9BWW8	rs773507616	R203H	0.015		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	773507616	Q9BWW8	rs773507616	R203H	0.06		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		774198912						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		774480645						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		774562457						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		775222843	Q9BWW8	rs775222843	A263T	0.026		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		775222843	Q9BWW8	rs775222843	A263T	0.38		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		775222843	Q9BWW8	rs775222843	A263T	0.027		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		775222843	Q9BWW8	rs775222843	A263T	0.3		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		775239699						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		775935414						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		776471793						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	776472812						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		777040698						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	778035401	Q9BWW8	rs778035401	T102K	0.983		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	778035401	Q9BWW8	rs778035401	T102K	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	778101319	Q9BWW8	rs778101319	G12S	0.991		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	778101319	Q9BWW8	rs778101319	G12S	0.04		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		778464272						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	779047404	Q9BWW8	rs779047404	E38K	0.07		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	779047404	Q9BWW8	rs779047404	E38K	0.08		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	779047404	Q9BWW8	rs779047404	E38K	0.069		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	likely benign	779047404	Q9BWW8	rs779047404	E38K	0.05		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	780093200	Q9BWW8	rs780093200	A181D	0.613		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	780093200	Q9BWW8	rs780093200	A181D	0.0		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		780403475	Q9BWW8	rs780403475	E312K	0.031		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		780403475	Q9BWW8	rs780403475	E312K	0.18		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		780403475	Q9BWW8	rs780403475	E312K	0.001		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		780403475	Q9BWW8	rs780403475	E312K	0.24		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		781758269						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		868764071						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		897816259						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		901709638						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		904716679						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		914633349						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		921286899						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		926029006						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		930875786						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		932738564						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		939894049						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		948862325						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		953824475						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		977637322						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant		988836796						Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	996121781	Q9BWW8	rs996121781	M229I	0.419		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8
+APOL6	missense_variant	uncertain significance	996121781	Q9BWW8	rs996121781	M229I	0.06		Q9BWW8	Apolipoprotein L6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BWW8

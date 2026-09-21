@@ -1,0 +1,475 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CXCR2	missense_variant	uncertain significance	1014647889	P25025	rs1014647889	A106T	0.119		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1014647889	P25025	rs1014647889	A106T	0.26		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1014647889	P25025	rs1014647889	A106T	0.117		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1014647889	P25025	rs1014647889	A106T	0.15		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	10201766	P25025	rs10201766	R236C	0.034		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	10201766	P25025	rs10201766	R236C	0.22		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1022387821						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1036530656						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1051685752						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1053556194						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1053698644	P25025	rs1053698644	L175H	0.799		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1053698644	P25025	rs1053698644	L175H	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1158864402						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1165690812						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1168902302						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1173983197						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1175824774						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1178757717						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1179739650						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1191265576						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1191872381						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1194838499						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1202829642						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1206107857						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1207518010						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1209741028						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1217526876						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1225234360	P25025	rs1225234360	F11S	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1225234360	P25025	rs1225234360	F11S	0.08		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1227463425						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1231014487	P25025	rs1231014487	K320M	0.987		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1231014487	P25025	rs1231014487	K320M	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1231014487	P25025	rs1231014487	K320T	0.931		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1231014487	P25025	rs1231014487	K320T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1231014487	P25025	rs1231014487	K320T	0.934		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1231014487	P25025	rs1231014487	K320T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1233080228	P25025	rs1233080228	N47S	0.37		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1233080228	P25025	rs1233080228	N47S	0.12		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1233080228	P25025	rs1233080228	N47S	0.38		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1233080228	P25025	rs1233080228	N47S	0.14		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1247559357						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1248279465						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1251161037						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1254500972						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1256685020						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1258704695						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1259136590						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely pathogenic	1273183086	P25025	rs1273183086	R208Q	0.997		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely pathogenic	1273183086	P25025	rs1273183086	R208Q	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely pathogenic	1273183086	P25025	rs1273183086	R208Q	0.996		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely pathogenic	1273183086	P25025	rs1273183086	R208Q	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1280319953	P25025	rs1280319953	P31H	0.311		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1280319953	P25025	rs1280319953	P31H	0.09		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1285237468						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1294172370	P25025	rs1294172370	S62N	0.013		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1294172370	P25025	rs1294172370	S62N	0.13		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1296283467						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1298311873	P25025	rs1298311873	R322C	0.998		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1298311873	P25025	rs1298311873	R322C	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1298311873	P25025	rs1298311873	R322C	0.998		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1298311873	P25025	rs1298311873	R322C	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1301095887						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1303559548	P25025	rs1303559548	M200I	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1303559548	P25025	rs1303559548	M200I	0.58		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1303559548	P25025	rs1303559548	M200I	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1303559548	P25025	rs1303559548	M200I	0.63		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1307796960						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1308380852						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1311426153						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1315166386						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1318846314						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1331943403						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1333959375						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1337216048						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1376025306						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1380715335						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	benign	138773569						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1393409810						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1394052443						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1395586389						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	139809702	P25025	rs139809702	M6R	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	139809702	P25025	rs139809702	M6R	0.28		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1400752078	P25025	rs1400752078	A177T	0.565		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1400752078	P25025	rs1400752078	A177T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1401478989						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1402432086						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1402439377						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1403964888						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1406381566						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	141096894	P25025	rs141096894	I226T	0.138		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	141096894	P25025	rs141096894	I226T	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	141145934	P25025	rs141145934	R294W	0.021		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	141145934	P25025	rs141145934	R294W	0.05		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1415172706						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1416011928						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1417138569	P25025	rs1417138569	C139Y	0.97		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1417138569	P25025	rs1417138569	C139Y	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	141722043	P25025	rs141722043	R144C	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	141722043	P25025	rs141722043	R144C	0.04		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1421610620						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1428847469	P25025	rs1428847469	P215R	0.024		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1428847469	P25025	rs1428847469	P215R	0.61		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1435699629						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	144013681	P25025	rs144013681	R236H	0.021		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	144013681	P25025	rs144013681	R236H	0.66		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	144013681	P25025	rs144013681	R236H	0.021		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	144013681	P25025	rs144013681	R236H	0.76		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1444708649						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1446022688						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1454333233						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1460132824						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	1462610962						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1462750642						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		146279580						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1472478059						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1473048332	P25025	rs1473048332	T204I	0.98		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1473048332	P25025	rs1473048332	T204I	0.07		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1477862706						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1483950414						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1485003686						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1486505828						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1488321036						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	149364972	P25025	rs149364972	G79S	0.007		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	149364972	P25025	rs149364972	G79S	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	150629039	P25025	rs150629039	T359S	0.881		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	150629039	P25025	rs150629039	T359S	0.06		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1559453643						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1559454042						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1574542362						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1574542767	P25025	rs1574542767	K163I	0.962		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1574542767	P25025	rs1574542767	K163I	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1574542963						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1574543051						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1574543158						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1574543461						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1574543473						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690739280						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690739791						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690739867						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690740032						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690740592						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690740672						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690741620						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690742049						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690744322						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690744797						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690745216						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690748067						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690748174						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690748478						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690748713						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690750103						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690750326						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690751944						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690752175						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690755887						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690757443						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690758977						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690759172						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690759254	P25025	rs1690759254	G171D	0.202		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690759254	P25025	rs1690759254	G171D	0.1		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690759552						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690760163						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690761136						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690761650						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690765875						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690767889	P25025	rs1690767889	M227I	0.997		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690767889	P25025	rs1690767889	M227I	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690769837						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690773733						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690773912						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690775391						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690775623						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690775950						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690776382						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690778691						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690780197						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690781220	P25025	rs1690781220	A315G	0.944		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	1690781220	P25025	rs1690781220	A315G	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690781803						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690781887						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690782733						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690783556						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690783933						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690785450						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690787137						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		1690787585						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	183812193						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	186640530	P25025	rs186640530	R289H	0.635		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	186640530	P25025	rs186640530	R289H	0.04		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	186640530	P25025	rs186640530	R289H	0.63		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	186640530	P25025	rs186640530	R289H	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		191559601						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		199534482						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199535002	P25025	rs199535002	A91V	0.99		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199535002	P25025	rs199535002	A91V	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199561988	P25025	rs199561988	R251Q	0.936		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199561988	P25025	rs199561988	R251Q	0.06		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	199632317	P25025	rs199632317	H332R	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	199632317	P25025	rs199632317	H332R	0.7		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199633255	P25025	rs199633255	Y75H	0.014		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199633255	P25025	rs199633255	Y75H	0.29		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199642674	P25025	rs199642674	R288H	0.576		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199642674	P25025	rs199642674	R288H	0.2		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199770538	P25025	rs199770538	Y55F	0.216		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199770538	P25025	rs199770538	Y55F	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199777583	P25025	rs199777583	V187I	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199777583	P25025	rs199777583	V187I	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199777583	P25025	rs199777583	V187I	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199777583	P25025	rs199777583	V187I	0.61		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199822657	P25025	rs199822657	S217F	0.003		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	199822657	P25025	rs199822657	S217F	0.23		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		199905091						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200115845						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200127100	P25025	rs200127100	A295V	0.994		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200127100	P25025	rs200127100	A295V	0.04		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200127100	P25025	rs200127100	A295V	0.994		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200127100	P25025	rs200127100	A295V	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200182920						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200332183						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200402782	P25025	rs200402782	E40G	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200402782	P25025	rs200402782	E40G	0.26		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	200413041	P25025	rs200413041	A195D	0.022		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	200413041	P25025	rs200413041	A195D	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200600788						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		200627519						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200726461	P25025	rs200726461	R289C	0.997		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200726461	P25025	rs200726461	R289C	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200906463	P25025	rs200906463	A315T	0.907		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200906463	P25025	rs200906463	A315T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200906463	P25025	rs200906463	A315T	0.905		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200906463	P25025	rs200906463	A315T	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200917361	P25025	rs200917361	V349G	0.014		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200917361	P25025	rs200917361	V349G	0.13		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200940650	P25025	rs200940650	R159C	0.987		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	200940650	P25025	rs200940650	R159C	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201103729	P25025	rs201103729	G232R	0.993		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201103729	P25025	rs201103729	G232R	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201103729	P25025	rs201103729	G232R	0.993		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201103729	P25025	rs201103729	G232R	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		201114751						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201134932	P25025	rs201134932	M6I	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201134932	P25025	rs201134932	M6I	0.61		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201271219						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201481173	P25025	rs201481173	I331V	0.007		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201481173	P25025	rs201481173	I331V	0.11		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		201513058						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		201694058						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201754155	P25025	rs201754155	V82I	0.031		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201754155	P25025	rs201754155	V82I	0.13		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201754155	P25025	rs201754155	V82I	0.031		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201754155	P25025	rs201754155	V82I	0.08		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		201772068						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201872950	P25025	rs201872950	R322H	0.996		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201872950	P25025	rs201872950	R322H	0.03		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201881186	P25025	rs201881186	T285N	0.712		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	201881186	P25025	rs201881186	T285N	0.03		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	202076117	P25025	rs202076117	L161W	0.052		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	202076117	P25025	rs202076117	L161W	0.55		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106107764	P25025	rs2106107764	P38S	0.737		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106107764	P25025	rs2106107764	P38S	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		2106108173						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		2106108653						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		2106108905						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106108927	P25025	rs2106108927	G244R	0.071		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106108927	P25025	rs2106108927	G244R	0.2		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106108927	P25025	rs2106108927	G244R	0.074		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106108927	P25025	rs2106108927	G244R	0.09		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106108969	P25025	rs2106108969	A249D	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106108969	P25025	rs2106108969	A249D	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106109346	P25025	rs2106109346	P311T	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2106109346	P25025	rs2106109346	P311T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		2106109646						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2228413	P25025	rs2228413	R294Q	0.009		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2228413	P25025	rs2228413	R294Q	0.43		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469113212						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469113590						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469113679						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469113776	P25025	rs2469113776	S76R	0.114		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469113776	P25025	rs2469113776	S76R	0.18		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469113797						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469114142						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469114159						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469114287						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469114997						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469115140						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469115643						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469116031						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469116403						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469116443						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	2469116836						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		368269858	P25025	rs368269858	V69M	0.999		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		368269858	P25025	rs368269858	V69M	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		368269858	P25025	rs368269858	V69M	0.999		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		368269858	P25025	rs368269858	V69M	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	368809767	P25025	rs368809767	R159H	0.719		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	368809767	P25025	rs368809767	R159H	0.16		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	368809767	P25025	rs368809767	R159H	0.715		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	368809767	P25025	rs368809767	R159H	0.03		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	368809767	P25025	rs368809767	R159L	0.472		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	368809767	P25025	rs368809767	R159L	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	370921619	P25025	rs370921619	F348S	0.007		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	370921619	P25025	rs370921619	F348S	0.72		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	371161134	P25025	rs371161134	D13H	0.49		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	371161134	P25025	rs371161134	D13H	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		373447323						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance, likely benign	373547007	P25025	rs373547007	R251W	0.528		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance, likely benign	373547007	P25025	rs373547007	R251W	0.07		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance, likely benign	373547007	P25025	rs373547007	R251W	0.522		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance, likely benign	373547007	P25025	rs373547007	R251W	0.11		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	373633146	P25025	rs373633146	I304V	0.028		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	373633146	P25025	rs373633146	I304V	0.04		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	532069369						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		539826010						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	544347825						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	55672388	P25025	rs55672388	W15R	0.034		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	55672388	P25025	rs55672388	W15R	0.07		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		55678589						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	55799208	P25025	rs55799208	R153H	0.115		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	55799208	P25025	rs55799208	R153H	0.17		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	561614631	P25025	rs561614631	S21R	0.052		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	561614631	P25025	rs561614631	S21R	0.28		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		573635683						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	573773779	P25025	rs573773779	N191S	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	573773779	P25025	rs573773779	N191S	0.86		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	benign	61733608	P25025	rs61733608	A241T	0.108		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	benign	61733608	P25025	rs61733608	A241T	0.81		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	61733609	P25025	rs61733609	R248Q	0.941		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	61733609	P25025	rs61733609	R248Q	0.03		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		745318598						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		745400230						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	746348207	P25025	rs746348207	I328V	0.038		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	746348207	P25025	rs746348207	I328V	0.08		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		747399372						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		747982382						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	748657819	P25025	rs748657819	M277L	0.014		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	748657819	P25025	rs748657819	M277L	0.22		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	749042900						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		749058215						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		749258171						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	750271295						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	750539494	P25025	rs750539494	S339T	0.005		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	750539494	P25025	rs750539494	S339T	0.17		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		750950419						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		751617682						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	752383293	P25025	rs752383293	A91T	0.892		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	752383293	P25025	rs752383293	A91T	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	752426918	P25025	rs752426918	P341S	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	752426918	P25025	rs752426918	P341S	0.68		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	752426918	P25025	rs752426918	P341T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	752426918	P25025	rs752426918	P341T	0.28		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		753356883						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		754536917						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		754731327						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		754779379						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		755206310						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	756075992	P25025	rs756075992	S132R	0.995		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	756075992	P25025	rs756075992	S132R	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		756239407						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	756891890	P25025	rs756891890	Y49C	0.629		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	756891890	P25025	rs756891890	Y49C	0.04		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	75759064	P25025	rs75759064	A37T	0.003		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	75759064	P25025	rs75759064	A37T	0.36		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	75759064	P25025	rs75759064	A37T	0.003		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	75759064	P25025	rs75759064	A37T	0.15		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		758016875						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		758145258						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	759443511						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	759555888	P25025	rs759555888	R144H	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	759555888	P25025	rs759555888	R144H	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	759645813	P25025	rs759645813	D94G	0.997		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	759645813	P25025	rs759645813	D94G	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	759986280						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		760182360						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	760485215						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		760780846						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	761141296	P25025	rs761141296	R248W	0.68		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	761141296	P25025	rs761141296	R248W	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	761141296	P25025	rs761141296	R248W	0.675		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	761141296	P25025	rs761141296	R248W	0.07		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		761342434						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		761905800						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	762103956	P25025	rs762103956	L64M	0.844		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	762103956	P25025	rs762103956	L64M	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		763342290						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		763440854						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	764203501	P25025	rs764203501	R288C	0.985		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	764203501	P25025	rs764203501	R288C	0.09		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	764203501	P25025	rs764203501	R288C	0.985		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	764203501	P25025	rs764203501	R288C	0.1		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		764451571						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		764550414						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	764732879	P25025	rs764732879	V222M	0.146		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	764732879	P25025	rs764732879	V222M	0.05		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		765105197						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	766059153	P25025	rs766059153	T154I	0.6		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	766059153	P25025	rs766059153	T154I	0.08		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		766258580						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		767211869						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		767487704						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	767538305	P25025	rs767538305	R153C	0.255		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	767538305	P25025	rs767538305	R153C	0.03		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	767734877						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		768257376						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	768345403	P25025	rs768345403	M243V	0.043		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	768345403	P25025	rs768345403	M243V	0.22		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		768791823	P25025	rs768791823	R208W	0.999		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		768791823	P25025	rs768791823	R208W	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		768791823	P25025	rs768791823	R208W	0.999		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		768791823	P25025	rs768791823	R208W	0.01		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		769324569						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		769442813						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		769619873						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		769749889						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		770385823						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	771407118	P25025	rs771407118	A295T	0.981		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	771407118	P25025	rs771407118	A295T	0.04		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		771735134						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	771747617	P25025	rs771747617	D293N	0.065		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	771747617	P25025	rs771747617	D293N	0.07		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		773225216						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		773306755	P25025	rs773306755	G65E	0.998		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		773306755	P25025	rs773306755	G65E	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		773306755	P25025	rs773306755	G65E	0.998		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		773306755	P25025	rs773306755	G65E	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		773802111						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		774447284						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	774626680	P25025	rs774626680	M209V	0.003		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	774626680	P25025	rs774626680	M209V	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		774844323						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		774914864						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		775705259						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	775949328	P25025	rs775949328	I331T	0.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	775949328	P25025	rs775949328	I331T	1.0		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	776039485	P25025	rs776039485	E300K	0.073		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	776039485	P25025	rs776039485	E300K	0.14		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	776039485	P25025	rs776039485	E300K	0.071		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	776039485	P25025	rs776039485	E300K	0.05		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		776273327						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		776644645						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		777018516						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		777607343						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		777980366						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		778059127						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		778646347						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	779414575						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		779873701						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		780078287						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		780353522						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	780492767	P25025	rs780492767	T237M	0.746		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	780492767	P25025	rs780492767	T237M	0.08		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	780729371	P25025	rs780729371	F50L	0.001		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	780729371	P25025	rs780729371	F50L	0.78		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		780840157	P25025	rs780840157	R80H	0.173		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		780840157	P25025	rs780840157	R80H	0.09		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		780840157	P25025	rs780840157	R80H	0.17		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		780840157	P25025	rs780840157	R80H	0.16		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		868597455	P25025	rs868597455	S43F	0.137		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		868597455	P25025	rs868597455	S43F	0.73		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		868597455	P25025	rs868597455	S43F	0.142		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		868597455	P25025	rs868597455	S43F	0.07		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		896678237						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	likely benign	912436713						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		916283564						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		922032460						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		935179968						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		944776797						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		953584345						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		954830075						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		960320215						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		963559162						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant		974858334						P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	989505635	P25025	rs989505635	R345S	0.076		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025
+CXCR2	missense_variant	uncertain significance	989505635	P25025	rs989505635	R345S	0.02		P25025	C-X-C chemokine receptor type 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P25025

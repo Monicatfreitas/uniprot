@@ -1,0 +1,639 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+GBP5	missense_variant		1000575270						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1000868670						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1001781034						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1012507102						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1025161196						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1025670059	Q96PP8	rs1025670059	T483M	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1025670059	Q96PP8	rs1025670059	T483M	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1026764055						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1030510306						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1034629134						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1035233344						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1038545052						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1048548187						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1056414171						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		113830951						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1161468830						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1165102389						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1167541676						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1167596579						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1168969135						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1169456823						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1170079003	Q96PP8	rs1170079003	S275Y	0.996		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1170079003	Q96PP8	rs1170079003	S275Y	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1170079003	Q96PP8	rs1170079003	S275Y	0.995		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1170079003	Q96PP8	rs1170079003	S275Y	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1172644413						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1173858643						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1177987809						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1187157954						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1189426932						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1190641465						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1191663900						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1193262844	Q96PP8	rs1193262844	L13P	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1193262844	Q96PP8	rs1193262844	L13P	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1193262844	Q96PP8	rs1193262844	L13P	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1193262844	Q96PP8	rs1193262844	L13P	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1199055636						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1201264136	Q96PP8	rs1201264136	S269F	0.319		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1201264136	Q96PP8	rs1201264136	S269F	0.04		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1201264136	Q96PP8	rs1201264136	S269F	0.388		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1201264136	Q96PP8	rs1201264136	S269F	0.05		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1201301055						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1203058483						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1204974762						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1205712860						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1208098863	Q96PP8	rs1208098863	D197H	0.999		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1208098863	Q96PP8	rs1208098863	D197H	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1208216779						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1209701213						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1210513879						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1214587222	Q96PP8	rs1214587222	M55T	0.875		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1214587222	Q96PP8	rs1214587222	M55T	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1214587222	Q96PP8	rs1214587222	M55T	0.948		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1214587222	Q96PP8	rs1214587222	M55T	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1223010115						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573S	0.136		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573S	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573S	0.081		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573S	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573T	0.044		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573T	0.02		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573T	0.044		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1223761206	Q96PP8	rs1223761206	A573T	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1224753975						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1225027965						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1226822129						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1227430434	Q96PP8	rs1227430434	E512K	0.083		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1227430434	Q96PP8	rs1227430434	E512K	0.1		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1227430434	Q96PP8	rs1227430434	E512K	0.103		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1227430434	Q96PP8	rs1227430434	E512K	0.07		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1227544056						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1229073415						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1229227834						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1238720081						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1243040095						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1244075010						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1244158409						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1245319412						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1251491761						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1253819571						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1255934364						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1256199590						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1257273679						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1263454696						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1263727544						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1264260774						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1266105574						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1266164760						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1267794896						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1268805479						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1268876937						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1269440880						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1269669215						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1270500424						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1271062011						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1274881625						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1276893639						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1276995672						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1279686840						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1280511887						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1280575621						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1282113292						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1288912240						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1292216287						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1292367473						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1292439699						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1293639637						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1293666044						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1294471605						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1295178580						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1295919385						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1296094878						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1298290483						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1301712842						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1302517588						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1303550539						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1305617249						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1307814528						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1310764803						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1312218022						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1315087798						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1317194850						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1318495076						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1319115297						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1319316736						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1319806913						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1324338608						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1325812690						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1329223065						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1332749282						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1334599184						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1334965175						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1336420964						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1339267683						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1342578309						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1343383241						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1343934145						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1344327648						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1349059792	Q96PP8	rs1349059792	A2T	0.226		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1349059792	Q96PP8	rs1349059792	A2T	0.05		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1349059792	Q96PP8	rs1349059792	A2T	0.234		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1349059792	Q96PP8	rs1349059792	A2T	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1352767657						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1356617847						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1361563624						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1361752486						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1366377481						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1368498655						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1368564580						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1368996771						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1374966885						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1375752999						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138002260	Q96PP8	rs138002260	E99K	0.827		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138002260	Q96PP8	rs138002260	E99K	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138002260	Q96PP8	rs138002260	E99K	0.612		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138002260	Q96PP8	rs138002260	E99K	0.02		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138104873						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	138325672						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1384556593						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138631977	Q96PP8	rs138631977	M548I	0.001		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138631977	Q96PP8	rs138631977	M548I	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138631977	Q96PP8	rs138631977	M548I	0.001		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138631977	Q96PP8	rs138631977	M548I	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1386415937						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1387242027						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		138753771						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1388069420						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1391483565						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1391534529						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1392642513						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1392733079						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1393625922						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1396179361						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		140064350						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		140872228						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1409951839						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1410859462						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1413276433						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1415785158						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		141579673						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		141794180	Q96PP8	rs141794180	S426Y	0.221		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		141794180	Q96PP8	rs141794180	S426Y	0.08		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		141794180	Q96PP8	rs141794180	S426Y	0.158		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		141794180	Q96PP8	rs141794180	S426Y	0.08		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		141969719						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	142498526						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1426966388						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1427580055						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1431824268						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1433816151						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1434354266						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1435974172						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		143627583						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	143662900	Q96PP8	rs143662900	E448K	0.021		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	143662900	Q96PP8	rs143662900	E448K	0.29		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1437064512						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1437871012						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	143883598	Q96PP8	rs143883598	D334N	0.33		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	143883598	Q96PP8	rs143883598	D334N	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	143883598	Q96PP8	rs143883598	D334N	0.34		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	143883598	Q96PP8	rs143883598	D334N	0.04		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1439113470						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1439320041						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		144226397						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1445469778						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1446678197						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	1449121812	Q96PP8	rs1449121812	R396Q	0.001		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	1449121812	Q96PP8	rs1449121812	R396Q	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	1449121812	Q96PP8	rs1449121812	R396Q	0.001		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	1449121812	Q96PP8	rs1449121812	R396Q	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1450034654						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	145635162	Q96PP8	rs145635162	R503S	0.258		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	145635162	Q96PP8	rs145635162	R503S	0.28		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1456817209						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1457183598						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		145775181						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1459261707						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	146118174	Q96PP8	rs146118174	S171R	0.293		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	146118174	Q96PP8	rs146118174	S171R	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1461681666						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1463198595						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		146345393						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1463956940						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1465315581						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1469132954						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1473908319						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1473980450						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1474442258						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	147711448	Q96PP8	rs147711448	V584I	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	147711448	Q96PP8	rs147711448	V584I	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1478656845						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1480315138						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	148078713						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		148175816						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	148428819	Q96PP8	rs148428819	M514I	0.014		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	148428819	Q96PP8	rs148428819	M514I	0.12		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1487537105						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		149475068	Q96PP8	rs149475068	Q376H	0.097		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		149475068	Q96PP8	rs149475068	Q376H	0.27		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		149475068	Q96PP8	rs149475068	Q376H	0.101		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		149475068	Q96PP8	rs149475068	Q376H	0.39		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		151022989						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557499338						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557500191						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1557501570	Q96PP8	rs1557501570	P415L	0.976		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1557501570	Q96PP8	rs1557501570	P415L	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1557501570	Q96PP8	rs1557501570	P415L	0.982		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1557501570	Q96PP8	rs1557501570	P415L	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557502372	Q96PP8	rs1557502372	D306N	0.048		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557502372	Q96PP8	rs1557502372	D306N	0.19		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557502372	Q96PP8	rs1557502372	D306N	0.031		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557502372	Q96PP8	rs1557502372	D306N	0.12		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557505064						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1557505437						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1570409865						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1570410041						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1649975892						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1649976421						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1649976798						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1649981823						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1649981971						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650035557						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650035674						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650036208						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650037326						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650037819						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650039972						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650042895						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650055947						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650057072						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650060080						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650060312						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650103381						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650105349						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650105831						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650105938						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650107105						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650108994						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650109364						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650139779						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650141524						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650142168						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650143154						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650143354						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650143863						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650145123						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650146498						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650148806						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650149161						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650150268						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650150433						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650151322						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650151973						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650153379						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650154158						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650154648						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650215185						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650222086						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650227214						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650244709						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650244931						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650247458						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650247574						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650249162						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650249916						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650250821						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650250924						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650251174						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650253979						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650267352						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650267796						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650270298						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650271488						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650271741						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650321808						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650325942						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650326810						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	1650328285						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650330277						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650350989						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650353213						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650353548						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650353956						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650355925						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650357583						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		1650361325						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		17130763						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		186101238						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		186974399						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		199800627						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	199813318	Q96PP8	rs199813318	C233Y	0.999		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	199813318	Q96PP8	rs199813318	C233Y	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		199922486						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200417227						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200912190	Q96PP8	rs200912190	G64S	0.99		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200912190	Q96PP8	rs200912190	G64S	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200912190	Q96PP8	rs200912190	G64S	0.967		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200912190	Q96PP8	rs200912190	G64S	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200944849						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		200985091						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	201053085	Q96PP8	rs201053085	L54R	0.998		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	201053085	Q96PP8	rs201053085	L54R	0.02		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	201216517						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		201259247						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		201298103						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		201638821						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	201853294	Q96PP8	rs201853294	D580G	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	201853294	Q96PP8	rs201853294	D580G	0.37		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		202079327						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		202241865						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100594356						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100595068						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100598806						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100716788						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100716976						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100717038						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100717044						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100717564						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100719119						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100719241						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100720342						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		2100720486						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	2523908587						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		267598756						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		267598757						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		367979299						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		368074195						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	368263405						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		369440866						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		369486856						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	370050284	Q96PP8	rs370050284	A505V	0.086		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	370050284	Q96PP8	rs370050284	A505V	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		370238022						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		371196248						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		371973500						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		372467199	Q96PP8	rs372467199	I14M	0.992		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		372467199	Q96PP8	rs372467199	I14M	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		372467199	Q96PP8	rs372467199	I14M	0.999		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		372467199	Q96PP8	rs372467199	I14M	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	372643791						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		373028065						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	373613494	Q96PP8	rs373613494	A499V	0.281		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	373613494	Q96PP8	rs373613494	A499V	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	374743187	Q96PP8	rs374743187	D9E	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	374743187	Q96PP8	rs374743187	D9E	0.67		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	374743187	Q96PP8	rs374743187	D9E	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	374743187	Q96PP8	rs374743187	D9E	0.43		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		376262831						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		376623929						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		376781906						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		377076158						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		377547796						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		377675257						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		3806339						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	386352305	Q96PP8	rs386352305	P582L	0.011		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	386352305	Q96PP8	rs386352305	P582L	0.12		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		530095623						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		531053164						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		542378704						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	548599507	Q96PP8	rs548599507	Q475P	0.998		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	548599507	Q96PP8	rs548599507	Q475P	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		549955368						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	552587881	Q96PP8	rs552587881	T70M	0.893		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	552587881	Q96PP8	rs552587881	T70M	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	552587881	Q96PP8	rs552587881	T70M	0.838		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	552587881	Q96PP8	rs552587881	T70M	0.02		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		559209099						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		565480338						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	575082350	Q96PP8	rs575082350	P174S	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	575082350	Q96PP8	rs575082350	P174S	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	575082350	Q96PP8	rs575082350	P174S	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	575082350	Q96PP8	rs575082350	P174S	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		575225482						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		577605437						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	likely benign	61729738						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	benign	61730934	Q96PP8	rs61730934	I235V	0.049		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	benign	61730934	Q96PP8	rs61730934	I235V	0.93		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		61732537						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		61734122						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		61736217						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		745533134						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		745907452						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		746667851						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		746928691						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		746947192						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		747217577						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	747563786						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		747943902						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		748033916						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	748112438						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		748366573						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		748669491						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		748949262						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		748992424						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		749430765						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		749484324						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		749722724						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	749812638						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	749973130						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		750275362	Q96PP8	rs750275362	S402L	0.067		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		750275362	Q96PP8	rs750275362	S402L	0.52		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		750275362	Q96PP8	rs750275362	S402L	0.04		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		750275362	Q96PP8	rs750275362	S402L	0.2		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		750597229						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		750962076						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		751275007	Q96PP8	rs751275007	R450W	0.228		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		751275007	Q96PP8	rs751275007	R450W	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		751275007	Q96PP8	rs751275007	R450W	0.146		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		751275007	Q96PP8	rs751275007	R450W	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		751933331						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48C	0.999		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48C	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48C	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48C	0.04		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48G	0.813		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48G	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48G	0.976		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752091819	Q96PP8	rs752091819	R48G	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	752318061	Q96PP8	rs752318061	K451R	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	752318061	Q96PP8	rs752318061	K451R	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752566242						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		752651991						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		753254319						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		753441882						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	753621187	Q96PP8	rs753621187	V40A	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	753621187	Q96PP8	rs753621187	V40A	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		753752118	Q96PP8	rs753752118	R396W	0.773		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		753752118	Q96PP8	rs753752118	R396W	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		753752118	Q96PP8	rs753752118	R396W	0.769		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		753752118	Q96PP8	rs753752118	R396W	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754022946						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754148499						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754673294						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754727393	Q96PP8	rs754727393	R221H	0.993		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754727393	Q96PP8	rs754727393	R221H	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754727393	Q96PP8	rs754727393	R221H	0.995		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754727393	Q96PP8	rs754727393	R221H	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		754765981						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		755419137						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		755832842	Q96PP8	rs755832842	A42V	0.749		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		755832842	Q96PP8	rs755832842	A42V	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		755832842	Q96PP8	rs755832842	A42V	0.653		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		755832842	Q96PP8	rs755832842	A42V	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		756146590						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		756166970						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		756361837						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		757073705						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		757117645						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		757583365						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		757748945						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		757791429						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		757815053						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758289601						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758404296	Q96PP8	rs758404296	D108N	0.584		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758404296	Q96PP8	rs758404296	D108N	0.07		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758404296	Q96PP8	rs758404296	D108N	0.341		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758404296	Q96PP8	rs758404296	D108N	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758406545						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758896222						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		758942395						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		759331870						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		759802738						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	760165620						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		760933343						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		761047766						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		761620026						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		761794891						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		761825347						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	762274852						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		762287433						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		762751814						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	762807145						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763884452	Q96PP8	rs763884452	R450Q	0.286		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763884452	Q96PP8	rs763884452	R450Q	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763884452	Q96PP8	rs763884452	R450Q	0.473		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763884452	Q96PP8	rs763884452	R450Q	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763973975	Q96PP8	rs763973975	D159N	0.021		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763973975	Q96PP8	rs763973975	D159N	0.39		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763973975	Q96PP8	rs763973975	D159N	0.007		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		763973975	Q96PP8	rs763973975	D159N	0.23		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		764504040						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		764639414						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		764655996						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		765430876						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		765603813						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		765622378						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		766015166						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	766185031						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		766380344						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		766822656						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		767007824						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		767496198						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		768310850						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		768365889						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		768369964						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		768530163						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		768653175						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		768799881						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		769330639						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		769498396						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		769518916						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	769658623						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		769790983						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		769936809						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		770024893						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		770110417						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		770459399						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		770529670						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		770698721						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	771056238	Q96PP8	rs771056238	K485N	0.154		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	771056238	Q96PP8	rs771056238	K485N	0.04		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	771123564	Q96PP8	rs771123564	G283V	0.956		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	771123564	Q96PP8	rs771123564	G283V	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771123718						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771554115						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771924227	Q96PP8	rs771924227	A501V	0.026		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771924227	Q96PP8	rs771924227	A501V	0.17		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771924227	Q96PP8	rs771924227	A501V	0.033		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771924227	Q96PP8	rs771924227	A501V	0.12		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		771950573						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		772178189						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		772520979						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		772653005						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		772855977						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	773634569	Q96PP8	rs773634569	T179A	0.374		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	773634569	Q96PP8	rs773634569	T179A	0.09		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		774092247						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		774093264						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		774373746						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		774780418						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		774838379						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		775114789						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	775220954						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		775334549						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		775336799						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		775507526						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		775516898						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	776012192						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		776355366						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		776829331						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	776917882	Q96PP8	rs776917882	G282R	0.98		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	776917882	Q96PP8	rs776917882	G282R	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		776938341						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777027816						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777226000						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777304832						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777397329	Q96PP8	rs777397329	H74Y	0.995		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777397329	Q96PP8	rs777397329	H74Y	0.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777397329	Q96PP8	rs777397329	H74Y	0.996		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777397329	Q96PP8	rs777397329	H74Y	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	777811088						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		777844328						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	777934466	Q96PP8	rs777934466	D140N	0.445		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	777934466	Q96PP8	rs777934466	D140N	0.02		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	777934466	Q96PP8	rs777934466	D140N	0.332		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	777934466	Q96PP8	rs777934466	D140N	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		778384502						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		778827233						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	778829194	Q96PP8	rs778829194	R447W	0.009		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	778829194	Q96PP8	rs778829194	R447W	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	778829194	Q96PP8	rs778829194	R447W	0.009		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	778829194	Q96PP8	rs778829194	R447W	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779026535						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779406341						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779523887						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779805988	Q96PP8	rs779805988	R290C	0.38		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779805988	Q96PP8	rs779805988	R290C	0.04		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779805988	Q96PP8	rs779805988	R290C	0.917		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779805988	Q96PP8	rs779805988	R290C	0.06		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		779963086						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		780439624	Q96PP8	rs780439624	R360K	0.012		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		780439624	Q96PP8	rs780439624	R360K	1.0		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		780439624	Q96PP8	rs780439624	R360K	0.086		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		780439624	Q96PP8	rs780439624	R360K	0.91		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	780781591	Q96PP8	rs780781591	T297I	0.996		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	780781591	Q96PP8	rs780781591	T297I	0.03		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		781466364	Q96PP8	rs781466364	G137S	0.216		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		781466364	Q96PP8	rs781466364	G137S	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		781466364	Q96PP8	rs781466364	G137S	0.224		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		781466364	Q96PP8	rs781466364	G137S	0.01		Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		796226609						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		866769444						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		867725611						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		867933932						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		868778489						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		892220260						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		899382113						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		911462674						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		916218713						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		916313327						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		920380389						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		950611281						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		961286105						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant	uncertain significance	969662808						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		979499214						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		986465730						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		987802600						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8
+GBP5	missense_variant		998922219						Q96PP8	Guanylate-binding protein 5	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q96PP8

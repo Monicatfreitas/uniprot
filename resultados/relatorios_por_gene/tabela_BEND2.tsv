@@ -1,0 +1,627 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+BEND2	missense_variant		1000783994						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1006863643						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1011945149						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1017669230	Q8NDZ0	rs1017669230	L534R	0.998		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1017669230	Q8NDZ0	rs1017669230	L534R	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1017669230	Q8NDZ0	rs1017669230	L534R	0.995		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1017669230	Q8NDZ0	rs1017669230	L534R	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1023341445						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1033208562						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1035004995						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1040835225						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1041351859	Q8NDZ0	rs1041351859	T162I	0.001		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1041351859	Q8NDZ0	rs1041351859	T162I	0.52		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1041351859	Q8NDZ0	rs1041351859	T162I	0.003		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1041351859	Q8NDZ0	rs1041351859	T162I	0.44		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1044618335	Q8NDZ0	rs1044618335	V778A	0.021		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1044618335	Q8NDZ0	rs1044618335	V778A	0.26		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1045729443	Q8NDZ0	rs1045729443	A280S	0.938		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1045729443	Q8NDZ0	rs1045729443	A280S	0.16		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1049493244	Q8NDZ0	rs1049493244	R632K	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1049493244	Q8NDZ0	rs1049493244	R632K	0.05		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1050510263	Q8NDZ0	rs1050510263	G757S	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1050510263	Q8NDZ0	rs1050510263	G757S	0.57		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1056517761	Q8NDZ0	rs1056517761	H71R	0.517		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1056517761	Q8NDZ0	rs1056517761	H71R	0.08		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1157882338						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1158665367	Q8NDZ0	rs1158665367	P502A	0.984		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1158665367	Q8NDZ0	rs1158665367	P502A	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1158665367	Q8NDZ0	rs1158665367	P502A	0.958		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1158665367	Q8NDZ0	rs1158665367	P502A	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1159266255						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1160468632						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1172600092						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1175843213						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1176667913						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1182556250						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1183561499						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1185691606						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1187684028						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1187836979						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1189498794						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1197060190						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1197588795						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1200270640						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1203015789						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1203500552						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1204684325						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1207465612						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1208332731	Q8NDZ0	rs1208332731	A794T	0.142		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1208332731	Q8NDZ0	rs1208332731	A794T	0.92		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1212036545						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1217378687						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1222900934						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1223436278						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1226606126						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1230961299						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1234947077						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1238581335	Q8NDZ0	rs1238581335	A173V	0.009		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1238581335	Q8NDZ0	rs1238581335	A173V	0.27		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1238581335	Q8NDZ0	rs1238581335	A173V	0.003		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1238581335	Q8NDZ0	rs1238581335	A173V	0.27		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1239022383						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1241168674						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1242488925						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1242943618						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1246587529	Q8NDZ0	rs1246587529	A51T	0.044		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1246587529	Q8NDZ0	rs1246587529	A51T	0.26		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1246587529	Q8NDZ0	rs1246587529	A51T	0.818		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1246587529	Q8NDZ0	rs1246587529	A51T	0.19		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1247757562						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1251620504						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1254089631						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1255174494						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1255837281						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1261375720						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1272488202						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1275372557						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1279733133						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1280710790						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1285745606						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	12859329						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1287563195						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1288887310						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1292472208	Q8NDZ0	rs1292472208	L206S	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1292472208	Q8NDZ0	rs1292472208	L206S	0.8		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1292472208	Q8NDZ0	rs1292472208	L206S	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1292472208	Q8NDZ0	rs1292472208	L206S	0.43		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1296839357						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1298591227						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1302671183						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1305625239						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1306214810	Q8NDZ0	rs1306214810	S567T	0.952		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1306214810	Q8NDZ0	rs1306214810	S567T	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1312166296						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1313086616	Q8NDZ0	rs1313086616	A600V	0.019		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1313086616	Q8NDZ0	rs1313086616	A600V	0.13		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1313086616	Q8NDZ0	rs1313086616	A600V	0.747		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1313086616	Q8NDZ0	rs1313086616	A600V	0.24		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1314398406						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1315133173						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1315424092						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1329484002						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1332789849						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1333009580						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1333285958						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1337138934						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1338397007						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1338903767						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1342208606						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1343108921						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1345562490						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1360178157						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1360323543	Q8NDZ0	rs1360323543	P54S	0.003		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1360323543	Q8NDZ0	rs1360323543	P54S	0.82		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1366713950						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1366856510						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1366859789	Q8NDZ0	rs1366859789	R728Q	0.251		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1366859789	Q8NDZ0	rs1366859789	R728Q	0.09		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1366859789	Q8NDZ0	rs1366859789	R728Q	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1366859789	Q8NDZ0	rs1366859789	R728Q	0.11		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1372392971						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1372801019						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1373124943						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1374329585						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1375190262						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1375697303						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		137976378						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1380433843						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1381003635						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1383685823						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1383842796	Q8NDZ0	rs1383842796	I13V	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1383842796	Q8NDZ0	rs1383842796	I13V	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1383842796	Q8NDZ0	rs1383842796	I13V	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1383842796	Q8NDZ0	rs1383842796	I13V	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1385744675						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1390776608	Q8NDZ0	rs1390776608	R632W	0.04		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1390776608	Q8NDZ0	rs1390776608	R632W	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1392585266						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		139531676						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1395951429						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	139599869	Q8NDZ0	rs139599869	P536L	0.995		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	139599869	Q8NDZ0	rs139599869	P536L	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1400530049	Q8NDZ0	rs1400530049	R646Q	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1400530049	Q8NDZ0	rs1400530049	R646Q	0.7		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1400530049	Q8NDZ0	rs1400530049	R646Q	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1400530049	Q8NDZ0	rs1400530049	R646Q	0.66		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1400765632						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1402966383						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1403804573	Q8NDZ0	rs1403804573	R671Q	0.067		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	1403804573	Q8NDZ0	rs1403804573	R671Q	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1405298968						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	141035350	Q8NDZ0	rs141035350	Q773R	0.413		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	141035350	Q8NDZ0	rs141035350	Q773R	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1410598010	Q8NDZ0	rs1410598010	N245S	0.018		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1410598010	Q8NDZ0	rs1410598010	N245S	0.39		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1410598010	Q8NDZ0	rs1410598010	N245S	0.003		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1410598010	Q8NDZ0	rs1410598010	N245S	0.27		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1416561262						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1417999751						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1419012004						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1419734211						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1422403763						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1424455267						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1430332537						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	143106551	Q8NDZ0	rs143106551	D69H	0.336		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	143106551	Q8NDZ0	rs143106551	D69H	0.02		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1435544782						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1437982956						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1439473201						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1439541925						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1439962080						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1440437707						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1441189152						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1442077303						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	144223792	Q8NDZ0	rs144223792	Y406C	0.721		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	144223792	Q8NDZ0	rs144223792	Y406C	0.15		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1442969535						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1443162164						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1444107466						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1444757893						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1446223119						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1449758969						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1451814178						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1456936536						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		145726572						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		145864716						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1458831522						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	145927832	Q8NDZ0	rs145927832	G580V	0.127		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	145927832	Q8NDZ0	rs145927832	G580V	0.08		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1459711117						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		146293624	Q8NDZ0	rs146293624	R511H	0.007		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		146293624	Q8NDZ0	rs146293624	R511H	0.54		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		146293624	Q8NDZ0	rs146293624	R511H	0.007		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		146293624	Q8NDZ0	rs146293624	R511H	0.51		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	146962245	Q8NDZ0	rs146962245	T583A	0.903		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	146962245	Q8NDZ0	rs146962245	T583A	0.29		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1475392488						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1476629182						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	147763153	Q8NDZ0	rs147763153	E196K	0.046		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	147763153	Q8NDZ0	rs147763153	E196K	0.13		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1477791507						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	148002154	Q8NDZ0	rs148002154	Q198H	0.788		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	148002154	Q8NDZ0	rs148002154	Q198H	0.05		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1482831613	Q8NDZ0	rs1482831613	V338A	0.021		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1482831613	Q8NDZ0	rs1482831613	V338A	0.36		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1482831613	Q8NDZ0	rs1482831613	V338A	0.55		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1482831613	Q8NDZ0	rs1482831613	V338A	0.23		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1484531418						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		148756419						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569117154						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569117245						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569117271						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569124696						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569125125						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569125128						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569125341						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1569127870						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1602029295						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1602029324						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1602031798						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1602043677						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1602055199						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1667603218						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		17274127	Q8NDZ0	rs17274127	F154L	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		17274127	Q8NDZ0	rs17274127	F154L	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		17853735						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1812287371						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1816757977						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	183006657						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		183117899						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		185263017						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		188890114						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		190623264						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923788254						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923788410						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923788712						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923789312						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923789459						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923957083						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923957280						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923957879						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923958274						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923958724						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923961901						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923963232						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923963659						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1923966212						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924058566						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924060219						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924060418						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924060606						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924062435						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924062682						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924063466						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924069576						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1924070309	Q8NDZ0	rs1924070309	R588C	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	1924070309	Q8NDZ0	rs1924070309	R588C	0.07		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924133813						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924135583						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924138961						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924215427						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924219080						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924219731						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924219945						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924220143						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924221263						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924221750						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924223950						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924224948						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924225820						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924753850						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924754785						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924757626						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924902614						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924903341						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924905829						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1924907282						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925176180						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925177916						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925178579						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925179256						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925231131						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925233674						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925234187						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925235326						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925237155						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925238289						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925240374						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925240765						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925243475						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925246384						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925247382						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925251039						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925251232						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925253455						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925545717						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925547992						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925549988						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925550192						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925550543						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925551108						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925583773						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925584226						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925586365						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925587096						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925587282						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925587657						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925587812						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925588370						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925588561						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925588716						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925678863						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925679711						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925680325						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925683699						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925685030						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925685810						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925686041						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		1925846906						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		193219927						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		200035974						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		200279123						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		200432137						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		201040508						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		201343691						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		202002797						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		202211742						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2047221689						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147384704						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147384709						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147388690						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147391261						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147395347						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147398581						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147398599						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147410184						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147414788						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147423089						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147425040						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147425124						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147425169						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147425301						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147425447						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147425799						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147435428						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147435454						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		2147436756						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	2518487792						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	2518487889						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	2518510967						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	2518541308						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		267606414						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377K	0.012		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377K	0.9		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377K	0.003		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377K	0.92		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377M	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377M	0.13		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377M	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	28496595	Q8NDZ0	rs28496595	T377M	0.21		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	368358083	Q8NDZ0	rs368358083	V361M	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	368358083	Q8NDZ0	rs368358083	V361M	0.31		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	368899043	Q8NDZ0	rs368899043	R629T	0.598		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	368899043	Q8NDZ0	rs368899043	R629T	0.04		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		369351312						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		369659332						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		371782571						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		372832093						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	373568752	Q8NDZ0	rs373568752	H195Y	0.001		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	373568752	Q8NDZ0	rs373568752	H195Y	0.15		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		373912457						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		373970066						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	374044388	Q8NDZ0	rs374044388	R264Q	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	374044388	Q8NDZ0	rs374044388	R264Q	0.8		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	374044388	Q8NDZ0	rs374044388	R264Q	0.045		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	374044388	Q8NDZ0	rs374044388	R264Q	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		376896420	Q8NDZ0	rs376896420	R593H	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		376896420	Q8NDZ0	rs376896420	R593H	0.43		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		376896420	Q8NDZ0	rs376896420	R593H	0.019		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		376896420	Q8NDZ0	rs376896420	R593H	0.35		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		377168293						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		377313223						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		546359357	Q8NDZ0	rs546359357	S374L	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		546359357	Q8NDZ0	rs546359357	S374L	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		546359357	Q8NDZ0	rs546359357	S374L	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		546359357	Q8NDZ0	rs546359357	S374L	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		577018604						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		6629263						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	74391498	Q8NDZ0	rs74391498	V261G	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	74391498	Q8NDZ0	rs74391498	V261G	0.44		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	745667788	Q8NDZ0	rs745667788	D45Y	0.866		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	745667788	Q8NDZ0	rs745667788	D45Y	0.19		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746061503						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746142084						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	746168306						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746240965	Q8NDZ0	rs746240965	Y161C	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746240965	Q8NDZ0	rs746240965	Y161C	0.19		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746240965	Q8NDZ0	rs746240965	Y161C	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746240965	Q8NDZ0	rs746240965	Y161C	0.22		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746455952						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746460131						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		746691308						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	746965057						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747143239						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747224992						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	747798379						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747898068						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747951664	Q8NDZ0	rs747951664	R671W	0.895		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747951664	Q8NDZ0	rs747951664	R671W	0.13		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747951664	Q8NDZ0	rs747951664	R671W	0.199		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		747951664	Q8NDZ0	rs747951664	R671W	0.09		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		748558470						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		748742412						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		748760102	Q8NDZ0	rs748760102	C750Y	0.998		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		748760102	Q8NDZ0	rs748760102	C750Y	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		748760102	Q8NDZ0	rs748760102	C750Y	0.953		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		748760102	Q8NDZ0	rs748760102	C750Y	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		749522794						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		749833703						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750071004						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750498898						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750510729	Q8NDZ0	rs750510729	T442I	0.051		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750510729	Q8NDZ0	rs750510729	T442I	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750510729	Q8NDZ0	rs750510729	T442I	0.186		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750510729	Q8NDZ0	rs750510729	T442I	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750711597						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750769600						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750822250	Q8NDZ0	rs750822250	R596C	0.001		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750822250	Q8NDZ0	rs750822250	R596C	0.05		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750822250	Q8NDZ0	rs750822250	R596C	0.04		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		750822250	Q8NDZ0	rs750822250	R596C	0.09		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	751032537	Q8NDZ0	rs751032537	R588H	0.019		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	751032537	Q8NDZ0	rs751032537	R588H	0.24		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		751873563						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752028517						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752043959	Q8NDZ0	rs752043959	R453H	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752043959	Q8NDZ0	rs752043959	R453H	0.55		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752043959	Q8NDZ0	rs752043959	R453H	0.093		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752043959	Q8NDZ0	rs752043959	R453H	0.54		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752085464						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752439751						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		752554850						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	752606676	Q8NDZ0	rs752606676	E786K	0.046		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	752606676	Q8NDZ0	rs752606676	E786K	0.08		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	75342823	Q8NDZ0	rs75342823	S183I	0.774		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	benign	75342823	Q8NDZ0	rs75342823	S183I	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	753485985	Q8NDZ0	rs753485985	L432I	0.03		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	753485985	Q8NDZ0	rs753485985	L432I	0.12		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		753617049						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		753635122						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		753669312						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	753955004	Q8NDZ0	rs753955004	R511C	0.035		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	753955004	Q8NDZ0	rs753955004	R511C	0.22		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	753955004	Q8NDZ0	rs753955004	R511C	0.937		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	753955004	Q8NDZ0	rs753955004	R511C	0.1		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		754493567						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		754628980						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		754852878						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		755090142						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		755322755						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		755496123						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		755666105						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		756621415						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		757450295						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		757898258						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		758770203						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		759077524						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		759693799						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		759938608	Q8NDZ0	rs759938608	R453C	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		759938608	Q8NDZ0	rs759938608	R453C	0.18		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		759938608	Q8NDZ0	rs759938608	R453C	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		759938608	Q8NDZ0	rs759938608	R453C	0.21		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		760253357						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		760458967						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		760847001						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761151687						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	761591084	Q8NDZ0	rs761591084	S531C	0.884		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	761591084	Q8NDZ0	rs761591084	S531C	0.21		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761769743						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761910556	Q8NDZ0	rs761910556	R73H	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761910556	Q8NDZ0	rs761910556	R73H	0.61		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761910556	Q8NDZ0	rs761910556	R73H	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761910556	Q8NDZ0	rs761910556	R73H	0.66		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		761959961						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		762556376						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		762839243						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		762874856						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		763463624						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		763502919						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		764104287						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	764385977						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		76465445						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		765284701						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		765514632						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		765678733						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		766317604						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		766411070						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		766702650						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		766935176						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		767052793						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		767920982						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		768093592						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		768418808						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		768648537						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		768822281						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		769248886						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		769862979						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		770287298						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	770338351	Q8NDZ0	rs770338351	G231S	0.001		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	770338351	Q8NDZ0	rs770338351	G231S	0.53		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	770338351	Q8NDZ0	rs770338351	G231S	0.134		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	770338351	Q8NDZ0	rs770338351	G231S	0.41		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	770529341	Q8NDZ0	rs770529341	A222T	0.003		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	770529341	Q8NDZ0	rs770529341	A222T	0.94		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	770529341	Q8NDZ0	rs770529341	A222T	0.818		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	likely benign	770529341	Q8NDZ0	rs770529341	A222T	1.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		770777261						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	770952083	Q8NDZ0	rs770952083	T795I	0.098		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	770952083	Q8NDZ0	rs770952083	T795I	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		771065102						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		771177733						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		771275423						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		771842157						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		771875015						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		772246906						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		772253672						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		772390838						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		773093177						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		773173230						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		773229467						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		773625196						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		773693600						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		773956794						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		774047430						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		774586339						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		775128515						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		775570352						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		775693628						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		775948822						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776130185						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776275603						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	776345809	Q8NDZ0	rs776345809	P673L	0.098		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	776345809	Q8NDZ0	rs776345809	P673L	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776351374	Q8NDZ0	rs776351374	E151D	0.018		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776351374	Q8NDZ0	rs776351374	E151D	0.34		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776351374	Q8NDZ0	rs776351374	E151D	0.646		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776351374	Q8NDZ0	rs776351374	E151D	0.17		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776640132						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776714254						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776799942						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		776974750						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777008319						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777205259						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777251002						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777476832						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777513977						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777671556						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		777709964						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		778556217						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		778717370	Q8NDZ0	rs778717370	A686T	0.186		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		778717370	Q8NDZ0	rs778717370	A686T	0.01		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		778717370	Q8NDZ0	rs778717370	A686T	0.142		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		778717370	Q8NDZ0	rs778717370	A686T	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		778736205						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	779307429	Q8NDZ0	rs779307429	A185G	0.747		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	779307429	Q8NDZ0	rs779307429	A185G	0.47		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		779411629						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		779614276						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		779784627						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		780303734						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		780457204						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		780930331						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		781066829						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		781356394						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		781393873						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866173060						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866268647						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866322579	Q8NDZ0	rs866322579	G158E	0.076		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866322579	Q8NDZ0	rs866322579	G158E	0.08		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866322579	Q8NDZ0	rs866322579	G158E	0.973		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866322579	Q8NDZ0	rs866322579	G158E	0.55		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866521108						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866523679						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		866743120						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		867284454	Q8NDZ0	rs867284454	D701Y	0.961		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		867284454	Q8NDZ0	rs867284454	D701Y	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		867284454	Q8NDZ0	rs867284454	D701Y	0.694		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		867284454	Q8NDZ0	rs867284454	D701Y	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		868293510						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		868376547	Q8NDZ0	rs868376547	R759C	0.288		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		868376547	Q8NDZ0	rs868376547	R759C	0.02		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		868376547	Q8NDZ0	rs868376547	R759C	0.965		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		868376547	Q8NDZ0	rs868376547	R759C	0.08		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		878917427						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		889250101						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		891806295	Q8NDZ0	rs891806295	S753F	0.877		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		891806295	Q8NDZ0	rs891806295	S753F	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		891806295	Q8NDZ0	rs891806295	S753F	0.953		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		891806295	Q8NDZ0	rs891806295	S753F	0.0		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		920962754						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		926247668						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		926933811						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		930593539	Q8NDZ0	rs930593539	V765I	0.006		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		930593539	Q8NDZ0	rs930593539	V765I	0.24		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		930593539	Q8NDZ0	rs930593539	V765I	0.015		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		930593539	Q8NDZ0	rs930593539	V765I	0.28		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		930777618						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		932385215						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		940631928						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		945160009						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		945232788						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		946958526						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		947240340						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		949304142						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		956469553						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		960263460						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		963783748						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		966864293						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	968294503	Q8NDZ0	rs968294503	N449I	0.98		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant	uncertain significance	968294503	Q8NDZ0	rs968294503	N449I	0.04		Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		972507727						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		977465654						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		977575934						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		987854704						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		991528638						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0
+BEND2	missense_variant		993780381						Q8NDZ0	BEN domain-containing protein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8NDZ0

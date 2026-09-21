@@ -1,0 +1,485 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+FOXP3	missense_variant		1002017383						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1045776635	Q9BZS1	rs1045776635	H217R	0.316		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1045776635	Q9BZS1	rs1045776635	H217R	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	1057518281	Q9BZS1	rs1057518281	M370V	0.431		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	1057518281	Q9BZS1	rs1057518281	M370V	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic	1057520529	Q9BZS1	rs1057520529	R397Q	0.862		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic	1057520529	Q9BZS1	rs1057520529	R397Q	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1057524899	Q9BZS1	rs1057524899	A137T	0.005		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1057524899	Q9BZS1	rs1057524899	A137T	0.4		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	1064795069	Q9BZS1	rs1064795069	T359I	0.994		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	1064795069	Q9BZS1	rs1064795069	T359I	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1170772176	Q9BZS1	rs1170772176	R51Q	0.106		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1170772176	Q9BZS1	rs1170772176	R51Q	0.04		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1187522743						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1194116356						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1215832691						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1224110402						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	122467169						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic	122467170						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	122467172						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	122467173	Q9BZS1	rs122467173	F324V	0.034		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	122467173	Q9BZS1	rs122467173	F324V	0.06		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	122467175	Q9BZS1	rs122467175	F367L	0.282		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	122467175	Q9BZS1	rs122467175	F367L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1225680362	Q9BZS1	rs1225680362	G286S	0.013		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1225680362	Q9BZS1	rs1225680362	G286S	0.4		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1225680362	Q9BZS1	rs1225680362	G286S	0.013		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1225680362	Q9BZS1	rs1225680362	G286S	0.23		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1227672557						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1237648287	Q9BZS1	rs1237648287	C169R	0.996		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1237648287	Q9BZS1	rs1237648287	C169R	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1243920194						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1255528846	Q9BZS1	rs1255528846	T136I	0.077		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1255528846	Q9BZS1	rs1255528846	T136I	0.07		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1258307921	Q9BZS1	rs1258307921	S175N	0.035		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1258307921	Q9BZS1	rs1258307921	S175N	0.13		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	1273980343						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1274949988						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1279942582	Q9BZS1	rs1279942582	P165L	0.998		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1279942582	Q9BZS1	rs1279942582	P165L	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1284218417	Q9BZS1	rs1284218417	C169Y	0.996		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1284218417	Q9BZS1	rs1284218417	C169Y	0.05		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1293173319						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1304549886						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1317916668	Q9BZS1	rs1317916668	S418N	0.996		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1317916668	Q9BZS1	rs1317916668	S418N	0.17		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1317916668	Q9BZS1	rs1317916668	S418T	0.995		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1317916668	Q9BZS1	rs1317916668	S418T	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1328625937	Q9BZS1	rs1328625937	A284V	0.038		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1328625937	Q9BZS1	rs1328625937	A284V	0.11		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	1362854270						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1366584110						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	1373580534	Q9BZS1	rs1373580534	L118V	0.104		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	1373580534	Q9BZS1	rs1373580534	L118V	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		138019743						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1382549860	Q9BZS1	rs1382549860	S67L	0.188		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1382549860	Q9BZS1	rs1382549860	S67L	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1387877708						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1389154157						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		138970962						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1394920529						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1395937139						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1395972442	Q9BZS1	rs1395972442	S275F	0.077		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1395972442	Q9BZS1	rs1395972442	S275F	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1398753395	Q9BZS1	rs1398753395	A113S	0.052		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1398753395	Q9BZS1	rs1398753395	A113S	0.49		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1398753395	Q9BZS1	rs1398753395	A113T	0.001		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1398753395	Q9BZS1	rs1398753395	A113T	0.11		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1398753395	Q9BZS1	rs1398753395	A113T	0.001		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1398753395	Q9BZS1	rs1398753395	A113T	0.14		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	140222626	Q9BZS1	rs140222626	S184L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	140222626	Q9BZS1	rs140222626	S184L	0.39		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	140222626	Q9BZS1	rs140222626	S184L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	140222626	Q9BZS1	rs140222626	S184L	0.36		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1403582911						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	140794570	Q9BZS1	rs140794570	E212Q	0.127		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	140794570	Q9BZS1	rs140794570	E212Q	0.49		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1424687079	Q9BZS1	rs1424687079	A111T	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1424687079	Q9BZS1	rs1424687079	A111T	0.7		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1428528910	Q9BZS1	rs1428528910	R358Q	0.987		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1428528910	Q9BZS1	rs1428528910	R358Q	0.05		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	143048239	Q9BZS1	rs143048239	E209K	0.001		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	143048239	Q9BZS1	rs143048239	E209K	0.25		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1432262933	Q9BZS1	rs1432262933	G47V	0.627		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1432262933	Q9BZS1	rs1432262933	G47V	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1434071262	Q9BZS1	rs1434071262	A379T	0.991		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1434071262	Q9BZS1	rs1434071262	A379T	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	143632471						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	143869281	Q9BZS1	rs143869281	F321L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	143869281	Q9BZS1	rs143869281	F321L	0.4		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	1441216420						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1442990167	Q9BZS1	rs1442990167	G83E	0.195		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1442990167	Q9BZS1	rs1442990167	G83E	0.06		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	145368924	Q9BZS1	rs145368924	R417W	1.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	145368924	Q9BZS1	rs145368924	R417W	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	145368924	Q9BZS1	rs145368924	R417W	1.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	145368924	Q9BZS1	rs145368924	R417W	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1453781134						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115501						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	1557115507	Q9BZS1	rs1557115507	N426S	0.118		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	1557115507	Q9BZS1	rs1557115507	N426S	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115510						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic	1557115532	Q9BZS1	rs1557115532	V408M	0.885		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic	1557115532	Q9BZS1	rs1557115532	V408M	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115536						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115555						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115559						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115563						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115568						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115572						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115577						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115591	Q9BZS1	rs1557115591	H377D	0.457		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115591	Q9BZS1	rs1557115591	H377D	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115601	Q9BZS1	rs1557115601	R369C	0.987		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115601	Q9BZS1	rs1557115601	R369C	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115601	Q9BZS1	rs1557115601	R369C	0.987		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115601	Q9BZS1	rs1557115601	R369C	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115608						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic, likely risk allele	1557115786						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115789	Q9BZS1	rs1557115789	I346V	0.04		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115789	Q9BZS1	rs1557115789	I346V	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115797						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115923						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115925						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115930	Q9BZS1	rs1557115930	G314S	0.325		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115930	Q9BZS1	rs1557115930	G314S	0.11		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115935						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115936						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557115946						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557115963						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116150						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116153						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116155						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116209	Q9BZS1	rs1557116209	L233F	0.997		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116209	Q9BZS1	rs1557116209	L233F	0.06		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116209	Q9BZS1	rs1557116209	L233F	0.998		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116209	Q9BZS1	rs1557116209	L233F	0.05		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116213						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116415	Q9BZS1	rs1557116415	V207I	0.167		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116415	Q9BZS1	rs1557116415	V207I	0.12		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116461						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116475	Q9BZS1	rs1557116475	L158Q	0.587		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116475	Q9BZS1	rs1557116475	L158Q	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116520	Q9BZS1	rs1557116520	P151S	0.261		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116520	Q9BZS1	rs1557116520	P151S	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116525	Q9BZS1	rs1557116525	R146Q	0.992		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116525	Q9BZS1	rs1557116525	R146Q	0.26		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116525	Q9BZS1	rs1557116525	R146Q	0.992		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116525	Q9BZS1	rs1557116525	R146Q	0.27		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116530	Q9BZS1	rs1557116530	K144E	0.986		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116530	Q9BZS1	rs1557116530	K144E	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116533						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116550						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116598						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116599						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116600	Q9BZS1	rs1557116600	H101R	0.147		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116600	Q9BZS1	rs1557116600	H101R	0.06		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116608						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116620						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116622						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116687						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116691	Q9BZS1	rs1557116691	P63L	0.683		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116691	Q9BZS1	rs1557116691	P63L	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116718						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	1557116742	Q9BZS1	rs1557116742	P24S	0.003		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	1557116742	Q9BZS1	rs1557116742	P24S	0.11		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116748						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1557116750						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1557116756						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1569529568	Q9BZS1	rs1569529568	K416I	0.993		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1569529568	Q9BZS1	rs1569529568	K416I	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1569529656	Q9BZS1	rs1569529656	S315G	0.162		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1569529656	Q9BZS1	rs1569529656	S315G	0.24		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1569529656	Q9BZS1	rs1569529656	S315G	0.168		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1569529656	Q9BZS1	rs1569529656	S315G	0.3		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	1569529715	Q9BZS1	rs1569529715	C232G	0.731		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	1569529715	Q9BZS1	rs1569529715	C232G	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1602679523						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	1602679681	Q9BZS1	rs1602679681	L360P	1.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	1602679681	Q9BZS1	rs1602679681	L360P	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	1602684496	Q9BZS1	rs1602684496	Q231K	0.022		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	1602684496	Q9BZS1	rs1602684496	Q231K	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1602686006	Q9BZS1	rs1602686006	S181I	0.023		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	1602686006	Q9BZS1	rs1602686006	S181I	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		1602686569						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign, pathogenic	17847095	Q9BZS1	rs17847095	G52V	0.163		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign, pathogenic	17847095	Q9BZS1	rs17847095	G52V	0.07		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	199917616	Q9BZS1	rs199917616	S59C	0.867		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	199917616	Q9BZS1	rs199917616	S59C	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	200396601	Q9BZS1	rs200396601	P192L	0.076		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	200396601	Q9BZS1	rs200396601	P192L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	200554980	Q9BZS1	rs200554980	R114W	0.604		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	200554980	Q9BZS1	rs200554980	R114W	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	200928046	Q9BZS1	rs200928046	R299W	0.296		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	200928046	Q9BZS1	rs200928046	R299W	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	200928046	Q9BZS1	rs200928046	R299W	0.292		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	200928046	Q9BZS1	rs200928046	R299W	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	201723322	Q9BZS1	rs201723322	S400R	0.409		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	201723322	Q9BZS1	rs201723322	S400R	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066029438						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066029479	Q9BZS1	rs2066029479	P427R	0.996		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066029479	Q9BZS1	rs2066029479	P427R	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	2066029760	Q9BZS1	rs2066029760	Q419H	0.963		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	2066029760	Q9BZS1	rs2066029760	Q419H	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	2066029945	Q9BZS1	rs2066029945	K416N	0.964		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	2066029945	Q9BZS1	rs2066029945	K416N	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066030233						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	2066030589	Q9BZS1	rs2066030589	R386C	0.949		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	2066030589	Q9BZS1	rs2066030589	R386C	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066030854						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066030896						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066031126						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066031698						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066032147						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066032179						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	2066032540						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066032755						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066033188						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066033359						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066044558	Q9BZS1	rs2066044558	W348C	0.933		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066044558	Q9BZS1	rs2066044558	W348C	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066044619	Q9BZS1	rs2066044619	R347C	0.933		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066044619	Q9BZS1	rs2066044619	R347C	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic, likely risk allele	2066044949	Q9BZS1	rs2066044949	R337Q	0.998		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic, likely risk allele	2066044949	Q9BZS1	rs2066044949	R337Q	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic, likely risk allele	2066044949	Q9BZS1	rs2066044949	R337Q	0.998		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic, likely risk allele	2066044949	Q9BZS1	rs2066044949	R337Q	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066044981						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066045209						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066050534	Q9BZS1	rs2066050534	E323K	0.003		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066050534	Q9BZS1	rs2066050534	E323K	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066050858						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066050893						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066051349	Q9BZS1	rs2066051349	G297A	0.001		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066051349	Q9BZS1	rs2066051349	G297A	0.2		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066051519						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066051585						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066065519						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066065609						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066076666						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066077539						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066077767						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066077912						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066078255						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066080999						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066081530						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066081601	Q9BZS1	rs2066081601	S125N	0.001		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066081601	Q9BZS1	rs2066081601	S125N	0.08		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066081713						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066083142						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066083202						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066083770						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066083894						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066087527						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066087737						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066088699	Q9BZS1	rs2066088699	D34E	0.007		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2066088699	Q9BZS1	rs2066088699	D34E	0.21		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	2066089076	Q9BZS1	rs2066089076	P20L	0.005		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	2066089076	Q9BZS1	rs2066089076	P20L	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066089186						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066089226						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066089397						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	2066089464	Q9BZS1	rs2066089464	G7A	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	2066089464	Q9BZS1	rs2066089464	G7A	1.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2066089534						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147944149	Q9BZS1	rs2147944149	N388S	0.662		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147944149	Q9BZS1	rs2147944149	N388S	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	2147944159	Q9BZS1	rs2147944159	A384V	0.763		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	2147944159	Q9BZS1	rs2147944159	A384V	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147944328						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147944351						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	2147944391						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147945481	Q9BZS1	rs2147945481	F333Y	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147945481	Q9BZS1	rs2147945481	F333Y	0.48		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147945964						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147946014	Q9BZS1	rs2147946014	E300K	0.035		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147946014	Q9BZS1	rs2147946014	E300K	0.19		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147947305	Q9BZS1	rs2147947305	K252E	0.986		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147947305	Q9BZS1	rs2147947305	K252E	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147947487	Q9BZS1	rs2147947487	Q245E	0.134		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147947487	Q9BZS1	rs2147947487	Q245E	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147947523	Q9BZS1	rs2147947523	K227T	0.17		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147947523	Q9BZS1	rs2147947523	K227T	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147947541						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147948474	Q9BZS1	rs2147948474	D213Y	0.612		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147948474	Q9BZS1	rs2147948474	D213Y	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147948527						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	2147948631	Q9BZS1	rs2147948631	E164D	0.979		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	2147948631	Q9BZS1	rs2147948631	E164D	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147948987						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147949106	Q9BZS1	rs2147949106	D98N	0.172		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147949106	Q9BZS1	rs2147949106	D98N	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147949127						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	2147949202	Q9BZS1	rs2147949202	P75L	0.996		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	2147949202	Q9BZS1	rs2147949202	P75L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147949617						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147949688	Q9BZS1	rs2147949688	R27K	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147949688	Q9BZS1	rs2147949688	R27K	0.17		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		2147949715						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147949758	Q9BZS1	rs2147949758	R5M	0.993		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2147949758	Q9BZS1	rs2147949758	R5M	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	2232369	Q9BZS1	rs2232369	A220E	0.003		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	2232369	Q9BZS1	rs2232369	A220E	0.27		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	2232369	Q9BZS1	rs2232369	A220V	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	2232369	Q9BZS1	rs2232369	A220V	0.26		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	2232369	Q9BZS1	rs2232369	A220V	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	2232369	Q9BZS1	rs2232369	A220V	0.17		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519185601						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519185660						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	2519185876						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	2519186384						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely pathogenic	2519186420						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519188434						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519188490						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519189530						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519189620						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519191560						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519192107						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519192122						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519194338						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519195845						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519195871						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519195887						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519196732						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519196902						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	2519196906						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	pathogenic	28935477						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign, likely benign	367860281	Q9BZS1	rs367860281	M328I	0.038		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign, likely benign	367860281	Q9BZS1	rs367860281	M328I	0.32		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	368066149	Q9BZS1	rs368066149	C204Y	0.997		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	368066149	Q9BZS1	rs368066149	C204Y	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	369332983	Q9BZS1	rs369332983	N426K	0.169		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	369332983	Q9BZS1	rs369332983	N426K	0.04		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	369698589	Q9BZS1	rs369698589	A258V	0.994		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	369698589	Q9BZS1	rs369698589	A258V	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign	370285865						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	370358803	Q9BZS1	rs370358803	P174R	0.289		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	370358803	Q9BZS1	rs370358803	P174R	0.06		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	373242883	Q9BZS1	rs373242883	L224V	0.052		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	373242883	Q9BZS1	rs373242883	L224V	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	373567091						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	374109896	Q9BZS1	rs374109896	P211A	0.243		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	374109896	Q9BZS1	rs374109896	P211A	0.49		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	374109896	Q9BZS1	rs374109896	P211S	0.072		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	374109896	Q9BZS1	rs374109896	P211S	0.39		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		375294586						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	376715533	Q9BZS1	rs376715533	R85W	0.947		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	376715533	Q9BZS1	rs376715533	R85W	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	376970698	Q9BZS1	rs376970698	L69V	0.537		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	376970698	Q9BZS1	rs376970698	L69V	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	55711326	Q9BZS1	rs55711326	T44S	0.017		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	55711326	Q9BZS1	rs55711326	T44S	0.2		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	56409830						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	587780340	Q9BZS1	rs587780340	G53R	0.931		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	587780340	Q9BZS1	rs587780340	G53R	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign, likely benign	74162067	Q9BZS1	rs74162067	V292I	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, benign, likely benign	74162067	Q9BZS1	rs74162067	V292I	0.36		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		781796588						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	781805416	Q9BZS1	rs781805416	G40D	0.263		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	781805416	Q9BZS1	rs781805416	G40D	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		781844954						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		781848518						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	781854593	Q9BZS1	rs781854593	R414C	0.998		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	781854593	Q9BZS1	rs781854593	R414C	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	781856708	Q9BZS1	rs781856708	P147A	0.738		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	781856708	Q9BZS1	rs781856708	P147A	0.07		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	781881326	Q9BZS1	rs781881326	T320K	0.025		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	781881326	Q9BZS1	rs781881326	T320K	0.08		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	781902347	Q9BZS1	rs781902347	S279F	0.533		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	781902347	Q9BZS1	rs781902347	S279F	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	781921052	Q9BZS1	rs781921052	L76V	0.096		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	781921052	Q9BZS1	rs781921052	L76V	0.05		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		781949384						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		781960959						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		781965586						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	781965746						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	781999579	Q9BZS1	rs781999579	A269T	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	781999579	Q9BZS1	rs781999579	A269T	0.44		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782054015						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782071730	Q9BZS1	rs782071730	S254N	0.017		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782071730	Q9BZS1	rs782071730	S254N	0.39		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782088695	Q9BZS1	rs782088695	P429S	0.961		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782088695	Q9BZS1	rs782088695	P429S	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782109720						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782124230						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782138321	Q9BZS1	rs782138321	G21R	0.999		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782138321	Q9BZS1	rs782138321	G21R	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782178764	Q9BZS1	rs782178764	G42R	0.999		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782178764	Q9BZS1	rs782178764	G42R	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	782188307	Q9BZS1	rs782188307	R299Q	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	782188307	Q9BZS1	rs782188307	R299Q	0.82		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	782188307	Q9BZS1	rs782188307	R299Q	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	782188307	Q9BZS1	rs782188307	R299Q	1.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782196944						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782201224						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782202711						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782217679						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782232479						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	782239006	Q9BZS1	rs782239006	A38S	0.025		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	782239006	Q9BZS1	rs782239006	A38S	0.17		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782259487	Q9BZS1	rs782259487	G203R	0.988		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782259487	Q9BZS1	rs782259487	G203R	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782303740	Q9BZS1	rs782303740	R114Q	0.007		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782303740	Q9BZS1	rs782303740	R114Q	0.3		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782303740	Q9BZS1	rs782303740	R114Q	0.007		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782303740	Q9BZS1	rs782303740	R114Q	0.24		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782304327						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782323926						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782351468						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782426843						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782429831	Q9BZS1	rs782429831	H326R	0.251		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782429831	Q9BZS1	rs782429831	H326R	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782443295	Q9BZS1	rs782443295	R369H	0.142		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782443295	Q9BZS1	rs782443295	R369H	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782443295	Q9BZS1	rs782443295	R369H	0.14		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782443295	Q9BZS1	rs782443295	R369H	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782458039						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782474624	Q9BZS1	rs782474624	T44A	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782474624	Q9BZS1	rs782474624	T44A	0.27		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782478389						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely benign	782486668						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782505537						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely pathogenic	782511378	Q9BZS1	rs782511378	P133L	0.884		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely pathogenic	782511378	Q9BZS1	rs782511378	P133L	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	782528935	Q9BZS1	rs782528935	A145V	0.636		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic	782528935	Q9BZS1	rs782528935	A145V	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782530463						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782536284						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782539207	Q9BZS1	rs782539207	T344K	0.822		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782539207	Q9BZS1	rs782539207	T344K	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782539207	Q9BZS1	rs782539207	T344M	0.871		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782539207	Q9BZS1	rs782539207	T344M	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782550900						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782572328	Q9BZS1	rs782572328	T108M	0.009		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782572328	Q9BZS1	rs782572328	T108M	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782572328	Q9BZS1	rs782572328	T108M	0.009		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782572328	Q9BZS1	rs782572328	T108M	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782591107						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782591493						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782604073						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782628979	Q9BZS1	rs782628979	R85Q	0.04		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782628979	Q9BZS1	rs782628979	R85Q	0.18		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782635427	Q9BZS1	rs782635427	R310G	0.994		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782635427	Q9BZS1	rs782635427	R310G	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	782639786	Q9BZS1	rs782639786	R39Q	0.038		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	782639786	Q9BZS1	rs782639786	R39Q	0.04		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782640594	Q9BZS1	rs782640594	H121Y	0.065		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782640594	Q9BZS1	rs782640594	H121Y	0.03		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782649847	Q9BZS1	rs782649847	A343T	0.912		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782649847	Q9BZS1	rs782649847	A343T	0.02		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782649847	Q9BZS1	rs782649847	A343T	0.91		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782649847	Q9BZS1	rs782649847	A343T	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782665522						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782694663	Q9BZS1	rs782694663	T170A	0.01		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782694663	Q9BZS1	rs782694663	T170A	0.2		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782696973						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782730117	Q9BZS1	rs782730117	N3K	0.986		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782730117	Q9BZS1	rs782730117	N3K	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782731811	Q9BZS1	rs782731811	R309Q	0.994		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance, likely benign	782731811	Q9BZS1	rs782731811	R309Q	0.07		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782758976						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782766362						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	782776637						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	782786757	Q9BZS1	rs782786757	R414H	0.996		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign, likely benign	782786757	Q9BZS1	rs782786757	R414H	0.08		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	782789484	Q9BZS1	rs782789484	D276N	0.001		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	benign	782789484	Q9BZS1	rs782789484	D276N	0.1		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		782799706						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	868911396	Q9BZS1	rs868911396	G83R	0.007		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	868911396	Q9BZS1	rs868911396	G83R	0.14		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	868911396	Q9BZS1	rs868911396	G83R	0.007		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	868911396	Q9BZS1	rs868911396	G83R	0.19		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		868954801						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		868959991						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		868979139						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		868982237						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		879989344						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	likely pathogenic, pathogenic	886044787						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		886821043						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	910806219	Q9BZS1	rs910806219	R99S	0.125		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	910806219	Q9BZS1	rs910806219	R99S	0.09		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	925367928	Q9BZS1	rs925367928	R417Q	0.998		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant	uncertain significance	925367928	Q9BZS1	rs925367928	R417Q	0.0		Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1
+FOXP3	missense_variant		995154495						Q9BZS1	Forkhead box protein P3	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9BZS1

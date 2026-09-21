@@ -1,0 +1,100 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CYCS	missense_variant		1047899818						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		113106786						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548772	P99999	rs11548772	A51T	0.001		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548772	P99999	rs11548772	A51T	0.03		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548772	P99999	rs11548772	A51T	0.01		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548778						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	11548783	P99999	rs11548783	S48P	0.007		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	11548783	P99999	rs11548783	S48P	0.01		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	11548783	P99999	rs11548783	S48P	0.01		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548785						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548791	P99999	rs11548791	R39W	0.161		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548791	P99999	rs11548791	R39W	0.16		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548791	P99999	rs11548791	R39W	0.13		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548795						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548796	P99999	rs11548796	P31S	0.786		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548796	P99999	rs11548796	P31S	0.04		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548796	P99999	rs11548796	P31S	0.03		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548798						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548799						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548805						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548807						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548812						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548815						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	11548816	P99999	rs11548816	T20I	0.02		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548818						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		11548820						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1185426958						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1212296860						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	likely pathogenic	121918552						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1252025993						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1274494750						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1340690339						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1340973454						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1351716554						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1360615294						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1450679549						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1455635540						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		146569499						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance, likely pathogenic	1583394618	P99999	rs1583394618	T103I	0.0		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	likely pathogenic	1583394629	P99999	rs1583394629	L99V	0.01		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1583394646						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1583394670						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1583394816						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783397544						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783397680						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783397720						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783397799						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783398195						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783398511						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783398673						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783398762						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	likely pathogenic	1783401850	P99999	rs1783401850	A52V	0.02		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783402737						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783403377						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783403860						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	likely pathogenic, pathogenic	1783403912	P99999	rs1783403912	H27Y	0.01		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783404449						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783404753						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		1783405018						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		17851278						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2128577598	P99999	rs2128577598	L33V	0.0		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2128577599	P99999	rs2128577599	N32H	0.01		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2128577612	P99999	rs2128577612	V21G	0.0		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		2128577625						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		2128577629						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2535205467						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	likely pathogenic	2535205469						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2535205600						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2535206619						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2535206903						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	2535206990						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		367666281	P99999	rs367666281	T103A	0.104		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		367666281	P99999	rs367666281	T103A	0.03		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		367666281	P99999	rs367666281	T103A	0.04		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	likely benign	542396973						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		543905568						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		563697201						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	573366932	P99999	rs573366932	A52T	0.121		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	573366932	P99999	rs573366932	A52T	0.08		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	573366932	P99999	rs573366932	A52T	0.06		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	747030332	P99999	rs747030332	N53S	0.06		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		748284448						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	748611135	P99999	rs748611135	I58V	0.11		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		752600697						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		752984039						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		753570739						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	uncertain significance	757774333	P99999	rs757774333	M13I	0.0		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		758411701						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		760801223						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		762445734						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		765119312						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		766626698						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		771002682						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		773395189						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		774382732						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		775258821						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant	pathogenic	886037737	P99999	rs886037737	Y49H	0.02		P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		930911491						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999
+CYCS	missense_variant		986520087						P99999	Cytochrome c	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P99999

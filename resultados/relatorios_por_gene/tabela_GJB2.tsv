@@ -1,0 +1,331 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+GJB2	missense_variant		1003116265						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1003660637	P29033	rs1003660637	I111V	0.32		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	1036073348	P29033	rs1036073348	L210V	0.024		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	1036073348	P29033	rs1036073348	L210V	0.34		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	104894397						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894401						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894402	P29033	rs104894402	R75G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894403	P29033	rs104894403	D66N	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894403	P29033	rs104894403	D66N	0.04		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	104894403	P29033	rs104894403	D66Y	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894404	P29033	rs104894404	G59D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894404	P29033	rs104894404	G59V	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894406						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894408	P29033	rs104894408	G12C	0.999		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	104894408	P29033	rs104894408	G12C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	104894409	P29033	rs104894409	V84L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	104894410	P29033	rs104894410	G59R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign, pathogenic	104894412						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	1057517519	P29033	rs1057517519	I20T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1057517976	P29033	rs1057517976	A49V	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	not provided, likely pathogenic, pathogenic	1064797088	P29033	rs1064797088	D46H	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	not provided, likely pathogenic, pathogenic	1064797088	P29033	rs1064797088	D46N	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	not provided	1064797089	P29033	rs1064797089	T55N	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	not provided, likely pathogenic	1064797090	P29033	rs1064797090	P58A	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	not provided, likely pathogenic	1064797090	P29033	rs1064797090	P58S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign, likely benign, likely pathogenic	111033186						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign, likely benign	111033188						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033190						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	111033194	P29033	rs111033194	K224Q	0.13		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign, likely pathogenic	111033196	P29033	rs111033196	R127L	0.14		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	111033203	P29033	rs111033203	Y65C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033217	P29033	rs111033217	K15T	0.915		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033217	P29033	rs111033217	K15T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign, likely benign	111033218						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign	111033222	P29033	rs111033222	G4D	0.075		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign	111033222	P29033	rs111033222	G4D	0.2		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	111033225	P29033	rs111033225	A149T	0.27		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033294	P29033	rs111033294	N206S	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033295	P29033	rs111033295	K122I	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033296	P29033	rs111033296	A40E	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033296	P29033	rs111033296	A40G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	111033299						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign	111033360						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	111033361	P29033	rs111033361	L76P	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	111033441	P29033	rs111033441	D117G	0.013		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	111033441	P29033	rs111033441	D117G	0.1		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	1131691709	P29033	rs1131691709	K188R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	116769964	P29033	rs116769964	F142S	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1179195570						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1192103855						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1192474101						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	121912968						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1219773339						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1227280014						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1228054309	P29033	rs1228054309	N170S	0.001		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1228054309	P29033	rs1228054309	N170S	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1235585042						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1250849257	P29033	rs1250849257	V95A	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1257136185						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1265940668	P29033	rs1265940668	F115C	0.264		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1265940668	P29033	rs1265940668	F115C	0.17		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1268045311	P29033	rs1268045311	C211Y	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1273330603	P29033	rs1273330603	M163R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1273330603	P29033	rs1273330603	M163T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1275901105	P29033	rs1275901105	V178L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1275901105	P29033	rs1275901105	V178M	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1275901105	P29033	rs1275901105	V178M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1279221857						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1287797702						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1291519904	P29033	rs1291519904	T86M	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1291519904	P29033	rs1291519904	T86M	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1293599962						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1298680423						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1311553564						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1313758826						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1316789942						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	1317569039						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1326514987	P29033	rs1326514987	G45R	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1326514987	P29033	rs1326514987	G45R	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1339463282						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1348069185						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1354592120						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1356838160						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1359778307						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1364782900						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1373154561						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1378679640	P29033	rs1378679640	M195T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1400645189						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	141774369	P29033	rs141774369	V37A	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	1422767764	P29033	rs1422767764	H100L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1425558198						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	143343083	P29033	rs143343083	H100Y	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	1446334784						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1451982228	P29033	rs1451982228	E187G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	145216882	P29033	rs145216882	L81V	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1461894310	P29033	rs1461894310	M93T	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1468293549						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	1476034902	P29033	rs1476034902	N14D	0.947		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	1476034902	P29033	rs1476034902	N14D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1477008066						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1481417187	P29033	rs1481417187	A78D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		150217043						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1555341782	P29033	rs1555341782	P225L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1555341840	P29033	rs1555341840	N176S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1555341843	P29033	rs1555341843	P173L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1555341850	P29033	rs1555341850	A171V	0.24		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1555341907	P29033	rs1555341907	S139C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	1555341945	P29033	rs1555341945	A88E	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	1555341945	P29033	rs1555341945	A88G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	1555341945	P29033	rs1555341945	A88V	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1555341946	P29033	rs1555341946	P87L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1555341957						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	1555341986	P29033	rs1555341986	C53R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	1555341986	P29033	rs1555341986	C53S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1555341987	P29033	rs1555341987	V52L	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1555342006	P29033	rs1555342006	L25F	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1566528513						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	1566528550						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1566528568						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	1566528711	P29033	rs1566528711	I82V	0.23		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1566528748	P29033	rs1566528748	L76V	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	1566529011						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1566529035	P29033	rs1566529035	T18S	0.984		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1566529035	P29033	rs1566529035	T18S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1593351383	P29033	rs1593351383	H94Y	0.21		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	1593351503	P29033	rs1593351503	F69L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1593351580						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1593351795	P29033	rs1593351795	V13G	0.996		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1593351795	P29033	rs1593351795	V13G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1801002	P29033	rs1801002	G12D	0.993		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1801002	P29033	rs1801002	G12D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1801002	P29033	rs1801002	G12V	0.997		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1801002	P29033	rs1801002	G12V	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959055197						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	1959055396						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	1959055512	P29033	rs1959055512	C202R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959055763						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959056079	P29033	rs1959056079	V190D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959056396						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959056418						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	1959056736	P29033	rs1959056736	P173S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959057238						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959057640						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959057808	P29033	rs1959057808	E147G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959057904						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959058054	P29033	rs1959058054	T137R	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	1959058329	P29033	rs1959058329	I128V	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959058587	P29033	rs1959058587	I121T	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959058969						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959059261						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959059283	P29033	rs1959059283	K108E	0.14		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959059609						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959059746						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959060006	P29033	rs1959060006	A92V	0.972		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959060006	P29033	rs1959060006	A92V	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	1959060148	P29033	rs1959060148	L89P	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959060493						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1959060696	P29033	rs1959060696	A78S	0.13		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	1959060696	P29033	rs1959060696	A78T	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959060919	P29033	rs1959060919	I74T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959060993						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959063711	P29033	rs1959063711	L10P	0.997		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	1959063711	P29033	rs1959063711	L10P	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		1959063951						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	199790409	P29033	rs199790409	T189N	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	199790409	P29033	rs199790409	T189S	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	200023879	P29033	rs200023879	P70A	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	200104362						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	201004645	P29033	rs201004645	A171T	0.29		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	201839979	P29033	rs201839979	A96G	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	201855069	P29033	rs201855069	E114K	0.47		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	201983374	P29033	rs201983374	V167A	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	2137307128	P29033	rs2137307128	V198M	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		2137307203						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2137307322	P29033	rs2137307322	P175R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2137307574	P29033	rs2137307574	A149D	0.04		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2137307658	P29033	rs2137307658	T137P	0.02		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2137307822	P29033	rs2137307822	D117Y	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	2137308512	P29033	rs2137308512	N54S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		2137308763						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		2137308800						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2137308851	P29033	rs2137308851	N14S	0.828		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2137308851	P29033	rs2137308851	N14S	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign, likely benign	2274083						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign, likely benign	2274084						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500249122						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500249283						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500249364						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500249666						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500249773						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500250155						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500250416						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500250683						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500251590						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500251771						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500251812						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign, likely pathogenic	2500252222						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500252236						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500252361						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500253112						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	2500253148						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	2500253823						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	267603770						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	28929485	P29033	rs28929485	S17C	0.952		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	28929485	P29033	rs28929485	S17C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	28931592						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	28931593						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	28931594						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	28931595	P29033	rs28931595	D179H	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign	34988750						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, not provided, likely pathogenic, pathogenic	35887622	P29033	rs35887622	M34R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		368602109						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		370044106						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	370696868	P29033	rs370696868	V63L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	370696868	P29033	rs370696868	V63M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	370868313	P29033	rs370868313	V226I	0.63		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	371024165	P29033	rs371024165	R32C	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	371024165	P29033	rs371024165	R32C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	371024165	P29033	rs371024165	R32S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	373684994	P29033	rs373684994	D159N	0.31		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	373684994	P29033	rs373684994	D159Y	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	374572413	P29033	rs374572413	G109E	0.25		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	374572413	P29033	rs374572413	G109V	0.1		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	374625633	P29033	rs374625633	I30V	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	375599392	P29033	rs375599392	K221N	0.11		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign	376898963						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	397516869						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	397516870	P29033	rs397516870	Y68C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	397516871						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	397516872	P29033	rs397516872	H94L	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign, likely benign	397516876	P29033	rs397516876	S138G	0.12		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	397516877	P29033	rs397516877	F142L	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign, pathogenic	397516878						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	527914983	P29033	rs527914983	H67R	0.05		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	528216023	P29033	rs528216023	E120K	0.065		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	528216023	P29033	rs528216023	E120K	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	529440698	P29033	rs529440698	R98G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	529500747	P29033	rs529500747	T8M	0.463		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	529500747	P29033	rs529500747	T8M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	532203068	P29033	rs532203068	M195L	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	532203068	P29033	rs532203068	M195V	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	535635403	P29033	rs535635403	E42D	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	564084861	P29033	rs564084861	M34L	0.53		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	568612627						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	570552952	P29033	rs570552952	M195I	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	575453513	P29033	rs575453513	I33T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	587783644	P29033	rs587783644	L36P	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	587783645	P29033	rs587783645	C53F	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	587783645	P29033	rs587783645	C53Y	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic, pathogenic low penetrance	72474224	P29033	rs72474224	V37F	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	72561723						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	727503066	P29033	rs727503066	R127C	0.674		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	727503066	P29033	rs727503066	R127C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	727503066	P29033	rs727503066	R127G	0.1		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	727504302	P29033	rs727504302	Q80P	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	727504309	P29033	rs727504309	V63A	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	727504789	P29033	rs727504789	M157T	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		745669787						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		747353660						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		747685846						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	749693224	P29033	rs749693224	I20M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	750216973						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	752812448	P29033	rs752812448	C218Y	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	753674300	P29033	rs753674300	T186M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	756467247	P29033	rs756467247	I35S	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		757090268						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	758452984						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	759683824						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	760489970	P29033	rs760489970	C169R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		761376869						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		762466001						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		762566184						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, benign, likely benign	763068053						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	76434661	P29033	rs76434661	S139N	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic	764693395	P29033	rs764693395	A40T	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	765115961	P29033	rs765115961	M151I	0.1		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	765172751	P29033	rs765172751	I196T	0.03		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		765196144						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		765660346						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	765921870	P29033	rs765921870	L89F	0.05		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign	766998544						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	767178508	P29033	rs767178508	E147K	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	767233008	P29033	rs767233008	R216I	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	768130937	P29033	rs768130937	V13M	0.969		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	768130937	P29033	rs768130937	V13M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	benign	76838169						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	770330002	P29033	rs770330002	W172R	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	771053295	P29033	rs771053295	R98Q	0.11		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		771372934						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	771748289	P29033	rs771748289	S199F	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	773846324	P29033	rs773846324	V226D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	773846324	P29033	rs773846324	V226G	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	774518779						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		774573673						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	776267945	P29033	rs776267945	V43A	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	776335807	P29033	rs776335807	Y155C	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		776899164						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		777236559						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		777588424	P29033	rs777588424	R165Q	0.945		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		777588424	P29033	rs777588424	R165Q	0.04		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	779018464						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely benign	779358271	P29033	rs779358271	F106L	1.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		779948837						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	781085903	P29033	rs781085903	T5M	0.566		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	781085903	P29033	rs781085903	T5M	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	781534323	P29033	rs781534323	I82M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	781767722	P29033	rs781767722	N176D	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	80338941	P29033	rs80338941	S19I	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	80338941	P29033	rs80338941	S19T	0.01		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	80338945						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic	80338946						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	pathogenic	80338948						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, not provided	80338949	P29033	rs80338949	M163L	0.11		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, not provided	80338949	P29033	rs80338949	M163V	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	80338950						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	866127155	P29033	rs866127155	K41R	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	878853241	P29033	rs878853241	W134R	0.05		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely benign, pathogenic	879253741	P29033	rs879253741	K22N	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, likely pathogenic, pathogenic	886037849	P29033	rs886037849	Y65H	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		886953363						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		894732036						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		899636227						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	915521910	P29033	rs915521910	K103M	0.0		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	915521910	P29033	rs915521910	K103R	0.06		P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance, pathogenic	938857026						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	uncertain significance	956898982						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		958849318						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		968029859						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant		988776939						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033
+GJB2	missense_variant	likely pathogenic, pathogenic	998045226						P29033	Gap junction beta-2 protein	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P29033

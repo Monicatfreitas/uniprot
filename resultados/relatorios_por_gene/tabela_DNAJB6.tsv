@@ -1,0 +1,584 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+DNAJB6	missense_variant		1003658028						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1004291571						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1007983603						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1009070290						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	1034901113	O75190	rs1034901113	C275W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	1034901113	O75190	rs1034901113	C275W	0.13		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1037296283						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1041153586						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		10479638						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1054511590						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1057518860	O75190	rs1057518860	K60R	0.355		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1057518860	O75190	rs1057518860	K60R	0.06		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign	112203337						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1158442868						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1159664509						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1161119985						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1161901243						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1166193954						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1169348599						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1173635396	O75190	rs1173635396	M197K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1173635396	O75190	rs1173635396	M197K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1175841144						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1176032069						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1176400971						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1179977714						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1180097071	O75190	rs1180097071	P254R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1180097071	O75190	rs1180097071	P254R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1185615542	O75190	rs1185615542	T195A	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1185615542	O75190	rs1185615542	T195A	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1186006631	O75190	rs1186006631	G165E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1186006631	O75190	rs1186006631	G165E	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1187984839						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1189919698						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1197534894						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1202558182						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1206316075						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1215557497						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	1223833637						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1227361342						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1229931795						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1230876486						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1241662438	O75190	rs1241662438	L167V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1241662438	O75190	rs1241662438	L167V	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1256447225						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1256908358	O75190	rs1256908358	K61R	0.968		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1256908358	O75190	rs1256908358	K61R	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1257346268						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1257902721						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1259733353						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1260845146						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1271115912						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1272086889						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1272418756						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1272742171						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1275795090						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1281672427						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1282245966	O75190	rs1282245966	I191T	0.073		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1282245966	O75190	rs1282245966	I191T	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1282245966	O75190	rs1282245966	I191T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1282245966	O75190	rs1282245966	I191T	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1282438876						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1289623480						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1295546520	O75190	rs1295546520	D234N	0.003		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1295546520	O75190	rs1295546520	D234N	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1295546520	O75190	rs1295546520	D234N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1295546520	O75190	rs1295546520	D234N	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1299556148						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1303680528						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1305988057						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1306859888						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1308103767						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1309055194	O75190	rs1309055194	Y65C	1.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1309055194	O75190	rs1309055194	Y65C	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1309581200						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1315396967						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1316306415						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1318662180						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1322289261						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	1323440543						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1323957144						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1327682268						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1330017275						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1331115630						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1334407960						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1334489366						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1339773349						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1341980920						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1343284617						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1353253340	O75190	rs1353253340	R244Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1353253340	O75190	rs1353253340	R244Q	0.16		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1355815932						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1356759035	O75190	rs1356759035	H326N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1356759035	O75190	rs1356759035	H326N	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1363362918						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1368508494	O75190	rs1368508494	P86L	0.396		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1368508494	O75190	rs1368508494	P86L	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1368508494	O75190	rs1368508494	P86L	0.406		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1368508494	O75190	rs1368508494	P86L	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1377762197	O75190	rs1377762197	A239V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1377762197	O75190	rs1377762197	A239V	0.13		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1377762197	O75190	rs1377762197	A239V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1377762197	O75190	rs1377762197	A239V	0.11		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1381979382	O75190	rs1381979382	T178M	0.031		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1381979382	O75190	rs1381979382	T178M	0.37		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1381979382	O75190	rs1381979382	T178M	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1381979382	O75190	rs1381979382	T178M	0.34		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1382943197						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1383770944	O75190	rs1383770944	A237V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1383770944	O75190	rs1383770944	A237V	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1389674158						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		138971819						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1392744517	O75190	rs1392744517	A14S	0.968		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1392744517	O75190	rs1392744517	A14S	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		139317869						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1394317103	O75190	rs1394317103	R24W	0.966		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1394317103	O75190	rs1394317103	R24W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1394317103	O75190	rs1394317103	R24W	0.966		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1394317103	O75190	rs1394317103	R24W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1395953858						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1403540742						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1404097846						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1405569854	O75190	rs1405569854	G324C	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1405569854	O75190	rs1405569854	G324C	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1405569854	O75190	rs1405569854	G324S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1405569854	O75190	rs1405569854	G324S	0.15		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		140695808						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1409209239						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1410632038						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1412871114	O75190	rs1412871114	S139L	0.038		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1412871114	O75190	rs1412871114	S139L	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1412871114	O75190	rs1412871114	S139L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1412871114	O75190	rs1412871114	S139L	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1416671535						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1420903446						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1426182828	O75190	rs1426182828	A296T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1426182828	O75190	rs1426182828	A296T	0.19		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1426182828	O75190	rs1426182828	A296T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1426182828	O75190	rs1426182828	A296T	0.35		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1426889039						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1427957875						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	142974468	O75190	rs142974468	S321L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	142974468	O75190	rs142974468	S321L	0.09		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1434034097						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1443321248	O75190	rs1443321248	P291T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1443321248	O75190	rs1443321248	P291T	0.24		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1443321248	O75190	rs1443321248	P291T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1443321248	O75190	rs1443321248	P291T	0.17		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1444342460						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1447781305						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1453733402						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		146237501						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1463632419						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1470950962	O75190	rs1470950962	A298S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1470950962	O75190	rs1470950962	A298S	1.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1471161622						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1471257424						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign	147168661	O75190	rs147168661	S321P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign	147168661	O75190	rs147168661	S321P	0.4		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1472166178						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1472715513						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1479469927						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1480792250						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1481107385						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1484151180						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1488094456						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1489800989						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	149027078	O75190	rs149027078	T137M	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	149027078	O75190	rs149027078	T137M	0.11		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign, pathogenic	149278319	O75190	rs149278319	F93L	0.817		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign, pathogenic	149278319	O75190	rs149278319	F93L	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1554458004						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1554458350	O75190	rs1554458350	S85G	0.048		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1554458350	O75190	rs1554458350	S85G	0.23		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1554470011	O75190	rs1554470011	L257H	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1554470011	O75190	rs1554470011	L257H	0.52		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1554470011	O75190	rs1554470011	L257P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1554470011	O75190	rs1554470011	L257P	0.23		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563136935	O75190	rs1563136935	D121G	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563136935	O75190	rs1563136935	D121G	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1563137106	O75190	rs1563137106	S145N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1563137106	O75190	rs1563137106	S145N	0.13		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1563137106	O75190	rs1563137106	S145N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1563137106	O75190	rs1563137106	S145N	0.08		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563137134	O75190	rs1563137134	F157Y	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563137134	O75190	rs1563137134	F157Y	0.27		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563153802						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1563153818						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563154005	O75190	rs1563154005	C275S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1563154005	O75190	rs1563154005	C275S	0.34		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1584906168						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1584906217						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1584927252						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1584927273	O75190	rs1584927273	G171V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1584927273	O75190	rs1584927273	G171V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1584927997	O75190	rs1584927997	N230D	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1584927997	O75190	rs1584927997	N230D	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1584952292						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1584952375						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	1584956408	O75190	rs1584956408	E314K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	1584956408	O75190	rs1584956408	E314K	0.16		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795907774						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795908534						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795908620						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795909458						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1795909873	O75190	rs1795909873	R258H	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1795909873	O75190	rs1795909873	R258H	0.13		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795910786						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795911260						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1795912727	O75190	rs1795912727	A272S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1795912727	O75190	rs1795912727	A272S	0.27		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795915263						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	1795917456						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795917998						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795918080						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795918157						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1795918431						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1796099852						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1796101272						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1796101318						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799425284						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799425708						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799425938						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799688683						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799689567						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799690378						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799691943	O75190	rs1799691943	Q48E	0.09		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799691943	O75190	rs1799691943	Q48E	0.65		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799693872	O75190	rs1799693872	D58H	0.991		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799693872	O75190	rs1799693872	D58H	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799853169	O75190	rs1799853169	I64M	0.774		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799853169	O75190	rs1799853169	I64M	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799854571						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799896104						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799898371	O75190	rs1799898371	R94C	0.623		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799898371	O75190	rs1799898371	R94C	0.06		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799898488	O75190	rs1799898488	N95K	0.122		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799898488	O75190	rs1799898488	N95K	0.36		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799898738						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799899451	O75190	rs1799899451	R101T	0.695		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1799899451	O75190	rs1799899451	R101T	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799899962						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799900327						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799902554						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799904618						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799905370						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799906057						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799906645						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799906742						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799907132						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799907342						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799907944						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799908271						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799908521						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799909314						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1799909631						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800820979						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1800823691	O75190	rs1800823691	G128S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1800823691	O75190	rs1800823691	G128S	0.45		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800825366						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1800826522	O75190	rs1800826522	F140C	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1800826522	O75190	rs1800826522	F140C	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800826768						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800828586						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800828724						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800829769						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800974785						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800977084						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800977911						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800978615						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800984892						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800985465						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800986058						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800987465						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1800988265						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1801009365						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1801010770						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1801011061						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		1801012308						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1801013122	O75190	rs1801013122	S226A	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1801013122	O75190	rs1801013122	S226A	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1801013553	O75190	rs1801013553	L227F	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	1801013553	O75190	rs1801013553	L227F	0.31		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	199651553	O75190	rs199651553	T159I	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	199651553	O75190	rs199651553	T159I	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	199651553	O75190	rs199651553	T159K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	199651553	O75190	rs199651553	T159K	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign	199967671						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	200698204						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	200906900	O75190	rs200906900	D18N	0.996		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	200906900	O75190	rs200906900	D18N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		201051578						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	201730743	O75190	rs201730743	E41A	0.681		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	201730743	O75190	rs201730743	E41A	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	201730743	O75190	rs201730743	E41G	0.839		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	201730743	O75190	rs201730743	E41G	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign	201910694						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116649710	O75190	rs2116649710	G256S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116649710	O75190	rs2116649710	G256S	1.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2116650490						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116650681	O75190	rs2116650681	E280G	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116650681	O75190	rs2116650681	E280G	0.15		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116974201	O75190	rs2116974201	E54K	0.956		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116974201	O75190	rs2116974201	E54K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116974323	O75190	rs2116974323	D58G	0.999		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116974323	O75190	rs2116974323	D58G	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2116995205						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116995798	O75190	rs2116995798	F110S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2116995798	O75190	rs2116995798	F110S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2116995829						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2116996127						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2116996199						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2117076306	O75190	rs2117076306	F144L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2117076306	O75190	rs2117076306	F144L	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2117076431						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2117076532						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		2117076568						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2117093458	O75190	rs2117093458	E217D	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2117093458	O75190	rs2117093458	E217D	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536004643						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536009772						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	2536010605						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536084277						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536084497						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536084821						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536098212						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536099081						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536205782	O75190	rs2536205782	R258C	0.333		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536205782	O75190	rs2536205782	R258C	0.09		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	2536206387						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	2536206450						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign	368078459	O75190	rs368078459	R287Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	benign, likely benign	368078459	O75190	rs368078459	R287Q	0.35		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	368565876	O75190	rs368565876	R126Q	0.006		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	368565876	O75190	rs368565876	R126Q	0.45		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	368565876	O75190	rs368565876	R126Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	368565876	O75190	rs368565876	R126Q	0.18		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		369272361						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	371304535	O75190	rs371304535	S316L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	371304535	O75190	rs371304535	S316L	0.1		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	371304535	O75190	rs371304535	S316W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	371304535	O75190	rs371304535	S316W	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		371312073						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	371808471	O75190	rs371808471	A288T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	371808471	O75190	rs371808471	A288T	0.1		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		371893136						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	372973038	O75190	rs372973038	G77E	0.646		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	372973038	O75190	rs372973038	G77E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	372973038	O75190	rs372973038	G77V	0.646		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	372973038	O75190	rs372973038	G77V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	373070679	O75190	rs373070679	R201K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	373070679	O75190	rs373070679	R201K	0.27		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	373354100	O75190	rs373354100	F114L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	373354100	O75190	rs373354100	F114L	0.11		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		374628150						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	375148730	O75190	rs375148730	G170R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	375148730	O75190	rs375148730	G170R	0.06		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	375208186						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	375911119	O75190	rs375911119	N325T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	375911119	O75190	rs375911119	N325T	0.13		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	pathogenic	387907046						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	pathogenic	387907047						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, not provided, likely pathogenic, pathogenic	387907150	O75190	rs387907150	F89L	0.552		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, not provided, likely pathogenic, pathogenic	387907150	O75190	rs387907150	F89L	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	531186856	O75190	rs531186856	Y68C	0.755		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	531186856	O75190	rs531186856	Y68C	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		532993694						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		534315655						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		535707821						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	539562536	O75190	rs539562536	P260L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	539562536	O75190	rs539562536	P260L	1.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		540120588						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		540623785						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		551159856						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	553650027	O75190	rs553650027	F115L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	553650027	O75190	rs553650027	F115L	0.06		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		556979439						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	556999563	O75190	rs556999563	D236N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	556999563	O75190	rs556999563	D236N	0.15		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		561892744						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	568383912	O75190	rs568383912	D234E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	568383912	O75190	rs568383912	D234E	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely pathogenic, pathogenic	575604496	O75190	rs575604496	A50V	0.931		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely pathogenic, pathogenic	575604496	O75190	rs575604496	A50V	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic	575938861	O75190	rs575938861	G79D	0.346		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic	575938861	O75190	rs575938861	G79D	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		745312506						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		745537076						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	745727503	O75190	rs745727503	F114V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	745727503	O75190	rs745727503	F114V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	745938947	O75190	rs745938947	G212D	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	745938947	O75190	rs745938947	G212D	0.19		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		746500959						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	747600463	O75190	rs747600463	R127S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	747600463	O75190	rs747600463	R127S	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	749252793						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		749498741						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	749917279	O75190	rs749917279	K45E	0.931		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	749917279	O75190	rs749917279	K45E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		750100897						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	751839445	O75190	rs751839445	V99A	0.986		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	751839445	O75190	rs751839445	V99A	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		751970865	O75190	rs751970865	E210K	0.986		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		751970865	O75190	rs751970865	E210K	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		751970865	O75190	rs751970865	E210K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		751970865	O75190	rs751970865	E210K	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	752308458	O75190	rs752308458	T204I	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	752308458	O75190	rs752308458	T204I	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		752582580						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	752873323	O75190	rs752873323	L295V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	752873323	O75190	rs752873323	L295V	0.5		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	752973130	O75190	rs752973130	R244W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	752973130	O75190	rs752973130	R244W	0.34		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	753856844	O75190	rs753856844	A237P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	753856844	O75190	rs753856844	A237P	0.06		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		754885609						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		755351649						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	755805131						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		756587383						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	756888390	O75190	rs756888390	T173I	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	756888390	O75190	rs756888390	T173I	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		757082027						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	757579411						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	757767434	O75190	rs757767434	A143V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	757767434	O75190	rs757767434	A143V	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	757941397	O75190	rs757941397	P129H	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	757941397	O75190	rs757941397	P129H	0.2		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		758218470						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		758746376						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	759778675	O75190	rs759778675	S192P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	759778675	O75190	rs759778675	S192P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	pathogenic	759982570	O75190	rs759982570	F91L	0.822		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	pathogenic	759982570	O75190	rs759982570	F91L	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		760014403						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760098587	O75190	rs760098587	K308R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760098587	O75190	rs760098587	K308R	0.39		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760657136	O75190	rs760657136	A22V	0.988		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760657136	O75190	rs760657136	A22V	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760657136	O75190	rs760657136	A22V	0.987		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760657136	O75190	rs760657136	A22V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760970652	O75190	rs760970652	F83S	0.079		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	760970652	O75190	rs760970652	F83S	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		761061490						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		761165339						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	761335921	O75190	rs761335921	I203V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	761335921	O75190	rs761335921	I203V	0.09		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		761485382						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	763185312	O75190	rs763185312	R313K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	763185312	O75190	rs763185312	R313K	0.68		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	763185312	O75190	rs763185312	R313T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	763185312	O75190	rs763185312	R313T	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		763957260						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		764390173						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	765439077	O75190	rs765439077	G290A	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	765439077	O75190	rs765439077	G290A	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	765439077	O75190	rs765439077	G290E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	765439077	O75190	rs765439077	G290E	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely benign	766637787						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		766657033						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		767372593						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		767898412						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	769285457	O75190	rs769285457	G138R	0.855		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	769285457	O75190	rs769285457	G138R	0.15		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	769285457	O75190	rs769285457	G138R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	769285457	O75190	rs769285457	G138R	0.11		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	769302164	O75190	rs769302164	R264W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	769302164	O75190	rs769302164	R264W	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		769584019						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		770003519						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely pathogenic	770053224	O75190	rs770053224	T193A	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely pathogenic	770053224	O75190	rs770053224	T193A	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		770804521						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	771003490	O75190	rs771003490	S190L	0.992		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	771003490	O75190	rs771003490	S190L	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	771003490	O75190	rs771003490	S190L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	771003490	O75190	rs771003490	S190L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772121051	O75190	rs772121051	R135Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772121051	O75190	rs772121051	R135Q	0.05		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772129205	O75190	rs772129205	I229V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772129205	O75190	rs772129205	I229V	0.29		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772598402	O75190	rs772598402	S183G	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772598402	O75190	rs772598402	S183G	0.48		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772675515	O75190	rs772675515	K20R	0.968		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	772675515	O75190	rs772675515	K20R	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	773834593	O75190	rs773834593	K21R	0.981		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	773834593	O75190	rs773834593	K21R	0.04		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		774044766						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		774262625						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	774874052	O75190	rs774874052	I19V	0.981		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	774874052	O75190	rs774874052	I19V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		775051801						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	775708476	O75190	rs775708476	K311R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	775708476	O75190	rs775708476	K311R	0.23		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		776962478						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	777224069	O75190	rs777224069	G131V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	777224069	O75190	rs777224069	G131V	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	777690233	O75190	rs777690233	A252P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	777690233	O75190	rs777690233	A252P	0.2		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	777690233	O75190	rs777690233	A252T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	777690233	O75190	rs777690233	A252T	0.37		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		778209660						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	778861039	O75190	rs778861039	G124E	0.669		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	778861039	O75190	rs778861039	G124E	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	778861039	O75190	rs778861039	G124E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	778861039	O75190	rs778861039	G124E	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	779218392	O75190	rs779218392	R242H	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	779218392	O75190	rs779218392	R242H	0.21		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	779218392	O75190	rs779218392	R242L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	779218392	O75190	rs779218392	R242L	0.28		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		779839138						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		780251742						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	780874443	O75190	rs780874443	P109T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	780874443	O75190	rs780874443	P109T	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	781071853	O75190	rs781071853	I203T	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	781071853	O75190	rs781071853	I203T	0.11		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	781715608						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	pathogenic	869320700	O75190	rs869320700	F100V	0.998		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	pathogenic	869320700	O75190	rs869320700	F100V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic, pathogenic	869320701	O75190	rs869320701	F91I	0.975		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic, pathogenic	869320701	O75190	rs869320701	F91I	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic, pathogenic	869320701	O75190	rs869320701	F91L	0.822		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic, pathogenic	869320701	O75190	rs869320701	F91L	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic, pathogenic	869320701	O75190	rs869320701	F91V	0.92		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	likely pathogenic, pathogenic	869320701	O75190	rs869320701	F91V	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886042802	O75190	rs886042802	F100S	0.985		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886042802	O75190	rs886042802	F100S	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886042962	O75190	rs886042962	K320S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886042962	O75190	rs886042962	K320S	0.03		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043038	O75190	rs886043038	R62W	0.991		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043038	O75190	rs886043038	R62W	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043322	O75190	rs886043322	P259S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043322	O75190	rs886043322	P259S	0.83		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043335	O75190	rs886043335	A22T	0.999		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043335	O75190	rs886043335	A22T	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043396	O75190	rs886043396	I191V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043396	O75190	rs886043396	I191V	1.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043425	O75190	rs886043425	D221N	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043425	O75190	rs886043425	D221N	0.11		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043824	O75190	rs886043824	E241K	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043824	O75190	rs886043824	E241K	0.05		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043886	O75190	rs886043886	E278Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886043886	O75190	rs886043886	E278Q	0.16		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886044456	O75190	rs886044456	G290R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886044456	O75190	rs886044456	G290R	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886044476	O75190	rs886044476	P286L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886044476	O75190	rs886044476	P286L	0.24		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886044673						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886062127	O75190	rs886062127	D63G	0.669		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886062127	O75190	rs886062127	D63G	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886062128	O75190	rs886062128	F188L	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	886062128	O75190	rs886062128	F188L	0.01		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		886405967						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	888523644						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		888566321						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		895562842						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		899358771						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		905637365						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		910817368						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	925722572						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	932668103	O75190	rs932668103	P289R	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	932668103	O75190	rs932668103	P289R	0.07		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		932725904						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	935713558	O75190	rs935713558	E214Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	935713558	O75190	rs935713558	E214Q	0.02		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		940929032						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		947786979						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	953132658	O75190	rs953132658	T322S	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	953132658	O75190	rs953132658	T322S	0.3		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		960313585						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		964376270						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		965384494						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	969715884	O75190	rs969715884	R264Q	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	969715884	O75190	rs969715884	R264Q	0.06		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	971868513	O75190	rs971868513	S267P	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance	971868513	O75190	rs971868513	S267P	0.29		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		975472142						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		976719500						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	978425267	O75190	rs978425267	A272V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	978425267	O75190	rs978425267	A272V	0.7		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	978425267	O75190	rs978425267	A272V	0.0		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant	uncertain significance, likely benign	978425267	O75190	rs978425267	A272V	0.59		O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		989239256						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		989242880						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190
+DNAJB6	missense_variant		995356793						O75190	DnaJ homolog subfamily B member 6	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75190

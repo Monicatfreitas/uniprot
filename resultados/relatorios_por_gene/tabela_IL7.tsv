@@ -1,0 +1,415 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+IL7	missense_variant		1003026975						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1012908736	P13232	rs1012908736	R158K	0.003		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1012908736	P13232	rs1012908736	R158K	1.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1012908736	P13232	rs1012908736	R158K	0.228		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1012908736	P13232	rs1012908736	R158K	1.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1016980682						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1024344667						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1032424147						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1036921787						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1040233560						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1044841214						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1045115178						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1049060344						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1050746454						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1054251539						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1054283						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		111436520						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		112311844						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1163740902						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1167369115						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1170447225						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1176972631						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1178359896						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1180155040						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1188845385						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1193555438						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1194178239						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1198827290						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1202415415						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1202460819						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1202733283						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1202895907						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1203931873						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1205736267						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1208603793						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1212893275						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1213632198						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1216524801						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1216734391						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1221566196						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1229054678						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1229133492						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1231959724						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1232072982						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1233582921						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1234562122						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1235994926						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1241182299						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1248248716						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1250351364						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1254602963						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1257552994						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1259715402						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1262738102						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1266075647						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1268027183						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1273770277						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1274078756						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1276766704						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1277775364						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1287109931						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1290638849						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1298279505						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1301908806						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1302586613	P13232	rs1302586613	K122E	0.631		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1302586613	P13232	rs1302586613	K122E	0.19		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1304707439						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1308829728						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1309042394						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1324270053						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1325109498						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1328461209						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1329259823						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1331406682						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1334502110						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1336884582						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1345959075						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1347963459						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1349424260						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1359650280						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1363559314						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1366664604						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1370358952						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1370971115						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1372795463						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1378579132						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	138000597						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1384982518						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1385890837						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1387170954						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1388809924						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1390338258						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1390355294						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1391416856						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1391875317						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1392015528						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1393038298						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		139362657						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		139814140						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1400971480						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1408593430						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1409614805						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1410306123						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1412338111						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	141497872						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	141588511						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1416099361						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1416936620						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1419669138						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1420259001						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1420660002						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		142420326						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		142471753						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1427392614						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	142936222	P13232	rs142936222	A128V	0.042		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	142936222	P13232	rs142936222	A128V	0.16		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1429447371						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1430207737						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1431264599						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1431370389						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1433232139						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1434157046						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1437169014						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1438650947						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1438898899						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	143922654						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1441638843						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1443102523						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1447050682						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		144725627						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1448073958						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		145230246						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		145287590						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1454058399						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1458103060						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		146184464						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	146492124						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1468572373						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1472138074						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1475136497						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1477099319						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1477363243						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		147883140						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		147893047						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1479176834						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		148270750						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	148584360						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1485869868						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	148676236						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1489781720						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		150032736						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		150344275						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		151313589						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1563413800						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1563632409						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1563642714						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1586053396						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1586116958						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1586117078						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1586117088						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		17850447						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809559894						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809560203						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809560331						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809560662						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809561605						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809562183						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809661007						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809661089						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809661181						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809663694						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809979139						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809979627						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809979738						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809980794						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809981253						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809981975						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809983363						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1809984078						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810127733						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810128110						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810128634						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810129345						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810131383						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810131522						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810132006						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810132607						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810459924						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810462681						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810501273						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810503012						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1810503670						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1810504114						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	1811062507						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811064701						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811065038						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811065947						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811066884						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811139151						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811140565						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811140782						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811141536						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811141900						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811142234						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811142663						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811142722						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811143266						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811143717						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811484698						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811485363						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811486379						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811486727						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811489049						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811489505						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811600526						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811600800						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811668243						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811669790						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811670931						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811671777						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811672682						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811727903						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811728013						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1811728332						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1813921389						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1813924699						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1813925321						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		1813925581						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		199815883						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		200096220						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		200110247						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		200388839						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		200718109						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	200872378						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	benign	201412253	P13232	rs201412253	V18I	0.101		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	benign	201412253	P13232	rs201412253	V18I	0.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		201638521						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	201671046						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		2130485876						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		2130502284						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		2130502817						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		2130674264						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		2130690514						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		2130690710						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		368633779						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		369460395						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		370156121						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	370457429						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		370653445						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	371962432						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	372195442						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		372896908						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		373007696						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		373208347						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		374049698						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		375522431						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	375752713						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		375835069						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		376000246						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		376741969						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		377362539						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		529282955						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		538818172						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		554837713						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		555834100						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		560360621						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		560710529						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	574401853						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		574974793						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		575768717						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		745728021						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		746542150						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		747490567						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		748322481						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		748502580						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		749463362						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		749762459						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		750302785						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		750351449						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		750774583						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		750862330						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751067311						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751109108						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751288773						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751462790	P13232	rs751462790	S44N	0.031		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751462790	P13232	rs751462790	S44N	0.18		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751462790	P13232	rs751462790	S44N	0.528		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		751462790	P13232	rs751462790	S44N	0.31		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	752005617	P13232	rs752005617	M172V	0.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	752005617	P13232	rs752005617	M172V	0.01		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		752341988						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		752417374						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		752530643						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		753007013						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		753090076						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	753164075	P13232	rs753164075	D46N	0.003		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	753164075	P13232	rs753164075	D46N	1.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	753164075	P13232	rs753164075	D46N	0.829		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	likely benign	753164075	P13232	rs753164075	D46N	1.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	753236294						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	753704751						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	754119026						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		755465083						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		755827437						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		755837884						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		755939375						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		756265271						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		756567417						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		757535768						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		757598027						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		758063520						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		758360240						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		758737620						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		759047775						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		759065173						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		759336111						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	760588297	P13232	rs760588297	M52T	0.154		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	760588297	P13232	rs760588297	M52T	0.21		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		760921799						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761256249						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	761443209						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761554974						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	761621155						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761638942						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761646272	P13232	rs761646272	C27S	0.994		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761646272	P13232	rs761646272	C27S	0.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761646272	P13232	rs761646272	C27S	0.158		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		761646272	P13232	rs761646272	C27S	0.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		762037062						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		762985197	P13232	rs762985197	H70R	0.883		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		762985197	P13232	rs762985197	H70R	0.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		762985197	P13232	rs762985197	H70R	0.548		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		762985197	P13232	rs762985197	H70R	0.0		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		763567351						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	764732047						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		765286105						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		765414814						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		765509762						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		765810424						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		765908988						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		766736182						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		767072106						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		767161730						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		767163652						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		767253867						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		767612703						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		768143827						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		768342886						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	769083996						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		769574487						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		770305802						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		770481768						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		770664830						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	771464722						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		771991442						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		772108717						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		77219198						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		772265081						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		772566564						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		772869260						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		772891311						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	773815079						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		774298819						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		775228444						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		775516268						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		775645554						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		776409753						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		776838149						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		776875828						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		776890062						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	776941860						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		777304157						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		777362621						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		777639391						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		777730540						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		778502446						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		779146262						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		779257641						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		779614896						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		779628800						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		779819533						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		780091922						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		780293903						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		780566556						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		780961934						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		781044570						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		781253947						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		781353383						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		867047499						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		868084012						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		868658527						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		879262449						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		893160696						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		893618094						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		897190637						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	899614670	P13232	rs899614670	G119D	0.031		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	899614670	P13232	rs899614670	G119D	0.61		P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		900976157						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		901730759						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		905468861						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	907607851						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		909283706						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		914163193						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		917551483						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		930890359						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		936698882						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		939813919						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		940526972						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant	uncertain significance	944859318						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		946923379						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		947886407						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		970757635						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		994416882						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232
+IL7	missense_variant		997451545						P13232	Interleukin-7	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13232

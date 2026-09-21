@@ -1,0 +1,672 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+HLA-A	missense_variant		1059423						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059438						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059441						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059449						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059451						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059467						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059488						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059506						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059509	P04439	rs1059509	N151K	0.011		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059509	P04439	rs1059509	N151K	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059516						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059520						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059526						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059535						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059536	P04439	rs1059536	H175R	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059536	P04439	rs1059536	H175R	0.66		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059542	P04439	rs1059542	D185E	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059542	P04439	rs1059542	D185E	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059563	P04439	rs1059563	P217A	0.005		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059563	P04439	rs1059563	P217A	0.02		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059632	P04439	rs1059632	A270S	0.011		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059632	P04439	rs1059632	A270S	0.02		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059644						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1059686						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059896	P04439	rs1059896	V321M	0.018		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1059896	P04439	rs1059896	V321M	0.04		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1064588						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1071742						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1071743						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136659						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136683						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136688						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136689	P04439	rs1136689	G103R	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136689	P04439	rs1136689	G103R	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136690	P04439	rs1136690	T104I	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136690	P04439	rs1136690	T104I	0.2		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136691	P04439	rs1136691	G107R	0.039		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136691	P04439	rs1136691	G107R	0.24		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136692						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136695						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136697						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136700						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136702						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136741	P04439	rs1136741	P208A	0.006		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136741	P04439	rs1136741	P208A	0.03		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136835						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136903	P04439	rs1136903	L300P	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1136903	P04439	rs1136903	L300P	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1136949						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137078	P04439	rs1137078	T323A	0.001		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137078	P04439	rs1137078	T323A	0.08		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137110	P04439	rs1137110	M331R	0.001		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137110	P04439	rs1137110	M331R	0.02		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1137160						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137296						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137631	P04439	rs1137631	V358M	0.118		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	1137631	P04439	rs1137631	V358M	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1143146						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		11539959	P04439	rs11539959	D61H	0.927		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		11539959	P04439	rs11539959	D61H	0.02		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		11539961						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		11539964						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1159133083						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1159794918						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		116046290						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1177565845						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1188656562						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1195498708						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1197897084						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1201810124						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1206196955						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1217110251						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1224118165						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1224472509						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1230852068						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1249775058						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1254449463	P04439	rs1254449463	R226K	0.274		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1254449463	P04439	rs1254449463	R226K	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1256571155						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1261317475						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1263735752						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1271210339	P04439	rs1271210339	F60I	0.305		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1271210339	P04439	rs1271210339	F60I	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		12721755						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1274693904						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1275561861						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1277081625						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1279237267						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1282646334						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1292284887						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1305196778						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1309319503						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1329112724						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1336550957						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1338194357						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1338330043						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1341761581						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1357300644	P04439	rs1357300644	T323I	0.244		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1357300644	P04439	rs1357300644	T323I	0.36		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1365545250						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1367919756						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		138704952						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1387766929						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1408894247						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1412361945						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1419139161						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1422775345						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1425587881						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		142768093						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1432985516						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1435017432						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1441223205						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1443531825						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1450362906						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		145046067						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1454564491						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1460216591						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1469199431						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1487650695						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		148794540						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		150028516						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		150135282						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1554256033						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1561762151						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1562680966						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1562684747						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1582005803						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		17185854						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		17185861						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1770933332						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1770936543						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1770948309						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1770997925						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771002149						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771044605						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771055680						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771081527						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771197964						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771258269						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771355302						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771355558						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771357688						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771361494						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771367054						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771367855						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771369593						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771370619						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771372811						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771378442						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771391393						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771395922						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771397520						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771399913						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771405384						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771407249						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771410377						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771410944						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771411729						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771419298						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771442598						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771446065						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771516369						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771542867						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771546729						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771549558						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771549937						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771550316						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		1771550725						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474346						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474347						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474349						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474350						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474352						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474355						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474357						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474358						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474360						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474361						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474362						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474364						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474365						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474366						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474367						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474369						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474370						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474371						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474372						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474374						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474375						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474377						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474378						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474379						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474380						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474381						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474382						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474384						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474386						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474387	P04439	rs199474387	D63H	0.999		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474387	P04439	rs199474387	D63H	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474387	P04439	rs199474387	D63Y	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474387	P04439	rs199474387	D63Y	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474388						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474389						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474390						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474393						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474395						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474396	P04439	rs199474396	Q67H	0.562		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474396	P04439	rs199474396	Q67H	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474397						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474398						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474399						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474401						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474407						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474409						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474410						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474411	P04439	rs199474411	E77G	0.999		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474411	P04439	rs199474411	E77G	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474412						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474413						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474414						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474416						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474417						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474419						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474421						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474422						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	likely benign	199474424						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474425						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474426						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474430						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474431						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	uncertain significance	199474434						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474436	P04439	rs199474436	N90K	0.001		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474436	P04439	rs199474436	N90K	0.33		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474438						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474440						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474442						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474443						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474449						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474451						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474453						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474455						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474457						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474459						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474462						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474463						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474464						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474466						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474467						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474468						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474469						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474473						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474474						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474478						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474480						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474481	P04439	rs199474481	Q120H	0.017		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474481	P04439	rs199474481	Q120H	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474483						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474485						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474487						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474490						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474492						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	benign	199474493	P04439	rs199474493	G128E	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	benign	199474493	P04439	rs199474493	G128E	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474495						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474496						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474497						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474498						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474499						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474500						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474502						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474503						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474505						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474506						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474507						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474508						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474509						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474511						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474512						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474513						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474514						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474515						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474516						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474518						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474521						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474522						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474526						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474527						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474530						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474531						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474532						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474534						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474535						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474537						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474538	P04439	rs199474538	A164T	0.998		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474538	P04439	rs199474538	A164T	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474539						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474540						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474542						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474543						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474544						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474548						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474550						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474552						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474553						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474554						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474556						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474558						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474560						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474563						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474564						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474567						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474569						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474570						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474571						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474572						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474574						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474575						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474576						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474577						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474581	P04439	rs199474581	R205C	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474581	P04439	rs199474581	R205C	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474584						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474610						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474612						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474614						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474615						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474618						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474619						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474622						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474624						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474625						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474626						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474628						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474631						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474637						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474640						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199474642						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		199781826						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		200050592						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		200058378	P04439	rs200058378	A2V	0.014		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		200058378	P04439	rs200058378	A2V	0.21		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		200993279						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		201603558						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2075684						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582097						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582135						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582142						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582173						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582183						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582208						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582684						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582835						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582901						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582923						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582953						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127582996						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127583223						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127583306						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127583787						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127583806						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127584747						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127584784						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127584907						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127584911						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127584930						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127584946						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127585256						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127585321						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587162						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587325						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587563						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587586						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587601						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587704						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587711						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587771						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127587812						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127588362						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127588405						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127588422						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127588436						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		2127588446						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	2231004	P04439	rs2231004	D101G	0.212		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	2231004	P04439	rs2231004	D101G	0.19		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	2231119	P04439	rs2231119	T345S	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	2231119	P04439	rs2231119	T345S	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864722						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864723						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864724						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864727						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864729						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864731						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864732						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864734						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864735						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864738						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864741						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864742						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864743						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864747						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864749						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864752						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864753	P04439	rs281864753	L150Q	0.994		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864753	P04439	rs281864753	L150Q	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864754						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864755						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864757						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864759						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864760						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	benign	281864764	P04439	rs281864764	D220H	0.999		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	benign	281864764	P04439	rs281864764	D220H	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864765						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864766						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864767						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864769						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864770						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864771						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		281864773						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		28628184						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		3098019						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		3129017						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		3173419						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3173420	P04439	rs3173420	R138Q	0.001		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3173420	P04439	rs3173420	R138Q	0.24		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3173429						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3179982	P04439	rs3179982	L318F	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3179982	P04439	rs3179982	L318F	0.05		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3180278	P04439	rs3180278	I322F	0.001		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	3180278	P04439	rs3180278	I322F	0.03		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		35946537						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		369261720						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		376591124						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		386698549						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		386698550						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		386698551						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		386698552						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		386698553						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41540012						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41540118						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41540315						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41540417						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41541013						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41541015						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41541319						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41541913						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41542119						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41542421						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41543114						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41543413	P04439	rs41543413	R135C	0.995		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41543413	P04439	rs41543413	R135C	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41543912						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41544012						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41544016						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41544019						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41544521						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41544717						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41545116						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41545513						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41545519						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41546018	P04439	rs41546018	E201K	0.992		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41546018	P04439	rs41546018	E201K	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41547916						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41548412						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41548421						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41548515						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41548812						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41548917						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41549014						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41549215						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41549316						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41550119						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41550321						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41550416						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41550912	P04439	rs41550912	G319V	0.009		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41550912	P04439	rs41550912	G319V	0.1		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41551416						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41551512						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41551612						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41551921						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41552215						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41552219						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41552317						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41552413						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41552712						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41553815						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41554014						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41554113						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41554316						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41554420						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41554816						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41554918						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41555113						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41555312						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41555613						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41555915						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41556016						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41556317						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41556913						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557118						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557122						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557212						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557315						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557419						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557613						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557815						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41557913						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41558424						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41558618						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41558916						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41559117						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41559423						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41559516						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41559716						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41559916						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41560112						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41560122						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41560823						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41560913						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41560917						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41561719						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41562020						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41562118						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41562120						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41562515						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41563116						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41563419						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41563719						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		41564012						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45442596						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45444095						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45463999						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45468091						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45469394						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45474295						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45491502						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45514001						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45533435						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45542135	P04439	rs45542135	G136R	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45542135	P04439	rs45542135	G136R	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45552635						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45562634						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45564240						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45569434						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45572432						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		45572937						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	likely benign	45585732	P04439	rs45585732	R30K	0.975		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	likely benign	45585732	P04439	rs45585732	R30K	0.04		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		543207098						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		543623321						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		550984689						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		554470055						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		555527051						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		55678004						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		55780271						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		56236193						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		56343262						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61759956						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61759957						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61759958						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61760918						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61760919						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61760921						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61760923						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61760924						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		61760925						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		62687162						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		66488547						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		707910						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		70944746						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72555394						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72555398						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72555399						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72555400						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72555401						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72558105	P04439	rs72558105	R243W	0.88		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		72558105	P04439	rs72558105	R243W	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		74528514						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		746131702	P04439	rs746131702	G324A	0.493		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		746131702	P04439	rs746131702	G324A	0.02		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		746490000	P04439	rs746490000	P293T	0.013		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		746490000	P04439	rs746490000	P293T	0.01		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		747855038						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		748125294	P04439	rs748125294	A270V	0.181		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		748125294	P04439	rs748125294	A270V	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		748509231						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		748560158						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		749049778						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		750005260						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		75064259						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		750703142						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		750716931						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		750976599						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		751524208						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		751718154						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		752760638						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		754981287						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		755184106						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		755858715						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		75592581						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		756142893						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		757442091						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		757899100						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		758168864						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		75991672						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		760978052						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		76098253						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		761314116						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		761508069						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		761593088	P04439	rs761593088	V309M	0.802		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		761593088	P04439	rs761593088	V309M	0.17		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		761828180						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		762131556						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		762796897						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		76355537						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		76385482						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		76388977						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		764331953						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		764711847						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		765200653						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		765672807						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		765854257						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		766567333						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		766935810						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		767513288						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		767636954						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		769009978						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		770552939						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		771934696						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		77235917						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		772821446	P04439	rs772821446	G261V	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		772821446	P04439	rs772821446	G261V	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		773946546						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		774421641						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		77614270						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		777330638						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		777403369						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		778286921						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		779824024						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		779828907						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		780617605						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	78306866	P04439	rs78306866	Q94H	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	78306866	P04439	rs78306866	Q94H	0.53		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		78674188						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		78691935						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		78923580						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		78974056						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		79326316						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		79361534						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		79442106						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		79493767						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		796080364						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		796269634						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		796466815						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		796713066						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		80300804						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		879577815	P04439	rs879577815	E190D	0.003		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		879577815	P04439	rs879577815	E190D	0.04		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9256983						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260138	P04439	rs9260138	L105V	0.253		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260138	P04439	rs9260138	L105V	0.03		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260139	P04439	rs9260139	L105P	0.993		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260139	P04439	rs9260139	L105P	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260140	P04439	rs9260140	R106L	0.027		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260140	P04439	rs9260140	R106L	0.41		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		9260155						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		9260157						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260179	P04439	rs9260179	I218V	0.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260179	P04439	rs9260179	I218V	1.0		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260180	P04439	rs9260180	G231S	0.005		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant	drug response	9260180	P04439	rs9260180	G231S	0.02		P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439
+HLA-A	missense_variant		9391665						P04439	HLA class I histocompatibility antigen, A alpha chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P04439

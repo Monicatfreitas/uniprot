@@ -1,0 +1,515 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+TRIM69	missense_variant		1000140840						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1011439676						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1013465913						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1016285323						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1024732859						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1035246716						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1040058238						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		113204970						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	benign	114770697	Q86WT6	rs114770697	I399F	0.987		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	benign	114770697	Q86WT6	rs114770697	I399F	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1158517170						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1161775991						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1162240138						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1166168955						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1166709947						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1170988353						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1173101589						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1174476424						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1181686496						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1183466791						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1188128287						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1192023577						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1194237644						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1198418889						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1203950694						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1208337108						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1211074100						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1211144659						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1214205309						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1227026253						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1228502941						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1228978927	Q86WT6	rs1228978927	S55N	0.243		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1228978927	Q86WT6	rs1228978927	S55N	0.25		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1228978927	Q86WT6	rs1228978927	S55N	0.25		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1228978927	Q86WT6	rs1228978927	S55N	0.22		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1233557967						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1233595543						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1233690658	Q86WT6	rs1233690658	P116S	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1233690658	Q86WT6	rs1233690658	P116S	0.49		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1234803353						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1244883883						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1244939039						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1245378997	Q86WT6	rs1245378997	L276F	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1245378997	Q86WT6	rs1245378997	L276F	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1245378997	Q86WT6	rs1245378997	L276F	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1245378997	Q86WT6	rs1245378997	L276F	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1246128520						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1254355486						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1258898652						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1262507860						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1264720899						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1264862913						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1269886830	Q86WT6	rs1269886830	P430S	0.918		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1269886830	Q86WT6	rs1269886830	P430S	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1277801599						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1280407819						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1282771791						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1288265306	Q86WT6	rs1288265306	P13L	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1288265306	Q86WT6	rs1288265306	P13L	0.18		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1288265306	Q86WT6	rs1288265306	P13L	0.003		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1288265306	Q86WT6	rs1288265306	P13L	0.07		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1297438444						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1299106101						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1305368325						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1315792152						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1320271639						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1322479744						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1323325932						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1323634961						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1324450551						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1328526144						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1334925516						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1337835844						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1338036490						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1341395490						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1342787715	Q86WT6	rs1342787715	D12G	0.115		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1342787715	Q86WT6	rs1342787715	D12G	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1342787715	Q86WT6	rs1342787715	D12G	0.12		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1342787715	Q86WT6	rs1342787715	D12G	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1343736979						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1350404715						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1359902675						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1362577388	Q86WT6	rs1362577388	A459V	0.981		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1362577388	Q86WT6	rs1362577388	A459V	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1362577388	Q86WT6	rs1362577388	A459V	0.982		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1362577388	Q86WT6	rs1362577388	A459V	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1363844884						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1364228295						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1365494248						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1373277525	Q86WT6	rs1373277525	P499S	0.482		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1373277525	Q86WT6	rs1373277525	P499S	0.02		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1375955762						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1376200793						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1389104402						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1389586488						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	139002192						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1390214558						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	139044725	Q86WT6	rs139044725	T261M	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	139044725	Q86WT6	rs139044725	T261M	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1390646912	Q86WT6	rs1390646912	K110R	0.014		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1390646912	Q86WT6	rs1390646912	K110R	0.31		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1390702291						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1394910231						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1395849217						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1402765442						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1403182655						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	140508009	Q86WT6	rs140508009	S28F	0.608		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	140508009	Q86WT6	rs140508009	S28F	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	140705646	Q86WT6	rs140705646	D441G	0.036		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	140705646	Q86WT6	rs140705646	D441G	0.12		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1408897925						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1414598619						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1423070590						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1423231703						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1426803997	Q86WT6	rs1426803997	L132R	0.947		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1426803997	Q86WT6	rs1426803997	L132R	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1426803997	Q86WT6	rs1426803997	L132R	0.949		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1426803997	Q86WT6	rs1426803997	L132R	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		142877382						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1431722811						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1431961160						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	143209412	Q86WT6	rs143209412	L178F	0.973		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	143209412	Q86WT6	rs143209412	L178F	0.09		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1432108521	Q86WT6	rs1432108521	K29E	0.046		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1432108521	Q86WT6	rs1432108521	K29E	0.19		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1432108521	Q86WT6	rs1432108521	K29E	0.047		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1432108521	Q86WT6	rs1432108521	K29E	0.22		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		143370252						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1435757171						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1442246522	Q86WT6	rs1442246522	H495Y	0.066		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1442246522	Q86WT6	rs1442246522	H495Y	0.09		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1443910032						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		144447354						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1446056457						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1447301661	Q86WT6	rs1447301661	A73T	0.006		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	1447301661	Q86WT6	rs1447301661	A73T	0.51		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1448276612						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		144953961						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1451473653						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1453903690						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1455463453						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	145552604	Q86WT6	rs145552604	Q315K	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	145552604	Q86WT6	rs145552604	Q315K	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	145552604	Q86WT6	rs145552604	Q315K	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	145552604	Q86WT6	rs145552604	Q315K	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1455788590						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	145844765	Q86WT6	rs145844765	D441E	0.021		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	145844765	Q86WT6	rs145844765	D441E	0.39		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1460759546						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1461231104						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1463426747						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		146347944						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1464390631						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1465338983						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1465636226						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		147224384						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1472363977	Q86WT6	rs1472363977	L197P	0.701		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1472363977	Q86WT6	rs1472363977	L197P	0.2		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1472363977	Q86WT6	rs1472363977	L197P	0.71		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1472363977	Q86WT6	rs1472363977	L197P	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1476419216						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1479569383						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1480265713						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		149128387						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		149919213						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	150729472						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		151051317						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		151277991						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1555395505						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1566895526						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1566898058						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1566902879						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1566903209						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1596028487						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		17588988						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		180922299						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		1879473707						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	190384611						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	199662710	Q86WT6	rs199662710	G111C	0.791		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	199662710	Q86WT6	rs199662710	G111C	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		199697343						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		200497268						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201133089	Q86WT6	rs201133089	Q315R	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201133089	Q86WT6	rs201133089	Q315R	0.21		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201166045	Q86WT6	rs201166045	R401W	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201166045	Q86WT6	rs201166045	R401W	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201166045	Q86WT6	rs201166045	R401W	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201166045	Q86WT6	rs201166045	R401W	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		201306104						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	risk factor	201411863	Q86WT6	rs201411863	F468L	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	risk factor	201411863	Q86WT6	rs201411863	F468L	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		201506732						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201939428	Q86WT6	rs201939428	F269L	0.852		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	201939428	Q86WT6	rs201939428	F269L	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		201956627						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	202081848	Q86WT6	rs202081848	R371K	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	202081848	Q86WT6	rs202081848	R371K	0.78		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	202081848	Q86WT6	rs202081848	R371K	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	202081848	Q86WT6	rs202081848	R371K	0.96		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	202105411	Q86WT6	rs202105411	M284I	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	202105411	Q86WT6	rs202105411	M284I	0.49		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087610491						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087611795						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087612835						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087613745						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087615125						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087618487						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087618886						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087619145						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087619297						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087619640						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087620529						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087620650						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087621104						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087621683						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087622038						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087622109						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087622735						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087623537						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087647931						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087648103						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087649355						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087649758						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087703631						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087703703						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087703775						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087704495						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087704964						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087706284						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087707093						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087707307						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087709018						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087709569						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087710418						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087733922						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087734568						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087734704						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	2087734932						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087735478						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087736540						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087737355						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087738008						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087915316						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087916256						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087917818						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087917914						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	2087918511						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087918896						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087920457						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087921487						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087922057						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087922213						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087923865						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087925385						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087926658						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087928143						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087928492						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087929901						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087931110						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087931885						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087933057						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087933395						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087933957						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2087934432						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138181						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138318						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138416						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138589						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138668						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138734						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141138739						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141142820						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141142847						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141154550						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141154794						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2141154978						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	benign	2444007						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		2470911						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	2506088977						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	2506089741						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	2506090432						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	2506098368						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	2506116393						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		3100139						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		367855776						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		369706564						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	370609382						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		371213061						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		372211170						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		372919928	Q86WT6	rs372919928	P358S	0.869		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		372919928	Q86WT6	rs372919928	P358S	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		372919928	Q86WT6	rs372919928	P358S	0.873		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		372919928	Q86WT6	rs372919928	P358S	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		373975533						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		374508692						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		374559258						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	375025513	Q86WT6	rs375025513	N439S	0.005		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	375025513	Q86WT6	rs375025513	N439S	0.41		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		375180289						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		375788351						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		375866898						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		3759880						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		376689325						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	376916812	Q86WT6	rs376916812	S126C	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	376916812	Q86WT6	rs376916812	S126C	0.11		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		530330063	Q86WT6	rs530330063	E2Q	0.112		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		530330063	Q86WT6	rs530330063	E2Q	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		530330063	Q86WT6	rs530330063	E2Q	0.026		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		530330063	Q86WT6	rs530330063	E2Q	0.08		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		539528608						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	543644171	Q86WT6	rs543644171	R226W	0.508		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	543644171	Q86WT6	rs543644171	R226W	0.02		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		547740712						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		549900763						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		550952215						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		551877622						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		551979738						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		563432757						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		565751538						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	569508537	Q86WT6	rs569508537	N420K	0.998		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	569508537	Q86WT6	rs569508537	N420K	0.06		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		578195147						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		745458449						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		746977413						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		747081759						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		747568657						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		748251986						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		748436961						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		748470236						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	748744368						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749078482						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749171075	Q86WT6	rs749171075	R141Q	0.067		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749171075	Q86WT6	rs749171075	R141Q	0.4		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749171075	Q86WT6	rs749171075	R141Q	0.066		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749171075	Q86WT6	rs749171075	R141Q	0.48		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749343979						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		749736724						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		750038901						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		750383432						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		750565685						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		750616696						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		751018211						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	751151357						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		751203357						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	751614979	Q86WT6	rs751614979	K138Q	0.734		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	751614979	Q86WT6	rs751614979	K138Q	0.05		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		752010745						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		752115228						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	752695114	Q86WT6	rs752695114	H333Q	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	752695114	Q86WT6	rs752695114	H333Q	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	752758009						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		753155812						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		753566935						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		753668437						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		754062769						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		754206325						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		754236313						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		754577212						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		756029206						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		756444431						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		757291126						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		757541945						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		757620967						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		757925653						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		758103609						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		758490016						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		758996788						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		759166153						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		759608597						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		759633731						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		759684597						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		760079915						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761506234	Q86WT6	rs761506234	L287M	0.388		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761506234	Q86WT6	rs761506234	L287M	0.04		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761506234	Q86WT6	rs761506234	L287M	0.398		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761506234	Q86WT6	rs761506234	L287M	0.04		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761545728	Q86WT6	rs761545728	R49Q	0.165		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761545728	Q86WT6	rs761545728	R49Q	0.21		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761545728	Q86WT6	rs761545728	R49Q	0.162		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761545728	Q86WT6	rs761545728	R49Q	0.2		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		761644204						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762264277						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762343655						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762526755	Q86WT6	rs762526755	M53V	0.718		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762526755	Q86WT6	rs762526755	M53V	0.13		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762526755	Q86WT6	rs762526755	M53V	0.726		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762526755	Q86WT6	rs762526755	M53V	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762650184						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		762796085						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		764020652						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		764516223						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		764614072						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		765118010						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		765130725						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		765531334						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		765939742						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		766265248						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		766335928						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	767103515						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	767436744	Q86WT6	rs767436744	P406A	0.049		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	767436744	Q86WT6	rs767436744	P406A	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768007311						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768047551						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768235538						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768458983	Q86WT6	rs768458983	F48L	0.997		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768458983	Q86WT6	rs768458983	F48L	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768458983	Q86WT6	rs768458983	F48L	0.997		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768458983	Q86WT6	rs768458983	F48L	0.13		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768616131						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768802917						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		768847299						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		769079979						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		769408814						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		769533121						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	769583362	Q86WT6	rs769583362	C90R	0.51		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	769583362	Q86WT6	rs769583362	C90R	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		769704153						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		770640387						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		770672217						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		771000401						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	771144186	Q86WT6	rs771144186	M37T	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	771144186	Q86WT6	rs771144186	M37T	0.37		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		771412109						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	771484406	Q86WT6	rs771484406	L124R	0.996		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	771484406	Q86WT6	rs771484406	L124R	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		771736322						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		771777484						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	772155024	Q86WT6	rs772155024	C481Y	0.987		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	772155024	Q86WT6	rs772155024	C481Y	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		772259537						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		772381622						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	772815344						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		772866631						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	772866731	Q86WT6	rs772866731	P320S	0.861		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	772866731	Q86WT6	rs772866731	P320S	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		772968287						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		772986103						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		773291642						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	773433344						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		773473629						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		773490840						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		773951096						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		77414494						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		774442608						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		774512600						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		774565721						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		774571457						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	775305195	Q86WT6	rs775305195	G283E	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	775305195	Q86WT6	rs775305195	G283E	0.12		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	775305195	Q86WT6	rs775305195	G283E	0.031		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	775305195	Q86WT6	rs775305195	G283E	0.2		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		775587500						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		775799131						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		776455537						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		776561118						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		776968166	Q86WT6	rs776968166	E359Q	0.935		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		776968166	Q86WT6	rs776968166	E359Q	0.03		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		776968166	Q86WT6	rs776968166	E359Q	0.938		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		776968166	Q86WT6	rs776968166	E359Q	0.04		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777076724						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777291853						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777474756						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777591033						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777717730	Q86WT6	rs777717730	R141W	0.948		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777717730	Q86WT6	rs777717730	R141W	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777717730	Q86WT6	rs777717730	R141W	0.947		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		777717730	Q86WT6	rs777717730	R141W	0.01		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		778270656						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		778647787	Q86WT6	rs778647787	V345I	0.906		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		778647787	Q86WT6	rs778647787	V345I	0.1		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		778647787	Q86WT6	rs778647787	V345I	0.904		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		778647787	Q86WT6	rs778647787	V345I	0.02		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		778700558						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		779039319						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		779243821						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		779421211	Q86WT6	rs779421211	Q258K	0.012		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		779421211	Q86WT6	rs779421211	Q258K	0.31		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		779421211	Q86WT6	rs779421211	Q258K	0.013		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		779421211	Q86WT6	rs779421211	Q258K	0.1		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		780054663						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	781021307	Q86WT6	rs781021307	H211R	0.988		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	781021307	Q86WT6	rs781021307	H211R	0.04		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		781343785	Q86WT6	rs781343785	N10S	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		781343785	Q86WT6	rs781343785	N10S	0.18		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		781343785	Q86WT6	rs781343785	N10S	0.003		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		781343785	Q86WT6	rs781343785	N10S	0.15		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		781662713						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		866109922						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		866272314						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		867407692						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		867717746						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		868569561						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		893543981						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	903164690	Q86WT6	rs903164690	C319Y	0.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	903164690	Q86WT6	rs903164690	C319Y	0.52		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		903355652						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	905064878						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		905980772						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		907223951						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		929760356						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	930358746	Q86WT6	rs930358746	D441N	0.001		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	930358746	Q86WT6	rs930358746	D441N	0.96		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	930358746	Q86WT6	rs930358746	D441N	0.001		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	likely benign	930358746	Q86WT6	rs930358746	D441N	1.0		Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		951278290						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		961690365						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		966870051						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	971378384						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		973650962						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		977861011						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		983880808						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant	uncertain significance	991171915						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		997247742						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6
+TRIM69	missense_variant		999093568						Q86WT6	E3 ubiquitin-protein ligase TRIM69	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q86WT6

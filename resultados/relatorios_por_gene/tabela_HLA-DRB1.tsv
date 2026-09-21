@@ -1,0 +1,407 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+HLA-DRB1	missense_variant	likely benign	1059351						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059362						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059569						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	benign	1059572	P01911	rs1059572	F55L	0.02		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	benign	1059572	P01911	rs1059572	F55L	0.39		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059575	P01911	rs1059575	D57E	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059575	P01911	rs1059575	D57E	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059582						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059583						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059584						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1059586						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1064592						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1064664						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1071752	P01911	rs1071752	Q125H	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1071752	P01911	rs1071752	Q125H	0.06		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		111739605	P01911	rs111739605	V209L	0.005		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		111739605	P01911	rs111739605	V209L	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		111934004						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		112116022						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		112796209						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1136756						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1136758						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1136759						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1136791						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1136846						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1136881						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		114435757						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		11554462						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1162153385						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1168052524						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1168586345						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1171621093						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1174520829						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1175652671						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1184634497						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1188819124						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1193182644						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1193189847						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1195941088						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1195966301						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1203359833						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1204850358						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1212770557						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1219391595						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1222917264						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1232409528						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1236785022						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1237430078	P01911	rs1237430078	K168E	0.994		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1237430078	P01911	rs1237430078	K168E	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1237430078	P01911	rs1237430078	K168E	0.996		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1237430078	P01911	rs1237430078	K168E	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1239859359						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1254922824						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1256226377						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1259718895						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1261426119						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1262495531						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1265251973						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1266924653						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1268455413						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1273268115						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1275618935						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1280070066						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1284591219						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1289742638						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1293359869						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1298694396						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1303260918						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1335931724						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1336446919						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1351510171						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1359742535						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1362794468						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1372824758						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1384756837						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1393297893						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1416513095						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1416623764						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1419622761						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1431633408						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1432159668						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1441181159						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1449348466						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1453294980						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1457558927						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1464652287						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1468275841						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1472398065						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1478074313						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		148093782						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		148699775						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1488830280						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1489347193						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		150644773						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		150747106						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1554131535						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1561803226						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	likely benign	1561803389						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1561818227						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1581768531						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1581786757						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		16822698						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	uncertain significance	16822805	P01911	rs16822805	A103P	0.061		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	uncertain significance	16822805	P01911	rs16822805	A103P	0.05		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		16822820						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		16822972						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17424145						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17424180						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17433947	P01911	rs17433947	T135A	0.976		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17433947	P01911	rs17433947	T135A	0.02		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17433947	P01911	rs17433947	T135A	0.995		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17433947	P01911	rs17433947	T135A	0.02		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775229980						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775230229						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775322531						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775327637						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775328945						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775329501						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775332844						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775496782						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775503837						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775505070						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775507201						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775508495						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775509810						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775512313						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775514097						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775518205						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775521003						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775522470						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775529164						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775530570						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775531113						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775535215						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775543496						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775547598						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775548410						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775554299						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775994306						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1775995099						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776016207						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776018468						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776033558						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776053253						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776055186						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776055608						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776056123						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776057324						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776068949						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776069820						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1776070085						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1777082662						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1777086461						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1777088601						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1777093998						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1777094897						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		1777096558						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17856290						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878437						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878475						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878614	P01911	rs17878614	V67L	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878614	P01911	rs17878614	V67L	0.33		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878671						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878703						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878857						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878874						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878902						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878947						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17878951						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879020						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879125						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879213						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879230						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879242						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879432						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879469						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879476						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	likely benign	17879599						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879620						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879702						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879746						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879937						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879954						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879981						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17879995						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17880292						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17881176						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17881965						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882006						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882014						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882098						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882300						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882378						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882450						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882455						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882583						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882603						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17882663						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17883271						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17883297						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17884043						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17884070						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17884945						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885079						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885129						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	likely benign	17885222						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885257						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885382						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885437						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885482						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885501						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885869						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885908						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17885959						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17886436						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17886514						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17886882						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17886918						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17886928						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17887012						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		17887028						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	likely benign	17887154						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		187619904						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		188617679						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	likely benign	192487435						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		199514452						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		199873800						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	likely benign	200078051						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		200516145						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		200532329						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		200809587						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201128876						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201540428						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201614260						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201698383						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201700261						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201726340						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201749971						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		201929247						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		202047044						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150754433						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150764397						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150764627						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150764807						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150781694						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150782267						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150783499						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	uncertain significance	2150822601	P01911	rs2150822601	V21M	0.842		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	uncertain significance	2150822601	P01911	rs2150822601	V21M	0.08		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150822651						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150822702						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2150822874						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2308760						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2308765						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2308767						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2308769						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2308775						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		2308802						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		29029548						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		29029549						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		3175105						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		3200488						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		3205588						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		33926824						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		33936261						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		34624872						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		35053532						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		35300013						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		35445101						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		36044702						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		372634318						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		374360042						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		377738927						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		3830125						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		41308497						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		41308498						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		41308499						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		41508449						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		41557115						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		527579312						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		531360990	P01911	rs531360990	G233R	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		531360990	P01911	rs531360990	G233R	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		531360990	P01911	rs531360990	G233R	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		531360990	P01911	rs531360990	G233R	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		534556045						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		549336174						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		549532696						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		55655909						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		56158521						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		572671781						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		572938448						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		61759931						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		61759932						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		61759933						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		61759934						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		61759935						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		63548860						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		701829						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		707941						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		707953						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		707954						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	benign	707957						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		71547382						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		72558166						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		745460990						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		745750329						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		747606824						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		747689830						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		74812266						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		748138944						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		748235111						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		748753529						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		748921985						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		749376442						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		750329958						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		750742941						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		750986830						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		751099504						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		751566442						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		751957355						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		752658977						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		753240578						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		753377038						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		754180747						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		754898862						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		754953589						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		756065229						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		756774358						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		757039955						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	uncertain significance	757966595	P01911	rs757966595	G164S	0.085		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	uncertain significance	757966595	P01911	rs757966595	G164S	0.04		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		758322418						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		758526015						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		759467362						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		759833767						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		760231231						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		760934639						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		761045049						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		761074986						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		761573085						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		762260834						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		762465894						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		762568730						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		763165642						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		767221650						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		767943289						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		768010958						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		768278955						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		768891284						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		76895951						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		769831677						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		769996810						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		770748207						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		771131230						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		771393800						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		771765212						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		771986476						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		773389640						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		774753056						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		775749976						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		77637983	P01911	rs77637983	Q178H	0.003		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		77637983	P01911	rs77637983	Q178H	0.16		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		776415590						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		776695055						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		77689370						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		777186597						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		778903456	P01911	rs778903456	G234C	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		778903456	P01911	rs778903456	G234C	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		778903456	P01911	rs778903456	G234C	1.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		778903456	P01911	rs778903456	G234C	0.01		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		779064494						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		779295390						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		779577456						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		779578123						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	pathogenic	780784592	P01911	rs780784592	E81V	0.996		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant	pathogenic	780784592	P01911	rs780784592	E81V	0.0		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		781165610						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		781319760						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		781648698	P01911	rs781648698	T210S	0.001		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		781648698	P01911	rs781648698	T210S	0.51		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		781648698	P01911	rs781648698	T210S	0.079		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		781648698	P01911	rs781648698	T210S	0.18		P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		78916069						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		796196270						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		796324593						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		796846373						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		79706935						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		80190494						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		868048748						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		868362879						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		878955279						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		879184569						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		879271320						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		879379639						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		879790499						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269744						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269941						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269942						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269951						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269955						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269956						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269959						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9269960						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9270299						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9270302						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911
+HLA-DRB1	missense_variant		9270303						P01911	HLA class II histocompatibility antigen, DRB1 beta chain	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P01911

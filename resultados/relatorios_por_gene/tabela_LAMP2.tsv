@@ -1,0 +1,506 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+LAMP2	missense_variant	uncertain significance	1006753991	P13473	rs1006753991	L376I	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1006753991	P13473	rs1006753991	L376I	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1022817972						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1033442580	P13473	rs1033442580	T194N	0.039		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1033442580	P13473	rs1033442580	T194N	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	104894858	P13473	rs104894858	V310F	0.015		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	104894858	P13473	rs104894858	V310F	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	104894858	P13473	rs104894858	V310I	0.027		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	104894858	P13473	rs104894858	V310I	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	104894858	P13473	rs104894858	V310L	0.107		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	104894858	P13473	rs104894858	V310L	0.08		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	104894859						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1052971417						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1057515745	P13473	rs1057515745	L350V	0.893		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1057515745	P13473	rs1057515745	L350V	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1057515746						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	111703410	P13473	rs111703410	T258I	0.059		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	111703410	P13473	rs111703410	T258I	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	111703410	P13473	rs111703410	T258R	0.323		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	111703410	P13473	rs111703410	T258R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1131691290	P13473	rs1131691290	T269A	0.758		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1131691290	P13473	rs1131691290	T269A	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1131691290	P13473	rs1131691290	T269A	0.765		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1131691290	P13473	rs1131691290	T269A	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		113529754						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1159923443						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1162557907						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1166678631	P13473	rs1166678631	V337L	0.009		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1166678631	P13473	rs1166678631	V337L	0.91		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1185408747						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1192996136						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1194513596						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1199019695						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1200950486	P13473	rs1200950486	P127L	0.997		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1200950486	P13473	rs1200950486	P127L	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1200950486	P13473	rs1200950486	P127R	0.999		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1200950486	P13473	rs1200950486	P127R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1207197859	P13473	rs1207197859	N185S	0.193		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1207197859	P13473	rs1207197859	N185S	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1207512652	P13473	rs1207512652	T60A	0.021		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1207512652	P13473	rs1207512652	T60A	0.63		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1218791353						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1220460748						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1224940162	P13473	rs1224940162	R293Q	0.827		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1224940162	P13473	rs1224940162	R293Q	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	1231592814						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1238020873	P13473	rs1238020873	R152K	0.031		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1238020873	P13473	rs1238020873	R152K	0.63		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1242313514	P13473	rs1242313514	V164I	0.946		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1242313514	P13473	rs1242313514	V164I	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1242464612	P13473	rs1242464612	I345V	0.567		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1242464612	P13473	rs1242464612	I345V	0.17		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1246273107						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1246477767	P13473	rs1246477767	Q245E	0.014		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1246477767	P13473	rs1246477767	Q245E	0.15		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1259106557						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1267770607						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1271107737	P13473	rs1271107737	Y320N	0.543		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1271107737	P13473	rs1271107737	Y320N	0.19		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1285234003						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		12853266						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1288096114	P13473	rs1288096114	T244S	0.134		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1288096114	P13473	rs1288096114	T244S	0.75		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1292531971	P13473	rs1292531971	Y320C	0.013		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1292531971	P13473	rs1292531971	Y320C	0.12		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1294027053						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1305798857	P13473	rs1305798857	A106S	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1305798857	P13473	rs1305798857	A106S	0.71		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1305798857	P13473	rs1305798857	A106T	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1305798857	P13473	rs1305798857	A106T	0.47		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1311539798						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1315624011	P13473	rs1315624011	I313L	0.045		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1315624011	P13473	rs1315624011	I313L	0.68		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1317062823						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1319752625	P13473	rs1319752625	E334G	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1319752625	P13473	rs1319752625	E334G	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1321639564						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	1337951829						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1340367353	P13473	rs1340367353	G70V	0.005		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1340367353	P13473	rs1340367353	G70V	0.09		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1341268966	P13473	rs1341268966	K333N	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1341268966	P13473	rs1341268966	K333N	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1343337245	P13473	rs1343337245	T336S	0.092		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1343337245	P13473	rs1343337245	T336S	0.13		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1348977041	P13473	rs1348977041	P94H	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1348977041	P13473	rs1348977041	P94H	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1348977041	P13473	rs1348977041	P94L	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1348977041	P13473	rs1348977041	P94L	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1353201173						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1358581771	P13473	rs1358581771	T63I	0.062		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1358581771	P13473	rs1358581771	T63I	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1360458497	P13473	rs1360458497	V197L	0.563		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1360458497	P13473	rs1360458497	V197L	0.24		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1360458497	P13473	rs1360458497	V197M	0.952		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1360458497	P13473	rs1360458497	V197M	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1362738445	P13473	rs1362738445	I201V	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1362738445	P13473	rs1362738445	I201V	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1369480606						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1369743540						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1373205750						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1375151119	P13473	rs1375151119	F4L	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1375151119	P13473	rs1375151119	F4L	0.08		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1375151119	P13473	rs1375151119	F4L	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1375151119	P13473	rs1375151119	F4L	0.09		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1378149664						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1378378776						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1381065572						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	138374063	P13473	rs138374063	T158A	0.015		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	138374063	P13473	rs138374063	T158A	0.1		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	138991195	P13473	rs138991195	T196A	0.959		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	138991195	P13473	rs138991195	T196A	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	138991195	P13473	rs138991195	T196S	0.9		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	138991195	P13473	rs138991195	T196S	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	139633545	P13473	rs139633545	V381A	0.999		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	139633545	P13473	rs139633545	V381A	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1400094556	P13473	rs1400094556	K247E	0.714		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1400094556	P13473	rs1400094556	K247E	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	141541387	P13473	rs141541387	I252S	0.663		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	141541387	P13473	rs141541387	I252S	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	141541387	P13473	rs141541387	I252T	0.731		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	141541387	P13473	rs141541387	I252T	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	141574558	P13473	rs141574558	V173I	0.105		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	141574558	P13473	rs141574558	V173I	0.1		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1418868953	P13473	rs1418868953	H402N	0.031		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1418868953	P13473	rs1418868953	H402N	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1418868953	P13473	rs1418868953	H402Y	0.179		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1418868953	P13473	rs1418868953	H402Y	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1421127800	P13473	rs1421127800	F96L	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1421127800	P13473	rs1421127800	F96L	0.39		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1425805718	P13473	rs1425805718	S369G	0.355		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1425805718	P13473	rs1425805718	S369G	0.16		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1434716025						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	143699208	P13473	rs143699208	N275H	0.901		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	143699208	P13473	rs143699208	N275H	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1439051161						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1439172573	P13473	rs1439172573	N253T	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1439172573	P13473	rs1439172573	N253T	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1439172573	P13473	rs1439172573	N253T	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1439172573	P13473	rs1439172573	N253T	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1439353229						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1449153826	P13473	rs1449153826	Y27C	0.023		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1449153826	P13473	rs1449153826	Y27C	0.1		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1449153826	P13473	rs1449153826	Y27C	0.024		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1449153826	P13473	rs1449153826	Y27C	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	145169006	P13473	rs145169006	G221R	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	145169006	P13473	rs145169006	G221R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		145703593						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1459886510	P13473	rs1459886510	T204I	0.091		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1459886510	P13473	rs1459886510	T204I	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1465120546						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	147369153	P13473	rs147369153	S113R	0.039		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	147369153	P13473	rs147369153	S113R	0.35		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	149276836	P13473	rs149276836	A129T	0.994		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	149276836	P13473	rs149276836	A129T	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1556078130	P13473	rs1556078130	A405T	0.005		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1556078130	P13473	rs1556078130	A405T	0.71		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1556078130	P13473	rs1556078130	A405T	0.006		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1556078130	P13473	rs1556078130	A405T	0.63		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1556101296	P13473	rs1556101296	K247N	0.979		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1556101296	P13473	rs1556101296	K247N	0.05		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1556112678	P13473	rs1556112678	K87T	0.009		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1556112678	P13473	rs1556112678	K87T	0.05		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	1556114013						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1569365439						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569369217	P13473	rs1569369217	L272P	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569369217	P13473	rs1569369217	L272P	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569369217	P13473	rs1569369217	L272R	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569369217	P13473	rs1569369217	L272R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569369275	P13473	rs1569369275	N257S	0.052		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569369275	P13473	rs1569369275	N257S	0.1		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569371283	P13473	rs1569371283	I88T	0.291		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1569371283	P13473	rs1569371283	I88T	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1569374472						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1602532138						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1602532154	P13473	rs1602532154	V339L	0.373		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	1602532154	P13473	rs1602532154	V339L	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1602535864	P13473	rs1602535864	P206L	0.994		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1602535864	P13473	rs1602535864	P206L	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1602536486	P13473	rs1602536486	E139V	0.05		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1602536486	P13473	rs1602536486	E139V	0.4		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1602547532						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1679458769						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	183781327	P13473	rs183781327	T364I	0.939		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	183781327	P13473	rs183781327	T364I	0.11		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		185823878						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	190221827	P13473	rs190221827	D322V	0.729		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	190221827	P13473	rs190221827	D322V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1921041004						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921041200	P13473	rs1921041200	F126L	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921041200	P13473	rs1921041200	F126L	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921041200	P13473	rs1921041200	F126L	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921041200	P13473	rs1921041200	F126L	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921042232						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921042918						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1921043793						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921044662	P13473	rs1921044662	D112N	0.052		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921044662	P13473	rs1921044662	D112N	0.09		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		1921058018						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	pathogenic	1921109201						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921661568	P13473	rs1921661568	V20G	0.362		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921661568	P13473	rs1921661568	V20G	0.16		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921665698	P13473	rs1921665698	V9L	0.102		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921665698	P13473	rs1921665698	V9L	0.1		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	1921666449	P13473	rs1921666449	F7L	0.005		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	1921666449	P13473	rs1921666449	F7L	0.27		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921666685	P13473	rs1921666685	R5L	0.968		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	1921666685	P13473	rs1921666685	R5L	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	200934351	P13473	rs200934351	R266H	0.001		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	200934351	P13473	rs200934351	R266H	0.51		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	200934351	P13473	rs200934351	R266H	0.001		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	200934351	P13473	rs200934351	R266H	0.45		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		201328350						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522120	P13473	rs2058522120	G406V	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522120	P13473	rs2058522120	G406V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522237	P13473	rs2058522237	H402R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522237	P13473	rs2058522237	H402R	0.3		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522449	P13473	rs2058522449	G387A	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522449	P13473	rs2058522449	G387A	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058522486						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522581	P13473	rs2058522581	L376P	0.976		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522581	P13473	rs2058522581	L376P	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522629	P13473	rs2058522629	F375L	0.035		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058522629	P13473	rs2058522629	F375L	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058573069						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	2058573541						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058574130						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058578544						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058578862						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058596620						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058596707	P13473	rs2058596707	A249T	0.007		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058596707	P13473	rs2058596707	A249T	0.32		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058604458	P13473	rs2058604458	A235V	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058604458	P13473	rs2058604458	A235V	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	2058604823	P13473	rs2058604823	K215E	0.011		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	2058604823	P13473	rs2058604823	K215E	0.91		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058604875						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058604992	P13473	rs2058604992	T210K	0.826		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058604992	P13473	rs2058604992	T210K	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058605089						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605274	P13473	rs2058605274	P199S	0.981		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605274	P13473	rs2058605274	P199S	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605274	P13473	rs2058605274	P199S	0.982		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605274	P13473	rs2058605274	P199S	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058605532						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605695	P13473	rs2058605695	K191E	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605695	P13473	rs2058605695	K191E	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605695	P13473	rs2058605695	K191E	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058605695	P13473	rs2058605695	K191E	0.78		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2058610135						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058610425	P13473	rs2058610425	C153F	0.971		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058610425	P13473	rs2058610425	C153F	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058610425	P13473	rs2058610425	C153Y	0.595		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058610425	P13473	rs2058610425	C153Y	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058610678	P13473	rs2058610678	A142P	0.457		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2058610678	P13473	rs2058610678	A142P	0.97		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2147278857						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2147278944						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147279488	P13473	rs2147279488	N307D	0.961		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147279488	P13473	rs2147279488	N307D	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147279498	P13473	rs2147279498	Y304H	0.379		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147279498	P13473	rs2147279498	Y304H	0.38		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147281387	P13473	rs2147281387	T278P	0.443		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147281387	P13473	rs2147281387	T278P	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147281398	P13473	rs2147281398	R273K	0.006		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147281398	P13473	rs2147281398	R273K	0.41		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2147281435						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147282386	P13473	rs2147282386	M237T	0.935		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147282386	P13473	rs2147282386	M237T	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		2147282408						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147283067	P13473	rs2147283067	C153W	0.993		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147283067	P13473	rs2147283067	C153W	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147283117	P13473	rs2147283117	V137L	0.172		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147283117	P13473	rs2147283117	V137L	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147283120	P13473	rs2147283120	G133E	0.149		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147283120	P13473	rs2147283120	G133E	0.09		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286737	P13473	rs2147286737	P127S	0.996		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286737	P13473	rs2147286737	P127S	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286818	P13473	rs2147286818	A105T	0.036		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286818	P13473	rs2147286818	A105T	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286839	P13473	rs2147286839	P94A	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286839	P13473	rs2147286839	P94A	0.23		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286887	P13473	rs2147286887	N84S	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286887	P13473	rs2147286887	N84S	0.37		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286906	P13473	rs2147286906	C79W	0.999		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286906	P13473	rs2147286906	C79W	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286966	P13473	rs2147286966	S67P	0.007		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147286966	P13473	rs2147286966	S67P	0.2		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147287602	P13473	rs2147287602	T56A	0.036		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147287602	P13473	rs2147287602	T56A	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147294900	P13473	rs2147294900	R5C	0.99		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147294900	P13473	rs2147294900	R5C	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147294900	P13473	rs2147294900	R5C	0.99		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2147294900	P13473	rs2147294900	R5C	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520817218						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520818006						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520859771						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520859839						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520860096						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520860307						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520864400						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520876937						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520883679						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520884011						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520884062						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520884361						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520888525						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520888772						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520888843						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520906874						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	2520908353						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520908485						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520913509						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520913653						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	2520947926						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	3180515	P13473	rs3180515	G11V	0.999		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	3180515	P13473	rs3180515	G11V	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	367625418	P13473	rs367625418	N32D	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	367625418	P13473	rs367625418	N32D	0.61		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	367740222	P13473	rs367740222	Y362H	0.987		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	367740222	P13473	rs367740222	Y362H	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		367914423						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	369032377	P13473	rs369032377	N257D	0.68		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	369032377	P13473	rs369032377	N257D	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	371149731	P13473	rs371149731	G85S	0.009		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	371149731	P13473	rs371149731	G85S	0.11		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	371174243	P13473	rs371174243	L172P	0.577		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	371174243	P13473	rs371174243	L172P	0.21		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign	372906565	P13473	rs372906565	V388L	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign	372906565	P13473	rs372906565	V388L	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	373007615	P13473	rs373007615	E139K	0.013		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	373007615	P13473	rs373007615	E139K	0.75		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	374690629	P13473	rs374690629	F284L	0.475		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	374690629	P13473	rs374690629	F284L	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	376215728	P13473	rs376215728	D68E	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	376215728	P13473	rs376215728	D68E	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	377652722	P13473	rs377652722	V114I	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	377652722	P13473	rs377652722	V114I	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign	397516735	P13473	rs397516735	R53H	0.001		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign	397516735	P13473	rs397516735	R53H	0.16		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign	397516735	P13473	rs397516735	R53L	0.022		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign	397516735	P13473	rs397516735	R53L	0.08		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	397516741	P13473	rs397516741	A100V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	397516741	P13473	rs397516741	A100V	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	397516741	P13473	rs397516741	A100V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	benign, likely benign	397516741	P13473	rs397516741	A100V	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516744	P13473	rs397516744	T124I	0.045		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516744	P13473	rs397516744	T124I	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516745	P13473	rs397516745	L19R	0.616		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516745	P13473	rs397516745	L19R	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516747	P13473	rs397516747	N275S	0.036		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516747	P13473	rs397516747	N275S	0.16		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516748	P13473	rs397516748	Y281C	0.91		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516748	P13473	rs397516748	Y281C	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516749	P13473	rs397516749	L282R	0.982		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	397516749	P13473	rs397516749	L282R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727503117	P13473	rs727503117	D373N	0.972		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727503117	P13473	rs727503117	D373N	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727503117	P13473	rs727503117	D373N	0.972		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727503117	P13473	rs727503117	D373N	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727503117	P13473	rs727503117	D373Y	0.99		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727503117	P13473	rs727503117	D373Y	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727504625	P13473	rs727504625	I398T	0.976		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727504625	P13473	rs727504625	I398T	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	727504953	P13473	rs727504953	G93R	0.133		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	727504953	P13473	rs727504953	G93R	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727504957	P13473	rs727504957	H404L	0.08		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	727504957	P13473	rs727504957	H404L	0.12		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	730880126	P13473	rs730880126	I379M	0.92		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	730880126	P13473	rs730880126	I379M	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	730880475	P13473	rs730880475	H202P	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	730880475	P13473	rs730880475	H202P	0.39		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880478	P13473	rs730880478	R25W	0.482		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880478	P13473	rs730880478	R25W	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880480	P13473	rs730880480	D122N	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880480	P13473	rs730880480	D122N	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880481	P13473	rs730880481	L239V	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880481	P13473	rs730880481	L239V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880482	P13473	rs730880482	D246G	0.024		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880482	P13473	rs730880482	D246G	0.02		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		730880484						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880486	P13473	rs730880486	L296P	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880486	P13473	rs730880486	L296P	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880486	P13473	rs730880486	L296R	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880486	P13473	rs730880486	L296R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880487	P13473	rs730880487	T347S	0.897		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880487	P13473	rs730880487	T347S	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880489	P13473	rs730880489	C3S	0.968		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880489	P13473	rs730880489	C3S	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880489	P13473	rs730880489	C3Y	0.987		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	730880489	P13473	rs730880489	C3Y	0.05		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	730880497	P13473	rs730880497	S107C	0.796		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	730880497	P13473	rs730880497	S107C	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	746678211	P13473	rs746678211	M237V	0.335		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	746678211	P13473	rs746678211	M237V	0.31		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	747301460	P13473	rs747301460	A380V	0.039		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	747301460	P13473	rs747301460	A380V	0.78		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	747390282	P13473	rs747390282	T71A	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	747390282	P13473	rs747390282	T71A	0.22		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	748494547	P13473	rs748494547	T125A	0.355		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	748494547	P13473	rs748494547	T125A	0.32		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	748676358	P13473	rs748676358	I78V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	likely benign	748676358	P13473	rs748676358	I78V	0.66		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		749064700						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		749209441						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	750118236	P13473	rs750118236	R25Q	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	750118236	P13473	rs750118236	R25Q	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	750457485	P13473	rs750457485	C189Y	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	750457485	P13473	rs750457485	C189Y	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		750874008						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		751526532						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	752321157	P13473	rs752321157	R53C	0.443		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	752321157	P13473	rs752321157	R53C	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	752321157	P13473	rs752321157	R53C	0.438		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	752321157	P13473	rs752321157	R53C	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		752509876						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		754748093						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	755790073	P13473	rs755790073	G95V	0.097		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	755790073	P13473	rs755790073	G95V	0.03		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		758621669						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		759658269						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		759964363						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		760953845						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	762218821	P13473	rs762218821	I111V	0.015		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	762218821	P13473	rs762218821	I111V	0.89		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	762895517	P13473	rs762895517	V352I	0.547		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	762895517	P13473	rs762895517	V352I	0.49		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	766491800	P13473	rs766491800	N148S	0.708		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	766491800	P13473	rs766491800	N148S	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	766962315	P13473	rs766962315	E334Q	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, benign, likely benign	766962315	P13473	rs766962315	E334Q	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	767918596	P13473	rs767918596	K191I	0.551		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	767918596	P13473	rs767918596	K191I	0.09		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		768336099						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	768369360	P13473	rs768369360	M303L	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	768369360	P13473	rs768369360	M303L	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	768369360	P13473	rs768369360	M303V	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	768369360	P13473	rs768369360	M303V	0.41		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	769378984	P13473	rs769378984	P10L	0.532		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	769378984	P13473	rs769378984	P10L	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		769883128						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	769995100	P13473	rs769995100	D373V	0.571		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	769995100	P13473	rs769995100	D373V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		771157957						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		772520416						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	772577020	P13473	rs772577020	L233V	0.994		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	772577020	P13473	rs772577020	L233V	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		773248859						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	773525538	P13473	rs773525538	N154S	0.011		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	773525538	P13473	rs773525538	N154S	0.23		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		773919751						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		774853191						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	775416221	P13473	rs775416221	N356S	0.024		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	775416221	P13473	rs775416221	N356S	0.62		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	775432228	P13473	rs775432228	Q178P	0.231		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	775432228	P13473	rs775432228	Q178P	0.11		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	775432228	P13473	rs775432228	Q178R	0.974		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	775432228	P13473	rs775432228	Q178R	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	775997773	P13473	rs775997773	N226D	0.129		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	775997773	P13473	rs775997773	N226D	0.04		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	776101722	P13473	rs776101722	P214T	0.369		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	776101722	P13473	rs776101722	P214T	0.13		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	776875696	P13473	rs776875696	H69Y	0.013		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	776875696	P13473	rs776875696	H69Y	0.72		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		777354230						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	777718603	P13473	rs777718603	V17F	0.028		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	777718603	P13473	rs777718603	V17F	0.19		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	777718603	P13473	rs777718603	V17I	0.007		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	777718603	P13473	rs777718603	V17I	0.18		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		778191463						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	778193991	P13473	rs778193991	V72M	0.942		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	778193991	P13473	rs778193991	V72M	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	778382193	P13473	rs778382193	V392A	0.709		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	778382193	P13473	rs778382193	V392A	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	778577575	P13473	rs778577575	H260Y	0.541		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	778577575	P13473	rs778577575	H260Y	0.49		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		778764771						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	781134467	P13473	rs781134467	G360R	0.991		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	781134467	P13473	rs781134467	G360R	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		866456239						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	866736614	P13473	rs866736614	P324S	0.335		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	866736614	P13473	rs866736614	P324S	0.65		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	869025452	P13473	rs869025452	I379V	0.036		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	869025452	P13473	rs869025452	I379V	0.21		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	876657844	P13473	rs876657844	I201T	0.003		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	876657844	P13473	rs876657844	I201T	0.55		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	876657845	P13473	rs876657845	T204P	0.123		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	876657845	P13473	rs876657845	T204P	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	876661351	P13473	rs876661351	K401E	0.345		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	876661351	P13473	rs876661351	K401E	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	878854484	P13473	rs878854484	P8L	0.996		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	878854484	P13473	rs878854484	P8L	0.07		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	878854484	P13473	rs878854484	P8R	0.998		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	878854484	P13473	rs878854484	P8R	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	878854484	P13473	rs878854484	P8R	0.996		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	878854484	P13473	rs878854484	P8R	0.06		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	886038907	P13473	rs886038907	V357M	1.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	886038907	P13473	rs886038907	V357M	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		926979928						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant		936567270						P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	950013593	P13473	rs950013593	L150H	0.82		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance, likely benign	950013593	P13473	rs950013593	L150H	0.01		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	960241982	P13473	rs960241982	S327I	0.998		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	960241982	P13473	rs960241982	S327I	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	991396612	P13473	rs991396612	G326A	0.992		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473
+LAMP2	missense_variant	uncertain significance	991396612	P13473	rs991396612	G326A	0.0		P13473	Lysosome-associated membrane glycoprotein 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P13473

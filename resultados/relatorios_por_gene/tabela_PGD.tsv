@@ -1,0 +1,481 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+PGD	missense_variant		1005322924						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1010233264						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1018174217						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1020945496						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1023800012						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1027747438						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1029666569						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1032586290	P52209	rs1032586290	R69Q	0.872		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1032586290	P52209	rs1032586290	R69Q	0.04		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1032586290	P52209	rs1032586290	R69Q	0.809		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1032586290	P52209	rs1032586290	R69Q	0.03		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1034930019						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		11547610						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1158287989						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1158431146						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1159206042						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1166432902						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1167738159						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1179598665						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1181318169						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1186205437						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1187329477						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1187374443						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1192044285						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1195842889						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1197153197						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1197264600						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1200461855						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1211837327						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1215939771						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1219817771						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1226826164						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1227904212						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1228785275						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1229445093						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1230830343						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1238065596						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1238129880						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	not provided	1247773755	P52209	rs1247773755	V183M	1.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	not provided	1247773755	P52209	rs1247773755	V183M	0.03		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1248883154						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1249527900						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1254873810	P52209	rs1254873810	S37P	0.629		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1254873810	P52209	rs1254873810	S37P	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1254963955	P52209	rs1254963955	T470A	0.998		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1254963955	P52209	rs1254963955	T470A	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1254963955	P52209	rs1254963955	T470A	0.999		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1254963955	P52209	rs1254963955	T470A	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1257344052						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1259537036						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1261199940						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1267559717						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1267657646						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1268924390						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1269122481						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1270059586						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1270532942						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1272275120						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1272735732						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1273486475						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1274929218						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1291071097						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1295824268						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1295949344						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1297925840						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1300957296						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1303872668						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1305189091						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1305460714						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1310398340						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1311829194						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1317554816						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1319479092						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1323389762						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1325372063						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1333329904						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1336549179						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1337435198						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1337529081						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1337547070						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1338954678						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1340522604						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1341135604						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1344503403						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1344707809						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1344741370						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1345714635						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1347581343						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1353324137						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1353944602						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1359251853						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1359797739						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1362784350						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1364506569						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1366166806						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1370352565						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1371178500						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1371618717						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1378312777						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1380951859						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1401573443						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1406915793						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1409102529						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1411129976						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		141190039						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1415804819						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		142109660	P52209	rs142109660	R69W	0.997		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		142109660	P52209	rs142109660	R69W	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		142109660	P52209	rs142109660	R69W	0.982		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		142109660	P52209	rs142109660	R69W	0.06		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1426055996						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1427424759						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	142871528	P52209	rs142871528	K87N	0.05		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	142871528	P52209	rs142871528	K87N	0.09		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1431760440						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1433955518	P52209	rs1433955518	R408W	0.884		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1433955518	P52209	rs1433955518	R408W	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1433955518	P52209	rs1433955518	R408W	0.815		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1433955518	P52209	rs1433955518	R408W	0.06		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		143540325						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1449853586						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1450469652	P52209	rs1450469652	L458F	0.946		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1450469652	P52209	rs1450469652	L458F	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		145171287						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		145784341						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1457843569						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1458463844						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1461233547						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1463171034						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1464945346						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1470205116						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		147424336						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1474547529						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1475560802						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		147995269						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1481037672						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1481751409						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		148250370						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1482538032						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		149004719						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		149480647						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		149530603						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		150401113						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		150507721						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557757894						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557764021						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557765778	P52209	rs1557765778	K294N	0.921		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557765778	P52209	rs1557765778	K294N	0.02		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557765778	P52209	rs1557765778	K294N	0.7		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557765778	P52209	rs1557765778	K294N	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557766906						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1557767526						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1569964404						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1569965951						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1569970449						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1569996501						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1569997618						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639263640						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639279602						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639279650						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639280877						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639294501						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639294644						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639295381						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639295843						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639296206						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639296337						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639296416						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639296475						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639296881						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639297224						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639297368						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639298006						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639298663						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639341490						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639342184						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639361409						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639361451						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639361498						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639361549						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639362951						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639437741						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639438007						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639438966						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639496573						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639497385						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639498192						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639498809						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639498878						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639499262						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639500902						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639526447						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639527921						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639528823						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639528872						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639529046						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1639529378	P52209	rs1639529378	I269V	0.82		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	1639529378	P52209	rs1639529378	I269V	0.08		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639606902						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639607462						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639607670						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639608054						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639608475						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639608855						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639609063						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639615198						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639616146						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639616516						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639616887						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639616992						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639617037						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639640566						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639640941						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639641251						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639642817						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639650152						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639650258						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639650290						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639650489						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639651487						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639652207						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639652313						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639652427						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639652851						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639652981						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639653435						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639653484						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639656703						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639656755						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639656804						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639656972						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639657467						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639659190						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639659297						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		1639659686						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		181999445	P52209	rs181999445	A359T	0.97		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		181999445	P52209	rs181999445	A359T	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		181999445	P52209	rs181999445	A359T	0.953		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		181999445	P52209	rs181999445	A359T	0.02		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		185532565						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		189103105						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199582637						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199664355						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199961549						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199971575	P52209	rs199971575	P68A	0.999		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199971575	P52209	rs199971575	P68A	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199971575	P52209	rs199971575	P68A	1.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		199971575	P52209	rs199971575	P68A	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200206224						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200600008						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200622919						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200795046						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200854760						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200926428						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200998486	P52209	rs200998486	G247D	0.072		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200998486	P52209	rs200998486	G247D	0.02		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200998486	P52209	rs200998486	G247D	0.028		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		200998486	P52209	rs200998486	G247D	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		201008071						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	201124379	P52209	rs201124379	K375R	0.157		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	201124379	P52209	rs201124379	K375R	0.08		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	201137057						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	201224678						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		201687618						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		201741102						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		202093601						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		202134777						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2102384223						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2102384248						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2102386412						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2102387526						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2124206743						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2229687						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		2229688						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	2522148608						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	2522172811						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	2522190202						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	2522193520						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	2522193571						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	367589034	P52209	rs367589034	E348K	0.094		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	367589034	P52209	rs367589034	E348K	0.17		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	368236513						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		369690008						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	369884533	P52209	rs369884533	F84V	0.951		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	369884533	P52209	rs369884533	F84V	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		370439682						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	371087028	P52209	rs371087028	V371L	0.003		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	371087028	P52209	rs371087028	V371L	0.1		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		372034488						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	372240950	P52209	rs372240950	Y430C	0.719		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	372240950	P52209	rs372240950	Y430C	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		373524591						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		373599760						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		374270785						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		375370072						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	375996998						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		376709444						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		377252715						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		377265796						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		377563677						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		529358008						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		533529724						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		533965169						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		540205412						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		545251517						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		559849952						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		562071697						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		562944056	P52209	rs562944056	S428F	0.961		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		562944056	P52209	rs562944056	S428F	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		562944056	P52209	rs562944056	S428F	0.895		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		562944056	P52209	rs562944056	S428F	0.08		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		572852737						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		573041776						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		745501285						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		745598439						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		746024638						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		747211148						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		747634705						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		747979206						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		748298487						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		749115127						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		749202787						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		749243872						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		749399738						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		749876036						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	749994897	P52209	rs749994897	S479L	0.295		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	749994897	P52209	rs749994897	S479L	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	749994897	P52209	rs749994897	S479L	0.207		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	749994897	P52209	rs749994897	S479L	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		750004547						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		750027262						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		750694945						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		751338592						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		751871321						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		751921769						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		752043693						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		752444329						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		752504839						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		753095136						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		753854416						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		754072870						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		754784178						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		754818297						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		754908246						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		755621108						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		755713587						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756001415						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756284295						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756313792						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756492919						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756735573	P52209	rs756735573	R324W	0.994		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756735573	P52209	rs756735573	R324W	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756735573	P52209	rs756735573	R324W	0.982		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756735573	P52209	rs756735573	R324W	0.06		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		756847015						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757024862						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757300860						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757401268	P52209	rs757401268	A398P	0.973		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757401268	P52209	rs757401268	A398P	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757401268	P52209	rs757401268	A398P	0.958		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757401268	P52209	rs757401268	A398P	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757402952						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757773857						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		757944320						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		758067931						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		758207662						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	758297636						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		758922063						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		759081871						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	likely benign	759462109	P52209	rs759462109	V410I	0.003		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	likely benign	759462109	P52209	rs759462109	V410I	0.3		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	759755207	P52209	rs759755207	M361I	0.998		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	759755207	P52209	rs759755207	M361I	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		760257458						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		760462592						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		760490968						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		760578931						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		760691274						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		761406421						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		761608864						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		761780325						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	761910938	P52209	rs761910938	W351S	1.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	761910938	P52209	rs761910938	W351S	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		762455598						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		762746711						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		763348187						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		763492548						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		763841156						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		764012709	P52209	rs764012709	V276I	0.003		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		764012709	P52209	rs764012709	V276I	0.7		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		764012709	P52209	rs764012709	V276I	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		764012709	P52209	rs764012709	V276I	0.7		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	764447314	P52209	rs764447314	P461S	0.855		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	764447314	P52209	rs764447314	P461S	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		764606598						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		764975157						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		765168284						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		765289381						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		765564798						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		766201718						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		766231633						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		766743300						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		766878979						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		767532645						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		768172490						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	768286066	P52209	rs768286066	S140L	0.987		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	768286066	P52209	rs768286066	S140L	0.02		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		768387863						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		768652850						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		769185191						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		769420753						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		770050032						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	770404436						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		770894495						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771130018						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771627468	P52209	rs771627468	S405F	0.97		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771627468	P52209	rs771627468	S405F	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771627468	P52209	rs771627468	S405F	0.92		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771627468	P52209	rs771627468	S405F	0.06		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771917883	P52209	rs771917883	R112W	0.933		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771917883	P52209	rs771917883	R112W	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771917883	P52209	rs771917883	R112W	0.404		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		771917883	P52209	rs771917883	R112W	0.03		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		772090697						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		772431360						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		772880280						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	773274407	P52209	rs773274407	K163E	0.98		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	773274407	P52209	rs773274407	K163E	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	773757294	P52209	rs773757294	N354S	0.959		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	773757294	P52209	rs773757294	N354S	0.02		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		774104656						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		774168617						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		774457566						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		775708762						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		776827083						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		778109250						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		778178889						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		778373193						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		778459795						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		779107707						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		779142088						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		779410784						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		779614121						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		779623421						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		779768886						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		780237087						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		780826761						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		780848902						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781131903						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781422168						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781500624	P52209	rs781500624	R288W	1.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781500624	P52209	rs781500624	R288W	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781500624	P52209	rs781500624	R288W	0.996		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781500624	P52209	rs781500624	R288W	0.0		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		781550204						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		867467963						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		887126347						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		893657252						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		895259490						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		899908181						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		903598165						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		906334024						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		907139926						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		914015293						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		916276083						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		917305200						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	930964915	P52209	rs930964915	I376M	0.999		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant	uncertain significance	930964915	P52209	rs930964915	I376M	0.01		P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		933078324						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		941292718						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		943649623						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		947756709						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		947932101						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		952499014						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		954229791						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		969114646						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		978870606						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		981780508						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		983124364						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209
+PGD	missense_variant		989575217						P52209	6-phosphogluconate dehydrogenase, decarboxylating	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P52209

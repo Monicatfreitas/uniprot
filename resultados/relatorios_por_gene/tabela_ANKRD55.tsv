@@ -1,0 +1,665 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ANKRD55	missense_variant		1009396235						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1011543392						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1015773097						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1017306668	Q3KP44	rs1017306668	M7R	0.044		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1017306668	Q3KP44	rs1017306668	M7R	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1018314980						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1025828285						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1027104164						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1042118636						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1042650185						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1044336091						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		113351727						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1156958210						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1157048591						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1157754314						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1161446483						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1163386003						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1164225945						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1165301240						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1165687779						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1166215908						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1169752919						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1173710227						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1174498341						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1177596855						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1184678431						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1185719702						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1187629540	Q3KP44	rs1187629540	R523W	0.549		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1187629540	Q3KP44	rs1187629540	R523W	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1187629540	Q3KP44	rs1187629540	R523W	0.685		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1187629540	Q3KP44	rs1187629540	R523W	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1190937549	Q3KP44	rs1190937549	V404I	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1190937549	Q3KP44	rs1190937549	V404I	0.4		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1190937549	Q3KP44	rs1190937549	V404I	0.101		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1190937549	Q3KP44	rs1190937549	V404I	0.38		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1191415341						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1191942827						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1194553709						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1195275051						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1196554402						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1202974476						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1203595772	Q3KP44	rs1203595772	R469Q	0.001		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1203595772	Q3KP44	rs1203595772	R469Q	0.08		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1203595772	Q3KP44	rs1203595772	R469Q	0.234		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1203595772	Q3KP44	rs1203595772	R469Q	0.17		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1203908537						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1204001840						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1206645199						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1206661805						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1206760744	Q3KP44	rs1206760744	A238T	0.996		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1206760744	Q3KP44	rs1206760744	A238T	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1206760744	Q3KP44	rs1206760744	A238T	0.494		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1206760744	Q3KP44	rs1206760744	A238T	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1207825919						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1209532730						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1209908645						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1210519175						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1211868239						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1214308842						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1215239822						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1215972833						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1221889727						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1222610103						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1223468996						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1224529276						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1226460233						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1227357567						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1227936469						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1228528929	Q3KP44	rs1228528929	L287V	0.703		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1228528929	Q3KP44	rs1228528929	L287V	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1230690512						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1230889007						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1232641324						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1234007531						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1234406317						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1236229181						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1238112028						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1238630633						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1239892106						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1241063059						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1244151227						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1244169186						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1245332745						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1246047665						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1247190441						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1248697198						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1250265711						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1251422433						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1252778943						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1256832586						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1256889446						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1259865266						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1260657762	Q3KP44	rs1260657762	R19I	0.039		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1260657762	Q3KP44	rs1260657762	R19I	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1260657762	Q3KP44	rs1260657762	R19I	0.015		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1260657762	Q3KP44	rs1260657762	R19I	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1261421169						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1261524114						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1263262839						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1266960206						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1269521540	Q3KP44	rs1269521540	S473T	0.732		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1269521540	Q3KP44	rs1269521540	S473T	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1269521540	Q3KP44	rs1269521540	S473T	0.159		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1269521540	Q3KP44	rs1269521540	S473T	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1270941596						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1277921397						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1279749489						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1281721592						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1282089666						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1282531480						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1287887737						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1295680444						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1298028165						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1298244290						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1303936481	Q3KP44	rs1303936481	F350L	0.159		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1303936481	Q3KP44	rs1303936481	F350L	0.05		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1308152651						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1313430849						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1314086273						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1320039249						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1321726105						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1326733313						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1327296753						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1330536073						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1331991712						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1332659694						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1333319773						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1334251345						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1334974723						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1339209244						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1340861043						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1343271277						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1343374631						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1347077712						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1354824222						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1357076328						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1359413828						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1363391910						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1366422855						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1366507302						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1366637605						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1367338309						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1369193490						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1369701633	Q3KP44	rs1369701633	E229D	0.991		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1369701633	Q3KP44	rs1369701633	E229D	0.06		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1369701633	Q3KP44	rs1369701633	E229D	0.224		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1369701633	Q3KP44	rs1369701633	E229D	0.03		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1369906567						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1371645929						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1372496684						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1379960517						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1382770803						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1384134427						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		138465010						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1384894683						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1386005065	Q3KP44	rs1386005065	D8V	0.811		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1386005065	Q3KP44	rs1386005065	D8V	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1391880620						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1392917711						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1395518951						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		139607103						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1398066814						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		140646872						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1406984088						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1407616450						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1411018488						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1411335563						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1415496679						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1417128906						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523L	0.103		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523L	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523L	0.158		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523L	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523Q	0.006		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523Q	0.07		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523Q	0.234		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		141966247	Q3KP44	rs141966247	R523Q	0.05		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1420373501						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1421441047						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1422903504	Q3KP44	rs1422903504	C234R	0.997		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1422903504	Q3KP44	rs1422903504	C234R	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1422903504	Q3KP44	rs1422903504	C234R	0.394		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1422903504	Q3KP44	rs1422903504	C234R	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		142389026						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1425415082						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1427350767						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		142741313						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1430089743						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143094717	Q3KP44	rs143094717	S436N	0.22		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143094717	Q3KP44	rs143094717	S436N	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1431748043						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143266332	Q3KP44	rs143266332	V529F	0.2		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143266332	Q3KP44	rs143266332	V529F	0.2		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143274111	Q3KP44	rs143274111	R582W	0.007		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143274111	Q3KP44	rs143274111	R582W	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143274111	Q3KP44	rs143274111	R582W	0.685		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143274111	Q3KP44	rs143274111	R582W	0.04		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		143369684						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1436123406						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1437763246						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1437793448						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1438364927	Q3KP44	rs1438364927	S334G	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1438364927	Q3KP44	rs1438364927	S334G	0.19		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1438703181						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143919551	Q3KP44	rs143919551	A360T	0.494		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	143919551	Q3KP44	rs143919551	A360T	0.6		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		144108986	Q3KP44	rs144108986	A74V	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		144108986	Q3KP44	rs144108986	A74V	1.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		144108986	Q3KP44	rs144108986	A74V	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		144108986	Q3KP44	rs144108986	A74V	1.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1443019805						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1443564751						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	144419437	Q3KP44	rs144419437	S611R	0.003		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	144419437	Q3KP44	rs144419437	S611R	0.32		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1444426487						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1445154641						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1449926492						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1450257165						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1450397746						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1452163442						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1452404910						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1453181315						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1454011757						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1455022363						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1455022923						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		145665849						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		145822505						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1459255212						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1461873576						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1463463175						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1465289705						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	benign, likely benign	146546015	Q3KP44	rs146546015	E279K	0.631		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	benign, likely benign	146546015	Q3KP44	rs146546015	E279K	0.07		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	146577911						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		146618027						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1473944737						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		147414262						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1475948716						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1476263167						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1477012686						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1480231176						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1480260877						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1480620182						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1481250913						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1482766387						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1484252242						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1485284285						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	148696905	Q3KP44	rs148696905	R72C	0.896		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	148696905	Q3KP44	rs148696905	R72C	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1487168393						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1487974440						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1490425341						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	149513316	Q3KP44	rs149513316	L79P	0.931		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	149513316	Q3KP44	rs149513316	L79P	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		149776532						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		150154852						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	150293961	Q3KP44	rs150293961	I432V	0.031		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	150293961	Q3KP44	rs150293961	I432V	0.1		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		150665536						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1561244893	Q3KP44	rs1561244893	E604K	0.014		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1561244893	Q3KP44	rs1561244893	E604K	0.22		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1561244893	Q3KP44	rs1561244893	E604K	0.301		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1561244893	Q3KP44	rs1561244893	E604K	0.22		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1561246265						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1561251276						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1561259683						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1561268164						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1561302336						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1561302338						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1580940472						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1580940984						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756229560						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756230903						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756231463						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756315952						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756316115						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756318728						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756678827						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756679685						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756679834						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756680705						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756681688						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756683838						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756685228						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756685451						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756689289						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756692480						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756693583						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756693864						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756694033						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756695213						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756696095						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756696511						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756697013						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756697836						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756699138						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756699535						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756699638						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756700178						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756700922						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756701566						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756702903						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756703642						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756706962						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756707112						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756708212						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756708444						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756708666						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756712176						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756712834						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756713123						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756713820						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756897786						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756900009						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1756900461						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757277140						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757277270						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757277654						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757278413						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757278791						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757279246						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757279649						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757279855						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757281525						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757281646						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757285351						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757285953						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757286098						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757286180						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757828790						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757829457						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757832589						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1757832750						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758281541						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758282867						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758591509						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758592396						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758592991						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758595144						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758734239						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758735927						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758736150						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758736968						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1758738105						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758898235						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758898773						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758899103						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758900486						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1758901161						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1760294248						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1760294315	Q3KP44	rs1760294315	D8E	0.428		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	1760294315	Q3KP44	rs1760294315	D8E	0.37		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		1760294770						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		185227847						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	186718700	Q3KP44	rs186718700	T311A	0.533		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	186718700	Q3KP44	rs186718700	T311A	0.11		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		199610369						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		199752327	Q3KP44	rs199752327	A239V	0.996		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		199752327	Q3KP44	rs199752327	A239V	0.34		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		199752327	Q3KP44	rs199752327	A239V	0.494		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		199752327	Q3KP44	rs199752327	A239V	0.03		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		200228103						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		200614650						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		200769531						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201139565						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201143186						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201200897						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201227199						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201555961						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201686037						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201869203						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		201977310						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		202112813						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		202182721						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111652581						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111674787						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111674941						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111676070						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111691357						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111720794						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111721189						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111760225						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111813352						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		2111832212						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2478243087						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2478276897						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2533852343						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2533852544						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2533853142						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2533853706						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	2533864675						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		321776						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		34879141						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		367729426						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		367769187						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		367810872	Q3KP44	rs367810872	A275S	0.157		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		367810872	Q3KP44	rs367810872	A275S	0.09		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		367810872	Q3KP44	rs367810872	A275S	0.703		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		367810872	Q3KP44	rs367810872	A275S	0.09		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		368627073						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		369102466						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	369403534	Q3KP44	rs369403534	D399N	0.55		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	369403534	Q3KP44	rs369403534	D399N	0.24		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		369634585						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		370942195						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		371537178						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	372499783	Q3KP44	rs372499783	I223L	0.031		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	372499783	Q3KP44	rs372499783	I223L	0.36		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		373849301						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	375384181						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		375415244						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		375554059						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		375979822						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		376013990						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		376277413						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		376711821						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		376804948						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		377144194						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		551269009						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	551715515	Q3KP44	rs551715515	Q348E	0.044		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	551715515	Q3KP44	rs551715515	Q348E	0.09		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		564090416						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	569831356	Q3KP44	rs569831356	Y304C	0.929		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	569831356	Q3KP44	rs569831356	Y304C	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		572725579						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		573280713						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	574664631	Q3KP44	rs574664631	D139N	0.829		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	574664631	Q3KP44	rs574664631	D139N	0.13		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	575822491	Q3KP44	rs575822491	I247T	0.158		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	575822491	Q3KP44	rs575822491	I247T	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		61741177						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		61742899						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		745415393						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		745640473						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		745682018						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		746147134						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	746434017	Q3KP44	rs746434017	V191A	0.428		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	746434017	Q3KP44	rs746434017	V191A	0.06		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		746513642						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		746813556						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747081525						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747188125						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747397490						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747576861						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747705689	Q3KP44	rs747705689	L28P	0.997		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747705689	Q3KP44	rs747705689	L28P	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747705689	Q3KP44	rs747705689	L28P	0.774		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		747705689	Q3KP44	rs747705689	L28P	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		748241548						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		748309401						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		748483371						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		748881963						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		749055439						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		749316085						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		749372592						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		749573028						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	749590597						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		749946026						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		749953333						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		75024381						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		750298883						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		750497480						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		750556710						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		750799122						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		750839304						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		751137611						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		751308788						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		751421163						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		751455878						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	751625585	Q3KP44	rs751625585	K574N	0.413		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	751625585	Q3KP44	rs751625585	K574N	0.03		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		751710930						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		751718920						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752328910	Q3KP44	rs752328910	A600T	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752328910	Q3KP44	rs752328910	A600T	0.13		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752328910	Q3KP44	rs752328910	A600T	0.494		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752328910	Q3KP44	rs752328910	A600T	0.11		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752432307						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752706061						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		752715295						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		753328918						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		753745207						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		753854877						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		754630627						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		754972483						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		755280412						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		755872832						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		756104144						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		756382232	Q3KP44	rs756382232	R564Q	0.992		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		756382232	Q3KP44	rs756382232	R564Q	0.11		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		756382232	Q3KP44	rs756382232	R564Q	0.234		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		756382232	Q3KP44	rs756382232	R564Q	0.12		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		756843117						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757129746						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757537830						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757836280						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	757935376	Q3KP44	rs757935376	T563A	0.224		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	757935376	Q3KP44	rs757935376	T563A	0.4		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757938411						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757942486	Q3KP44	rs757942486	R72H	0.999		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757942486	Q3KP44	rs757942486	R72H	0.04		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757942486	Q3KP44	rs757942486	R72H	0.809		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		757942486	Q3KP44	rs757942486	R72H	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		758362070						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	759075872	Q3KP44	rs759075872	R369Q	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	759075872	Q3KP44	rs759075872	R369Q	0.23		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	759075872	Q3KP44	rs759075872	R369Q	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	759075872	Q3KP44	rs759075872	R369Q	0.3		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		759393385						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		759733088						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		759896190						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760008992						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760187463						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760232535						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760574790						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760588328						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760643413						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		760876982						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		761335053						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		761626313						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		762165503						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		762181145						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		762608186						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		763015084						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		763391107						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	76363118	Q3KP44	rs76363118	C351Y	0.394		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	76363118	Q3KP44	rs76363118	C351Y	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		763859759						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		763870042						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		763907308						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		764008387						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	764391102	Q3KP44	rs764391102	F9L	0.159		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	764391102	Q3KP44	rs764391102	F9L	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		764508980						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	764843105	Q3KP44	rs764843105	T144M	0.822		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	764843105	Q3KP44	rs764843105	T144M	0.09		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	764843105	Q3KP44	rs764843105	T144M	0.936		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	764843105	Q3KP44	rs764843105	T144M	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		764963539						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		765001143						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		765180400						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		765371260						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		765639707						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		765765882						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	766207133	Q3KP44	rs766207133	R582Q	0.234		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	766207133	Q3KP44	rs766207133	R582Q	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	766277805						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		766285683						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		766904611						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767168469						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767366443						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767445617						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767770861						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767831535	Q3KP44	rs767831535	M289T	0.003		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767831535	Q3KP44	rs767831535	M289T	0.22		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767831535	Q3KP44	rs767831535	M289T	0.154		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767831535	Q3KP44	rs767831535	M289T	0.03		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767978611						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		767985422						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		768170815						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		768183457						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		768662926						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		768864978						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		769072256						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	769119437						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		769409897						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		769433125						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		769971952						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770077288						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	77017041	Q3KP44	rs77017041	S376P	0.316		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	likely benign	77017041	Q3KP44	rs77017041	S376P	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770422457						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	770473679	Q3KP44	rs770473679	T434M	0.974		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	770473679	Q3KP44	rs770473679	T434M	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	770473679	Q3KP44	rs770473679	T434M	0.788		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	770473679	Q3KP44	rs770473679	T434M	0.03		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770562636						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770663123	Q3KP44	rs770663123	D374G	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770663123	Q3KP44	rs770663123	D374G	0.07		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770663123	Q3KP44	rs770663123	D374G	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770663123	Q3KP44	rs770663123	D374G	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770887837						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		770990470						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	771155798	Q3KP44	rs771155798	N126S	0.631		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	771155798	Q3KP44	rs771155798	N126S	0.25		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		771246845						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	771561192						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		772126737	Q3KP44	rs772126737	P221L	0.312		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		772126737	Q3KP44	rs772126737	P221L	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		772126737	Q3KP44	rs772126737	P221L	0.722		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		772126737	Q3KP44	rs772126737	P221L	0.03		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		772695526						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	772756747	Q3KP44	rs772756747	R426C	0.685		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	772756747	Q3KP44	rs772756747	R426C	0.19		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	773050862	Q3KP44	rs773050862	R128C	0.999		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	773050862	Q3KP44	rs773050862	R128C	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	773050862	Q3KP44	rs773050862	R128C	0.896		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	773050862	Q3KP44	rs773050862	R128C	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		773131736						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	773608846	Q3KP44	rs773608846	G220A	0.801		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	773608846	Q3KP44	rs773608846	G220A	0.04		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		773812972						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		774118271	Q3KP44	rs774118271	R327Q	0.007		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		774118271	Q3KP44	rs774118271	R327Q	0.28		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		774118271	Q3KP44	rs774118271	R327Q	0.548		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		774118271	Q3KP44	rs774118271	R327Q	0.28		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	774731240						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		775050737						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		775418682						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	775481073						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		775596192						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		775795041						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		776156276						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		776369655						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		776626507						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		776686269						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777019306						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777120326						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777124368						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777147140						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777716135	Q3KP44	rs777716135	P609S	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777716135	Q3KP44	rs777716135	P609S	0.21		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777716135	Q3KP44	rs777716135	P609S	0.003		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777716135	Q3KP44	rs777716135	P609S	0.27		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777720577						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		777836712						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	778032307	Q3KP44	rs778032307	A467T	0.494		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	778032307	Q3KP44	rs778032307	A467T	0.07		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		778109561						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	778736276	Q3KP44	rs778736276	R474L	0.158		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	778736276	Q3KP44	rs778736276	R474L	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	780023572						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		78025637						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	780505029	Q3KP44	rs780505029	L190F	0.855		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	780505029	Q3KP44	rs780505029	L190F	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		780661444						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		780714654						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		780908469						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		781136419						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		781544260						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		79959457						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		866646949						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		878856662	Q3KP44	rs878856662	N566K	0.115		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		878856662	Q3KP44	rs878856662	N566K	0.01		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		878856662	Q3KP44	rs878856662	N566K	0.413		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		878856662	Q3KP44	rs878856662	N566K	0.02		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		878964772						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		886102810						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		887684444						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	891588692						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	909462357						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		912608761						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		917684028						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		927105448						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		927686842						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		931062972						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		943926887						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		950203525						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		951411217						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		953115974						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		977687688						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	983787813	Q3KP44	rs983787813	C280G	0.548		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant	uncertain significance	983787813	Q3KP44	rs983787813	C280G	0.0		Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44
+ANKRD55	missense_variant		990850726						Q3KP44	Ankyrin repeat domain-containing protein 55	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q3KP44

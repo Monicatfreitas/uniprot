@@ -1,0 +1,999 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ITGAL	missense_variant		1003907747						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1006417970						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1008870894						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1011404768						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1011944622						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1013197686						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1018674527						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1026824803						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	1028308425	P20701	rs1028308425	P1132S	0.57		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1031476643						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1033462229						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1033717320						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1036495335						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1040873306						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1047033505						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1048159992						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1049539142	P20701	rs1049539142	I553L	0.02		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1050241349						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1050843749						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1055135987						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1056322531						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1064524						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		11574949						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1158542257						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1164907551						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1165201902						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1165705559						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1166851481						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1167711641						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1168035344						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1168866572						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1169386767						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1174084453						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1175658581						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1176830183						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1177218818	P20701	rs1177218818	M97I	0.035		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1177218818	P20701	rs1177218818	M97I	0.05		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1177218818	P20701	rs1177218818	M97I	0.036		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1177218818	P20701	rs1177218818	M97I	0.02		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1177823329						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1178727948						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1179014837						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1180325958						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1181754779						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1182012435						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1183551120						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1183810811						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1185495955						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1185635136						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1190252242						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1193509143						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1195384424						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1198470681						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1200173173						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1202584621						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1202629082						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1205861093						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1209156451						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1211735844						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1212877656						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1214536113						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1214752835						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1218022631						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1218694592						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1219964838						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1220094344						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1221232234						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1221983373						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1222606301						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1222791987						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1223004604						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1225267022						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1225279554	P20701	rs1225279554	R117Q	0.801		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1225279554	P20701	rs1225279554	R117Q	0.69		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1225279554	P20701	rs1225279554	R117Q	0.798		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1225279554	P20701	rs1225279554	R117Q	0.23		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1227831897						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1228798279						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1232859523						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1234007756						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1234822790						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1235417729						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1235616327						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1235743392						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1235955859						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1236553770						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1236623838						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1236675403						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1239872256						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1243366958						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1244810980						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1245206372						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1246503733						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1248139535						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1254222837						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1254481244						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1254650384						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1257627013						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1259687463						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1261454691						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1264371238	P20701	rs1264371238	P39Q	0.012		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1264371238	P20701	rs1264371238	P39Q	0.31		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1264371238	P20701	rs1264371238	P39Q	0.007		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1264371238	P20701	rs1264371238	P39Q	0.3		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1264862843						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1265127306						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1265285770						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1266956435						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1268233392						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1270779235						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1271288346						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1271594304						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1273830278	P20701	rs1273830278	V49I	0.465		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1273830278	P20701	rs1273830278	V49I	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1273830278	P20701	rs1273830278	V49I	0.46		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1273830278	P20701	rs1273830278	V49I	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1278725275						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1278931057						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1280859062	P20701	rs1280859062	G492D	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1280859062	P20701	rs1280859062	G492D	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1280859062	P20701	rs1280859062	G492D	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1281370265						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1281503999						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1283847303						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1285022878						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1285198407						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1285212944	P20701	rs1285212944	D322V	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1290475534						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1292314002						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1293394826						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1293413812						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1295144045						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1295792156						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1296457795						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1297067417						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1297387462						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1297821795						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1298237728						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1298405619						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1299937597						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1300653728						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1301865118						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1303450999						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1305988046						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1306422868						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1307294039						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1309771843						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1309880505						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1310745688						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1310909271						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1310953191						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1311897499						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1312115404						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1316935287						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1317405439						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1317957871						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1318235946						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1318955712						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1319774447						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1320029784						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1320384347						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1321822201						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1322919965						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1324005870	P20701	rs1324005870	G943D	0.225		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1324005870	P20701	rs1324005870	G943D	0.4		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1324005870	P20701	rs1324005870	G943D	0.12		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1326294583						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1329334841						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1329754119						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1332646261						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1333676373						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1333944930						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1334141421						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1334884893						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1335191668						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1336006529						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1336129594						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1336341378						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1337725293						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1337809923						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1340548563						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1341074494						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1341212033						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1348092484						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1350027313						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1350034006						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1350562051						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1355623985						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1357007860	P20701	rs1357007860	G285R	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1357007860	P20701	rs1357007860	G285R	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1357007860	P20701	rs1357007860	G285R	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1359920465						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1360468386						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1362101933						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1362649468						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1362900426						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1366813927						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1369599548						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1370201138						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1372569637						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1373340998						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1373646274						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1373843031						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1374396964						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1374908106						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1376583382						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1377895872						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1378111954						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1378500388						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		138016221						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1381082029						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1382792976						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1385067188						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		138743084						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1389285263						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1391400480						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1391581797						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1391808501						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1393807314						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1394840599						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1395629935						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1395694740						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1397207588						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1399120245						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1399552741						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1401368085						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1401883403						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1403032003						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1404067378						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	140551792	P20701	rs140551792	N238S	0.06		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1406300084						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1408299677						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1409394292						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		141012481						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1410194457						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	141031571						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1410328995						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1410660080						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1411681192						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1412119249						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1414103112						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1415251168	P20701	rs1415251168	N862D	0.912		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1415251168	P20701	rs1415251168	N862D	0.02		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1415251168	P20701	rs1415251168	N862D	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1416431038						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1417741836						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1421672739						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1422233580						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1422336795						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1424238290						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1424735064						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		142620368						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	142666403						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1428037729	P20701	rs1428037729	R613W	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1428037729	P20701	rs1428037729	R613W	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1428037729	P20701	rs1428037729	R613W	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		142941079						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1432515197	P20701	rs1432515197	D1162N	0.007		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1432515197	P20701	rs1432515197	D1162N	0.07		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1432515197	P20701	rs1432515197	D1162N	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1434285725						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1435242407						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1435466084						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	143575422	P20701	rs143575422	P825L	0.71		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1436811391						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1436836835	P20701	rs1436836835	S757P	0.882		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1436836835	P20701	rs1436836835	S757P	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1436836835	P20701	rs1436836835	S757P	0.1		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1437784115						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1438986065	P20701	rs1438986065	P825T	0.52		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1439386155						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1439632247						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1440081506						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1441069412						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1441268868						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1445562525						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1447960807						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		144797276						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1448166938						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1449664297						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1450332697						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1455873181						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1456105710						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1457247312						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1457394602						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1457533688						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	145951975	P20701	rs145951975	S418L	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	145951975	P20701	rs145951975	S418L	0.21		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	145951975	P20701	rs145951975	S418L	0.18		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1460225892						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		146031122	P20701	rs146031122	E846K	0.189		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		146031122	P20701	rs146031122	E846K	0.03		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		146031122	P20701	rs146031122	E846K	0.09		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	1460661295						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1461997920						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1463148714						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		146416180						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1465396224						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1468725313						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1468736393						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1469569062						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471278720	P20701	rs1471278720	G512E	0.995		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471278720	P20701	rs1471278720	G512E	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471278720	P20701	rs1471278720	G512E	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471486493						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471535570	P20701	rs1471535570	R583H	0.975		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471535570	P20701	rs1471535570	R583H	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471535570	P20701	rs1471535570	R583H	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471660510						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1471937036						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1473885289						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1475427945						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		147749266	P20701	rs147749266	A275V	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		147749266	P20701	rs147749266	A275V	0.42		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		147749266	P20701	rs147749266	A275V	0.28		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1478088542						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1478568921						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		147945435	P20701	rs147945435	A745V	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		147945435	P20701	rs147945435	A745V	0.38		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		147945435	P20701	rs147945435	A745V	0.38		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1481103487						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1481597249						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1482277184						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		148262651						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1483387075						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1486553551						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1486828708						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1486954968						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		149003816						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1490522717						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		149285825						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		149903254						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	150394379						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		151035888						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567460350						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567463114						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1567466768						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567466847						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567470194						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567470215						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567473995						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567477558						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567477711						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567477784						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567477993						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567487641						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	1567492105	P20701	rs1567492105	P994S	0.1		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567492193						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567493005						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567493018						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567494919						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1567494976						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597065271						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597082115						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597082718						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597082868						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597084417						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597084775						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597084778						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597102681						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597103410						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597109050						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597110070						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597110129						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597112602						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597114509						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1597114578						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1746778738						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		1767244265						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		181096180						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		183111980						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		184217553						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199606000						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	199716730	P20701	rs199716730	R520Q	0.185		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	199716730	P20701	rs199716730	R520Q	0.07		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	199716730	P20701	rs199716730	R520Q	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199745524	P20701	rs199745524	E773D	0.058		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199745524	P20701	rs199745524	E773D	0.2		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199745524	P20701	rs199745524	E773D	0.14		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199892523	P20701	rs199892523	E1044K	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199892523	P20701	rs199892523	E1044K	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199892523	P20701	rs199892523	E1044K	0.46		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		199984968						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	200068830						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		200147185						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	200200372	P20701	rs200200372	E778D	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		200511338						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		200585963						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	200737227	P20701	rs200737227	Q428E	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		200803661						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		201096086						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	201206480	P20701	rs201206480	A1072T	0.21		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	201352078	P20701	rs201352078	T572N	0.06		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2016425024						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	201731849	P20701	rs201731849	R414Q	0.59		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		202150477	P20701	rs202150477	A307T	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		202150477	P20701	rs202150477	A307T	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		202150477	P20701	rs202150477	A307T	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		202193791						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050413535						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050414055						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050414403						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050414488						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050414521						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050414561						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050435185						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050435978						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050454669						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050454869						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050455607						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050457701						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050458246						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050458422						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050516269						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050516503						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050517186						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050521050						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050521453						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050522241						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050522433						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050559226						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050560011						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050560579						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050560707						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	2050594056						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050594391						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050594700						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050595368						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050596421						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050602416						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050603395						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050603533						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050603766						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050687834						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050687980						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050688204						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050688415						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050688616						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	2050690890	P20701	rs2050690890	A363T	0.42		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050691719						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050692055						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050692200						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050692263						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050692302						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050692368						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050692479						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050768727						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050768979						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050770028						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050770153						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050770191						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050770372						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050770458						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050776032						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050776387						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050776939						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050777276						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050777669						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050777710						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050794693						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050794864						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050795235						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050795813						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050796402						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050797110						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050797375						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050797579						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050797924						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050798107						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050798308						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050798801						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050801913						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050801968						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050802323						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050803266						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050803433						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050803529						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050803781						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050846289						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050846424						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050847086						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050847448						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050848459						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050848674						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050848726						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050848767						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050850883						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050851158						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050851608						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050852158						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050852684						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050948680						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050948895						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050969667						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050969884						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050969926						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2050972750						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051004039						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051005278						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051005722						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051005910						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051006546						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051007529						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051007692						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051073248						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051073289						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051079746						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051080305						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051080507						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051125370						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051125995						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051126046						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051175768						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051176505						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051176795						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051176944						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	2051178121	P20701	rs2051178121	Q991R	0.09		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051188943						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051189187						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051192313						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051192519						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051192573						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051193875						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051206973						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051207194						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051207387						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051207501						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051207592						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051207687						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051226155						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051227868						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051228434						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051253513						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051254461						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051255434						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051255723						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051256052						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2051256244						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151141095						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151143753						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151143840						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151147089						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151147184						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151151995						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151158368						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151166503						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151204311						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	2151204363	P20701	rs2151204363	K945N	0.04		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151207910						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151208775						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151209969						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151211370						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2151211476						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2230431						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		2230433						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	2544059522						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	benign	34166708						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		34838942						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		367958169						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		368636350						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		368792972						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		369314558						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		369554955	P20701	rs369554955	R830H	0.888		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		369554955	P20701	rs369554955	R830H	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		369554955	P20701	rs369554955	R830H	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		369804325						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		369827114						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	369990476						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		370478656	P20701	rs370478656	R252Q	0.989		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		370478656	P20701	rs370478656	R252Q	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		370478656	P20701	rs370478656	R252Q	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		370573291						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		371713581						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		372358125						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		372698428						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		372886251	P20701	rs372886251	V996M	0.891		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		372886251	P20701	rs372886251	V996M	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		372886251	P20701	rs372886251	V996M	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		373214931						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		374199105						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		374629566						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		375600477						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		376221007						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		376301659						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	376750981	P20701	rs376750981	P766L	0.928		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	376750981	P20701	rs376750981	P766L	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	376750981	P20701	rs376750981	P766L	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		376988959						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		377233189	P20701	rs377233189	S422L	0.058		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		377233189	P20701	rs377233189	S422L	0.6		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		377233189	P20701	rs377233189	S422L	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	377238411						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		377613856						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		529966658						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		530491291						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		530715206						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		531846551						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		532614112						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		533945018						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		534281390	P20701	rs534281390	G55R	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		534281390	P20701	rs534281390	G55R	0.35		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		534281390	P20701	rs534281390	G55R	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		534281390	P20701	rs534281390	G55R	0.31		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		534632332						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		536837601						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		539609409						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		542978938						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		547394344						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		548345287						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		548488325						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		551557846						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		551808584						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		557551761	P20701	rs557551761	G1016R	0.373		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		557551761	P20701	rs557551761	G1016R	0.38		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		557551761	P20701	rs557551761	G1016R	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	558796664	P20701	rs558796664	K1161N	0.2		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		559041010						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		560390527						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		561225020	P20701	rs561225020	D534N	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		561225020	P20701	rs561225020	D534N	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		561225020	P20701	rs561225020	D534N	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	562768718	P20701	rs562768718	P22L	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	562768718	P20701	rs562768718	P22L	0.21		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		563028950						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		568362620						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		575483045						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		576508617						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		577741062						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		577787572						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	benign	59353760	P20701	rs59353760	R1020H	0.26		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		61734184						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745308598						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745385078						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745426998						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745486669						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745515604						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745775285						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745850538						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		745991699						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746119391						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746473207						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746627643						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746657380						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746768232						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746821298						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		746878114						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		747094192						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	747400560						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	747512759						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		747538286						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		747807763						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		747988431						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748021842						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748282647						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748315049						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	748355671	P20701	rs748355671	M644L	0.02		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748500390						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748512062						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748618358	P20701	rs748618358	H962N	0.585		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748618358	P20701	rs748618358	H962N	0.28		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748618358	P20701	rs748618358	H962N	0.19		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748682833						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748713465						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748766300						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748788135						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748813495						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748938835	P20701	rs748938835	N154K	0.013		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748938835	P20701	rs748938835	N154K	0.23		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		748938835	P20701	rs748938835	N154K	0.3		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749085220						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749226538						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749508499	P20701	rs749508499	G442R	0.006		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749508499	P20701	rs749508499	G442R	0.57		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749508499	P20701	rs749508499	G442R	0.65		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749558117						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749865362	P20701	rs749865362	R794H	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749865362	P20701	rs749865362	R794H	0.61		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749865362	P20701	rs749865362	R794H	0.64		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749966712						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		749975959						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		750052844						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	750373265	P20701	rs750373265	V609M	0.045		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	750373265	P20701	rs750373265	V609M	0.2		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	750373265	P20701	rs750373265	V609M	0.16		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		750389862						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		750436288						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		750525373						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		750779476						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	751053396						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751487385						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751488298						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751774686						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751825408	P20701	rs751825408	G559R	0.088		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751825408	P20701	rs751825408	G559R	0.11		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751825408	P20701	rs751825408	G559R	0.15		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		751860400						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		752667013						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		752831458						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753302369						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753378071	P20701	rs753378071	A241V	0.001		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753378071	P20701	rs753378071	A241V	0.85		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753378071	P20701	rs753378071	A241V	0.43		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753431963						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753867506						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		753876193						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		754149542						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		754291856						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		754526673						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		754731695						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755029848						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755319798						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755372853						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755499977	P20701	rs755499977	R830C	0.843		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755499977	P20701	rs755499977	R830C	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755499977	P20701	rs755499977	R830C	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755566914						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755597644	P20701	rs755597644	G153S	0.218		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755597644	P20701	rs755597644	G153S	0.05		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755597644	P20701	rs755597644	G153S	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755733943						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		755878834						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756080216						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756150914						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	756464450						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756493723	P20701	rs756493723	D274N	0.015		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756493723	P20701	rs756493723	D274N	0.29		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756493723	P20701	rs756493723	D274N	0.11		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	756655021	P20701	rs756655021	V467I	0.46		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756660426						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756721246						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756789443						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		756819257						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757156287						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757261260						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757296301						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757400430						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	757401973						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757669909						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757799926						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757804459						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757861462	P20701	rs757861462	R583C	0.975		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757861462	P20701	rs757861462	R583C	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		757861462	P20701	rs757861462	R583C	0.03		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	758094850						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		758211249						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		758240435						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	758416754	P20701	rs758416754	A527S	0.03		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		758748282						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		758987875						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759007220						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759112507						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759205869						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759219429						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759257207						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759462746						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759537107						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759572740						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759661349	P20701	rs759661349	G1035R	0.966		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759661349	P20701	rs759661349	G1035R	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759661349	P20701	rs759661349	G1035R	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		759987966						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		760046249						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		760605899						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		760763568						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		760884232						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		760949186						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		761055092						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		761222887						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		761364172						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		761389941						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		761646585						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	761975435						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762045861						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762288650						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762316788						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762431035						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762893364	P20701	rs762893364	V1083M	0.049		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762893364	P20701	rs762893364	V1083M	0.11		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		762893364	P20701	rs762893364	V1083M	0.24		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		763270699						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		763305047						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		763636031						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		763744260						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		763816069						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		763959941						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		764239058						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		764335051						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	764357270	P20701	rs764357270	R520W	0.988		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	764357270	P20701	rs764357270	R520W	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	764357270	P20701	rs764357270	R520W	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		764581183						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		764595721						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		764870619						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	764924318	P20701	rs764924318	M1125I	0.05		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		764995695						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765040231						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765201049						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765387236	P20701	rs765387236	T915I	0.717		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765387236	P20701	rs765387236	T915I	0.14		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765387236	P20701	rs765387236	T915I	0.46		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765488846						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765514196	P20701	rs765514196	P740L	0.011		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765514196	P20701	rs765514196	P740L	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765514196	P20701	rs765514196	P740L	0.07		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		765679208						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		766182353						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		766352989						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		766847705						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767062199						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767129140						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767344206						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767738577	P20701	rs767738577	G560E	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767738577	P20701	rs767738577	G560E	0.03		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767738577	P20701	rs767738577	G560E	0.06		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767808814						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767980055						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		767991338						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768038639	P20701	rs768038639	R133C	0.326		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768038639	P20701	rs768038639	R133C	0.06		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768038639	P20701	rs768038639	R133C	0.322		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768038639	P20701	rs768038639	R133C	0.05		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768201550						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768385227						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768498334						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		768605276						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769006473						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769182654						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769259547						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769390902						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769513913						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769585343	P20701	rs769585343	V58M	0.999		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769585343	P20701	rs769585343	V58M	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769585343	P20701	rs769585343	V58M	0.999		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769585343	P20701	rs769585343	V58M	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769667015						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769798637						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		769926737						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770117610						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770161979						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770189929						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770563570						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770677132						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770727204						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770806461						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770821011	P20701	rs770821011	E1086K	0.997		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770821011	P20701	rs770821011	E1086K	0.07		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770821011	P20701	rs770821011	E1086K	0.09		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770937273	P20701	rs770937273	E63K	0.842		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770937273	P20701	rs770937273	E63K	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770937273	P20701	rs770937273	E63K	0.848		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		770937273	P20701	rs770937273	E63K	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		771340512						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		771380844						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	771500045	P20701	rs771500045	V408L	0.29		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		771522052						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		771815313						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		771904683						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772007994						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772181607						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772266098						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772426802						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772428653						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772482796						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772562509						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772725815						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		772825780						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773068960						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773087754	P20701	rs773087754	V648I	0.086		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773087754	P20701	rs773087754	V648I	0.23		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773087754	P20701	rs773087754	V648I	0.04		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773290189						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773633222						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773640538						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773669806						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773740407						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		773871697						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774082465						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774130388						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774210178						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774252340						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774329079	P20701	rs774329079	R666C	0.606		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774329079	P20701	rs774329079	R666C	0.06		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774329079	P20701	rs774329079	R666C	0.15		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774580412						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774712324						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		774887449						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775003211						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775118895						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775193597						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775285132						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775525981	P20701	rs775525981	R281C	0.999		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775525981	P20701	rs775525981	R281C	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775525981	P20701	rs775525981	R281C	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775608280						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775811049						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		775921453						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		776112031						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		776119633						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		776348687						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	776362360	P20701	rs776362360	A33T	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	776362360	P20701	rs776362360	A33T	0.17		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	776362360	P20701	rs776362360	A33T	0.003		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	776362360	P20701	rs776362360	A33T	0.22		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		776423116						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		776894895						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777054561						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777115236						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777147110						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777348784						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777371433						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777806906						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		777925711						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778076299						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778078436						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778099767						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778221076	P20701	rs778221076	A21V	0.017		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778221076	P20701	rs778221076	A21V	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778221076	P20701	rs778221076	A21V	0.018		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778221076	P20701	rs778221076	A21V	0.18		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778433622						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778489575						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	778561596	P20701	rs778561596	H759R	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778595234						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778713784						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778904964						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778948720	P20701	rs778948720	G577A	0.942		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778948720	P20701	rs778948720	G577A	0.02		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		778948720	P20701	rs778948720	G577A	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		779221305						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		779265735						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		779306780						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		779359688						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		779619897						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		779725947						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780001256						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780030121						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780099281	P20701	rs780099281	T118M	0.031		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780099281	P20701	rs780099281	T118M	0.08		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780099281	P20701	rs780099281	T118M	0.031		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780099281	P20701	rs780099281	T118M	0.09		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780371688						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780418137						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780445782						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		780488665						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		781045441						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		781453504	P20701	rs781453504	I57V	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		781453504	P20701	rs781453504	I57V	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		781453504	P20701	rs781453504	I57V	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		781453504	P20701	rs781453504	I57V	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		781563870						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		79082570						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		79429657						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		866102650						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		866967977	P20701	rs866967977	G369E	0.991		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		866967977	P20701	rs866967977	G369E	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		866967977	P20701	rs866967977	G369E	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		867203540	P20701	rs867203540	D269N	0.69		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		867203540	P20701	rs867203540	D269N	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		867203540	P20701	rs867203540	D269N	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		867592465						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		867777994						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		867965511						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		868222620						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		868438104						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		886682521						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	likely benign	887310692	P20701	rs887310692	I652V	1.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		890179425						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		890462581	P20701	rs890462581	M183I	0.83		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		890462581	P20701	rs890462581	M183I	0.0		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		890462581	P20701	rs890462581	M183I	0.01		P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		892506369						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		893377159						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		896379005						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		904568095						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		904858185						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		910402817						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		913510126						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		915585968						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		925910390						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		930068657						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		932758779						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		937950166						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		943745977						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		943872783						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		946104423						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	948596742						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		949144055						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		959807689						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		960052424						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		960780259						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	966492839						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		968959537						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		969589015						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		970160393						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		971265959						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		984329039						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant	uncertain significance	992466949						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701
+ITGAL	missense_variant		993645624						P20701	Integrin alpha-L	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P20701

@@ -1,0 +1,495 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+MMP1	missense_variant		1003777678						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1006224324						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1006255556						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1008478272						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1014953978						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1016642417						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1017820823						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1018142306						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1044949294						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	114064748	P03956	rs114064748	T122M	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		11557268						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1156579122	P03956	rs1156579122	D129Y	0.02		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1159567430						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1165637899						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1169731663						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1170209814						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1179997925						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1180935373	P03956	rs1180935373	Y210C	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1187232449						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1189547887						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1190681397						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1193994633						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1200979754						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1202404331						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1203349389						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1204915667						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1205742732						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1208877025						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1212303526						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1216462674						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1218634787						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1225302905						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1225613389						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1225755827						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1228031831						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance, likely benign	12282811						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1229212175						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1229809164						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1230645647						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1233727664						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1234326470						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1244984719	P03956	rs1244984719	E402K	0.992		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1244984719	P03956	rs1244984719	E402K	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1244984719	P03956	rs1244984719	E402K	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1246792892						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1248387101						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1248439303						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1248745895						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1254338751						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1258172150						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1262028009						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1263897390	P03956	rs1263897390	S57G	0.03		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1263897390	P03956	rs1263897390	S57G	0.25		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1263897390	P03956	rs1263897390	S57G	0.042		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1263897390	P03956	rs1263897390	S57G	0.14		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1266396355						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1268157418						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1275475960						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1276184856						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1276483489						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1278303383	P03956	rs1278303383	F174S	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1278303383	P03956	rs1278303383	F174S	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1278303383	P03956	rs1278303383	F174S	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1279871326						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1280447092						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1282844660	P03956	rs1282844660	Q139K	0.012		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1282844660	P03956	rs1282844660	Q139K	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1282844660	P03956	rs1282844660	Q139K	0.94		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1286060652						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1288335527						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1292509390						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1294590130						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1300774385						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1305133839						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1309964206						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1314139586						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1314172240						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1314879507						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1316050701						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1323625034						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1326744628						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1327240547						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1327491523						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1331475660						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1334199818						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1335445679						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1337381786						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1342059322						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1343596418						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1343999659						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1346888650						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1347015697						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1350814524						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1355100115						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1359548368						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1363272334						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1363941330						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1364420389						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1365157313						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1366327341						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1368044559						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1370114637						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1370195572						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1375686332						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1378667121						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1381864926						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1382016495						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1389082506						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1389859409						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		139040854						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1394945128						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1395756839						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1396192767						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1400045831						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1403265289						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1404125485						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1406145618						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1411027147						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1411115067						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1412688376						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1413797839						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		141429213						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1415337384						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	141541015						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		141648785						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1423621991						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1425198017						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1425567466						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1427653490						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	143028352						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		143369245						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	143788145	P03956	rs143788145	T83N	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	143788145	P03956	rs143788145	T83N	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1438025889						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1438334407						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1441228928						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		144780150						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		145093384						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1452209903						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1456651216						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1458687142						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1461095655						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		146320196						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1463376019	P03956	rs1463376019	V31G	0.035		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1463376019	P03956	rs1463376019	V31G	0.09		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1464577227						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		146623880						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	146887036	P03956	rs146887036	T103I	0.28		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1469324107	P03956	rs1469324107	G166E	0.691		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1469324107	P03956	rs1469324107	G166E	0.13		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1469324107	P03956	rs1469324107	G166E	0.16		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		147429731						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1476324299						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	148103425	P03956	rs148103425	T76P	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	148103425	P03956	rs148103425	T76P	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1484841344						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1488411335						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1488547432						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance, likely benign	148980271						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1490192260						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		149392574						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		149950482						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		150423527						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565209948						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565210676						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565212044						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565212920						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565213192						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565213650						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565459239						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565459247						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1565459273						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1591076155						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1591076191						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1591080870						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1591082764						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		17879165						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	17879973						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	17884120						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		181629882						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		185737138						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1857993675						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858003595						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858004306						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858005900						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858023865						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858024064						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858025000						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858025447						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858026473						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858026779						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858029044						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858060411						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858061214						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858145687						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858145751						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858145923						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858148696						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858149605						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858150119						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858159853						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858160685						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858161675						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858163083						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858163291						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858163450						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858164070						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858164552						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858164937						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858200386						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858200464						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858201962						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858202044						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858202790						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858202943						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858203471						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858203545						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858204020						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858204272						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858204679						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858212627						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858213050						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858213474						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858213657						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858213891						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858214384						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858214460						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858216067						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858221979						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858224163						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858224396						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858224663						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858226762						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858227374						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858227623						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858227902						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858228475						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858230390						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858230464						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858232532						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858253565						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858255395						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	1858255987						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858256205						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858256527						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		1858256846						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		186925812						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		189548101						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		199702254						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		200033056						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200225512	P03956	rs200225512	R291W	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200225512	P03956	rs200225512	R291W	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200225512	P03956	rs200225512	R291W	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200717412						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200810479	P03956	rs200810479	V60L	0.001		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200810479	P03956	rs200810479	V60L	0.35		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	200875962	P03956	rs200875962	G221S	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		200931880						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	201210902	P03956	rs201210902	N346T	0.16		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		201530813						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		201622381						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		201865180	P03956	rs201865180	R108H	0.781		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		201865180	P03956	rs201865180	R108H	0.05		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		201865180	P03956	rs201865180	R108H	0.02		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		2134361789						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		2134362004						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		2134366806						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		2134370079						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		2134370352						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		2134371211						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	2496509359						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	2496524421						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	2496529124						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	367819210	P03956	rs367819210	R304S	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		368596887						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	369054402	P03956	rs369054402	D200E	0.58		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		369683438						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		369712925						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		370346234						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		370349646						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		370930997						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		371023437						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	371106856	P03956	rs371106856	A22V	0.005		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	371106856	P03956	rs371106856	A22V	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	371416460	P03956	rs371416460	A277V	0.24		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		371484770						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		373218329						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		373806014						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	374237181						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	374600625	P03956	rs374600625	G271A	0.08		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		375378659						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		376000351						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		376694849						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		377717830						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		513964						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		534208150						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		542710164						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		554499						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		554674240						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		554687805						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		556086714						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	56028730	P03956	rs56028730	T305A	0.07		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		564009699						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		567735411						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		577809741						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	benign, likely benign	59142365	P03956	rs59142365	V374M	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		7124068						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	745361439	P03956	rs745361439	D378N	0.14		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		745447214	P03956	rs745447214	R214C	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		745447214	P03956	rs745447214	R214C	0.02		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		745447214	P03956	rs745447214	R214C	0.02		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		745680827						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		746276822						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		746320100						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	746410573	P03956	rs746410573	M236K	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	746410573	P03956	rs746410573	M236T	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		746603387						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747080313	P03956	rs747080313	R304H	0.999		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747080313	P03956	rs747080313	R304H	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747080313	P03956	rs747080313	R304H	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747168649						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747191165						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	747359626						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747609029						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		747957502						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		748514864						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		748601963						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		748779591						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749127522						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749381658						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749612523						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749945286						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749993257	P03956	rs749993257	D363N	0.007		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749993257	P03956	rs749993257	D363N	0.37		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		749993257	P03956	rs749993257	D363N	0.41		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750031506	P03956	rs750031506	P5S	0.009		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750031506	P03956	rs750031506	P5S	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750031506	P03956	rs750031506	P5S	0.009		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750031506	P03956	rs750031506	P5S	0.08		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	750068778						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750555663						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750832416	P03956	rs750832416	F70L	0.852		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750832416	P03956	rs750832416	F70L	0.05		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750832416	P03956	rs750832416	F70L	0.871		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750832416	P03956	rs750832416	F70L	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		750841955						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		751094664						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		751235903						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		751464008						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		751705834						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		752020420						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		752027803						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		753339520						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		753617940	P03956	rs753617940	I134T	0.99		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		753617940	P03956	rs753617940	I134T	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		753617940	P03956	rs753617940	I134T	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		753618330						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	753967860						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754040106						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754278439						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754500530						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754506439	P03956	rs754506439	R341W	0.989		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754506439	P03956	rs754506439	R341W	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754506439	P03956	rs754506439	R341W	0.01		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	754773987	P03956	rs754773987	T204I	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754821369						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		754987134						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	755263146	P03956	rs755263146	F391C	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		755536131						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	755602832	P03956	rs755602832	T289A	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		755625810						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	756000116	P03956	rs756000116	D336N	0.24		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		756459094						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	likely benign	756674911						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		756698352						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		756742579						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		756925599						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		757515221						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		758013768						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		758158679						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		758426948						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		758477901						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		758666283						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		759136402						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		759699354						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		759913929						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		759965337						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		760055891						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	760477914	P03956	rs760477914	A128P	0.04		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		760636280						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		761000947						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		761045823						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		761086000						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	761955087	P03956	rs761955087	H228N	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		762436328						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		762620524						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	762758502						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		762758510						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		763139044						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		763713996						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		763801001	P03956	rs763801001	P310L	0.009		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		763801001	P03956	rs763801001	P310L	0.78		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		763801001	P03956	rs763801001	P310L	0.39		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		764434087						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		764831079						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		765465983						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		765703758						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		766154982						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		766351335	P03956	rs766351335	A286V	0.998		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		766351335	P03956	rs766351335	A286V	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		766351335	P03956	rs766351335	A286V	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		766426065						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		766661356						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		767092113						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		767123906						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		767873628						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		768066578						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	768524988	P03956	rs768524988	I377V	0.16		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		768701158						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		768912912						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		769079996						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		769954966						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		769965178						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		770146117						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		770408005						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		770633699						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		770681379						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		771377044						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		771568745						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		771608192						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		771914327						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		772091045						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		772120963						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		772239921						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		772321761						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773055632						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773149802						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773369133						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773474756	P03956	rs773474756	K452R	0.012		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773474756	P03956	rs773474756	K452R	0.29		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773474756	P03956	rs773474756	K452R	0.21		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773483749						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773833177						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773943831						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		773957569						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		774067822						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		774532968						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		774851595						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		774975570						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		775008278						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	775033329						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		775505104						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		775721047						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		775753400						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		776063507						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		776079286						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		776917984						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		777005404						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		777202958						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		777734643						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		778252160						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		778606641						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		778660009						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	778882706	P03956	rs778882706	E333K	0.999		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	778882706	P03956	rs778882706	E333K	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	778882706	P03956	rs778882706	E333K	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		779266663						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	779423264						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		779509877						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		779778495						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		780014602						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		780053590						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		781072366						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		781307222						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		781662216						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		781697259						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		866405308						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		898179370						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		916894467						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		920563865						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		925535869						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		929669430						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		935058861						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		943309430						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		955197833						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	960560219						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		963164473						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	973172732	P03956	rs973172732	S229F	1.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	973172732	P03956	rs973172732	S229F	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	973172732	P03956	rs973172732	S229F	0.0		P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		983680571						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		992787098						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant	uncertain significance	997485561						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956
+MMP1	missense_variant		997948848						P03956	Interstitial collagenase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P03956

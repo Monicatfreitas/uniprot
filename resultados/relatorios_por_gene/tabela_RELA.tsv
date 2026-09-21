@@ -1,0 +1,590 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+RELA	missense_variant		1012204019						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1012952762						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1032578811	Q04206	rs1032578811	G230R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1032578811	Q04206	rs1032578811	G230R	0.6		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	11557248						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1157278470	Q04206	rs1157278470	I500V	0.467		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1157278470	Q04206	rs1157278470	I500V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1157690704						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1158346001						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1159476176	Q04206	rs1159476176	P19S	0.986		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1159476176	Q04206	rs1159476176	P19S	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1159476176	Q04206	rs1159476176	P19S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1159476176	Q04206	rs1159476176	P19S	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1159602684	Q04206	rs1159602684	R174C	0.352		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1159602684	Q04206	rs1159602684	R174C	0.06		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1159602684	Q04206	rs1159602684	R174C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1159602684	Q04206	rs1159602684	R174C	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		11606329						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		11608099						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1161370675						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1165809846	Q04206	rs1165809846	R267H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1165809846	Q04206	rs1165809846	R267H	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1167688221						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1169785805						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1171374836						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1172744425	Q04206	rs1172744425	E127K	0.467		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1172744425	Q04206	rs1172744425	E127K	0.69		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1172744425	Q04206	rs1172744425	E127K	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1172744425	Q04206	rs1172744425	E127K	0.49		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1172994773						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1174324125						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1177462012						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1178830994	Q04206	rs1178830994	T78N	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1178830994	Q04206	rs1178830994	T78N	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1180352560	Q04206	rs1180352560	I331V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1180352560	Q04206	rs1180352560	I331V	0.15		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1181568528						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1184817070						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1186645003	Q04206	rs1186645003	P415S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1186645003	Q04206	rs1186645003	P415S	0.34		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1189280546						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1189873448						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1191351823						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1193259548						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1194237734	Q04206	rs1194237734	L207V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1194237734	Q04206	rs1194237734	L207V	0.1		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1196154107	Q04206	rs1196154107	P348A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1196154107	Q04206	rs1196154107	P348A	0.1		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1196982543						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1208220510	Q04206	rs1208220510	P395R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1208220510	Q04206	rs1208220510	P395R	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1209657498						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1210908822						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1211831291						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1213950702						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1219124903						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1219333291	Q04206	rs1219333291	S337N	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1219333291	Q04206	rs1219333291	S337N	0.39		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1227655115	Q04206	rs1227655115	F542L	0.833		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1227655115	Q04206	rs1227655115	F542L	0.47		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1232341468	Q04206	rs1232341468	R330H	0.662		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1232341468	Q04206	rs1232341468	R330H	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1232341468	Q04206	rs1232341468	R330H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1232341468	Q04206	rs1232341468	R330H	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1235283948						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1237054467						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1239685921						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1241103660	Q04206	rs1241103660	I183V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1241103660	Q04206	rs1241103660	I183V	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1246637051						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1252847592	Q04206	rs1252847592	R274W	1.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1252847592	Q04206	rs1252847592	R274W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1252847592	Q04206	rs1252847592	R274W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1252847592	Q04206	rs1252847592	R274W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1254116157						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1254886027						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1255403640						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1260736909						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1260899484						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1263055359	Q04206	rs1263055359	L403V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1263055359	Q04206	rs1263055359	L403V	0.38		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1263528129	Q04206	rs1263528129	P10S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1263528129	Q04206	rs1263528129	P10S	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1267397579						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1267463921						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	12721572	Q04206	rs12721572	M313V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	12721572	Q04206	rs12721572	M313V	1.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		12721575						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1282218073						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1282651820						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1282808983						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1283377121	Q04206	rs1283377121	M492L	0.267		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1283377121	Q04206	rs1283377121	M492L	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1283377121	Q04206	rs1283377121	M492L	0.275		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1283377121	Q04206	rs1283377121	M492L	0.07		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1283746730						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1285811443						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1287948980	Q04206	rs1287948980	V421L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1287948980	Q04206	rs1287948980	V421L	0.3		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1290399583						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1291631162						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1297711254	Q04206	rs1297711254	Q430R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1297711254	Q04206	rs1297711254	Q430R	0.49		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1301308246						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1302055993						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1308599130	Q04206	rs1308599130	E193K	0.97		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1308599130	Q04206	rs1308599130	E193K	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1308599130	Q04206	rs1308599130	E193K	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1308599130	Q04206	rs1308599130	E193K	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1310254235						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1312067163						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1314465477						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1323750358						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1329027216						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1332337161						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1332591254						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1333488473						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1334453316						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1336819380						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1338619714						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1341628692						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1343398488						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1344961447						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1345639265						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1345948863	Q04206	rs1345948863	P521L	0.011		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1345948863	Q04206	rs1345948863	P521L	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1345948863	Q04206	rs1345948863	P521L	0.556		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1345948863	Q04206	rs1345948863	P521L	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1346474543	Q04206	rs1346474543	P391S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1346474543	Q04206	rs1346474543	P391S	0.27		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1347094026	Q04206	rs1347094026	S354F	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1347094026	Q04206	rs1347094026	S354F	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1348785979						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1353372476						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1355903094						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1358445187						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1359669742	Q04206	rs1359669742	Q263P	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1359669742	Q04206	rs1359669742	Q263P	0.18		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	1363246020						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1363382539						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1364620549						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1365998197	Q04206	rs1365998197	R149C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1365998197	Q04206	rs1365998197	R149C	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1366570652						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1366985822						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1370194169						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1374686489						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1376292952	Q04206	rs1376292952	A16V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1376292952	Q04206	rs1376292952	A16V	0.11		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	138034120	Q04206	rs138034120	Y306C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	138034120	Q04206	rs138034120	Y306C	0.17		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1381286744						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1381464457						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1382122315	Q04206	rs1382122315	I537V	0.467		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1382122315	Q04206	rs1382122315	I537V	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1384344058						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	138794116	Q04206	rs138794116	D323N	0.091		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	138794116	Q04206	rs138794116	D323N	0.47		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	138794116	Q04206	rs138794116	D323N	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	138794116	Q04206	rs138794116	D323N	0.36		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1387957052	Q04206	rs1387957052	A499S	0.938		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1387957052	Q04206	rs1387957052	A499S	1.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1390278423	Q04206	rs1390278423	A404P	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1390278423	Q04206	rs1390278423	A404P	0.31		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1390278423	Q04206	rs1390278423	A404T	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1390278423	Q04206	rs1390278423	A404T	0.5		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1390663138	Q04206	rs1390663138	A439D	0.82		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1390663138	Q04206	rs1390663138	A439D	0.05		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1393561951						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1393696800						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1393793185						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1398971779						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1399250604						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		140130811						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1402154056						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1402366956						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1405172010						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1410768522						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1411351659	Q04206	rs1411351659	S340P	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1411351659	Q04206	rs1411351659	S340P	0.28		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1411388720						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1412466213						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1413493308	Q04206	rs1413493308	P388L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1413493308	Q04206	rs1413493308	P388L	0.15		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1416924926	Q04206	rs1416924926	P168A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1416924926	Q04206	rs1416924926	P168A	0.2		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1417895912	Q04206	rs1417895912	R273W	0.997		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1417895912	Q04206	rs1417895912	R273W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1417895912	Q04206	rs1417895912	R273W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1417895912	Q04206	rs1417895912	R273W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1418277571						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1420318686						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	142033286	Q04206	rs142033286	R297Q	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	142033286	Q04206	rs142033286	R297Q	0.12		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1422039715	Q04206	rs1422039715	P168L	0.017		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1422039715	Q04206	rs1422039715	P168L	0.17		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1422039715	Q04206	rs1422039715	P168L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1422039715	Q04206	rs1422039715	P168L	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1429314714						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1430719920						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1431554156						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1432792806						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1436789790						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1438780274						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1439792199						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1439805810	Q04206	rs1439805810	V226M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1439805810	Q04206	rs1439805810	V226M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1451237617	Q04206	rs1451237617	P415L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1451237617	Q04206	rs1451237617	P415L	0.05		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	145138143	Q04206	rs145138143	V199A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	145138143	Q04206	rs145138143	V199A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1457182302						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1461359004	Q04206	rs1461359004	R174H	0.195		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1461359004	Q04206	rs1461359004	R174H	0.16		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1461359004	Q04206	rs1461359004	R174H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1461359004	Q04206	rs1461359004	R174H	0.07		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1462514055						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1463059248						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1463629801						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1466629537						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1468006702						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1469104216						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1472798377						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1474354942						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1475365161						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1477765782	Q04206	rs1477765782	Q442P	0.181		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1477765782	Q04206	rs1477765782	Q442P	0.08		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1478374154	Q04206	rs1478374154	R330C	0.853		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1478374154	Q04206	rs1478374154	R330C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1478374154	Q04206	rs1478374154	R330C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1478374154	Q04206	rs1478374154	R330C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1480907469						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1481868107						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1483533790						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1484150455	Q04206	rs1484150455	P334S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1484150455	Q04206	rs1484150455	P334S	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1484848625	Q04206	rs1484848625	P81S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1484848625	Q04206	rs1484848625	P81S	0.29		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1485245702	Q04206	rs1485245702	A376V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1485245702	Q04206	rs1485245702	A376V	0.15		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1485728798						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1488068046	Q04206	rs1488068046	R108H	0.012		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1488068046	Q04206	rs1488068046	R108H	0.05		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1488068046	Q04206	rs1488068046	R108H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1488068046	Q04206	rs1488068046	R108H	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1490573963						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	149254469	Q04206	rs149254469	R278Q	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	149254469	Q04206	rs149254469	R278Q	0.3		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	150601443	Q04206	rs150601443	R295H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	150601443	Q04206	rs150601443	R295H	0.15		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	151125290	Q04206	rs151125290	R73C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	151125290	Q04206	rs151125290	R73C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1565187728						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1565189032						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1565192440						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590930882						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590931266						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590931358						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590935322						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590936874						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590936944						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	pathogenic	1590937041						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1590939582						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1771904444						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856361857						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856362928						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856363547						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856363864						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856363991						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856364187						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856365302						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856365453						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856370754						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856371819						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856372138						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856372400						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856372501						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856372645						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856372834						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856375276						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856375423						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856375505						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856375836						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856376482						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856376778						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856377422	Q04206	rs1856377422	A406V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856377422	Q04206	rs1856377422	A406V	0.17		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856377670						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856381952						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856383668	Q04206	rs1856383668	F351C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856383668	Q04206	rs1856383668	F351C	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856384097						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856406960						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856412850						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856413319						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856415022						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856480861						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856484167						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856484444	Q04206	rs1856484444	S240L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856484444	Q04206	rs1856484444	S240L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856491053						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856491874						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856492299						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856515439						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856516025						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856517107	Q04206	rs1856517107	T164I	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856517107	Q04206	rs1856517107	T164I	0.11		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856528412	Q04206	rs1856528412	R133C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856528412	Q04206	rs1856528412	R133C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856528845	Q04206	rs1856528845	R124W	0.987		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856528845	Q04206	rs1856528845	R124W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856528845	Q04206	rs1856528845	R124W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	1856528845	Q04206	rs1856528845	R124W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856571734						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856572014						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856572106						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856573262						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856574149						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856579981						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856581526						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856581803						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		1856581966						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, benign	199846198	Q04206	rs199846198	A538V	0.765		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, benign	199846198	Q04206	rs199846198	A538V	0.71		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513A	0.958		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513A	0.19		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513S	0.487		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513S	0.13		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513S	0.97		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513S	0.15		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513T	0.981		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	200767506	Q04206	rs200767506	P513T	0.05		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	201037601	Q04206	rs201037601	L528F	0.154		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	201037601	Q04206	rs201037601	L528F	0.12		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	201037601	Q04206	rs201037601	L528F	0.97		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	201037601	Q04206	rs201037601	L528F	0.11		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	201037601	Q04206	rs201037601	L528I	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	201037601	Q04206	rs201037601	L528I	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135548278						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135548689	Q04206	rs2135548689	E490K	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135548689	Q04206	rs2135548689	E490K	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135548776	Q04206	rs2135548776	G481D	0.765		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135548776	Q04206	rs2135548776	G481D	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135549329						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135549470						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135550052						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135550221						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135550262						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135550342						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135559721						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135559774						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	2135564076						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135564218						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135565555	Q04206	rs2135565555	A129T	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135565555	Q04206	rs2135565555	A129T	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135565563						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135565673	Q04206	rs2135565673	Q114R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2135565673	Q04206	rs2135565673	Q114R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135571746						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135572172						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2135572206						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		2375676						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496822224						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496822548						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496822643						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496823771						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	2496823837						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496823940	Q04206	rs2496823940	A507T	0.007		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496823940	Q04206	rs2496823940	A507T	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496825073						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496825253						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496825588						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496825935						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496826140						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496828043						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496828487						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496828684						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496832779						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496832815						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496845522						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496845978						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496846550						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496848762	Q04206	rs2496848762	G208S	0.999		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496848762	Q04206	rs2496848762	G208S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496854987						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496858008						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496869423						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496869967						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496870152						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496870169						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	2496871323						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	367873849						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		368076224						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		368638080						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		368661961						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	368784411	Q04206	rs368784411	P10L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	368784411	Q04206	rs368784411	P10L	0.07		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	369008511	Q04206	rs369008511	A514G	0.588		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	369008511	Q04206	rs369008511	A514G	0.38		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	371744052	Q04206	rs371744052	K343N	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	371744052	Q04206	rs371744052	K343N	0.06		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		372036028						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		374605673						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	374751242	Q04206	rs374751242	A485V	0.556		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	374751242	Q04206	rs374751242	A485V	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	375525158	Q04206	rs375525158	M540V	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	375525158	Q04206	rs375525158	M540V	0.09		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	375768034	Q04206	rs375768034	A420V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	375768034	Q04206	rs375768034	A420V	0.07		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		375925395						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	375929528	Q04206	rs375929528	T322I	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	375929528	Q04206	rs375929528	T322I	0.06		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	375929528	Q04206	rs375929528	T322S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	375929528	Q04206	rs375929528	T322S	0.32		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		377717312						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	535576789	Q04206	rs535576789	E473D	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	535576789	Q04206	rs535576789	E473D	0.54		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	540158560	Q04206	rs540158560	A507V	0.532		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	540158560	Q04206	rs540158560	A507V	0.06		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	546654982	Q04206	rs546654982	H487Q	0.884		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	546654982	Q04206	rs546654982	H487Q	0.55		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	548164575						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	555785944	Q04206	rs555785944	T435M	0.985		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	555785944	Q04206	rs555785944	T435M	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		55766259						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		560604471						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		562262364						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	566890727	Q04206	rs566890727	P486L	0.981		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	566890727	Q04206	rs566890727	P486L	0.5		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	568782744	Q04206	rs568782744	R166W	0.666		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	568782744	Q04206	rs568782744	R166W	0.12		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	568782744	Q04206	rs568782744	R166W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	568782744	Q04206	rs568782744	R166W	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	benign, likely benign	61759893	Q04206	rs61759893	D291N	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	benign, likely benign	61759893	Q04206	rs61759893	D291N	0.05		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	745468574	Q04206	rs745468574	D259G	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	745468574	Q04206	rs745468574	D259G	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	745468574	Q04206	rs745468574	D259V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	745468574	Q04206	rs745468574	D259V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	745510018	Q04206	rs745510018	G481C	0.971		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	745510018	Q04206	rs745510018	G481C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746111744	Q04206	rs746111744	R171S	0.559		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746111744	Q04206	rs746111744	R171S	0.26		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746111744	Q04206	rs746111744	R171S	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746111744	Q04206	rs746111744	R171S	0.21		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746519095	Q04206	rs746519095	N525S	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746519095	Q04206	rs746519095	N525S	0.12		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746526485	Q04206	rs746526485	A264V	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	746526485	Q04206	rs746526485	A264V	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	747467496						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		747469170						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		747928226						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	748545913	Q04206	rs748545913	S377L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	748545913	Q04206	rs748545913	S377L	0.16		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		748761373						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	749182844						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		749325969						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	749535863						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		749937116						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		750044010						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		750564559	Q04206	rs750564559	R133H	0.999		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		750564559	Q04206	rs750564559	R133H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		750564559	Q04206	rs750564559	R133H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		750564559	Q04206	rs750564559	R133H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		750957760						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	751077868	Q04206	rs751077868	P231T	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	751077868	Q04206	rs751077868	P231T	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		751310615						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		751753627						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		751905199						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	751960651	Q04206	rs751960651	R336C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	751960651	Q04206	rs751960651	R336C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	752869747						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		753627793						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		754083713						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		754554427						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		754622774						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	754755213	Q04206	rs754755213	E532D	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	754755213	Q04206	rs754755213	E532D	0.22		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		755476416						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		755660407						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	755884402	Q04206	rs755884402	R297W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	755884402	Q04206	rs755884402	R297W	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		755895938						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	756297857	Q04206	rs756297857	E495D	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	756297857	Q04206	rs756297857	E495D	0.09		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	756811835	Q04206	rs756811835	T229M	0.711		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	756811835	Q04206	rs756811835	T229M	0.18		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	756811835	Q04206	rs756811835	T229M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	756811835	Q04206	rs756811835	T229M	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		757149780						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		757592217						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		757845338						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	758168856						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	758298850	Q04206	rs758298850	V266L	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	758298850	Q04206	rs758298850	V266L	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	758298850	Q04206	rs758298850	V266M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	758298850	Q04206	rs758298850	V266M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		758932077						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	759178495						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	759715841	Q04206	rs759715841	R96W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, likely benign	759715841	Q04206	rs759715841	R96W	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	759766423	Q04206	rs759766423	T357I	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	759766423	Q04206	rs759766423	T357I	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		759788260						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		759945679						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		760866901						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		760929899						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	761250712	Q04206	rs761250712	R149H	0.757		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	761250712	Q04206	rs761250712	R149H	0.24		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	761250712	Q04206	rs761250712	R149H	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	761250712	Q04206	rs761250712	R149H	0.52		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	761767619						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	761995751						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, not provided	762060621	Q04206	rs762060621	R325Q	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance, not provided	762060621	Q04206	rs762060621	R325Q	0.18		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		762722479						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		763514130						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		764030082						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		764063700						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	764810980	Q04206	rs764810980	K343R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	764810980	Q04206	rs764810980	K343R	0.12		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	765033710						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	765199827	Q04206	rs765199827	Y20C	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	765199827	Q04206	rs765199827	Y20C	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		766584902						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		766963304						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		767155175						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		767319473						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		767826580						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		767880564						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	769190277						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		769322382						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	769429371	Q04206	rs769429371	Q475E	0.596		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	769429371	Q04206	rs769429371	Q475E	0.02		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		769633553						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	769755404	Q04206	rs769755404	H111Y	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	769755404	Q04206	rs769755404	H111Y	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		769890889						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	770313905						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		770416604						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		770531864						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	770882250	Q04206	rs770882250	T322A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	770882250	Q04206	rs770882250	T322A	0.43		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		771032052						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	771045696						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		772497103						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		773234750						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		773613820						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		773748330						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		774014347						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	774079396	Q04206	rs774079396	T352M	0.249		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	774079396	Q04206	rs774079396	T352M	0.13		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	774079396	Q04206	rs774079396	T352M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	774079396	Q04206	rs774079396	T352M	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		774268451						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		774359103						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	774718207	Q04206	rs774718207	E433K	0.903		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	774718207	Q04206	rs774718207	E433K	0.03		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	776126630						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		776162117						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		777658303						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	778642588	Q04206	rs778642588	R273Q	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	778642588	Q04206	rs778642588	R273Q	0.04		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		778642669						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		778695678						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	779601305	Q04206	rs779601305	I110M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	779601305	Q04206	rs779601305	I110M	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	779659272	Q04206	rs779659272	Q385R	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	779659272	Q04206	rs779659272	Q385R	0.49		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		779944761						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		780140984						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		780241287						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	780580304						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		780968051						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		781182014						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely pathogenic	863223356	Q04206	rs863223356	I110T	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely pathogenic	863223356	Q04206	rs863223356	I110T	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		866716163						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	926385426						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	likely benign	951877648						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	957917859	Q04206	rs957917859	V165A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	957917859	Q04206	rs957917859	V165A	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		969818412	Q04206	rs969818412	E49K	0.998		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		969818412	Q04206	rs969818412	E49K	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		969818412	Q04206	rs969818412	E49K	0.0		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant		969818412	Q04206	rs969818412	E49K	0.01		Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	997637338						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206
+RELA	missense_variant	uncertain significance	999556978						Q04206	Transcription factor p65	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q04206

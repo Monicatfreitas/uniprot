@@ -1,0 +1,645 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+PTGS1	missense_variant		1003968567	P23219	rs1003968567	R580C	0.773		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1003968567	P23219	rs1003968567	R580C	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1003968567	P23219	rs1003968567	R580C	0.769		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1003968567	P23219	rs1003968567	R580C	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1006330625						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1006732326						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1013587209						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1013695541						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1016323395						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1016563469						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1022456315						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1026348451						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1026557269						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		10306140	P23219	rs10306140	R149H	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		10306140	P23219	rs10306140	R149H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		10306140	P23219	rs10306140	R149H	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		10306140	P23219	rs10306140	R149H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1033598858						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		10985630						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1156905767						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1160235906						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1166179022						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1170116574						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		117122585						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1184126734						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1186152883						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1186843369						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1195588804						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1196657420						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1196962987						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1198174544						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1199607496						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1202443510						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1205494988						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1205896659						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1206379293						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1207199723						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1208057929						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1218412685						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1222076748						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1222459160						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1223551673						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1229003096						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1234735937	P23219	rs1234735937	E345K	0.976		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1234735937	P23219	rs1234735937	E345K	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1234735937	P23219	rs1234735937	E345K	0.958		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1234735937	P23219	rs1234735937	E345K	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1235555836						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1235877514						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1236913						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1237507833						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1237745930	P23219	rs1237745930	S585G	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1237745930	P23219	rs1237745930	S585G	0.24		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1238249297						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1241156217						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1241518531						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1247480517						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1250076225						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1251062591						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1258368286						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1261502092						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1262695164						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1270724737						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1271246756	P23219	rs1271246756	R239C	0.519		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1271246756	P23219	rs1271246756	R239C	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1271246756	P23219	rs1271246756	R239C	0.844		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1271246756	P23219	rs1271246756	R239C	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1272870519						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1273597287	P23219	rs1273597287	R375H	0.556		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1273597287	P23219	rs1273597287	R375H	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1273597287	P23219	rs1273597287	R375H	0.614		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1273597287	P23219	rs1273597287	R375H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1277491951						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1281575509						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1282806042						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1287884037						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1291264280						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1292860855						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1294196498						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1294785777						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1296358400						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1300938986						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1302806115						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1305615443						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1305962442						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1308012947						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1309870814						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1313769659						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1315825691						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1318856680						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1319551177						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1320384776	P23219	rs1320384776	G323S	0.006		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1320384776	P23219	rs1320384776	G323S	0.19		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1320384776	P23219	rs1320384776	G323S	0.003		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1320384776	P23219	rs1320384776	G323S	0.21		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1320749717						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1330375990						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1330672296						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1340193221						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1341497045						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1342618257						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1349486095						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1351651607						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1352297092						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1352321780						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1354484385						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1355212728						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1355711160						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1355943489						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1356670240						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1365802832						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1365921984						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1367041659						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1371451731						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1374147760						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1376665437						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1377938676						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1378013115						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1379029876						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	137938866	P23219	rs137938866	W138R	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	137938866	P23219	rs137938866	W138R	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		137963114						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1383364119						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		139319631						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		139521520						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		139956360						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1399690917						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1400018778						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1401551468						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1401653841						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1403280214						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1407184368						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1408353678						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1412713473						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		141836062						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1423400795	P23219	rs1423400795	A591T	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1423400795	P23219	rs1423400795	A591T	0.65		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1423400795	P23219	rs1423400795	A591T	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1423400795	P23219	rs1423400795	A591T	0.63		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1425553917						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		143030223						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	143357990						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1433740420						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1433965237						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		143433344						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1435665295						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1436650713						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		144055980						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1440603985						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		144142084						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1450665882	P23219	rs1450665882	A222T	0.854		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1450665882	P23219	rs1450665882	A222T	0.13		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1450665882	P23219	rs1450665882	A222T	0.671		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1450665882	P23219	rs1450665882	A222T	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1453311290						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		145719684						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		145832816						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		145989297						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1461068137						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1462203829						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1464867823						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1465507375						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1468784224						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		146883047						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1470667063						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		147131934						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1471982931						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1472797755						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1474752028						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1474919628						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1477059027	P23219	rs1477059027	A420D	0.069		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1477059027	P23219	rs1477059027	A420D	0.36		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1477059027	P23219	rs1477059027	A420D	0.047		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1477059027	P23219	rs1477059027	A420D	0.15		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1477254696						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		147795437						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1483666446						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		148452494						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1485738779						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1485800508						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1486810977						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1487722775						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1489045261						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1490242392						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		151025665						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1564133596						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1564134381						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1564142940						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1564145887						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1564148694						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588113229						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588123639						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588123685						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588128795						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588128940						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588132536						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588141594						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1588141623						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		181947887						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1836780233						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1836780748						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1836784788						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1836826588						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1836827319						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837272688						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837274549						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837277288						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837277958						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837314751						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837315856						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837316963						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837321147						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837321715						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837324069						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837342554						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837348003						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837504119						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837504868						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837505059						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837505888						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837508233						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837508663						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837511334						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837536137						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837668944						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837669806						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837672696						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837674106						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837675026						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837675539						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837678112						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837678271						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837681234						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837682376						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837685167						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837688123						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837688984						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837690695						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837879188						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837880609						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837882374						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837882562						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837886404						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837887472						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1837889252	P23219	rs1837889252	M390T	0.912		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	1837889252	P23219	rs1837889252	M390T	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837890452						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837890621						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837892446						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837894182						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837896096						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837896279						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1837897321						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838125527						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838129701						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838130451						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838132748						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838134870						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838135774						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838137132						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838137998						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838330930						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838332065						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838336936						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838339171						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		1838340009						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		185497478						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	likely benign	186089151	P23219	rs186089151	V448M	0.011		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	likely benign	186089151	P23219	rs186089151	V448M	0.13		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		189207093						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199508392						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199627452	P23219	rs199627452	K572N	0.056		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199627452	P23219	rs199627452	K572N	0.06		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199627452	P23219	rs199627452	K572N	0.133		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199627452	P23219	rs199627452	K572N	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199629964						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199631305						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199832794	P23219	rs199832794	R179H	0.014		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199832794	P23219	rs199832794	R179H	0.05		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199832794	P23219	rs199832794	R179H	0.019		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199832794	P23219	rs199832794	R179H	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199842281	P23219	rs199842281	E552K	0.018		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	199842281	P23219	rs199842281	E552K	0.9		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199886942						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199920809						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199941262						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		199965305						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200024359						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200028534						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200049829						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200090968						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200149499	P23219	rs200149499	R466S	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200149499	P23219	rs200149499	R466S	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200209212						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200295924	P23219	rs200295924	P546L	0.959		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200295924	P23219	rs200295924	P546L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200295924	P23219	rs200295924	P546L	0.958		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200295924	P23219	rs200295924	P546L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200336506						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200351496						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200413675	P23219	rs200413675	R244Q	0.985		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200413675	P23219	rs200413675	R244Q	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200451116						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200460276						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200490358						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200494275						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200550102						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200565417						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200616613	P23219	rs200616613	E404K	0.001		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200616613	P23219	rs200616613	E404K	0.79		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200616613	P23219	rs200616613	E404K	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200616613	P23219	rs200616613	E404K	0.6		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	likely benign	200664060	P23219	rs200664060	R580H	0.001		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	likely benign	200664060	P23219	rs200664060	R580H	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200721326						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200727971						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200742375						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200825574						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200834586						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200851241						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200856477						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200953830						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200973395						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		200975278						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200993905	P23219	rs200993905	R60H	0.028		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200993905	P23219	rs200993905	R60H	0.04		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200993905	P23219	rs200993905	R60H	0.123		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	200993905	P23219	rs200993905	R60H	0.06		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201003047						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	likely benign	201018159						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201061676						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201084893						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201169549						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201184369						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201201408						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201244156	P23219	rs201244156	Y274C	0.996		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201244156	P23219	rs201244156	Y274C	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201247583	P23219	rs201247583	R239H	0.456		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201247583	P23219	rs201247583	R239H	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201247583	P23219	rs201247583	R239H	0.342		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201247583	P23219	rs201247583	R239H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201253577						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201276316						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201316771						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201325322						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201356005						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201358635						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201374825						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201412045						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201463029						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201486676						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201487422						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201523045						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201552344						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201574310						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201622021	P23219	rs201622021	R458W	0.999		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201622021	P23219	rs201622021	R458W	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201651122						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201753794	P23219	rs201753794	E593K	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201753794	P23219	rs201753794	E593K	0.85		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201806874						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201808321	P23219	rs201808321	R332C	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201808321	P23219	rs201808321	R332C	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201812915	P23219	rs201812915	I524T	0.306		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201812915	P23219	rs201812915	I524T	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201831027	P23219	rs201831027	Q240P	0.94		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201831027	P23219	rs201831027	Q240P	0.01		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201836968	P23219	rs201836968	P582L	0.966		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201836968	P23219	rs201836968	P582L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201836968	P23219	rs201836968	P582L	0.947		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201836968	P23219	rs201836968	P582L	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201913038						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201936137	P23219	rs201936137	R244W	0.998		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	201936137	P23219	rs201936137	R244W	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201936698						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201947942						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		201964215						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202052201	P23219	rs202052201	R178H	0.001		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202052201	P23219	rs202052201	R178H	0.04		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202052201	P23219	rs202052201	R178H	0.003		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202052201	P23219	rs202052201	R178H	0.02		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202069102						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202077552						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202111485						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202195652						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202202331						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	202202847	P23219	rs202202847	R82Q	0.209		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	202202847	P23219	rs202202847	R82Q	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		202234148						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119137519						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119139003						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119139220						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119157728						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119158076						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119158126						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119170104						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119170936						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119185520						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119197573						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119197801						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119197815						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119198163						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119198173						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119198423						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119198455						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		2119198469						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	2491252355						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		267602117	P23219	rs267602117	S578F	0.978		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		267602117	P23219	rs267602117	S578F	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		267602117	P23219	rs267602117	S578F	0.939		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		267602117	P23219	rs267602117	S578F	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		34025875						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		368356508						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		368538672						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		368573797						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		368871343						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		369988194						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		370137933						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	371818443	P23219	rs371818443	R432Q	0.014		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	371818443	P23219	rs371818443	R432Q	0.94		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		373931629						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		374417599	P23219	rs374417599	R82W	0.699		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		374417599	P23219	rs374417599	R82W	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		374417599	P23219	rs374417599	R82W	0.591		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		374417599	P23219	rs374417599	R82W	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		377116298						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		377391709						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		3842787						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	benign	3842788						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		3842789						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		3842792						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		3842795						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		3842799						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		386738321						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		530984736						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	533328230	P23219	rs533328230	V577I	0.266		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	533328230	P23219	rs533328230	V577I	0.17		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	533328230	P23219	rs533328230	V577I	0.174		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	533328230	P23219	rs533328230	V577I	0.01		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		534966394						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		537966176						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		542535309						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	543848883	P23219	rs543848883	T330M	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	543848883	P23219	rs543848883	T330M	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	543848883	P23219	rs543848883	T330M	0.998		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	543848883	P23219	rs543848883	T330M	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		544792959						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		560719076						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		560833355						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		570181723						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		575538701						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	577686184	P23219	rs577686184	P190T	0.996		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	577686184	P23219	rs577686184	P190T	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		5787						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		5789						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		5791						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		5792						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		5793						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	likely benign	5794						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		60893133	P23219	rs60893133	R306H	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		60893133	P23219	rs60893133	R306H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		60893133	P23219	rs60893133	R306H	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		60893133	P23219	rs60893133	R306H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		61757787						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		745438240						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	745776199	P23219	rs745776199	R178C	0.971		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	745776199	P23219	rs745776199	R178C	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		745829594						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		746589741						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		746963818						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		747538111						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		748082558						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		748308378						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		748847805						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		748870472						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		749083530						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		749385976						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		749470434						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		749523355						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		749977121						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		750293213						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		751086028						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		751171591						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		751174178						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		751514710						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		752635419						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		752758224						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753157503						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753219685	P23219	rs753219685	P541L	0.998		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753219685	P23219	rs753219685	P541L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753219685	P23219	rs753219685	P541L	0.998		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753219685	P23219	rs753219685	P541L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753499997						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753672636	P23219	rs753672636	G95R	0.098		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753672636	P23219	rs753672636	G95R	0.09		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753672636	P23219	rs753672636	G95R	0.062		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		753672636	P23219	rs753672636	G95R	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		754062599						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		754094508						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		754302638						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		754563323						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		754721873						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	754929199						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		754946174						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		755242638						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		755456571						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		755806957						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		756477134						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	756576489						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		757008796						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		757063530						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	757213251	P23219	rs757213251	R373H	0.011		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	757213251	P23219	rs757213251	R373H	0.05		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		757344876						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		757880106						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		758111962						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		758165104						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		758379805						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		758897801						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		759138174						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		759503469						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		759721849						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		759948709						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		760264793						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		760588922						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		761165659						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		761476597						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		762435435						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		762967410						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		763949437						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		764002862						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		764562846						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		764688472						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		765149612						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		765660071	P23219	rs765660071	T59I	0.989		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		765660071	P23219	rs765660071	T59I	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		765660071	P23219	rs765660071	T59I	0.982		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		765660071	P23219	rs765660071	T59I	0.01		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	765893652	P23219	rs765893652	V567I	0.015		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	765893652	P23219	rs765893652	V567I	0.12		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		766125245						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		766413646						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		766471508						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		766866338						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53C	0.437		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53C	0.04		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53C	0.938		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53C	0.04		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53S	0.003		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53S	0.99		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53S	0.028		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767143547	P23219	rs767143547	R53S	0.59		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767216209						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767254405						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	767959516	P23219	rs767959516	E400Q	0.102		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	767959516	P23219	rs767959516	E400Q	0.01		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		767966650						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		768447556						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		768447613						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		768757555						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	769346973	P23219	rs769346973	N236S	0.011		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	769346973	P23219	rs769346973	N236S	0.28		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		769362378						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		769519064						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		769870166						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		770158186						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		77027063						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		770451161						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		770569428						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		771040023						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		772933961	P23219	rs772933961	S596F	0.629		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		772933961	P23219	rs772933961	S596F	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		772933961	P23219	rs772933961	S596F	0.638		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		772933961	P23219	rs772933961	S596F	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		773437469						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		773784546						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		774361014						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		774674911						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		774725068						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		774902601						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775139027						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775345298						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775435311						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775470716	P23219	rs775470716	G551S	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775470716	P23219	rs775470716	G551S	0.09		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775470716	P23219	rs775470716	G551S	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775470716	P23219	rs775470716	G551S	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113H	0.884		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113H	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113H	0.974		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113H	0.01		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113L	0.373		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113L	0.931		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775618916	P23219	rs775618916	R113L	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		775676489						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		776082208						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		776323463						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		776662441						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		777134473						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		777223987						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		777974312						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		778094724						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		778096193						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		778206736						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		779031650						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		779101761						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		780151632						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		780267925						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		780314550						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		781075207	P23219	rs781075207	M439T	0.003		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		781075207	P23219	rs781075207	M439T	0.23		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		781075207	P23219	rs781075207	M439T	0.005		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		781075207	P23219	rs781075207	M439T	0.06		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		781262401						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		796503758						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		866392396						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		866722757	P23219	rs866722757	S529F	0.996		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		866722757	P23219	rs866722757	S529F	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		866722757	P23219	rs866722757	S529F	0.994		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		866722757	P23219	rs866722757	S529F	0.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		866976183						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		867325721						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		893235391						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		898928989						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		901122141						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		907158454						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		915395645						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		920517405						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		922186878						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		931337125						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		941053201						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		954849919	P23219	rs954849919	D134G	0.001		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		954849919	P23219	rs954849919	D134G	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		954849919	P23219	rs954849919	D134G	0.011		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		954849919	P23219	rs954849919	D134G	1.0		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		955299223						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		969506010						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		971134486						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		974162445						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		978684239						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	992777872	P23219	rs992777872	D257Y	0.945		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant	uncertain significance	992777872	P23219	rs992777872	D257Y	0.01		P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219
+PTGS1	missense_variant		999646380						P23219	Prostaglandin G/H synthase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P23219

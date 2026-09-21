@@ -1,0 +1,696 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ZNF483	missense_variant		1001451140						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1001753730						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1002085717						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1002539141						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1016526511						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1020772976						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1027269097						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1028118910						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1038085710						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1039647000						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1042408375						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1050685583						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1051455365						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1052268138						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		113389094						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	114652786	Q8TF39	rs114652786	R109G	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	114652786	Q8TF39	rs114652786	R109G	0.05		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		114774740						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1156559751						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	115758301						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1161688862						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1163461239						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1163841104						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1165852977						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1166993773						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1169572280						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1170147111						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1170805413						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1171555019						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1172494345						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1173437695						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1178645994						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1183120349						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1185041376						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1185843976						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1189970355						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1192613215	Q8TF39	rs1192613215	G355R	0.081		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1192613215	Q8TF39	rs1192613215	G355R	0.09		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1192613215	Q8TF39	rs1192613215	G355R	0.955		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1192613215	Q8TF39	rs1192613215	G355R	0.03		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1193861202						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1195008362						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1195741868						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1195770642						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1196228033	Q8TF39	rs1196228033	R717G	0.02		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1198374864						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1199368495						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1203018894						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1205812590						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1207224770						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1207976453						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1209192907						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1209642959						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1216302096						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1217019047						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1218071466						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1219565832						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1222162209						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1224037230						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1224204076						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1226594619						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1226715850						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1230517571						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1231652652						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	1231701720						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1235188106						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1235267600						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1237564456	Q8TF39	rs1237564456	N310H	0.712		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1237564456	Q8TF39	rs1237564456	N310H	0.1		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1238051773						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1240556208						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1242682698						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1243406237						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1243531566						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1243577933						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1243822699						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1244892844						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1249971542						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1250107701						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1252063211						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1252559828						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1253808162						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1256465061						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1256723520	Q8TF39	rs1256723520	G613R	0.98		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1256723520	Q8TF39	rs1256723520	G613R	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1256723520	Q8TF39	rs1256723520	G613R	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1257903890						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1259727992						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1262456892						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1263087331						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1263170946						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1263521515						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1265022937						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1270550408						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1271662055						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1274261065						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1274524429						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1274952206						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1275113192						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1275373782						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1276705001						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1277761430	Q8TF39	rs1277761430	D498N	0.049		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1277761430	Q8TF39	rs1277761430	D498N	0.67		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1277761430	Q8TF39	rs1277761430	D498N	0.29		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1279462995						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1282837740						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1283594103	Q8TF39	rs1283594103	P606L	1.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1283594103	Q8TF39	rs1283594103	P606L	0.02		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1283594103	Q8TF39	rs1283594103	P606L	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1283859853						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1286356286						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1286472557						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1298978848						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1299839733						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1301440384						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1303218721						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1304795856						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1305022405						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1306107024						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1307673472						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1309619620						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1311088583						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1312035720						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1312639908						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1317769495						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1317975780						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1323999510						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1326460093						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1326521149						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1330204616						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1330473539						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1331479678						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1331539699						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1331892805						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1333525568						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1335698298						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1338555914						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1339262371						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1339538639						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1340308182						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1345468152						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1347430393						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1348130199						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1348175775						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1349486377						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1359267937						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1361331603						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1363085830						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1363240818						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1364510694						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1370530070						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1372844734						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1374013096	Q8TF39	rs1374013096	Y332F	0.073		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1374013096	Q8TF39	rs1374013096	Y332F	0.36		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1374013096	Q8TF39	rs1374013096	Y332F	0.159		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1374013096	Q8TF39	rs1374013096	Y332F	0.28		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1374411640						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	1377110498						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1377957362						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1379482292						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1380726906						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1383013150						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1383093323						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1384512004						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1390816494	Q8TF39	rs1390816494	E197K	0.723		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1390816494	Q8TF39	rs1390816494	E197K	0.05		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1390816494	Q8TF39	rs1390816494	E197K	0.631		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1390816494	Q8TF39	rs1390816494	E197K	0.01		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		139231927						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1392883199						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1393039748						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1393149087						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1393684725	Q8TF39	rs1393684725	T483A	0.001		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1393684725	Q8TF39	rs1393684725	T483A	0.28		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1393684725	Q8TF39	rs1393684725	T483A	0.458		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1393684725	Q8TF39	rs1393684725	T483A	0.44		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1394544644						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	139460326	Q8TF39	rs139460326	R30G	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	139460326	Q8TF39	rs139460326	R30G	0.35		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		139522852						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1395868009						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1396115598						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1396831662						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1398686039						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1401709464						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1403065200						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	140422947						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		140532249	Q8TF39	rs140532249	H713Y	0.793		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		140532249	Q8TF39	rs140532249	H713Y	0.04		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		140532249	Q8TF39	rs140532249	H713Y	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	140536268						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1406620781						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1410328831						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1412340289						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		141609552	Q8TF39	rs141609552	K327N	0.895		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		141609552	Q8TF39	rs141609552	K327N	0.4		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		141609552	Q8TF39	rs141609552	K327N	0.413		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		141609552	Q8TF39	rs141609552	K327N	0.13		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	141651182						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1419197915						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1419441984						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1420693895						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1423029840						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1423555311						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		142418283						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		142684490						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1426988206						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1429560785						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1430059217						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		143051496						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		143325060						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1433621091						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1436229956						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		143792661						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1440119161	Q8TF39	rs1440119161	Y695C	0.14		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1440664604						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1441695959						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1443291680						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1444181726						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1446549661						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1447699150						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1450226140						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1450396554						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		145064121						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1452950464						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1455233706						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1457779187						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1459476097						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1460934741						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	146199919						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1462455547	Q8TF39	rs1462455547	S22L	0.006		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1462455547	Q8TF39	rs1462455547	S22L	0.35		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1462455547	Q8TF39	rs1462455547	S22L	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1462455547	Q8TF39	rs1462455547	S22L	0.4		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		146255640						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1464086365						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1464493969	Q8TF39	rs1464493969	P139S	0.175		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1464493969	Q8TF39	rs1464493969	P139S	0.45		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1464493969	Q8TF39	rs1464493969	P139S	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1464493969	Q8TF39	rs1464493969	P139S	0.89		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1465466649						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1465472834	Q8TF39	rs1465472834	R571I	0.994		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1465472834	Q8TF39	rs1465472834	R571I	0.05		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1465472834	Q8TF39	rs1465472834	R571I	0.04		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		146828490						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1470137176						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1471491365						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1473872384						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1475927044						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1476375765						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		147684709						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		147930843						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	147987108	Q8TF39	rs147987108	S315P	0.316		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	147987108	Q8TF39	rs147987108	S315P	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1482394427						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1484265787						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1484598877						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1487570179						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1488129297						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1488650456						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	149211975						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		149886544						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	149958964	Q8TF39	rs149958964	S481L	0.646		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	149958964	Q8TF39	rs149958964	S481L	0.02		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	150435163	Q8TF39	rs150435163	I170V	0.116		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	150435163	Q8TF39	rs150435163	I170V	0.97		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		151251306						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1564589431						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1564589663						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1564596971						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1564609212						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589265136						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589269808						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589269818						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589270284						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589270295						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589275592						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589275608						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589275657						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589275721						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589276202						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589276469						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1589276474						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1805116293						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827207906						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827208010						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827208937						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827209600						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827211620						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827211791						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827212236						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827212388						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827213252						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827213350						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827214066						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827214716						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827215416						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827216264						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827216627						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827219075						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827220041						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827220304						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827220482						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827406443						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827407628						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827407879						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827422891						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827423496						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827424746						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827425514						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827672569						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1827672992	Q8TF39	rs1827672992	I248V	0.031		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1827672992	Q8TF39	rs1827672992	I248V	0.15		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827673757						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827677288						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827677874						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827678741						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827679028						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1827679324						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827679464						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827679667						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827679718						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827679925						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827680505						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827680851						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827681669						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827683081						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827683416						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827686653						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827686847						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827688000						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827688199						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827688898						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827689026						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827689227						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827689416						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827689555						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827689829						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827690409						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827690713						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	1827690793	Q8TF39	rs1827690793	A425T	0.794		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	1827690793	Q8TF39	rs1827690793	A425T	1.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827691427						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827691706						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827691867						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827692632						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827693419						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827695242						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827696060						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827697247						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827698013						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827698092						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827698788						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827699271						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827701620						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827702565						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827703219						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827704344						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827705467						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827707571						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827708431						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827708747						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827709371						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827709796						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827710418						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827711247						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827712573						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827713091						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827713755						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1827714163						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828384876						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828386968						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	1828387190						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828388672						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828389661						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828742434						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828743789						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828744564						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828744928						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828747871						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828748915						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828977622						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828977886						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828978182						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828978706						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828979645						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828981537						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828984181						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1828984951						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		1829056398						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		184685816						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		199936114						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	199941571						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		199965034	Q8TF39	rs199965034	R702Q	0.255		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		199965034	Q8TF39	rs199965034	R702Q	0.55		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		199965034	Q8TF39	rs199965034	R702Q	0.36		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		200323007						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		200816466						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201324819						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201454307	Q8TF39	rs201454307	R380C	0.685		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201454307	Q8TF39	rs201454307	R380C	0.09		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349H	0.005		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349H	0.25		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349H	0.517		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349H	0.23		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349L	0.194		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349L	0.06		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349L	0.158		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201645923	Q8TF39	rs201645923	R349L	0.11		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		201682538						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	201774010						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132210784						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132211311						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132231879						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132232218						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132233315						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132233549						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132257277						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132257606						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132259544						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132347717						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132372924						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		2132373728						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	2538419130						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	2538457939						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	2538531533						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		267602086						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		34478965						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		368726370						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		368753285						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		369138538						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		370896399						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		371068559						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		371168547						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		371446394						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		373027589	Q8TF39	rs373027589	R359Q	0.023		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		373027589	Q8TF39	rs373027589	R359Q	0.33		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		373027589	Q8TF39	rs373027589	R359Q	0.234		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		373027589	Q8TF39	rs373027589	R359Q	0.28		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		373612893						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		376212074						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		376375449						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		377426771						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		530604265						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		530800998						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		533246592						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		534183277						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		545572614						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		546868484						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		546983385						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		549371082	Q8TF39	rs549371082	R330W	0.543		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		549371082	Q8TF39	rs549371082	R330W	0.18		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		549371082	Q8TF39	rs549371082	R330W	0.685		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		549371082	Q8TF39	rs549371082	R330W	0.18		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		550384329						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		550533162						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		553381097						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		561259741						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	563753365						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		565460400						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		567667224						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		568748618						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	569141134	Q8TF39	rs569141134	N362S	0.301		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	569141134	Q8TF39	rs569141134	N362S	0.67		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		575383971						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		73533582						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		74371910						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		745604911						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		745775061						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		745896377						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		746423127						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		746453470						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		746551476						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		746639434						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		746804040						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		747306935						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		747622039						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		747745479						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		748368089						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		748463775	Q8TF39	rs748463775	R596W	0.989		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		748463775	Q8TF39	rs748463775	R596W	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		748463775	Q8TF39	rs748463775	R596W	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		748869995						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749034752						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749101303						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749229195						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	749252500	Q8TF39	rs749252500	I398T	0.158		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	749252500	Q8TF39	rs749252500	I398T	0.56		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749315003						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749401340						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749541523						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		749765732						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		750300110						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		750360618						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		750448768						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		750976205						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751071638						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751229186						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751277393						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751373792						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751490862						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751606176						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		751681680						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	751933932						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	752020171	Q8TF39	rs752020171	N78S	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	752020171	Q8TF39	rs752020171	N78S	0.24		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	752265017						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		752490671						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		752838450						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		753224842						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		753416293						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		753491648						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	753640120	Q8TF39	rs753640120	V225G	0.316		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	753640120	Q8TF39	rs753640120	V225G	0.6		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		753854597						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		754438910						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		754689573						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		754777522						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		755268739						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		755629254						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		755717081						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		756053421						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	756197063						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		756333835						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	756595807	Q8TF39	rs756595807	R738Q	0.48		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		756743404						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		756765335						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		757163811						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		757965326						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		758392509						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220F	0.344		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220F	0.08		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220F	0.496		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220F	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220Y	0.916		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220Y	0.03		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220Y	0.618		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759118960	Q8TF39	rs759118960	S220Y	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		759364062						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760490223	Q8TF39	rs760490223	G715R	0.049		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760490223	Q8TF39	rs760490223	G715R	0.17		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760490223	Q8TF39	rs760490223	G715R	0.33		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760578250						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760861191						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760893441						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		760951284						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		761362379						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		761454702						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		761746065						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		761907289						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		762004211						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	762094005						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		762302085						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		762468847						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		762661916						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		762972995						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763085482	Q8TF39	rs763085482	E723K	0.007		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763085482	Q8TF39	rs763085482	E723K	0.64		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763085482	Q8TF39	rs763085482	E723K	0.49		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763444274						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763574319						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763663370						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763816100						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		763946709						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		764250070						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		764427879						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		764633533						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		764805930						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	764982077						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	765205755						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	765255308						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		765334929						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		765464612						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		766323764						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		766653122						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		766800106						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		766891109						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		767107567						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	767693593	Q8TF39	rs767693593	K247N	0.413		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	767693593	Q8TF39	rs767693593	K247N	0.13		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		767902830						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768102196	Q8TF39	rs768102196	G279R	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768102196	Q8TF39	rs768102196	G279R	0.51		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768102196	Q8TF39	rs768102196	G279R	0.955		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768102196	Q8TF39	rs768102196	G279R	0.5		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768404709						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768448213						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		768494107						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		769415087						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		769572407						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		769836427						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		769921599						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		770244620	Q8TF39	rs770244620	R683Q	0.985		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		770244620	Q8TF39	rs770244620	R683Q	0.02		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		770244620	Q8TF39	rs770244620	R683Q	0.01		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		770310571						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770409913	Q8TF39	rs770409913	T125I	0.967		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770409913	Q8TF39	rs770409913	T125I	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770409913	Q8TF39	rs770409913	T125I	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770409913	Q8TF39	rs770409913	T125I	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770630463	Q8TF39	rs770630463	F211C	0.766		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770630463	Q8TF39	rs770630463	F211C	0.09		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		770892607						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	770950126						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		771352831						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		771614824						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		771614912						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		771939317						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		772030994						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		772103297						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		772291875						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		772543005						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		773045987						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	773327460	Q8TF39	rs773327460	R417Q	0.234		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	773327460	Q8TF39	rs773327460	R417Q	0.41		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		773629618						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		773727795						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		773759202						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774013590						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774230862						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774290739	Q8TF39	rs774290739	D47N	0.958		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774290739	Q8TF39	rs774290739	D47N	0.28		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774290739	Q8TF39	rs774290739	D47N	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774290739	Q8TF39	rs774290739	D47N	0.19		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774310004						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774500077						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		774888618						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775254903						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775417768						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775797653						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	775904742	Q8TF39	rs775904742	R330Q	0.234		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	775904742	Q8TF39	rs775904742	R330Q	0.41		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775913503	Q8TF39	rs775913503	R459I	0.795		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775913503	Q8TF39	rs775913503	R459I	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775913503	Q8TF39	rs775913503	R459I	0.892		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775913503	Q8TF39	rs775913503	R459I	0.05		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		775988364						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		776001204						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	776282913						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		776386515						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		776459850						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		776597505						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	likely benign	776763459						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		777117546						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	777882674						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		778531665						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		778751053						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		778940280						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779011991						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779051411						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779119077						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779234515						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779701636						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779797123						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		779892728						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		780461179						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		780764939						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		780852827						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		781516551						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		781742603						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		865929349						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		866215869						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		866671994						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		867885363						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		868088233						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		888045766						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		891873229						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		896837626						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		898744221						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		900618731						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant	uncertain significance	902829987						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		902948973						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		903707946						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		917945152						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		925922911						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		928365134						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		932259516						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		936240571						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		936526438						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		940879837						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		942320984						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		942620552						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		946137206						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		947179620						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		947595870						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		965047608						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		966555380	Q8TF39	rs966555380	R738W	0.548		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		966555380	Q8TF39	rs966555380	R738W	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		966555380	Q8TF39	rs966555380	R738W	0.0		Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		971668634						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		974139850						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		974177044						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		986901725						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		992890998						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39
+ZNF483	missense_variant		995030805						Q8TF39	Zinc finger protein 483	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q8TF39

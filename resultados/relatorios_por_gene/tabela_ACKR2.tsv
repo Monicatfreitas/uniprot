@@ -1,0 +1,825 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ACKR2	missense_variant		1007447820						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1009068251						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1018585077						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1018588102						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1022451688	O00590	rs1022451688	V75M	0.062		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1022451688	O00590	rs1022451688	V75M	0.06		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1022451688	O00590	rs1022451688	V75M	0.537		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1022451688	O00590	rs1022451688	V75M	0.09		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1023111661						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1024236540						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	1024381303						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1026585413						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1033043019						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1037031395						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1037088355						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1037585674						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1041946948						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1043623168						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1046189475						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1050194322						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1054138						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1054139						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1054418938						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1054727398						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		111390629						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	benign	112066175						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		113132811						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1157117737						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1157315693						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1157913451						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1165702071						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1165956692						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1168484282						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1168501517						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1170169605						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1172328846						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1173264769						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1173387215						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1174909170						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1176077810						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1177812371						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1178920732						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1180805506						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1182811325						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1185274301						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1185915117						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1186197817						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1186429812						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1189475304						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1193364960						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1195724112						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1204888735	O00590	rs1204888735	R37K	0.015		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1204888735	O00590	rs1204888735	R37K	0.36		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1204888735	O00590	rs1204888735	R37K	0.041		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1204888735	O00590	rs1204888735	R37K	1.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1208059580	O00590	rs1208059580	V81F	0.006		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1208059580	O00590	rs1208059580	V81F	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1208059580	O00590	rs1208059580	V81F	0.057		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1208059580	O00590	rs1208059580	V81F	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1208751807						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1211586712						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1212748545						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1212901442						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1214140667						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1216589705						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1219770275						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1219897269						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1220378294						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1220591873						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1223022642						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1225587966						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	1227998194						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1228019507						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1229571466						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1232656832						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1234118939						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1239897362						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1240316511						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1248542136						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	1253413261						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	1253804830						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1258446088						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1259230778						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1268187300						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1268343298						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1275438319						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1276994366						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1281731701						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1284129687						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1285770098						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1288051019						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1288077237						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1290864475						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1291823939						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1292086391	O00590	rs1292086391	D198Y	0.771		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1292086391	O00590	rs1292086391	D198Y	0.01		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1292086391	O00590	rs1292086391	D198Y	0.979		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1292086391	O00590	rs1292086391	D198Y	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1297573793						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1304474244						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1304670057						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1304873861						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1308147968						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1309606085						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1309699190						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1309838563						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1310938599						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1311047156						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1311246197						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1314738039						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1314777267						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1317682300						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1318016344						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1319314297						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1319525918						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1319963568						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1320977920						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1322293662						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1326805248						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1327703996						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1328871565						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1334026871						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1337156494						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1338762633						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1339908173						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1343033515						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1348293542	O00590	rs1348293542	S62N	0.035		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1348293542	O00590	rs1348293542	S62N	0.02		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1348293542	O00590	rs1348293542	S62N	0.015		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1348293542	O00590	rs1348293542	S62N	0.01		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1350292551	O00590	rs1350292551	A301T	0.988		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1350292551	O00590	rs1350292551	A301T	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1350292551	O00590	rs1350292551	A301T	0.913		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1350292551	O00590	rs1350292551	A301T	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1352785906						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1353713990						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1353744851						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1354264369						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1354805940						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1355580878						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1356518266						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1363575923						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1363580591						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1365210121						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1366961412						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1374858755						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1375021322						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1375985399						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1378250230						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1378432270	O00590	rs1378432270	D141E	0.706		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1378432270	O00590	rs1378432270	D141E	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1378432270	O00590	rs1378432270	D141E	0.802		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1378432270	O00590	rs1378432270	D141E	0.01		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1379617568						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1379688466						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		138006773						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		138081289						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1381289397						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1381475126						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1382453804						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1382872506						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1384425084						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		138532585						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1385978451						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1386419288						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1386987529						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1388431025						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		138890782						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1389434469						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		139012208						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		139094169						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1392995301						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1395146196						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		140045753						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		140255308						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1404702505						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		140892912						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1409516273						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		141302264						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1413146008						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1414140709						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1415522678						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		141799349						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1419738572						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420218079	O00590	rs1420218079	M119I	0.001		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420218079	O00590	rs1420218079	M119I	0.28		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420218079	O00590	rs1420218079	M119I	0.003		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420218079	O00590	rs1420218079	M119I	0.37		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420270949						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420471671	O00590	rs1420471671	D16N	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420471671	O00590	rs1420471671	D16N	0.34		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420471671	O00590	rs1420471671	D16N	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420471671	O00590	rs1420471671	D16N	0.28		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1420895214						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1421429006						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		142197709						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		142416155						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1425931453						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1426097513						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1427731125						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1427765563						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1431011532						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1434963985						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1440278376						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		144198819						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1442143115						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		144345123						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1443735460						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1444067725						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1445490813						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1445792115						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		144594749						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1447409170						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	1449393062						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		145159025						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1451801458						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1452855014						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1457436549						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1457972971						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1459375417						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		146146689						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1462712720						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1463351274						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1463352404						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1463420748						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1463491005						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		146641213						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		146795927						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1469225472						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		146967367						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1470490502						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1474743995						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1474999558						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	likely benign	1475017689						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		147684121						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1478191949	O00590	rs1478191949	R318H	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1478191949	O00590	rs1478191949	R318H	0.05		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1478191949	O00590	rs1478191949	R318H	0.007		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1478191949	O00590	rs1478191949	R318H	0.03		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		148221181						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1483125525						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1484635648						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1485419987						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1485429634						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		148690797						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1488885862	O00590	rs1488885862	V106M	0.092		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1488885862	O00590	rs1488885862	V106M	0.02		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1488885862	O00590	rs1488885862	V106M	0.059		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1488885862	O00590	rs1488885862	V106M	0.03		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1489578142						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1490114698						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		149079664						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		149364873						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		149558436						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		149860457						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	150050911	O00590	rs150050911	S172C	0.767		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	150050911	O00590	rs150050911	S172C	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		150090141						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		150329640						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	150584658						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1553702146						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1559374180						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1559374264						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1559374586						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1559694724						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1559694920						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1559695017						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395119						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395186						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395249						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395267						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395279						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395315						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575395469						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575398482						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575398516						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575398804						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575398829						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399060						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399085						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399088						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399090						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399127						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399206						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399324						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399400						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399419						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399486						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		1575399490						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		184133443						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	184802180	O00590	rs184802180	S316I	0.003		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	184802180	O00590	rs184802180	S316I	0.05		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		185753180						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	189203964	O00590	rs189203964	H317Y	0.138		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	189203964	O00590	rs189203964	H317Y	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		192611692						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		199773883						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		199831111						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		199910446						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		199955644						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	200069231						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	200274344						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	200599611						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		200678797						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		200716300						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		200987829						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		201181314						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		201273472						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		201310570						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	201337575						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		201609553						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		202107471						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		202192572						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088413811						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088413907						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088414164						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088414433						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088414502						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088414789						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088414948						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088415042						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088415087						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088415135						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088415341						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088415488						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088416119						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088416404						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088416662						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088416748						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088416841						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088417365						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088417409						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088417950						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088418175						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088421095						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088421531						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088421728						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088422329						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088422354						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088422594						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088422782						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088423321						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088423398						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088423778						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088424018						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088424280						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088424753						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425384						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425403						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425422						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425472						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425646						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425820						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088425992						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088426178						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088426277						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088427400						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088427568						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088428279						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088428553						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088428623						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088428648						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088428794						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088429210						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088497194						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088497499						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088497978						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088498156						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088498194						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088498535						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088498871						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088499351						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088499778						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088500742						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088501267						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088501448						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088501840						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088502257						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088502349						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088503524						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088503701						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088503737						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088504049						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088504094						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088504451						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088504873						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088504921						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088504946						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088505481						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088506189						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088506881						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088506893						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088507023						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088507044						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088507631						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088508097						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088508474						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088508524						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088508700						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088508813						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088509016						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088510584						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088510949						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088511047						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088511065						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088511770						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088512190						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088512437						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088512492						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088512637						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088512653						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088512677						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088513267						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088513643						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2088516408						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125626412						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125626442						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125626456						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125626724						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125626946						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125627023						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125627110						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125627156						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125627178						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630507						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630541						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630695						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630696						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630789						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630791						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630805						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125630808						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125631003						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2125631229						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2228467						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2228468						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		2228469						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	2528587639						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	2528587665						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	2528588326						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	2528602655						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	2528602918						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	2528605037						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		267599827						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	benign	35637877						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	benign	35764459						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		367604593						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		367690990						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	367884893						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		368719352						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		368758367						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		368892456						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		368940524						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		369814928						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	369981775						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		370078092						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	370477226						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		370565459						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		370725285						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371119755	O00590	rs371119755	R79W	0.828		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371119755	O00590	rs371119755	R79W	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371119755	O00590	rs371119755	R79W	0.871		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371119755	O00590	rs371119755	R79W	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371241795						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371264370						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371579420						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371888894						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		371892372						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		372324733						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		372436875						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		372447955						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		372472190						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		372734430						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		373009278						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		373101301						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		373209479						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		373863872						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	373922271						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		373940627						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		374019765						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		374042052						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		374359043						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		374451173						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		374631131						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		375056816						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		375679675						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		375878087						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		375960422						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		376125712						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		376161999						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		376808261						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		377740123						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	528095572						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		530663832						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		532560090						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		534697048						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		534733049						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		536175564						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		541554327						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	likely benign	543245438						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		543451438	O00590	rs543451438	L155P	0.025		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		543451438	O00590	rs543451438	L155P	0.21		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		543451438	O00590	rs543451438	L155P	0.026		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		543451438	O00590	rs543451438	L155P	0.23		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		543657145						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		544310665						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		549215878						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		550085484						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		551444331						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		555313540						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		555778861						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		556341607						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		556843118						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		55798206						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		561300072						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		561565825						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		563690413						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		564198715						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		564925046						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		567699716						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		569371195						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		570398092						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		573786539						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		574627315						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		60487054						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		6779520						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		745317569						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		745405456						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	745464027						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		745654594						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		745670940						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		745860478						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		746429853						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		746803518						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		746971123						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		747107773						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	likely benign	747386823						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		747583873						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		747598476						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		747873152						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		747916833						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		747957683						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748142680	O00590	rs748142680	V175I	0.005		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748142680	O00590	rs748142680	V175I	0.49		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748142680	O00590	rs748142680	V175I	0.005		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748142680	O00590	rs748142680	V175I	0.27		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748273633						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748451545						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748484847						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748608775						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748697680						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748747308						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748752575						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		748813794						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		749014185						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		749022899						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		749109624						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		749289504						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		749410960						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		749998299						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		750222255						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		750816506						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		750832582						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		751017747						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		751123143						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	751384966						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		751954477						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		752159651						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		752189858						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		752533981						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		752768615						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	752943106						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		752969593						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		753482943						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		753637859						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		753895021						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754045457						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754137783						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754472756	O00590	rs754472756	R320C	0.103		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754472756	O00590	rs754472756	R320C	0.01		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754472756	O00590	rs754472756	R320C	0.02		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754472756	O00590	rs754472756	R320C	0.01		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	754502272	O00590	rs754502272	A248T	0.999		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	754502272	O00590	rs754502272	A248T	0.03		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754676438						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754957207						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		754959169						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755009181						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755128258						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755254367						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755325085						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755325354						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755600354						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755683876						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755758776						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755777122						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		755800238						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		756257808						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	756447307						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		756554044						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		756691647						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		756905778						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		756954245						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	757311601						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757363149						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757423246						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757492481	O00590	rs757492481	A3T	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757492481	O00590	rs757492481	A3T	1.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757492481	O00590	rs757492481	A3T	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757492481	O00590	rs757492481	A3T	1.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757599752						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		757852173						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		758025752						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		758049663						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		758137753						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		758352332						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		758615772						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		758723301						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		759570260						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		759681635						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		759716874						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		759873795						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		759965855						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760136558						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760315882						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760448133	O00590	rs760448133	T274M	0.471		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760448133	O00590	rs760448133	T274M	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760448133	O00590	rs760448133	T274M	0.145		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760448133	O00590	rs760448133	T274M	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760453758						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760499775						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760724509						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		760893326						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761111073						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761146146						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761246497						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761336289	O00590	rs761336289	R158W	0.185		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761336289	O00590	rs761336289	R158W	0.22		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761336289	O00590	rs761336289	R158W	0.022		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761336289	O00590	rs761336289	R158W	0.38		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761612800						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761638023						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761741956						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761832030						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761897179	O00590	rs761897179	R37S	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761897179	O00590	rs761897179	R37S	0.13		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761897179	O00590	rs761897179	R37S	0.003		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		761897179	O00590	rs761897179	R37S	0.68		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762166073						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762230983						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762302008						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762454550						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762568062						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762659910						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762684097						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762800852						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762852319						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		762854358						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		763617781						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		763760376						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764033388						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764285506						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764572567						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764706332						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764776544	O00590	rs764776544	R158Q	0.11		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764776544	O00590	rs764776544	R158Q	0.41		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764776544	O00590	rs764776544	R158Q	0.009		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764776544	O00590	rs764776544	R158Q	0.51		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		764977017						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	765009627						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		765093153						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		765149827						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		765210048						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		765424524						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		765678623						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		765730906						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		766151616						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		766444544						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	766489047						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		766525411						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	766613427						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		766694745						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	767077522						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		767262136						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		767377469						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		767458378						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		767972058						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768195881						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768208057						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768447145						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768650788						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768667658						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768955287						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		768964905						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		769140693						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		769325899						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	769366924						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770132025						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770288240						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	770317982						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770517385						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770523960						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770537267						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770661964						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	770737264						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		770856263						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771278880						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771353336						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771462120						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771815068						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771857190						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771903238						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		771940826						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772013246	O00590	rs772013246	R73H	0.031		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772013246	O00590	rs772013246	R73H	0.51		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772013246	O00590	rs772013246	R73H	0.003		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772013246	O00590	rs772013246	R73H	0.52		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772232993						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772602532						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772607624						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772768448						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772853632						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		772876185						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773144436	O00590	rs773144436	R77H	0.007		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773144436	O00590	rs773144436	R77H	0.06		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773144436	O00590	rs773144436	R77H	0.97		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773144436	O00590	rs773144436	R77H	0.07		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773531042						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773667338						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		773787036						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		774096420						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		774096821						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		774202390						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		774791142						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775246041						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775650251						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775777382						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775891073						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775925664						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775941982						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		775977273						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776132074						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776202074						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776281860						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776347264						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776544900						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776549409						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776582312						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		776931947						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777049535						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777266662						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777273233						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777309929						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	777433266						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777964496						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777977904						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		777989602						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		778062440						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		778299923						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		778382194						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	778621588						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	778677576						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		778835159						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		779198133						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		779409994						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		779514478						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		779686348						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		779913482						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		779939878						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780038565						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780074358						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780349611						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780366412						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780456565						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780728038						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780739221	O00590	rs780739221	P7L	0.009		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780739221	O00590	rs780739221	P7L	0.02		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780739221	O00590	rs780739221	P7L	0.2		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780739221	O00590	rs780739221	P7L	0.12		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		780820047						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781335034	O00590	rs781335034	R232H	0.328		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781335034	O00590	rs781335034	R232H	0.02		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781335034	O00590	rs781335034	R232H	0.999		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781335034	O00590	rs781335034	R232H	0.05		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781483273						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781696877						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		781740560						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		865811118						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		866047709						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		866153853	O00590	rs866153853	R79Q	0.013		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		866153853	O00590	rs866153853	R79Q	0.18		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		866153853	O00590	rs866153853	R79Q	0.018		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		866153853	O00590	rs866153853	R79Q	0.19		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		867252206						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		868210800						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		868771798	O00590	rs868771798	S308F	0.5		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		868771798	O00590	rs868771798	S308F	0.01		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		868771798	O00590	rs868771798	S308F	0.616		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		868771798	O00590	rs868771798	S308F	0.0		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		868826615						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		889002584						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		897675184						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		899077279						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		911339602						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		920002892						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		920224607						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		923899593						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		926348768						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		942599460						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		945737851						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		953058812						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	960929452	O00590	rs960929452	V192M	0.015		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant	uncertain significance	960929452	O00590	rs960929452	V192M	0.15		O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		961639006						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		961903195						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		965715046						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		965746084						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		973036069						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		977794316						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		981654869						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		982121470						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		9865715						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		993789686						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590
+ACKR2	missense_variant		994675786						O00590	Atypical chemokine receptor 2	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O00590

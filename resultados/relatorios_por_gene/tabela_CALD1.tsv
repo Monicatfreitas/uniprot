@@ -1,0 +1,862 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CALD1			1003475902						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1009205152						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1019255285						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1022089942						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1026251429						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1027666303						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1028927629	Q05682	rs1028927629	R19Q	0.988		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1028927629	Q05682	rs1028927629	R19Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1028927629	Q05682	rs1028927629	R19Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1028927629	Q05682	rs1028927629	R19Q	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1035398218						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1035863390						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1043854648						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1044858289						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1045221791						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1046037633						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1052350216	Q05682	rs1052350216	E680K	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1052350216	Q05682	rs1052350216	E680K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1052350216	Q05682	rs1052350216	E680K	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1052350216	Q05682	rs1052350216	E680K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			112605695						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			112630477						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			112633425	Q05682	rs112633425	I671V	0.157		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			112633425	Q05682	rs112633425	I671V	1.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			114442219	Q05682	rs114442219	S171F	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			114442219	Q05682	rs114442219	S171F	0.04		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1156333299						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1159134703						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1160252374						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			116056654						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1162816734						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1163512471						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1165569404						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1166649725						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1168894661						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			117593246	Q05682	rs117593246	M317I	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			117593246	Q05682	rs117593246	M317I	0.82		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			117939016						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1179534376	Q05682	rs1179534376	E439Q	0.898		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1179534376	Q05682	rs1179534376	E439Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1179534376	Q05682	rs1179534376	E439Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1179534376	Q05682	rs1179534376	E439Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1180321204						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1180805960						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1182589212						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1183017187						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1186746438						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1190299255						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1192210180	Q05682	rs1192210180	E549K	0.666		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1192210180	Q05682	rs1192210180	E549K	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1192210180	Q05682	rs1192210180	E549K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1192210180	Q05682	rs1192210180	E549K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1192385277						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193444026						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193509877	Q05682	rs1193509877	V742G	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193509877	Q05682	rs1193509877	V742G	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193509877	Q05682	rs1193509877	V742G	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193509877	Q05682	rs1193509877	V742G	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193538291	Q05682	rs1193538291	A282V	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1193538291	Q05682	rs1193538291	A282V	0.05		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1194013209						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1196115941						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1197357378						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1198790028						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1198927615						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1199062773						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1199236268	Q05682	rs1199236268	R541C	0.928		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1199236268	Q05682	rs1199236268	R541C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1199236268	Q05682	rs1199236268	R541C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1199236268	Q05682	rs1199236268	R541C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1202813768						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1203710825						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1205841728						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1208094501						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1208408202						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1211236049						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1211902092						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1216070578	Q05682	rs1216070578	E477V	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1216070578	Q05682	rs1216070578	E477V	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1218647933						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1218838528						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1218981324						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1220715823						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1222091307						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1223327729						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1224167001	Q05682	rs1224167001	E276K	0.723		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1224167001	Q05682	rs1224167001	E276K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1224167001	Q05682	rs1224167001	E276K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1224167001	Q05682	rs1224167001	E276K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1225140029						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1227553051						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1227808552						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1228323096						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1229989911						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1230004440						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1230280346						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1230739822						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1241205768	Q05682	rs1241205768	S252F	0.04		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1241205768	Q05682	rs1241205768	S252F	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1241205768	Q05682	rs1241205768	S252F	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1241205768	Q05682	rs1241205768	S252F	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1243925822						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1244909261						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1245607076						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1247942223						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1248221953						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1250962957						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1251317905						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1251993273						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1253730530						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1256886718						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1257223944						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1259942282						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1260882389						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1263904341						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1264199272						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1264830373						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1265473044						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1266142502						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1267611876						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1267886086	Q05682	rs1267886086	R107H	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1267886086	Q05682	rs1267886086	R107H	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1267886086	Q05682	rs1267886086	R107H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1267886086	Q05682	rs1267886086	R107H	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1269780244						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1270098322						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1270326477						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1272982232						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1276955351						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1277840811						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1279649552						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1281482302						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1283088267						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1284293238						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1284980747						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1285105163						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1286531324						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1289733473						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1290276701						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1291505875						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1292673337						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1293584034						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1295118089						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1296311311						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1298293998						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1299787126						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1300482920						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1303483080						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1303981785	Q05682	rs1303981785	T146A	0.001		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1303981785	Q05682	rs1303981785	T146A	0.19		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1303981785	Q05682	rs1303981785	T146A	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1303981785	Q05682	rs1303981785	T146A	0.18		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1305233128						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1305380970						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1305802050						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1309514629						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1309895648						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1312347216						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1315976835						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1317936908						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1317987842	Q05682	rs1317987842	E547K	0.861		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1317987842	Q05682	rs1317987842	E547K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1317987842	Q05682	rs1317987842	E547K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1317987842	Q05682	rs1317987842	E547K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1320062550						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1322722776						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1328051028						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1329687079						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1329771672						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1330118911						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1332108004						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1333472791						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1333917585						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1336503178						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1337115614						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1337718263						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1338705869						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1340439587						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1340555452						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1343856078						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1344821786						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1345335622						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1348440229						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1350308078						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1351603406						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1354379060						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1354654711	Q05682	rs1354654711	E78K	0.652		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1354654711	Q05682	rs1354654711	E78K	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1354654711	Q05682	rs1354654711	E78K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1354654711	Q05682	rs1354654711	E78K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1355257511	Q05682	rs1355257511	G90E	0.046		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1355257511	Q05682	rs1355257511	G90E	0.1		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1355257511	Q05682	rs1355257511	G90E	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1355257511	Q05682	rs1355257511	G90E	0.07		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1355359604						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1357598505						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1358902328						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1359384570						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1360995627						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1361336670						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1363425234						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1364145593						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1364320885						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1364630193						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1366376875						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1370680921	Q05682	rs1370680921	Q424K	0.017		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1370680921	Q05682	rs1370680921	Q424K	0.27		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1370680921	Q05682	rs1370680921	Q424K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1370680921	Q05682	rs1370680921	Q424K	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1370837566						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1371000867						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1372013792						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1372249532	Q05682	rs1372249532	S665L	0.159		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1372249532	Q05682	rs1372249532	S665L	0.14		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1372249532	Q05682	rs1372249532	S665L	0.157		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1372249532	Q05682	rs1372249532	S665L	0.05		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1373499331						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1375343280						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1375999548						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1376863080						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1379128649						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1379308801						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1380423948						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1380445627						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1383046871						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1383221421						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1385128745						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1385414837						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1388047889	Q05682	rs1388047889	A325T	0.247		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1388047889	Q05682	rs1388047889	A325T	0.34		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1388047889	Q05682	rs1388047889	A325T	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1388047889	Q05682	rs1388047889	A325T	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1388069436						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1388089845						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1391884378	Q05682	rs1391884378	S774G	0.142		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1391884378	Q05682	rs1391884378	S774G	1.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			139286937						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1395063285						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1397787585						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			140355865	Q05682	rs140355865	D122N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			140355865	Q05682	rs140355865	D122N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			140413545	Q05682	rs140413545	M257I	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			140413545	Q05682	rs140413545	M257I	0.35		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407090426	Q05682	rs1407090426	E780K	1.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407090426	Q05682	rs1407090426	E780K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407090426	Q05682	rs1407090426	E780K	1.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407090426	Q05682	rs1407090426	E780K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407391390						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407497873						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1407734090						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1408044191						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			140903770	Q05682	rs140903770	A324E	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			140903770	Q05682	rs140903770	A324E	0.06		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1411088190						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			141179317	Q05682	rs141179317	A562V	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			141179317	Q05682	rs141179317	A562V	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1412147059						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1414373870						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1416435887						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1417485927						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1418252278						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1421576722						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1421753310						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1423576589						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			142583902	Q05682	rs142583902	R7H	0.994		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			142583902	Q05682	rs142583902	R7H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			142583902	Q05682	rs142583902	R7H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			142583902	Q05682	rs142583902	R7H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1426082630						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1426278025	Q05682	rs1426278025	E236K	0.094		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1426278025	Q05682	rs1426278025	E236K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1426278025	Q05682	rs1426278025	E236K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1426278025	Q05682	rs1426278025	E236K	0.04		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1429663598						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1432792360						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1432830090						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1435689035						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1435780512	Q05682	rs1435780512	K464R	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1435780512	Q05682	rs1435780512	K464R	0.1		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1435915418						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			143639360	Q05682	rs143639360	R99H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			143639360	Q05682	rs143639360	R99H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1437235074						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1437507396						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1443124792						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144595168						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1446531415						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144711541	Q05682	rs144711541	R44Q	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144711541	Q05682	rs144711541	R44Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144711541	Q05682	rs144711541	R44Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144711541	Q05682	rs144711541	R44Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144741094	Q05682	rs144741094	K475R	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			144741094	Q05682	rs144741094	K475R	0.11		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1451926997						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			145193752						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1453157508						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1455037574						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1455222760						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1455452908						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1455748812						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1457471198						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			145963001	Q05682	rs145963001	E161K	0.027		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			145963001	Q05682	rs145963001	E161K	0.05		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			145963001	Q05682	rs145963001	E161K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			145963001	Q05682	rs145963001	E161K	0.07		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1463203080						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1464854876						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1465179536						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1466778281						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1467689228						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1469699432						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1472070880						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			147336538						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1474632304						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			147498390						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1475813664						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			147912516	Q05682	rs147912516	E77K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			147912516	Q05682	rs147912516	E77K	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			147935316	Q05682	rs147935316	K346R	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			147935316	Q05682	rs147935316	K346R	0.75		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148090500						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1481507511						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1481705741						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1482484918						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148249348						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148403238	Q05682	rs148403238	K287Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148403238	Q05682	rs148403238	K287Q	0.08		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1488791128	Q05682	rs1488791128	E648Q	0.993		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1488791128	Q05682	rs1488791128	E648Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1488791128	Q05682	rs1488791128	E648Q	0.993		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1488791128	Q05682	rs1488791128	E648Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1489033701						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148922576	Q05682	rs148922576	A94D	0.977		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148922576	Q05682	rs148922576	A94D	0.04		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148922576	Q05682	rs148922576	A94D	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			148922576	Q05682	rs148922576	A94D	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			149149797						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1563109280						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1563110043						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1563110255						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1563135244						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1563135558						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1563139884						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1584627717						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1584682093						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1584683717						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586335806						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586335965						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586335988						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586336133						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586350308						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586352841						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586354191						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1586354314						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1660128189						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1800868884						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805255527						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805257406						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805261572						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805262959						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805265000						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805267091						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805268414						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805650637						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805651132						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805656417						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805656633						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805661022						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805664243	Q05682	rs1805664243	D127N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805664243	Q05682	rs1805664243	D127N	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805665886	Q05682	rs1805665886	L132F	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805665886	Q05682	rs1805665886	L132F	0.1		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805667792						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805670195						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805672835						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805673994						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805677209						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805677717						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805678802						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805681528						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805685052						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805690601						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805696122						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805702632	Q05682	rs1805702632	E245Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805702632	Q05682	rs1805702632	E245Q	0.06		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805704889						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805706602						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805707947						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805715758						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805723213						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805723471						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805730883						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805733272						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805734685						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805739650						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805740926						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805742339						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805743261						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805747315						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805748788						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805754334						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805754808						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805757057						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805757886						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805915031						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805916800						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805919759						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805920035						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805922850						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805923111						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1805924268						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806390402						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806392277						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806393253						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806395606						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806398812						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806986211						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806986732						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1806997437						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807003315						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807006406						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807009175						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807009732						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807012642						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807013720						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807013971						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807241172						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807241739						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807243396						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807243655						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807244228						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807244772						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807246187						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807246801						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807249480						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807251432						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807910346						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807911755						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807923076						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807924030						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807924269						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807926371						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1807928657						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808130948						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808131470						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808134851						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808141821						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808143289						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808185215						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808187933						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808189666						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808192947						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808589216						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			1808595066						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			182783470						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			185503672						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			187285548						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			187878127	Q05682	rs187878127	E385K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			187878127	Q05682	rs187878127	E385K	0.21		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			190269973						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			192503178						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			193221622						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			199999148						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200216400	Q05682	rs200216400	R572K	0.992		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200216400	Q05682	rs200216400	R572K	0.05		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200216400	Q05682	rs200216400	R572K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200216400	Q05682	rs200216400	R572K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200467553						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200503553						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200617975	Q05682	rs200617975	R484Q	0.414		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200617975	Q05682	rs200617975	R484Q	0.07		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200617975	Q05682	rs200617975	R484Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200617975	Q05682	rs200617975	R484Q	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200797406						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			200864409						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201081345						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201179218						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201196898						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201228363						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201623086	Q05682	rs201623086	T402A	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201623086	Q05682	rs201623086	T402A	0.49		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201623086	Q05682	rs201623086	T402A	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201623086	Q05682	rs201623086	T402A	0.36		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201681214	Q05682	rs201681214	S493L	0.284		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201681214	Q05682	rs201681214	S493L	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201681214	Q05682	rs201681214	S493L	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201681214	Q05682	rs201681214	S493L	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			201912094						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			202174796						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132961865						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132967221						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132968981						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132974857						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132975124						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132976324						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132998209						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2132998365						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2230185						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2536247142						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			2536248345						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			35067327						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			368619160						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			369066569						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			369258502						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			369898278	Q05682	rs369898278	R103C	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			369898278	Q05682	rs369898278	R103C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			369898278	Q05682	rs369898278	R103C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			369898278	Q05682	rs369898278	R103C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			370580506	Q05682	rs370580506	R619C	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			370580506	Q05682	rs370580506	R619C	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			370580506	Q05682	rs370580506	R619C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			370580506	Q05682	rs370580506	R619C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			371342595	Q05682	rs371342595	R39Q	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			371342595	Q05682	rs371342595	R39Q	0.09		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			371342595	Q05682	rs371342595	R39Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			371342595	Q05682	rs371342595	R39Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			371497150						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			371916134						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372301863						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372350569						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372385136	Q05682	rs372385136	R110C	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372385136	Q05682	rs372385136	R110C	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372385136	Q05682	rs372385136	R110C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372385136	Q05682	rs372385136	R110C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			372481805						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			374383461						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			374937211						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375174452						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375449128						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375712555						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375796865						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375816775	Q05682	rs375816775	R102W	0.993		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375816775	Q05682	rs375816775	R102W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375816775	Q05682	rs375816775	R102W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			375816775	Q05682	rs375816775	R102W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			376074647	Q05682	rs376074647	V432F	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			376074647	Q05682	rs376074647	V432F	0.55		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			534104790						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			542527726						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			555670514						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			558099957						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			560622089						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			567790338						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			569578471	Q05682	rs569578471	V519M	0.003		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			569578471	Q05682	rs569578471	V519M	0.24		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			569578471	Q05682	rs569578471	V519M	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			569578471	Q05682	rs569578471	V519M	0.15		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			569979265	Q05682	rs569979265	E150K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			569979265	Q05682	rs569979265	E150K	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			571684749	Q05682	rs571684749	R776Q	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			571684749	Q05682	rs571684749	R776Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			571684749	Q05682	rs571684749	R776Q	0.998		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			571684749	Q05682	rs571684749	R776Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			575030530						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			578105555						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			61755271	Q05682	rs61755271	R159K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			61755271	Q05682	rs61755271	R159K	0.05		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			61757650						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			6973420						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			71532824						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			745483814						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			745613779						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			745627191						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			745742477						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			745761397						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			745878348						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746070159						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746171615						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746342061						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746446312						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746607454						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746638959						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746745691	Q05682	rs746745691	G514E	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			746745691	Q05682	rs746745691	G514E	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			747023009						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			747235633						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			747292183						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			747607225						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			747609153						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			748134346	Q05682	rs748134346	R6C	0.994		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			748134346	Q05682	rs748134346	R6C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			748134346	Q05682	rs748134346	R6C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			748134346	Q05682	rs748134346	R6C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			748165535						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			748344274						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			749010560						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			749282836						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			749484180						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			749495847						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			749583871	Q05682	rs749583871	S511R	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			749583871	Q05682	rs749583871	S511R	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			750046931						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			750117409						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			750618653						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			750647687						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			750777530						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			751160026						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			751236876						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			751262549						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			751456111						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752092149						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752394111						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752498924						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752729582						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752731898						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752891116						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			752987758						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			753306157						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			753308126						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			75358773	Q05682	rs75358773	R136K	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			75358773	Q05682	rs75358773	R136K	0.07		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			753798056						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			753909731						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754125928						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754284963						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754343496						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754416783	Q05682	rs754416783	E120A	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754416783	Q05682	rs754416783	E120A	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754604758						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			754746969						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755011509	Q05682	rs755011509	P198R	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755011509	Q05682	rs755011509	P198R	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755041921						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755328160						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755724227						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755874258						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			755925396						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			756255320	Q05682	rs756255320	A692T	0.223		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			756255320	Q05682	rs756255320	A692T	0.27		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			756255320	Q05682	rs756255320	A692T	0.219		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			756255320	Q05682	rs756255320	A692T	0.23		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			756573441						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			756754424						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			757030162						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			757264337						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			757627390						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			757864759						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			757957460						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			758018045						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			758198146						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			758199888						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			758285908						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			758287951						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			759433638						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			759636510						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			759796889						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			759887507						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			759894543	Q05682	rs759894543	K450N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			759894543	Q05682	rs759894543	K450N	0.04		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			760177225	Q05682	rs760177225	P762L	0.987		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			760177225	Q05682	rs760177225	P762L	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			760435729						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			760594441						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			760885081						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			761031070						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			761440531						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			761450071						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			761604756						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			761609616						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			761976712						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762289688						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762310469						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762365246	Q05682	rs762365246	R42H	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762365246	Q05682	rs762365246	R42H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762365246	Q05682	rs762365246	R42H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762365246	Q05682	rs762365246	R42H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762582417	Q05682	rs762582417	A527T	0.005		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762582417	Q05682	rs762582417	A527T	0.23		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762582417	Q05682	rs762582417	A527T	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762582417	Q05682	rs762582417	A527T	0.14		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762826958	Q05682	rs762826958	A698E	0.956		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762826958	Q05682	rs762826958	A698E	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			762919207						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			763340502						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			763507772						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			763604115						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			763878597						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			763901008						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764129164						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764319940						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764612046						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764898963	Q05682	rs764898963	A373T	0.173		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764898963	Q05682	rs764898963	A373T	0.45		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764898963	Q05682	rs764898963	A373T	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			764898963	Q05682	rs764898963	A373T	0.44		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			765090265						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			765258814						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			765513603						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			765589889						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			765679994						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			765847271						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766257245	Q05682	rs766257245	R117W	0.997		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766257245	Q05682	rs766257245	R117W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766257245	Q05682	rs766257245	R117W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766257245	Q05682	rs766257245	R117W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766829570	Q05682	rs766829570	R540H	0.02		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766829570	Q05682	rs766829570	R540H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766829570	Q05682	rs766829570	R540H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766829570	Q05682	rs766829570	R540H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			766855762						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			767071529						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			767233502						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			767285471						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			767413724						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			767743452						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			767931835						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768031790						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768053736	Q05682	rs768053736	G533S	0.953		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768053736	Q05682	rs768053736	G533S	0.04		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768053736	Q05682	rs768053736	G533S	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768053736	Q05682	rs768053736	G533S	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768313989						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768349688						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768599629						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768724883						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768798063						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			768999691						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769014173						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769104192						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769164168						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769203304						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769398416						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769570967						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769729218	Q05682	rs769729218	A561V	0.91		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769729218	Q05682	rs769729218	A561V	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769729218	Q05682	rs769729218	A561V	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769729218	Q05682	rs769729218	A561V	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769923030						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			769982126						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			770000559						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			770311302						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			770357937						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			770573328						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			771045490						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			771492308						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			771601905						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			771803694						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772171717						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772216381	Q05682	rs772216381	R6H	0.994		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772216381	Q05682	rs772216381	R6H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772216381	Q05682	rs772216381	R6H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772216381	Q05682	rs772216381	R6H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772317655						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772479657						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772919992						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			772998727						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773121136						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773141264						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773202828						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773559512						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773589171	Q05682	rs773589171	K577N	0.905		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773589171	Q05682	rs773589171	K577N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773589171	Q05682	rs773589171	K577N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773589171	Q05682	rs773589171	K577N	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773676427	Q05682	rs773676427	R41W	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773676427	Q05682	rs773676427	R41W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773676427	Q05682	rs773676427	R41W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773676427	Q05682	rs773676427	R41W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			773789268						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774093767						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774133569						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774135873						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774256919						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774373345						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774659992						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774727878						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774839540	Q05682	rs774839540	R41Q	0.827		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774839540	Q05682	rs774839540	R41Q	0.03		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774839540	Q05682	rs774839540	R41Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774839540	Q05682	rs774839540	R41Q	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			774921696						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775030605	Q05682	rs775030605	R39W	1.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775030605	Q05682	rs775030605	R39W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775030605	Q05682	rs775030605	R39W	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775030605	Q05682	rs775030605	R39W	0.01		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775144649	Q05682	rs775144649	V68M	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775144649	Q05682	rs775144649	V68M	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775222835						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775289180						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775318552						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775482764						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775796981						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775853439	Q05682	rs775853439	R107C	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775853439	Q05682	rs775853439	R107C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775853439	Q05682	rs775853439	R107C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775853439	Q05682	rs775853439	R107C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775880471	Q05682	rs775880471	R388H	0.107		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775880471	Q05682	rs775880471	R388H	0.35		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775880471	Q05682	rs775880471	R388H	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775880471	Q05682	rs775880471	R388H	0.12		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			775972262						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			776258921						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			776550322						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			776895371						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			776987519						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777090216						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777193369						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777704344						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777912440	Q05682	rs777912440	G247D	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777912440	Q05682	rs777912440	G247D	0.42		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777912440	Q05682	rs777912440	G247D	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777912440	Q05682	rs777912440	G247D	0.26		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			777998039						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			778481089	Q05682	rs778481089	R99C	0.999		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			778481089	Q05682	rs778481089	R99C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			778481089	Q05682	rs778481089	R99C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			778481089	Q05682	rs778481089	R99C	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			778823063						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			778911869						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			779019979						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			779105236						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			779287206						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			779388279						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			779762656						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			779780393						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			780137517						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			780371499						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			780533286						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			780623139						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			780829907						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			781087322						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			781265367						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			781302656	Q05682	rs781302656	I288T	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			781302656	Q05682	rs781302656	I288T	0.11		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			781772230						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			781775965						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			78429618						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			796726738						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			865941227						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			867708621						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			867755988						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			879199930						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			896911651	Q05682	rs896911651	P697L	0.874		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			896911651	Q05682	rs896911651	P697L	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			896911651	Q05682	rs896911651	P697L	0.871		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			896911651	Q05682	rs896911651	P697L	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			898905866						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			900418618						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			901392081						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			902117101						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			902374213	Q05682	rs902374213	A613G	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			902374213	Q05682	rs902374213	A613G	0.0		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			904936736						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			906580823						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			915031406						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			930361640						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			939502622						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			947589677						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			950730000						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			952253153						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			960544244	Q05682	rs960544244	V709I	0.63		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			960544244	Q05682	rs960544244	V709I	0.15		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			960544244	Q05682	rs960544244	V709I	0.64		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			960544244	Q05682	rs960544244	V709I	0.12		Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			960735167						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			969210249						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			969359460						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			982005668						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			984683497						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			992653024						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682
+CALD1			994203795						Q05682	Caldesmon	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q05682

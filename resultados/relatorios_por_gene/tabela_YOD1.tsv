@@ -1,0 +1,364 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+YOD1	missense_variant		1000858662						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1003314898						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1009770682	Q5VVQ6	rs1009770682	H13Y	0.003		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1009770682	Q5VVQ6	rs1009770682	H13Y	0.1		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1010707876						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1013716970	Q5VVQ6	rs1013716970	E224K	0.996		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1013716970	Q5VVQ6	rs1013716970	E224K	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1013716970	Q5VVQ6	rs1013716970	E224K	0.999		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1013716970	Q5VVQ6	rs1013716970	E224K	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1031525232						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1034752363						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1039301185						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1039331999						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1039702892						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		112723983						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		115190692						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1161497777						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		116505937						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1167241785						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1169539963						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1171571881						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1173265010						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1173335674						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1178098053						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1178271102						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1196499438	Q5VVQ6	rs1196499438	D269H	0.11		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1196499438	Q5VVQ6	rs1196499438	D269H	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1196499438	Q5VVQ6	rs1196499438	D269H	0.999		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1196499438	Q5VVQ6	rs1196499438	D269H	0.02		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1198897327						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1203754356						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1213440533	Q5VVQ6	rs1213440533	R183S	0.999		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1213440533	Q5VVQ6	rs1213440533	R183S	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1216319172						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1218945664						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1221546856						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1228782180						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1231250293						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1231453692						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1232327811						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1233214008						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1234695787						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1234981489						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1240163988						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1242396123						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1243070914						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1250725357						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1257167658						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1264506167						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1265655896						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1268040501						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1271110116						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1276453018						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1277208415						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1278838510						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1286433880	Q5VVQ6	rs1286433880	R184H	0.005		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1286433880	Q5VVQ6	rs1286433880	R184H	0.45		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1286433880	Q5VVQ6	rs1286433880	R184H	0.005		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1286433880	Q5VVQ6	rs1286433880	R184H	0.39		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1290768813						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1292404647						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1299293898						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1299542402						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1302914945						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1323492621						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1325202645						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1325347603						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1331495795						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1332459434						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1332858873						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1342236581						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1351714496						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1355545832						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1358468794						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1364468719						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1368972461						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1369051532						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1370369303						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1370554704						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1371529379	Q5VVQ6	rs1371529379	G20R	0.329		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1371529379	Q5VVQ6	rs1371529379	G20R	0.02		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1371529379	Q5VVQ6	rs1371529379	G20R	0.632		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1371529379	Q5VVQ6	rs1371529379	G20R	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1372703172						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1376041975						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1386289716						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		139358134						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1396690912						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1400978935						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1401081729						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1401607197						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1402215524	Q5VVQ6	rs1402215524	V169I	0.348		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1402215524	Q5VVQ6	rs1402215524	V169I	0.13		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1402215524	Q5VVQ6	rs1402215524	V169I	0.478		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1402215524	Q5VVQ6	rs1402215524	V169I	0.1		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1415284430						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		141568066						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1417541227						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1419786445						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1421445321						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1424741649						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1426141968						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1426882875	Q5VVQ6	rs1426882875	A31T	0.042		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1426882875	Q5VVQ6	rs1426882875	A31T	0.18		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1430227985						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1434778844	Q5VVQ6	rs1434778844	K30E	0.007		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1434778844	Q5VVQ6	rs1434778844	K30E	0.15		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1437409728						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	143996234	Q5VVQ6	rs143996234	N344S	0.01		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	143996234	Q5VVQ6	rs143996234	N344S	0.1		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1441934448						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1445590095						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1446758035						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1449290099						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1453473571						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		145388036						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1454496374						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1455126372						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1457681999						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1458330793						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1459888174						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		146170578						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1465232733						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1467335807						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		147110080						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1473835313						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		147748093						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		148018717						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		150517912						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1558053727						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1558053774						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1558053820						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1558054614						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1572710062						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1572710112						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1572711307						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1572711420						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1572711456						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682665731						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682665799						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682666268						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682666567						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682667149						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682667413						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682667462						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682667756						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682668600						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682669130						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682669742						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682670202						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682671104						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682671942						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682672268						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682673100						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682673610						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682674594						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682674716						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682675739						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682675816						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682677045						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682677420						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682678015						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682678176						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682678438						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682678925						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682679129						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1682679305	Q5VVQ6	rs1682679305	K214E	0.134		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1682679305	Q5VVQ6	rs1682679305	K214E	0.09		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682679371						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1682680603						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682680663						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682682653						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682683291						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682683804						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682687659						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682687987						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682720663						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682721422						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682722252						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682724205						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1682724646						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682724791						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682726628						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682726731						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682728044						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682728084						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682728881						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682729027						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682729092						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682729148						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682729511						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682729565						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682732661						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682734073						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1682734382	Q5VVQ6	rs1682734382	A15S	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	1682734382	Q5VVQ6	rs1682734382	A15S	0.17		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682735607						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682735705						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		1682735934						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		181845723						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		189355581						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		200080448						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	200240324						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		200758571						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		201269070						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		202025113						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	202052371	Q5VVQ6	rs202052371	A200T	0.98		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	202052371	Q5VVQ6	rs202052371	A200T	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2054779						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102325956						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102326016						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102326452						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102326775						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102326933						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102329060						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		2102329125						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	2526613539						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	2526614100						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		34005402						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		36074761						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		36109022						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		370039687						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		370174396						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		370466943						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	370833416	Q5VVQ6	rs370833416	Y197C	1.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	370833416	Q5VVQ6	rs370833416	Y197C	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		372148879						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	530167183	Q5VVQ6	rs530167183	P19L	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	530167183	Q5VVQ6	rs530167183	P19L	0.01		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		532257170						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	534842552						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	541136434						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		545732408						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	549752987	Q5VVQ6	rs549752987	P19S	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	549752987	Q5VVQ6	rs549752987	P19S	0.18		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		557030378						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		561023930						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		563387440						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		565515031						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		565704574						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	568508283	Q5VVQ6	rs568508283	G85C	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	568508283	Q5VVQ6	rs568508283	G85C	0.03		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		576800385						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		745733013						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	746000674	Q5VVQ6	rs746000674	R42W	0.074		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	746000674	Q5VVQ6	rs746000674	R42W	0.04		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	746107083	Q5VVQ6	rs746107083	Q25R	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	746107083	Q5VVQ6	rs746107083	Q25R	0.68		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		746259721						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		746394478						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		746886016						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		747180418						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		747490516						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		747861674						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		748457386						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		748967815						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		749209354						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		749496673	Q5VVQ6	rs749496673	C320Y	0.007		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		749496673	Q5VVQ6	rs749496673	C320Y	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		749496673	Q5VVQ6	rs749496673	C320Y	0.998		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		749496673	Q5VVQ6	rs749496673	C320Y	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		750013764						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		750247312						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		750860045	Q5VVQ6	rs750860045	L146F	0.068		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		750860045	Q5VVQ6	rs750860045	L146F	0.12		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		750860045	Q5VVQ6	rs750860045	L146F	0.104		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		750860045	Q5VVQ6	rs750860045	L146F	0.39		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	750884001	Q5VVQ6	rs750884001	I201V	0.001		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	750884001	Q5VVQ6	rs750884001	I201V	0.96		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	750884001	Q5VVQ6	rs750884001	I201V	0.001		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	750884001	Q5VVQ6	rs750884001	I201V	0.74		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		751188925						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	751278996						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		751635990						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		751648828	Q5VVQ6	rs751648828	I186V	0.987		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		751648828	Q5VVQ6	rs751648828	I186V	0.03		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		751648828	Q5VVQ6	rs751648828	I186V	0.954		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		751648828	Q5VVQ6	rs751648828	I186V	0.04		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		752263355						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		752799654						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		753253807						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		753406894						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		753746933						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		754028989						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		754563952						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		754732226						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		755173166						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		756427873						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		757030638						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		757234099						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		758336309						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		758500991						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		759142021						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		760728190						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		762445569						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		763326986						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	763559031						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		764177106						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		764493387						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		764660457						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		764673837						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		765201156						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		765860156						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		766301432						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		767119057						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		767315302						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		767665086						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	767775929	Q5VVQ6	rs767775929	G254A	0.152		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	767775929	Q5VVQ6	rs767775929	G254A	0.07		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		769652373						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	770180166						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		770934117	Q5VVQ6	rs770934117	G86V	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		770934117	Q5VVQ6	rs770934117	G86V	0.39		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		770934117	Q5VVQ6	rs770934117	G86V	0.0		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		770934117	Q5VVQ6	rs770934117	G86V	0.64		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		771050145						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		771286369						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	772028326						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772256355						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772673359						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772683929	Q5VVQ6	rs772683929	R184C	0.659		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772683929	Q5VVQ6	rs772683929	R184C	0.01		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772683929	Q5VVQ6	rs772683929	R184C	0.659		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772683929	Q5VVQ6	rs772683929	R184C	0.01		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772977018	Q5VVQ6	rs772977018	Y166C	0.911		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772977018	Q5VVQ6	rs772977018	Y166C	0.17		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772977018	Q5VVQ6	rs772977018	Y166C	0.874		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		772977018	Q5VVQ6	rs772977018	Y166C	0.17		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		773378962						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	773743947	Q5VVQ6	rs773743947	T205K	0.734		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	773743947	Q5VVQ6	rs773743947	T205K	0.04		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		773903795						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		774581441						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		774950170						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		776024148						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		776296163						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		776563979						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		776571331						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		776582412						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		777433140						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	777531418						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		778483393						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		778687294						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		779118246						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	779707177	Q5VVQ6	rs779707177	C97Y	0.081		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	779707177	Q5VVQ6	rs779707177	C97Y	0.05		Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		779894187						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	780085839						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	780380722						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		866688550						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		867915541						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		900231254						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		903888330						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		906407342						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		918185011						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		929709538						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		930157982						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		962716600						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		969470999						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		970532602						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant		974259983						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	981028229						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6
+YOD1	missense_variant	uncertain significance	986636855						Q5VVQ6	Ubiquitin thioesterase OTU1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VVQ6

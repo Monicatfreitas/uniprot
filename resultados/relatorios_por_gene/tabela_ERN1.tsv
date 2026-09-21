@@ -1,0 +1,931 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+ERN1	missense_variant		1008186868	O75460	rs1008186868	Q843H	0.982		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1008186868	O75460	rs1008186868	Q843H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1008186868	O75460	rs1008186868	Q843H	0.971		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1008186868	O75460	rs1008186868	Q843H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1010880930						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1011471053						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1012353947						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1020070134						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1020519379						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1031603515						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1039664029						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1041495213						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1050929148						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1053363692						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1055567355						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1057121225						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	111334557						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		113583797						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1156465873						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1156768902						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1157646817						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1158260119						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1158668332						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1159054350						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1162571190						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1164317730						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1167062396						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1167250114						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1168524911	O75460	rs1168524911	D928N	0.053		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1168524911	O75460	rs1168524911	D928N	0.24		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1168524911	O75460	rs1168524911	D928N	0.034		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1168524911	O75460	rs1168524911	D928N	0.05		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1170020855						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1170032117						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1171958702						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1172911102						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1177060922						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1178351649						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1180597986						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1181437867						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1184044716						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1186307760						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1186483204						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1186986826						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1187278853						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1187799872						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1188929080						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1191420296						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1193636005						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1195136378						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1195183830						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1198030451						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1198431383						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1202226977	O75460	rs1202226977	R611H	0.132		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1202226977	O75460	rs1202226977	R611H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1202226977	O75460	rs1202226977	R611H	0.269		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1202226977	O75460	rs1202226977	R611H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1206127714						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1208719803						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1208822229						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1210355142						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1210627473						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1211782239						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1214388522						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1214754317						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1217401530						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1218157884						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1221979233						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1225040813	O75460	rs1225040813	V763I	0.369		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1225040813	O75460	rs1225040813	V763I	0.09		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1225378243						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1225398428						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1231264624						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1235209438						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1235318755						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1235910032						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1236034791						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1237742811						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1238536122						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1244149705						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1245706850						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1246182843						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1246299945						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1248068978						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1248269311	O75460	rs1248269311	S257F	0.986		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1248269311	O75460	rs1248269311	S257F	0.04		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1248269311	O75460	rs1248269311	S257F	0.835		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1248269311	O75460	rs1248269311	S257F	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1251188252						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1253025006						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1254240198						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1256066950						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1256105016						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1257131786						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1260332007						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1260343265	O75460	rs1260343265	V767I	0.281		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1260343265	O75460	rs1260343265	V767I	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1260432454	O75460	rs1260432454	P297S	0.158		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1260432454	O75460	rs1260432454	P297S	0.18		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1260432454	O75460	rs1260432454	P297S	0.007		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1260432454	O75460	rs1260432454	P297S	0.13		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1261163048						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1261383342						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1262225320						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1263161859						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1267774116						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1271687364						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1272588935						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1273049353						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1274919636						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1277393355						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1279653488						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1280356189						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1280433194	O75460	rs1280433194	Y126C	0.936		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1280433194	O75460	rs1280433194	Y126C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1280433194	O75460	rs1280433194	Y126C	0.911		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1280433194	O75460	rs1280433194	Y126C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1280763939						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1281182722						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1282651102						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1283353431						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1285667204	O75460	rs1285667204	V596M	0.995		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1285667204	O75460	rs1285667204	V596M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1285667204	O75460	rs1285667204	V596M	0.986		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1285667204	O75460	rs1285667204	V596M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1286549150						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1292013053						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1297339610						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1297884889	O75460	rs1297884889	V437M	0.992		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1297884889	O75460	rs1297884889	V437M	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1301193058	O75460	rs1301193058	E604K	0.899		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1301193058	O75460	rs1301193058	E604K	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1301193058	O75460	rs1301193058	E604K	0.847		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1301193058	O75460	rs1301193058	E604K	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1304198752						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1304528903						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1308817257						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1309063467						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1309984265						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1313170526						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1313253305						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1315703327						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1316422204						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1316693567						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1317208474						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1317563952						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1320309680						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1322190065						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1323486263						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1323979105						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1325788717						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1326219234						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1326225864						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1327431747						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1327451450						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1329524270						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1331111202						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1333628268						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1335737939	O75460	rs1335737939	R820C	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1335737939	O75460	rs1335737939	R820C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1335737939	O75460	rs1335737939	R820C	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1335737939	O75460	rs1335737939	R820C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1340532866						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1341845678						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1343090382	O75460	rs1343090382	T504M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1343090382	O75460	rs1343090382	T504M	0.13		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1343778478						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1345789668	O75460	rs1345789668	D339N	0.061		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1345789668	O75460	rs1345789668	D339N	0.08		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1346115905						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1350325876						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1350780781						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1350897270						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1351239615						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1352296317						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1352343904						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1354612314						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1354917782						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1355819931						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1356329906						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1356626619						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1363225191						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1364559749						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1365427728						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1365586464						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1365942225	O75460	rs1365942225	A609T	0.995		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1365942225	O75460	rs1365942225	A609T	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1365942225	O75460	rs1365942225	A609T	0.992		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1365942225	O75460	rs1365942225	A609T	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1369907521						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1370653019						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1371356897						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1372499450						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1373132468						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1376302506						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1376544697						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1376967376						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1377059989						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1377135438						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1380354925						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		138082110						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1384961565						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1387275322						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1389021776						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1389431929						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		139173692						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		139229826						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1393003240						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1397145500						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1397860742						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1397896459						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1398738354						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1398773395						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1401074243						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1402984769						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1406221789						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1409884338						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1410021033						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1411325024						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1411945383						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1412739237						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1412954716						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1413408688						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1414869687						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1416693149						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1419134633						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		142212892						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1422393717						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1423455613						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1424464897						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1425097097						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1431902985						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1432574919						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1434022129						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1434090866						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1434819919	O75460	rs1434819919	P392S	0.351		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1434819919	O75460	rs1434819919	P392S	0.09		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1434819919	O75460	rs1434819919	P392S	0.36		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1434819919	O75460	rs1434819919	P392S	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1435282166						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1437037646						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1437097697						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1437319459						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1438026413						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1438226844						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1438635084						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1439175861						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1440322998						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1441588141						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1442974237						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1443793982						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1449543731						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1449757135						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1453450047						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1455696819						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1457618505						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1458339528						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1458907452						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1460253443						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1462937780						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1463577069	O75460	rs1463577069	V803I	0.005		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1463577069	O75460	rs1463577069	V803I	0.55		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1463577069	O75460	rs1463577069	V803I	0.001		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1463577069	O75460	rs1463577069	V803I	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1464832553						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1464963254						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1465916277						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1466105795						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		146710304						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1467786469						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1470176057						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1471583234						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1471891272						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1474489676						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1476870362						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1478124833						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		147878922						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1479061800						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1480147796	O75460	rs1480147796	M904V	0.848		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1480147796	O75460	rs1480147796	M904V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1482812084						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1483928093						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1484779121						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1486571097						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1486949941						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1487153545						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		148845267	O75460	rs148845267	R627C	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		148845267	O75460	rs148845267	R627C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		148845267	O75460	rs148845267	R627C	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		148845267	O75460	rs148845267	R627C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1489349672						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1489602181						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1490209807						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1490536500						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		150831277						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1555614071	O75460	rs1555614071	I334L	0.852		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1555614071	O75460	rs1555614071	I334L	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858821	O75460	rs1567858821	E954K	0.746		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858821	O75460	rs1567858821	E954K	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858821	O75460	rs1567858821	E954K	0.453		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858821	O75460	rs1567858821	E954K	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858832	O75460	rs1567858832	M948T	0.286		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858832	O75460	rs1567858832	M948T	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858832	O75460	rs1567858832	M948T	0.337		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858832	O75460	rs1567858832	M948T	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567858866						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567862361						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567863611						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567864413	O75460	rs1567864413	R420W	0.015		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567864413	O75460	rs1567864413	R420W	0.22		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567864413	O75460	rs1567864413	R420W	0.015		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567864413	O75460	rs1567864413	R420W	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567868515						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567868583						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567872910						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1567872942						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598041210						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598041215						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598041304						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598041730						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598041734						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598046580						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598046601						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598046611						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598046996						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598047016						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598047045						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598048761						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598049033						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598049098						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598050380						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598050430						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598053973						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598055838						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598055860						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598059469						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598061646						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1598064902						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1725740656						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	181900001	O75460	rs181900001	G557E	0.003		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	181900001	O75460	rs181900001	G557E	0.2		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	182837030						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		184417681						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	185298285	O75460	rs185298285	R387Q	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	185298285	O75460	rs185298285	R387Q	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		185771482						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		185854736	O75460	rs185854736	R912W	0.965		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		185854736	O75460	rs185854736	R912W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		185854736	O75460	rs185854736	R912W	0.945		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		185854736	O75460	rs185854736	R912W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		186305118						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		187826						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		188511906						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912422509						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912423546						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912423827						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912426184						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912427644						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912428668						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912429325						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912429451						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912431147						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912432629						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912433694						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912434407						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912435699						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912463045						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912480932						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912557196						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912557293						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912558985						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912563100						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912563878						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912565390						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912601184						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912602571						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912603331						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912604413						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912606413						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912726371						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912729581						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912730780						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912732061						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912733668						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912746888						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912747549						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912749613						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912751360						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912780140						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912780661						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912785797						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912785922						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912786367						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912786907						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912787396						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912801461						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912804230						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912838382						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912839473						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912841445						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912843038						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912845083						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912845342						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912847024						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912847314						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912848982						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912850995						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912853762						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912853868						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912854216						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912854459						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912854578						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912921089						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912921540						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912921998						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	1912923699						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912924233						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912927877						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912927998						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912930576						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1912931350						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913018878						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913020585						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913021014						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913021787						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913021908						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913136652						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913137478						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913138713						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913139427						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913142954						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913183379						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913184635						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913185104						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913236162						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913236794						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913237184						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913239701						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913240191						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913243155						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913243927						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913246295						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913295231						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913298830						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913301403						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913435980						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913549901						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913550438						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913550684						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913551602						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913551711						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913552113						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913706822						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913708025						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913708265						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913742881						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913743196						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1913743981						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1914280226						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1914280773						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1914280896						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1914282354						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		1915195551						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		196923						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		199512451						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		199650082						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		199820588						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		199828702						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	200062190						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	200064097						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200136146						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200145771						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200358341	O75460	rs200358341	R946W	0.11		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200358341	O75460	rs200358341	R946W	0.07		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200358341	O75460	rs200358341	R946W	0.071		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200358341	O75460	rs200358341	R946W	0.19		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200474313	O75460	rs200474313	T94M	0.994		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200474313	O75460	rs200474313	T94M	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200474313	O75460	rs200474313	T94M	0.182		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200474313	O75460	rs200474313	T94M	0.77		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200521792						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	200624517						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200667393						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		200817469						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201032188	O75460	rs201032188	V930M	0.697		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201032188	O75460	rs201032188	V930M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201214677						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201271772						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201570900	O75460	rs201570900	D595N	0.011		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201570900	O75460	rs201570900	D595N	0.52		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201570900	O75460	rs201570900	D595N	0.007		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201570900	O75460	rs201570900	D595N	0.68		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201598988	O75460	rs201598988	A435D	0.006		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201598988	O75460	rs201598988	A435D	0.35		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201598988	O75460	rs201598988	A435D	0.003		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	201598988	O75460	rs201598988	A435D	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201714771						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		201899237						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143309663						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143313839						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143313988						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143320196						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143320424						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143320591						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143323849						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143332521						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143332824						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143338279						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143357921						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143367710						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143368119						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143375842						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143389665						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143397322						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143409478						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		2143523844						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	2509424343						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	2509425630						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	2509429627						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		368149276						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		368195187						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		368367258						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		368375095						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		368495675						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	369096989						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		369579513						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	369602392	O75460	rs369602392	V563L	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	369602392	O75460	rs369602392	V563L	0.42		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	369663028	O75460	rs369663028	R919W	0.78		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	369663028	O75460	rs369663028	R919W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		369847487						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	369985660						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		370210153						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		370673725	O75460	rs370673725	T281M	0.003		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		370673725	O75460	rs370673725	T281M	0.43		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		370673725	O75460	rs370673725	T281M	0.003		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		370673725	O75460	rs370673725	T281M	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		371123787						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	371477913	O75460	rs371477913	A427T	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	371477913	O75460	rs371477913	A427T	0.38		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	371802368	O75460	rs371802368	K341R	0.028		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	371802368	O75460	rs371802368	K341R	0.16		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		371950088						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		372424116						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372593820	O75460	rs372593820	R171Q	0.162		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372593820	O75460	rs372593820	R171Q	0.43		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372593820	O75460	rs372593820	R171Q	0.003		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372593820	O75460	rs372593820	R171Q	0.22		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372670758	O75460	rs372670758	S674L	0.286		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372670758	O75460	rs372670758	S674L	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372670758	O75460	rs372670758	S674L	0.337		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372670758	O75460	rs372670758	S674L	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	372700516						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		373569069						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		373865264						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	374518749	O75460	rs374518749	K374Q	0.199		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	374518749	O75460	rs374518749	K374Q	0.04		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		375062771						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		375304343						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		375349184						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		376732374						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		376936066	O75460	rs376936066	A371V	0.074		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		376936066	O75460	rs376936066	A371V	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		376936066	O75460	rs376936066	A371V	0.979		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		376936066	O75460	rs376936066	A371V	0.23		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		377248262						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		377265046						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	377265771	O75460	rs377265771	G310S	0.881		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	377265771	O75460	rs377265771	G310S	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		377519579						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		530279351						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	531129152						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		536005555						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		536304079						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	536593377						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	538301954						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	539679863						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		540200496						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	544395392	O75460	rs544395392	D927N	0.176		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	544395392	O75460	rs544395392	D927N	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		545184423						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	546366953	O75460	rs546366953	T528M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	546366953	O75460	rs546366953	T528M	0.34		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		548216105						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		550368905						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		550459159						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	551030753	O75460	rs551030753	P971Q	0.013		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	551030753	O75460	rs551030753	P971Q	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	551905307	O75460	rs551905307	G856D	0.023		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	551905307	O75460	rs551905307	G856D	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		554769040						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		557488144						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		55869215						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		561780829						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	563941838	O75460	rs563941838	A814V	0.172		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	563941838	O75460	rs563941838	A814V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	563941838	O75460	rs563941838	A814V	0.107		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	563941838	O75460	rs563941838	A814V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		565847815						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		569659605						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		570255248						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		577674082						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	benign	61736503	O75460	rs61736503	P550R	0.151		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	benign	61736503	O75460	rs61736503	P550R	0.26		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		61736509						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	61738538	O75460	rs61738538	E913G	0.99		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	61738538	O75460	rs61738538	E913G	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		61745997						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		745516592						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	745625442	O75460	rs745625442	R432W	0.73		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	745625442	O75460	rs745625442	R432W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		745706475						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		745819647						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		746017697						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		746280051						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		746530940						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		746595893						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		746648200						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		746759316						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		747462723						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		747634941						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		748002992						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		748505295						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		748779598						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		748955378						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		749008875						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		749361283						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750353978						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750671363						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750675793						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750705699	O75460	rs750705699	E745K	0.127		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750705699	O75460	rs750705699	E745K	0.49		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750705699	O75460	rs750705699	E745K	0.048		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750705699	O75460	rs750705699	E745K	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750842031	O75460	rs750842031	G703S	0.191		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750842031	O75460	rs750842031	G703S	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750842031	O75460	rs750842031	G703S	0.127		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750842031	O75460	rs750842031	G703S	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750894213						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		750993187						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		751032550						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		751106915						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		751109121						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	751577144	O75460	rs751577144	E273K	0.076		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	751577144	O75460	rs751577144	E273K	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		751688617						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		752061094						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		752871581						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		752988083						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753165351	O75460	rs753165351	D556N	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753165351	O75460	rs753165351	D556N	0.39		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753165351	O75460	rs753165351	D556N	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753165351	O75460	rs753165351	D556N	0.08		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753294753						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753400602						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753587402						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		753855367						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		754299988						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	754378768	O75460	rs754378768	S551F	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	754378768	O75460	rs754378768	S551F	0.34		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		754622692						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		754653904						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		754687924						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755040095	O75460	rs755040095	A739S	0.89		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755040095	O75460	rs755040095	A739S	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755040095	O75460	rs755040095	A739S	0.745		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755040095	O75460	rs755040095	A739S	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755415776						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	755544887						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755660725						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755843783						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		755860803						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	756172050	O75460	rs756172050	R936H	0.995		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	756172050	O75460	rs756172050	R936H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	756172050	O75460	rs756172050	R936H	0.999		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	756172050	O75460	rs756172050	R936H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		756282133						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		756457467						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		756482275						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		756546213						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	756752085						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		757002944						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		757065444						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		757126086						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	757530295	O75460	rs757530295	A916T	0.018		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	757530295	O75460	rs757530295	A916T	0.16		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		757626779						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		757820790						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		757912505						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758266847	O75460	rs758266847	V826M	0.599		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758266847	O75460	rs758266847	V826M	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758266847	O75460	rs758266847	V826M	0.344		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758266847	O75460	rs758266847	V826M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758416835	O75460	rs758416835	L406V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758416835	O75460	rs758416835	L406V	0.62		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758424726						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758546929	O75460	rs758546929	V26M	0.995		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	758546929	O75460	rs758546929	V26M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758628467	O75460	rs758628467	R887H	0.672		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758628467	O75460	rs758628467	R887H	0.04		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758628467	O75460	rs758628467	R887H	0.821		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758628467	O75460	rs758628467	R887H	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758716509						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		758941450						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	759099512	O75460	rs759099512	H535P	0.802		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	759099512	O75460	rs759099512	H535P	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		759171448						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		759696684						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		759734370						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	759815942						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		759864811						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		760322518						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		760327608						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		760623045						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		760717222						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		760800056						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	761304824	O75460	rs761304824	P751A	0.151		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	761304824	O75460	rs761304824	P751A	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761374497						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761461668						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761469405						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761547515	O75460	rs761547515	D711N	0.998		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761547515	O75460	rs761547515	D711N	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761547515	O75460	rs761547515	D711N	0.997		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761547515	O75460	rs761547515	D711N	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761572639						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761661382						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761854769	O75460	rs761854769	Y155C	0.994		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761854769	O75460	rs761854769	Y155C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761854769	O75460	rs761854769	Y155C	0.991		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		761854769	O75460	rs761854769	Y155C	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		762022987						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		762240880						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		762526855						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		762602623						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		762779365						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		763187111						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	763430978						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		763483261						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		763698946						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		763709525						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764070388	O75460	rs764070388	H963R	0.018		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764070388	O75460	rs764070388	H963R	0.36		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764070388	O75460	rs764070388	H963R	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764070388	O75460	rs764070388	H963R	0.21		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764294932						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764351883						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764440786						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764538757						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764671446						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764733828						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764757712						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		764849592						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	764921751	O75460	rs764921751	G345R	0.003		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	764921751	O75460	rs764921751	G345R	0.1		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	765501899	O75460	rs765501899	L28F	0.652		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	765501899	O75460	rs765501899	L28F	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		765600001						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		765613145						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		765615060						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		765918978						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766009058						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766009178						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766280194						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	766487110						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766587905						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766672400						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766760061						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766842406						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		766930338						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	767148501	O75460	rs767148501	T373A	0.082		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	767148501	O75460	rs767148501	T373A	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		767232328						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		767734865						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		767786281						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		767993268						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		768133614						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		768376082						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		768559924						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		768712863						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		769166087						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	769398269	O75460	rs769398269	R420Q	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	769398269	O75460	rs769398269	R420Q	0.67		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		769854043	O75460	rs769854043	R727H	0.283		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		769854043	O75460	rs769854043	R727H	0.04		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		769854043	O75460	rs769854043	R727H	0.279		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		769854043	O75460	rs769854043	R727H	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		770075692						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		770273119						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		770877706						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	770944089	O75460	rs770944089	T335M	0.994		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	770944089	O75460	rs770944089	T335M	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771133640						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771354086						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771417342	O75460	rs771417342	M812I	0.869		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771417342	O75460	rs771417342	M812I	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771417342	O75460	rs771417342	M812I	0.698		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771417342	O75460	rs771417342	M812I	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	771615074						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		771751562						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		772092333						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		772324642						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		772404082						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		772534052						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	likely benign	772826129						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		772964863						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773459403	O75460	rs773459403	R588W	0.968		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773459403	O75460	rs773459403	R588W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773459403	O75460	rs773459403	R588W	0.949		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773459403	O75460	rs773459403	R588W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773461300						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773517950	O75460	rs773517950	M444T	0.014		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773517950	O75460	rs773517950	M444T	0.22		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773517950	O75460	rs773517950	M444T	0.844		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		773517950	O75460	rs773517950	M444T	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	773561085	O75460	rs773561085	H242Y	0.954		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	773561085	O75460	rs773561085	H242Y	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	773561085	O75460	rs773561085	H242Y	0.934		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	773561085	O75460	rs773561085	H242Y	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		774322362						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		774335940						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	774625333	O75460	rs774625333	I585V	0.015		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	774625333	O75460	rs774625333	I585V	0.02		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775088353						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775178245						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775361425						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775699911						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775768349	O75460	rs775768349	R806H	0.007		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775768349	O75460	rs775768349	R806H	0.07		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775768349	O75460	rs775768349	R806H	0.018		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775768349	O75460	rs775768349	R806H	0.1		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		775929986						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		776142930						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		77619112						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		776309586						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	776358346						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		776408077						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		776420565						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	776930056	O75460	rs776930056	R875W	0.761		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	776930056	O75460	rs776930056	R875W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	776930056	O75460	rs776930056	R875W	0.649		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	776930056	O75460	rs776930056	R875W	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777074146						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777538073	O75460	rs777538073	P269L	0.791		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777538073	O75460	rs777538073	P269L	0.05		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777538073	O75460	rs777538073	P269L	0.112		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777538073	O75460	rs777538073	P269L	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777657220						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777921991						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		777929073						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		778325600						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	778413463	O75460	rs778413463	V869M	0.993		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	778413463	O75460	rs778413463	V869M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	778413463	O75460	rs778413463	V869M	0.987		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	778413463	O75460	rs778413463	V869M	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		778502382						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		778519834						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		778788938						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		778878997						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		779078825						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		779354977						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		779534936						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		779808829						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		779947397						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		780208953	O75460	rs780208953	N405S	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		780208953	O75460	rs780208953	N405S	1.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		780208953	O75460	rs780208953	N405S	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		780208953	O75460	rs780208953	N405S	0.23		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		780507686						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	780870849	O75460	rs780870849	A823V	0.576		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	780870849	O75460	rs780870849	A823V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	780870849	O75460	rs780870849	A823V	0.308		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	780870849	O75460	rs780870849	A823V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		780954054						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		781371469						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		781463811						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		781635978						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		781709752						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		78424249						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		79107850						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		79837628						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		866248229	O75460	rs866248229	A183V	0.837		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		866248229	O75460	rs866248229	A183V	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		866248229	O75460	rs866248229	A183V	0.769		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		866248229	O75460	rs866248229	A183V	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		868226490						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		886493745						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		895840363						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		899566036	O75460	rs899566036	R635Q	0.201		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		899566036	O75460	rs899566036	R635Q	0.14		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		899566036	O75460	rs899566036	R635Q	0.253		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		899566036	O75460	rs899566036	R635Q	0.01		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		901929741						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		915593324						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		918253870						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		919855693						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		922127107						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		923335830						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		924554700						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		931182573						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	932612521	O75460	rs932612521	S834R	0.379		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	932612521	O75460	rs932612521	S834R	0.04		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		935430181						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		936640064						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		938784542						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		939116053						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		939546409						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		939899851						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		940569283						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		943385174						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	945286930	O75460	rs945286930	E102D	0.938		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	945286930	O75460	rs945286930	E102D	0.0		O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		947325716						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		955351483						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	956863832						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		957291732						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		957771935						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		961558725						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		967522121						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		968717938						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		975152094						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		979939181						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant	uncertain significance	980017919						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		980065422						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		982138236						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		983331061						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		988433285						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		992089194						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		994820091						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460
+ERN1	missense_variant		999802054						O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75460

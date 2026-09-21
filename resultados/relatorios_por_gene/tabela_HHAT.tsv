@@ -1,0 +1,645 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+HHAT	missense_variant		1008531376						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1008640157						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1018558976						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1020683342						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1026211141						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1040066135						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1041130066						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1046862949	Q5VTY9	rs1046862949	A115D	0.379		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1046862949	Q5VTY9	rs1046862949	A115D	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1048728289						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1055755703	Q5VTY9	rs1055755703	R157T	0.877		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1055755703	Q5VTY9	rs1055755703	R157T	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	112551598						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		113371678	Q5VTY9	rs113371678	S437L	0.685		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		113371678	Q5VTY9	rs113371678	S437L	0.09		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		113371678	Q5VTY9	rs113371678	S437L	0.68		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		113371678	Q5VTY9	rs113371678	S437L	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1156840610						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1157902063						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1161817788						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1162782214						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1165960690						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1165981815						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1169086872						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1172717093						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	pathogenic	1173716957	Q5VTY9	rs1173716957	G287V	0.999		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	pathogenic	1173716957	Q5VTY9	rs1173716957	G287V	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1176162825						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1181369040						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1181785857						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1183312420	Q5VTY9	rs1183312420	Y20C	0.945		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1183312420	Q5VTY9	rs1183312420	Y20C	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1183312420	Q5VTY9	rs1183312420	Y20C	0.947		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1183312420	Q5VTY9	rs1183312420	Y20C	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1188728045						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1189204348						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1190379715						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1192812979						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1194243455						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1202168184						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1203362333						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1206506032						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1206534082						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1209434701						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1210658100						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1212970048						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1217467814						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1219742764	Q5VTY9	rs1219742764	P202S	0.505		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1219742764	Q5VTY9	rs1219742764	P202S	0.41		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1219742764	Q5VTY9	rs1219742764	P202S	0.516		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1219742764	Q5VTY9	rs1219742764	P202S	0.4		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1223775259						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1229863213						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1231046147						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1231178551						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1231520076						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1234274214						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1236467255						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1236766012						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1241555812						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1243613343						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1246866620						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1250855428						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1251088486						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1253211468						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1254789301						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1258511865						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1267872556						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1267974210						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1269395595						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1271102309						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1274596916						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1274887070						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1284891579						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1286287201						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1286369938						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1288194139						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1296554350						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1300266281						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1305915605						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1307835291						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1308080230						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1308090271						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1310979158						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1317627915						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1319221366						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1319305222						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1321273062						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1321878496						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1326549428						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1327162202						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1327760185						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1328074882						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1328641688						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1329136878						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1331461975						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1335123292						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1336939401						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1337149075						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1341668706						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1341787711						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1345859513						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1346150654						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1346604226						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1354462659						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1364527782						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1365991028						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1373365313						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1373594134						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1374615080						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1379309000						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	138327418	Q5VTY9	rs138327418	Y23C	0.998		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	138327418	Q5VTY9	rs138327418	Y23C	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1387194915						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	138752308	Q5VTY9	rs138752308	R131W	0.995		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	138752308	Q5VTY9	rs138752308	R131W	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1389201461						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1389282522	Q5VTY9	rs1389282522	Y479C	0.958		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1389282522	Q5VTY9	rs1389282522	Y479C	0.19		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1390109673						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	139134333	Q5VTY9	rs139134333	A390V	0.024		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	139134333	Q5VTY9	rs139134333	A390V	0.24		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1393561796						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	139380328	Q5VTY9	rs139380328	A55V	0.056		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	139380328	Q5VTY9	rs139380328	A55V	0.08		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		139483274						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1394872962						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1400124587						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1404967475						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1405253981						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1407130052						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1408361995	Q5VTY9	rs1408361995	S273N	0.129		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1408361995	Q5VTY9	rs1408361995	S273N	0.56		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1408361995	Q5VTY9	rs1408361995	S273N	0.133		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1408361995	Q5VTY9	rs1408361995	S273N	0.79		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	141306397	Q5VTY9	rs141306397	Q129R	0.893		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	141306397	Q5VTY9	rs141306397	Q129R	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1413244904						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1414852061						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	141591165	Q5VTY9	rs141591165	G49R	0.003		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	141591165	Q5VTY9	rs141591165	G49R	0.6		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	141741088						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1418277029						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1426396610						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1430616111						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1431265684						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1435366590	Q5VTY9	rs1435366590	G401R	0.886		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1435366590	Q5VTY9	rs1435366590	G401R	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1435982918	Q5VTY9	rs1435982918	L288V	0.529		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1435982918	Q5VTY9	rs1435982918	L288V	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1435982918	Q5VTY9	rs1435982918	L288V	0.539		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1435982918	Q5VTY9	rs1435982918	L288V	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		143700139	Q5VTY9	rs143700139	A320T	0.051		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		143700139	Q5VTY9	rs143700139	A320T	0.09		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		143700139	Q5VTY9	rs143700139	A320T	0.05		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		143700139	Q5VTY9	rs143700139	A320T	0.34		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1438266670						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1438602469						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		143903658						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1440804476						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		144173927						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		144245212						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	144274904	Q5VTY9	rs144274904	R403W	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	144274904	Q5VTY9	rs144274904	R403W	0.05		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1443167558						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1447057709						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1447758274						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		145158271						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1453153427						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1454105739						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	145435771	Q5VTY9	rs145435771	R176H	0.991		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	145435771	Q5VTY9	rs145435771	R176H	0.04		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	145435771	Q5VTY9	rs145435771	R176H	0.99		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	145435771	Q5VTY9	rs145435771	R176H	0.04		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	145455128	Q5VTY9	rs145455128	P112L	0.014		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	145455128	Q5VTY9	rs145455128	P112L	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		145501609						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	145943928	Q5VTY9	rs145943928	W486L	0.996		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	145943928	Q5VTY9	rs145943928	W486L	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1459691356	Q5VTY9	rs1459691356	Y210H	0.984		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1459691356	Q5VTY9	rs1459691356	Y210H	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1459691356	Q5VTY9	rs1459691356	Y210H	0.985		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1459691356	Q5VTY9	rs1459691356	Y210H	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1463422784						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1468390100						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1468755372						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	146916002	Q5VTY9	rs146916002	R323C	0.601		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	146916002	Q5VTY9	rs146916002	R323C	0.13		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1471597942						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1471698324	Q5VTY9	rs1471698324	H343Y	0.1		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1471698324	Q5VTY9	rs1471698324	H343Y	0.62		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1472183131						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1472535776						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1473013625						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	147320835	Q5VTY9	rs147320835	F222L	0.024		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	147320835	Q5VTY9	rs147320835	F222L	0.03		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1473937850						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1475019815						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1475643148						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1475853230	Q5VTY9	rs1475853230	A128T	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1475853230	Q5VTY9	rs1475853230	A128T	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1475853230	Q5VTY9	rs1475853230	A128T	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1475853230	Q5VTY9	rs1475853230	A128T	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		147691760						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1477472411						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	147869616						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	147954610						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1480552168						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	148466987	Q5VTY9	rs148466987	T492M	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	148466987	Q5VTY9	rs148466987	T492M	0.44		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	148466987	Q5VTY9	rs148466987	T492M	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	148466987	Q5VTY9	rs148466987	T492M	0.56		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1485201545						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	148639278	Q5VTY9	rs148639278	R250H	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	148639278	Q5VTY9	rs148639278	R250H	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	148639278	Q5VTY9	rs148639278	R250H	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	148639278	Q5VTY9	rs148639278	R250H	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1486645557						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	148696006	Q5VTY9	rs148696006	D383G	0.04		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	148696006	Q5VTY9	rs148696006	D383G	0.08		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1487919886						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1489287557						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	149074859						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	149597734	Q5VTY9	rs149597734	T371I	0.802		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	149597734	Q5VTY9	rs149597734	T371I	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		150162144						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	150462339	Q5VTY9	rs150462339	F366L	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	150462339	Q5VTY9	rs150462339	F366L	0.92		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1558439845						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1558477308						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1571888967						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1572079268						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1572079835						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1572291799						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1572292570						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1572631018						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1573541199						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1573541315						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1660820876						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1660824704						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1660825261						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1660846180						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669272298						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669283006						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669284510						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1669287628						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1669290513	Q5VTY9	rs1669290513	S442Y	0.535		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	1669290513	Q5VTY9	rs1669290513	S442Y	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669296191						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669298529						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669298972						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669307309						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1669307903						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1680781978						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1680783717						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1680785221						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1680786755						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1680789370						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		1680799351						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		186282077						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	191150462						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		192286679						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	192652993						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		199828596						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		200336367						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	200438732						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	200680141						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		200772379						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		200853402						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	200901586	Q5VTY9	rs200901586	M311T	0.545		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	200901586	Q5VTY9	rs200901586	M311T	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		201464164						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		201701816						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	202236243						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084744706						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084746376						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	2084746548						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084746708						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084748455						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084748599						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084748970						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084750523						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084750877						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2084752237						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2086775010						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2086777514						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2086778270						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2086779638						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088500655						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088502963						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088503570						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088505169						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088508327						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088511316						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2088514899						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2091169817						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2091175173						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092012998						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092014486						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092018690						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092019376						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092020409						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092240118						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092240377						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092240647						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092245793						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092247918						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092249871						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092250691						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092250819						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092780606						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092781485						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092781749						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092781857						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092782362						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092782744						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092783589						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092783678						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	pathogenic	2092784129	Q5VTY9	rs2092784129	L257P	0.997		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	pathogenic	2092784129	Q5VTY9	rs2092784129	L257P	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092784805						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092784889						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092785360						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092785724						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092786490						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092786549						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2092787065						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2094053839						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	2094055806	Q5VTY9	rs2094055806	A308T	0.547		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	2094055806	Q5VTY9	rs2094055806	A308T	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2094057041						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2094989779						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2147971427						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2147971700						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148143160						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148143184						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148196614						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148196807						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148196826						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148273817						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148440238						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148787353						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148787644						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148787806						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148788235						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148992319						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148992404						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2148992414						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2228898						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		2294849						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign, drug response	2294851						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	2528327296						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	2528364456						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign	34228541						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign	34362403	Q5VTY9	rs34362403	R312H	0.062		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign	34362403	Q5VTY9	rs34362403	R312H	0.1		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	367896407	Q5VTY9	rs367896407	R425C	0.992		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	367896407	Q5VTY9	rs367896407	R425C	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	367896407	Q5VTY9	rs367896407	R425C	0.992		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	367896407	Q5VTY9	rs367896407	R425C	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	368498838	Q5VTY9	rs368498838	R403Q	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	368498838	Q5VTY9	rs368498838	R403Q	0.27		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	368498838	Q5VTY9	rs368498838	R403Q	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	368498838	Q5VTY9	rs368498838	R403Q	0.15		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		368531187						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		368659283						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		369156629						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		370012146						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		371790765						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance, likely benign	372287242	Q5VTY9	rs372287242	R417Q	0.003		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance, likely benign	372287242	Q5VTY9	rs372287242	R417Q	0.71		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		372765603						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		374048677	Q5VTY9	rs374048677	E165K	0.96		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		374048677	Q5VTY9	rs374048677	E165K	0.1		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		374048677	Q5VTY9	rs374048677	E165K	0.959		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		374048677	Q5VTY9	rs374048677	E165K	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		374495612						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		374579980						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		375086953						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		375798618						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		375839407	Q5VTY9	rs375839407	V127M	0.88		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		375839407	Q5VTY9	rs375839407	V127M	0.03		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		375839407	Q5VTY9	rs375839407	V127M	0.878		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		375839407	Q5VTY9	rs375839407	V127M	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	376054556	Q5VTY9	rs376054556	T136M	0.667		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	376054556	Q5VTY9	rs376054556	T136M	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		376491664	Q5VTY9	rs376491664	A429T	0.997		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		376491664	Q5VTY9	rs376491664	A429T	0.08		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		376491664	Q5VTY9	rs376491664	A429T	0.997		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		376491664	Q5VTY9	rs376491664	A429T	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	376601925	Q5VTY9	rs376601925	S196L	0.023		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	376601925	Q5VTY9	rs376601925	S196L	0.29		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	376601925	Q5VTY9	rs376601925	S196L	0.022		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	376601925	Q5VTY9	rs376601925	S196L	0.18		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		376960795						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		528513055						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		529893253						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		531101409						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		534915659						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		535833711						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		537432647						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		541167454						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		543648313						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		544741245						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		545915563						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		558364465						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		561841936						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		564172523						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign	567439002	Q5VTY9	rs567439002	R176C	0.218		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign	567439002	Q5VTY9	rs567439002	R176C	0.17		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		572645178						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	576213719	Q5VTY9	rs576213719	H263Q	0.91		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	576213719	Q5VTY9	rs576213719	H263Q	0.06		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign, likely benign	61744143	Q5VTY9	rs61744143	G333R	0.977		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	benign, likely benign	61744143	Q5VTY9	rs61744143	G333R	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		745491597						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		745691529						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		746026575						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		746548984						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		746572782						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		746687297						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		746907598						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		747405504						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		747455697						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		747570787						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		747583836						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		747743664						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		748514239						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		748544351						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		749060244						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	749576925						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	749666736						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		749916241	Q5VTY9	rs749916241	R323H	0.996		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		749916241	Q5VTY9	rs749916241	R323H	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		749916241	Q5VTY9	rs749916241	R323H	0.996		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		749916241	Q5VTY9	rs749916241	R323H	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		750090558						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		750203730						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		750211206						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751470031						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751537022						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751737702	Q5VTY9	rs751737702	E33K	0.152		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751737702	Q5VTY9	rs751737702	E33K	0.03		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751737702	Q5VTY9	rs751737702	E33K	0.149		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751737702	Q5VTY9	rs751737702	E33K	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		751842969						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	752178549	Q5VTY9	rs752178549	R424H	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	752178549	Q5VTY9	rs752178549	R424H	0.16		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	752178549	Q5VTY9	rs752178549	R424H	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	752178549	Q5VTY9	rs752178549	R424H	0.1		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		752918841						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753087963						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753271439						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753322887						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753743106						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		75379612						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753831505						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753942041	Q5VTY9	rs753942041	A369V	0.997		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753942041	Q5VTY9	rs753942041	A369V	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753942041	Q5VTY9	rs753942041	A369V	0.997		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		753942041	Q5VTY9	rs753942041	A369V	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		754359000						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		754382840						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	754462235	Q5VTY9	rs754462235	V155I	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	754462235	Q5VTY9	rs754462235	V155I	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	755024350	Q5VTY9	rs755024350	G381S	0.508		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	755024350	Q5VTY9	rs755024350	G381S	0.08		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	755024350	Q5VTY9	rs755024350	G381S	0.503		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	755024350	Q5VTY9	rs755024350	G381S	0.07		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		755028031						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		755225544						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		756004234						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		756776629						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		756801763						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		757118759						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		757163023						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	757329992						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		757984265						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		758421766	Q5VTY9	rs758421766	R4Q	0.001		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		758421766	Q5VTY9	rs758421766	R4Q	0.32		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		758421766	Q5VTY9	rs758421766	R4Q	0.001		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		758421766	Q5VTY9	rs758421766	R4Q	0.43		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	758432747	Q5VTY9	rs758432747	P193R	0.033		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	758432747	Q5VTY9	rs758432747	P193R	0.05		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		758785739						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		759828685	Q5VTY9	rs759828685	Q463H	0.003		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		759828685	Q5VTY9	rs759828685	Q463H	0.04		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		759828685	Q5VTY9	rs759828685	Q463H	0.003		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		759828685	Q5VTY9	rs759828685	Q463H	0.06		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		759902169						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		760308081						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		760410532						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		760841342						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	761293868						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	761454249						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	761470224	Q5VTY9	rs761470224	T368M	0.97		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	761470224	Q5VTY9	rs761470224	T368M	0.03		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	761470224	Q5VTY9	rs761470224	T368M	0.969		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	761470224	Q5VTY9	rs761470224	T368M	0.03		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		761768543						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		761804644						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		761879800						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		763536701						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		763566623						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		764017113						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		764319347						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		764395929						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		764798520						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	765259953						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		765348085						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		765471482						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		765617712						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	765901690						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		765941795						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766259679	Q5VTY9	rs766259679	V325M	0.999		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766259679	Q5VTY9	rs766259679	V325M	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766259679	Q5VTY9	rs766259679	V325M	0.999		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766259679	Q5VTY9	rs766259679	V325M	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	766841031	Q5VTY9	rs766841031	P421L	0.158		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	766841031	Q5VTY9	rs766841031	P421L	0.18		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	766841031	Q5VTY9	rs766841031	P421L	0.163		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	766841031	Q5VTY9	rs766841031	P421L	0.04		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766891856	Q5VTY9	rs766891856	R250C	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766891856	Q5VTY9	rs766891856	R250C	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766891856	Q5VTY9	rs766891856	R250C	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		766891856	Q5VTY9	rs766891856	R250C	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		767440738						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		767486877						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		767706148						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		767857766						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		768217049						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	768820197	Q5VTY9	rs768820197	G355S	0.974		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	768820197	Q5VTY9	rs768820197	G355S	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		768855604						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		769025548						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	769462211	Q5VTY9	rs769462211	F209Y	0.956		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	769462211	Q5VTY9	rs769462211	F209Y	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	769514962	Q5VTY9	rs769514962	L264P	0.987		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	769514962	Q5VTY9	rs769514962	L264P	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		769691809						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		769770820						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		769924809						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		770356363	Q5VTY9	rs770356363	T489I	0.796		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		770356363	Q5VTY9	rs770356363	T489I	0.01		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		770356363	Q5VTY9	rs770356363	T489I	0.803		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		770356363	Q5VTY9	rs770356363	T489I	0.12		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		770442814						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	770748303	Q5VTY9	rs770748303	E259K	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	770748303	Q5VTY9	rs770748303	E259K	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	770748303	Q5VTY9	rs770748303	E259K	1.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	770748303	Q5VTY9	rs770748303	E259K	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		770778775						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771134636						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771201072						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771340497						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771415014	Q5VTY9	rs771415014	D235N	0.003		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771415014	Q5VTY9	rs771415014	D235N	0.43		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771415014	Q5VTY9	rs771415014	D235N	0.003		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771415014	Q5VTY9	rs771415014	D235N	0.4		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		771765424						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		772114026						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		772132903						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		772854695						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		773212620	Q5VTY9	rs773212620	S236F	0.683		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		773212620	Q5VTY9	rs773212620	S236F	0.12		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		773212620	Q5VTY9	rs773212620	S236F	0.692		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		773212620	Q5VTY9	rs773212620	S236F	0.33		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		773260603						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		773936014						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		774003816						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		774794788						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		774960950						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		775006103						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		775030191						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		775624263						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		776106560						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		776159715						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		776861325						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		776973400						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		777471907						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	777581246	Q5VTY9	rs777581246	R425H	0.158		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	777581246	Q5VTY9	rs777581246	R425H	0.1		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	777581246	Q5VTY9	rs777581246	R425H	0.156		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	likely benign	777581246	Q5VTY9	rs777581246	R425H	0.04		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		777596666						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	777865030	Q5VTY9	rs777865030	R312C	0.91		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	777865030	Q5VTY9	rs777865030	R312C	0.1		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		777897235						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		778078227						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		778151421						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		778202949						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	778537110	Q5VTY9	rs778537110	R424C	0.826		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	778537110	Q5VTY9	rs778537110	R424C	0.08		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		778617403						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		778740043						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	778740258						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	778762203						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		779017166						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	779948186	Q5VTY9	rs779948186	V306M	0.621		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	779948186	Q5VTY9	rs779948186	V306M	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		78052077						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		780669166						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		780907560						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		780932919						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	781074105						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781297562						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781404828						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781566798						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781614202	Q5VTY9	rs781614202	S200F	0.995		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781614202	Q5VTY9	rs781614202	S200F	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781614202	Q5VTY9	rs781614202	S200F	0.995		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		781614202	Q5VTY9	rs781614202	S200F	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	867091715	Q5VTY9	rs867091715	T56N	0.007		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	867091715	Q5VTY9	rs867091715	T56N	0.06		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	878891703	Q5VTY9	rs878891703	V152M	0.077		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant	uncertain significance	878891703	Q5VTY9	rs878891703	V152M	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		888445713						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		924597283	Q5VTY9	rs924597283	L173M	0.472		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		924597283	Q5VTY9	rs924597283	L173M	0.07		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		924597283	Q5VTY9	rs924597283	L173M	0.483		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		924597283	Q5VTY9	rs924597283	L173M	0.03		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		925424487						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		935791483						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		941269680						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		941758201						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		948798126						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		952228974	Q5VTY9	rs952228974	T436I	0.964		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		952228974	Q5VTY9	rs952228974	T436I	0.08		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		952228974	Q5VTY9	rs952228974	T436I	0.965		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		952228974	Q5VTY9	rs952228974	T436I	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		955610159						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		958275249						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		965938188						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		967141075	Q5VTY9	rs967141075	V298M	0.958		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		967141075	Q5VTY9	rs967141075	V298M	0.0		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		967141075	Q5VTY9	rs967141075	V298M	0.957		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		967141075	Q5VTY9	rs967141075	V298M	0.02		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		972448940						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		977412599	Q5VTY9	rs977412599	A487T	0.006		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		977412599	Q5VTY9	rs977412599	A487T	0.25		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		977412599	Q5VTY9	rs977412599	A487T	0.006		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		977412599	Q5VTY9	rs977412599	A487T	0.59		Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		988990352						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9
+HHAT	missense_variant		994771729						Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q5VTY9

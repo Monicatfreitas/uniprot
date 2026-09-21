@@ -1,0 +1,713 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+GPT	missense_variant		1004628589						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1015050761						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1015116883						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1015639491						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1020196606						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1027395904						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1032661716	P24298	rs1032661716	D162N	0.046		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1032661716	P24298	rs1032661716	D162N	0.05		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1032661716	P24298	rs1032661716	D162N	0.027		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1032661716	P24298	rs1032661716	D162N	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1036245021						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1036422750						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1048931359						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1051996668						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign	1063739	P24298	rs1063739	H14D	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign	1063739	P24298	rs1063739	H14D	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign	112574791	P24298	rs112574791	R107K	0.484		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign	112574791	P24298	rs112574791	R107K	0.08		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1157469701						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1160627979						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1162491027						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1165760560						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1166262258						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1170184097						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1171183613						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1171257784						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1172128373						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1174841890						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1177662807						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1179801669						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1181926645						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1182603278						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1189921966						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1191091150						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1195125611						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1195460718						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1196902264						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1199775760						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1200217718						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1203267518						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1203328389						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1205967274						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1207017428						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1210250939						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1211307701						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1211388602						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1214881549						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1218172872						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1218414020						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1218815364						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1223574918						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1226148165						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1231076791						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1234684370						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1237374603						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1239088400						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1239201535						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1240800169						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1241101542						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1244666753						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1245416367						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1245684061						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1246409218						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1248554205						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1252532851						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1256652483						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1257281084	P24298	rs1257281084	A228V	0.603		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1257281084	P24298	rs1257281084	A228V	0.04		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1257281084	P24298	rs1257281084	A228V	0.196		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1257281084	P24298	rs1257281084	A228V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1260612960						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1261266909						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1261459466						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1261536255						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1262473079						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1267529960	P24298	rs1267529960	A215V	0.557		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1267529960	P24298	rs1267529960	A215V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1267529960	P24298	rs1267529960	A215V	0.421		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1267529960	P24298	rs1267529960	A215V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1269694360						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1270380530						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1271834375						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1277660341						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1280170745						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1281183749						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1281562793						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1283379431						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1284705154						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1285438733						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1285638935						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1286149673						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1288153257						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1296805991						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1298583628						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1300626200						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1301608464						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1303879882						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1304041058						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1305119983						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1306570785						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1311002246	P24298	rs1311002246	V258M	0.974		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1311002246	P24298	rs1311002246	V258M	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1311002246	P24298	rs1311002246	V258M	0.96		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1311002246	P24298	rs1311002246	V258M	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1315202424						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1317693079						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1321631308						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1322024831						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1325814549						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1327187788						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1330827081	P24298	rs1330827081	V165M	0.04		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1330827081	P24298	rs1330827081	V165M	0.25		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1333177608						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1334007331						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1335186596						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1335232427						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1336666773						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1339305936						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1345693499						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1349919147						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1351116829						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1355372557						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1358575854						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1359427834						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1361242368						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1362680997						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1366336459						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1366535069						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1367251407						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1370834938	P24298	rs1370834938	G410S	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1370834938	P24298	rs1370834938	G410S	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1370834938	P24298	rs1370834938	G410S	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1370834938	P24298	rs1370834938	G410S	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1371965179						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1373813822						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1374268857	P24298	rs1374268857	V218M	0.134		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1374268857	P24298	rs1374268857	V218M	0.09		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1374268857	P24298	rs1374268857	V218M	0.082		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1374268857	P24298	rs1374268857	V218M	0.03		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1374843356						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1375112352						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1377323760						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1379453991	P24298	rs1379453991	A400V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1379453991	P24298	rs1379453991	A400V	0.9		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1379453991	P24298	rs1379453991	A400V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1379453991	P24298	rs1379453991	A400V	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1380272471						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1381057846						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		138238489						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		138531202						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1386206569						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1388720647						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		139107415						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1391777419	P24298	rs1391777419	A45S	0.8		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1391777419	P24298	rs1391777419	A45S	0.09		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1391777419	P24298	rs1391777419	A45S	0.729		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1391777419	P24298	rs1391777419	A45S	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1392147386						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1393761189						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1395931675						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1397260609						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1397311743						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	139849083	P24298	rs139849083	A11E	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	139849083	P24298	rs139849083	A11E	0.34		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1398588614						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1400375044						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1402923889						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1404963747						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1408753799						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1409208148						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1410836898						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1411683223						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	141187317	P24298	rs141187317	G226C	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	141187317	P24298	rs141187317	G226C	0.14		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		141381983						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1414344358						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign, likely benign	141505249						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		141571140						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1416735347	P24298	rs1416735347	A411V	0.996		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1416735347	P24298	rs1416735347	A411V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1416735347	P24298	rs1416735347	A411V	0.994		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1416735347	P24298	rs1416735347	A411V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		141693746						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1417305697						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1418881972	P24298	rs1418881972	A411T	0.994		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1418881972	P24298	rs1418881972	A411T	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1418881972	P24298	rs1418881972	A411T	0.99		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1418881972	P24298	rs1418881972	A411T	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1420738594						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1420871222						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1424818563						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		142640247						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1427202106						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1427378857						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	143080454						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1432687157						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1433014925						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1433709048						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1433926827						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		143408057						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		143462595						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1436722493						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1437477317						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1437502089	P24298	rs1437502089	A366V	0.003		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1437502089	P24298	rs1437502089	A366V	0.23		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1438315763						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		144054398	P24298	rs144054398	P148S	0.036		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		144054398	P24298	rs144054398	P148S	0.09		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		144054398	P24298	rs144054398	P148S	0.163		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		144054398	P24298	rs144054398	P148S	0.04		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1441001593						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1443040370						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1443496641						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1446143169						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1448150187						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1450043360						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1450099948						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1450929776						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1452225865						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145331563						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145365806	P24298	rs145365806	G302R	0.009		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145365806	P24298	rs145365806	G302R	0.15		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145365806	P24298	rs145365806	G302R	0.009		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145365806	P24298	rs145365806	G302R	0.05		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1454910748						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1458847420						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1458957183						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145950433	P24298	rs145950433	R8Q	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145950433	P24298	rs145950433	R8Q	0.45		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145950433	P24298	rs145950433	R8Q	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		145950433	P24298	rs145950433	R8Q	0.98		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1461556728						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1461652819						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		146211713	P24298	rs146211713	R143H	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		146211713	P24298	rs146211713	R143H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		146211713	P24298	rs146211713	R143H	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		146211713	P24298	rs146211713	R143H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1462891911						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1466004083						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1467295958						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1473457144						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		147672961						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1478625469						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1479410405						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1479822220						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign, likely benign	147998249						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1480297965						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1482675940						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1487980337	P24298	rs1487980337	C232Y	0.855		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1487980337	P24298	rs1487980337	C232Y	0.06		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1487980337	P24298	rs1487980337	C232Y	0.502		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1487980337	P24298	rs1487980337	C232Y	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		149452487						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		149505691						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign	150447348	P24298	rs150447348	R266G	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	benign	150447348	P24298	rs150447348	R266G	0.32		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	150549846	P24298	rs150549846	L477P	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	150549846	P24298	rs150549846	L477P	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1564776835						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1564778217						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1564779231						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586772845						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586772998						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586773372						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586773587						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586774312						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586775608						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586775638						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586776434						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1586776451						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1736313366						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826676606						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826676840						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826682603						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826684648						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826684726						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826693075						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826695495						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826696391						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826703890						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826707737						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826713780						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826714149						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826714960						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826716326						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826719094						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826719265						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826721469						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826722656						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826723404						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826724632						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826725675						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1826738206	P24298	rs1826738206	T180M	0.474		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1826738206	P24298	rs1826738206	T180M	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826740525						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826742208						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826742507						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826743235						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826747002						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826747378						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826751811						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826753085						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826771230						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826771696						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826773434						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826773516						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826785359						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826785797						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1826787938						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826788287						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826796838						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826797759						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826798470						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826799979						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826803132						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826803937						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826806032						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826806736						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826809161						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826809866						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826818498						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826819135						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826821017						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826821307						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1826822716						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826822799						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826823538						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826823981						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826824063						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826824445						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826826589						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826837086						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826838622						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		1826838849						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	1826844774						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	199690645	P24298	rs199690645	R442C	0.003		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	199690645	P24298	rs199690645	R442C	0.05		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		200088103						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	200388860						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		200479839						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	200508853	P24298	rs200508853	R427H	0.003		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	200508853	P24298	rs200508853	R427H	0.04		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		200690809						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		200726053						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	200835664	P24298	rs200835664	E256Q	0.093		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	200835664	P24298	rs200835664	E256Q	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	200853809	P24298	rs200853809	N398S	0.023		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	200853809	P24298	rs200853809	N398S	0.08		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	200853809	P24298	rs200853809	N398S	0.058		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	200853809	P24298	rs200853809	N398S	0.03		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		200913027						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		201065145						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	201282843	P24298	rs201282843	R467W	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	201282843	P24298	rs201282843	R467W	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		201413052						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	201458953						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		201783570						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		201792209						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	201815297	P24298	rs201815297	A87V	0.609		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	201815297	P24298	rs201815297	A87V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		202006693						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	202140398	P24298	rs202140398	R179H	0.979		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	202140398	P24298	rs202140398	R179H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2041296686						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130616530						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130618467						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130618483						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130620885						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130621864						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130624379						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130624524						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		2130624947						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	2537924875						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	2537925194						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	2537927862						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	2537927879						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	2537930779						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		367801266						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		368474149	P24298	rs368474149	A114V	0.079		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		368474149	P24298	rs368474149	A114V	0.06		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		368474149	P24298	rs368474149	A114V	0.029		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		368474149	P24298	rs368474149	A114V	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		369193887						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		369274659						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	370128580	P24298	rs370128580	R8W	0.15		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	370128580	P24298	rs370128580	R8W	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		370395815	P24298	rs370395815	A281T	0.137		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		370395815	P24298	rs370395815	A281T	0.1		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		370395815	P24298	rs370395815	A281T	0.135		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		370395815	P24298	rs370395815	A281T	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		371318945						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		371677109						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		372255059						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		372280992						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	372684551	P24298	rs372684551	R478Q	0.018		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	372684551	P24298	rs372684551	R478Q	0.14		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	374057837	P24298	rs374057837	T368S	0.001		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	374057837	P24298	rs374057837	T368S	0.25		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	374307577						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		375371163						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		375770081						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		376363949						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	376386494	P24298	rs376386494	V279L	0.558		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	376386494	P24298	rs376386494	V279L	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		376594173						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		376611071	P24298	rs376611071	M412T	0.96		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		376611071	P24298	rs376611071	M412T	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		376611071	P24298	rs376611071	M412T	0.983		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		376611071	P24298	rs376611071	M412T	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		377414458						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		529679428	P24298	rs529679428	E175K	0.075		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		529679428	P24298	rs529679428	E175K	0.47		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		529679428	P24298	rs529679428	E175K	0.074		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		529679428	P24298	rs529679428	E175K	0.1		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	530505425	P24298	rs530505425	E198K	0.93		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	530505425	P24298	rs530505425	E198K	0.03		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	530505425	P24298	rs530505425	E198K	0.948		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	530505425	P24298	rs530505425	E198K	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	530505425	P24298	rs530505425	E198Q	0.702		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	530505425	P24298	rs530505425	E198Q	0.03		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	531504907	P24298	rs531504907	R65C	0.98		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	531504907	P24298	rs531504907	R65C	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		532637254						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	533370457	P24298	rs533370457	R53H	0.335		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	533370457	P24298	rs533370457	R53H	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		536931964						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		538093303						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		538669846						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		541927226						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		545775484						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		547075873						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		547778127						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		551989240						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		553841622						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		555269423						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		559557046						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		561721324						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	562794201	P24298	rs562794201	R53C	0.586		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	562794201	P24298	rs562794201	R53C	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	562794201	P24298	rs562794201	R53C	0.581		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	562794201	P24298	rs562794201	R53C	0.11		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		564073131						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		564095309						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		566405666						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		572474138						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	576646311	P24298	rs576646311	E253K	0.021		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	576646311	P24298	rs576646311	E253K	0.97		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		745364481						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		745388111						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		745652946						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		745741227						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		745778805						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		745937587						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		746049991						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		746826518						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		746987943						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18E	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18E	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18E	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18E	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18V	0.21		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18V	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		747432300	P24298	rs747432300	A18V	0.11		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	747620337	P24298	rs747620337	V37A	0.996		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	747620337	P24298	rs747620337	V37A	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	748119689						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		748409747						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		748417596						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		748547625						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		749597350	P24298	rs749597350	S127C	0.062		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		749597350	P24298	rs749597350	S127C	0.18		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		749597350	P24298	rs749597350	S127C	0.065		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		749597350	P24298	rs749597350	S127C	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		749836766						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		750038133						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		750442911						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		751336078						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		751608206						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		751740696	P24298	rs751740696	A71T	0.83		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		751740696	P24298	rs751740696	A71T	0.06		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		751740696	P24298	rs751740696	A71T	0.827		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		751740696	P24298	rs751740696	A71T	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	751907921						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		752068526						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	752686497						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		753219034						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		753281271						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	753411777						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		753567992						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		753670951						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		753986303						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		754091629						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		754179437						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		754197478						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		754527405						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		754809596						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	754868571	P24298	rs754868571	R323H	0.999		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	754868571	P24298	rs754868571	R323H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	754868571	P24298	rs754868571	R323P	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	754868571	P24298	rs754868571	R323P	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	754982986	P24298	rs754982986	T246I	0.994		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	754982986	P24298	rs754982986	T246I	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		755451701						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		755524000						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		755615955						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		755684251						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		755881328						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		755956337						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		756037936						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		756132776						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		756151404						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		756660977						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		756756813						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		757090626						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		757320127						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		757536171						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		757626184						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		757878396						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		758324329						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		758341140						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		758376636						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		758443116						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		758578129						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		758962078						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		759156616						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	759223375	P24298	rs759223375	A366T	0.001		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	759223375	P24298	rs759223375	A366T	0.11		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		759240795						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		759308893						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		759335196						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		759947263						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		760002275						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		760247280						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	760293071						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		760337307						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		760804575						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		760842726						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		760930815						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		761664060						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		761860329						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		761951983						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		761970551						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762170689						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762260669						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762355091						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762385509						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762452001						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762649725						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762764568						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762848175						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762924568	P24298	rs762924568	V136M	0.989		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762924568	P24298	rs762924568	V136M	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762924568	P24298	rs762924568	V136M	0.983		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		762924568	P24298	rs762924568	V136M	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	763154411	P24298	rs763154411	G69R	1.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	763154411	P24298	rs763154411	G69R	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763226263						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	763324132	P24298	rs763324132	R478W	0.947		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	763324132	P24298	rs763324132	R478W	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763542493						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	763689807	P24298	rs763689807	S404N	0.29		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	763689807	P24298	rs763689807	S404N	0.19		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763777444						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763932469	P24298	rs763932469	R44Q	0.922		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763932469	P24298	rs763932469	R44Q	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763932469	P24298	rs763932469	R44Q	0.921		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763932469	P24298	rs763932469	R44Q	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		763952459						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		764431793						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		764484724						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		764780268						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	764916788	P24298	rs764916788	R31Q	0.006		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	764916788	P24298	rs764916788	R31Q	0.06		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		765080403						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		765144654						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		765235280						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		765593035						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		765787079						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		765923514						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		766288130						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	766711055	P24298	rs766711055	R460W	0.877		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	766711055	P24298	rs766711055	R460W	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		766902019						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	767099328						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767300625	P24298	rs767300625	D103N	0.972		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767300625	P24298	rs767300625	D103N	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767300625	P24298	rs767300625	D103N	0.848		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767300625	P24298	rs767300625	D103N	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767534994						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767835983						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		767839047						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		768259380						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	768299034						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		768663099						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		769443988						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		769471662						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		769546068						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		769552512						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		769804699						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	769950392	P24298	rs769950392	V12E	0.013		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	769950392	P24298	rs769950392	V12E	0.11		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		769986664						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		770313213						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		770500560						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	770534529	P24298	rs770534529	R29H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	770534529	P24298	rs770534529	R29H	0.71		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		770554695						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	770588636						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		771266915						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	771407331						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		772157593						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		772319250						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		772512733						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		772581592						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		772800304						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	773012570						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773126140	P24298	rs773126140	E319K	0.927		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773126140	P24298	rs773126140	E319K	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773126140	P24298	rs773126140	E319K	0.532		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773126140	P24298	rs773126140	E319K	0.01		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773420066						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773478792						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773547243						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773828325						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		773933970						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	773993974	P24298	rs773993974	R110H	0.297		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	773993974	P24298	rs773993974	R110H	0.13		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	773993974	P24298	rs773993974	R110H	0.316		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	773993974	P24298	rs773993974	R110H	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		774117125						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		774265869						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		774925715						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	775104723	P24298	rs775104723	R423W	0.947		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	775104723	P24298	rs775104723	R423W	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		775127714						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		775213760						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		775350170						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		775470130						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		775813325						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		775854766						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		776157825	P24298	rs776157825	A262T	0.976		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		776157825	P24298	rs776157825	A262T	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		776157825	P24298	rs776157825	A262T	0.929		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		776157825	P24298	rs776157825	A262T	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	776251118	P24298	rs776251118	R38H	0.986		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	776251118	P24298	rs776251118	R38H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		776809181						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		776937028						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	likely benign	777251291						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777370445	P24298	rs777370445	G448S	0.999		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777370445	P24298	rs777370445	G448S	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777370445	P24298	rs777370445	G448S	0.999		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777370445	P24298	rs777370445	G448S	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		777448606						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		777459970						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		777764097						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777851951	P24298	rs777851951	A373V	0.005		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777851951	P24298	rs777851951	A373V	0.04		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777851951	P24298	rs777851951	A373V	0.005		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777851951	P24298	rs777851951	A373V	0.15		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		777852066						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777867324	P24298	rs777867324	V418M	0.094		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777867324	P24298	rs777867324	V418M	0.04		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777867324	P24298	rs777867324	V418M	0.093		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	777867324	P24298	rs777867324	V418M	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		778615051						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		778801162						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		779496876						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		779578484	P24298	rs779578484	E62K	0.092		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		779578484	P24298	rs779578484	E62K	0.21		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		779578484	P24298	rs779578484	E62K	0.059		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		779578484	P24298	rs779578484	E62K	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		779685262						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	779971365	P24298	rs779971365	Q250K	0.36		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	779971365	P24298	rs779971365	Q250K	0.02		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		780046164						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		780080239						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		780170301						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		780726435						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	780838921						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	780980656						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		781170913						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		781196445						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		781567379						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	781699796	P24298	rs781699796	P421H	0.999		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant	uncertain significance	781699796	P24298	rs781699796	P421H	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		866440873						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		866709568						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		868300764						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		879595120						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		879744415						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		897755799						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		899779005						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		910044306	P24298	rs910044306	S193L	0.925		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		910044306	P24298	rs910044306	S193L	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		910044306	P24298	rs910044306	S193L	0.876		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		910044306	P24298	rs910044306	S193L	0.0		P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		912479992						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		917483341						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		932577461						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		934405423						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		936090537						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		945683889						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		950025395						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		951810643						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		969914948						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		973687000						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		976061797						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		976176368						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		977483633						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298
+GPT	missense_variant		982065069						P24298	Alanine aminotransferase 1	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P24298

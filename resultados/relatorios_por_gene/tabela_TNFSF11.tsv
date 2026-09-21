@@ -1,0 +1,382 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+TNFSF11	missense_variant		1005395599						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1009012019						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1010895080	O14788	rs1010895080	A65S	0.248		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1010895080	O14788	rs1010895080	A65S	0.07		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1018033049	O14788	rs1018033049	R13G	0.968		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1018033049	O14788	rs1018033049	R13G	0.03		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1038170864						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	likely benign	1050843946						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1051020748						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	likely benign	1160123187						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1160235545						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1162100771						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1167229513						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1172774056						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1175558962						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1181814730						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1181925850						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1183351831						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1187378958						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1192167985						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1198656504						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1201809363						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1206424082						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1212358207						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1213878506						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1217046950						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1217957752						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	pathogenic	121909072						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1223468364						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1224826165	O14788	rs1224826165	S246R	0.17		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1224826165	O14788	rs1224826165	S246R	0.11		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1224826165	O14788	rs1224826165	S246R	0.019		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1224826165	O14788	rs1224826165	S246R	0.05		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1238517413	O14788	rs1238517413	A37G	0.007		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1238517413	O14788	rs1238517413	A37G	0.45		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	likely benign	1242616779						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1245488518						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1254647326						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1256985702						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		12721445						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1276279083						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1281314514	O14788	rs1281314514	A172T	0.009		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1281314514	O14788	rs1281314514	A172T	0.74		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1299388097						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1299592568						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1320614927						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1321741681						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1331986683						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1342931531	O14788	rs1342931531	Y241H	1.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1342931531	O14788	rs1342931531	Y241H	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1342931531	O14788	rs1342931531	Y241H	1.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1342931531	O14788	rs1342931531	Y241H	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1350071739						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	likely benign	1360861197						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1360963541						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1361999097						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1368801585	O14788	rs1368801585	Y235C	0.8		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1368801585	O14788	rs1368801585	Y235C	0.17		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign, likely benign	138818878	O14788	rs138818878	P36R	0.193		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign, likely benign	138818878	O14788	rs138818878	P36R	0.03		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1389657001	O14788	rs1389657001	G20S	0.452		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1389657001	O14788	rs1389657001	G20S	0.48		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign, likely benign	138974661	O14788	rs138974661	S80L	0.918		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign, likely benign	138974661	O14788	rs138974661	S80L	0.1		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	139451340	O14788	rs139451340	S115L	0.031		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	139451340	O14788	rs139451340	S115L	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	139991365	O14788	rs139991365	V182M	0.935		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	139991365	O14788	rs139991365	V182M	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1403252971						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1404003555						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		140455530						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1406562580						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1410642550						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1418926463						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1420613057						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1423278415						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	142756983	O14788	rs142756983	A72T	0.021		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	142756983	O14788	rs142756983	A72T	0.18		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1434109198						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	143464073	O14788	rs143464073	Y188C	0.952		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	143464073	O14788	rs143464073	Y188C	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1443523720						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	144503010	O14788	rs144503010	A145V	0.422		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	144503010	O14788	rs144503010	A145V	0.06		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1448818331						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1450207753	O14788	rs1450207753	P296S	0.263		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1450207753	O14788	rs1450207753	P296S	0.23		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1450207753	O14788	rs1450207753	P296S	0.482		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1450207753	O14788	rs1450207753	P296S	0.04		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1451082554	O14788	rs1451082554	P301L	0.624		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1451082554	O14788	rs1451082554	P301L	0.18		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1451082554	O14788	rs1451082554	P301L	0.679		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1451082554	O14788	rs1451082554	P301L	0.17		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1464619213						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1467796146						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1470764670						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, not provided	1471498841	O14788	rs1471498841	H31L	0.127		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, not provided	1471498841	O14788	rs1471498841	H31L	0.08		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1473522008						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1480108890						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1484965718						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	150392469	O14788	rs150392469	R284W	0.984		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	150392469	O14788	rs150392469	R284W	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	150392469	O14788	rs150392469	R284W	0.946		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	150392469	O14788	rs150392469	R284W	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		150519070						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566373965						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566373972						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566377050						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566388259						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391459						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391542						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391626	O14788	rs1566391626	F281L	0.073		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391626	O14788	rs1566391626	F281L	0.04		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391626	O14788	rs1566391626	F281L	0.292		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391626	O14788	rs1566391626	F281L	0.02		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1566391675						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1594458136						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1594484409						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1645471475						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	186758177	O14788	rs186758177	R157K	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	186758177	O14788	rs186758177	R157K	0.48		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869130477						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869137315						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869137512						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869140135						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869142314						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869143049						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869143461						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869467422						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869469157						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869471131						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869472420						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869472816						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869473259						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869474938						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869475348						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869476499						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869479353						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1869479550						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1869481232	O14788	rs1869481232	F280S	0.921		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1869481232	O14788	rs1869481232	F280S	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1873194620						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873196165						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873199821						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873201734						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873203638						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1873210415	O14788	rs1873210415	F68L	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	1873210415	O14788	rs1873210415	F68L	1.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873591216						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873591858						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873593278						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873593505						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873593704						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873597165						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873599049						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		1873600670						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	189501562	O14788	rs189501562	I140M	0.022		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	189501562	O14788	rs189501562	I140M	0.22		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199503199	O14788	rs199503199	S252F	0.031		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199503199	O14788	rs199503199	S252F	0.22		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199503199	O14788	rs199503199	S252Y	0.085		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199503199	O14788	rs199503199	S252Y	0.29		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199503199	O14788	rs199503199	S252Y	0.058		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199503199	O14788	rs199503199	S252Y	0.31		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199529587	O14788	rs199529587	A142T	0.061		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199529587	O14788	rs199529587	A142T	0.19		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34L	0.027		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34L	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34L	0.009		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34L	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34Q	0.058		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34Q	0.05		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34R	0.039		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign, likely benign	199558758	O14788	rs199558758	P34R	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		199813424						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		199888953						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		199901344						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199910582	O14788	rs199910582	H85L	0.038		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199910582	O14788	rs199910582	H85L	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199910582	O14788	rs199910582	H85R	0.001		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	199910582	O14788	rs199910582	H85R	0.06		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200205273						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign	200250962	O14788	rs200250962	P33Q	0.214		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, benign	200250962	O14788	rs200250962	P33Q	0.18		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200460275						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200484371						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	200689190	O14788	rs200689190	I316M	0.37		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	200689190	O14788	rs200689190	I316M	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign	200788562	O14788	rs200788562	E27G	0.089		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign	200788562	O14788	rs200788562	E27G	0.04		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200808784						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200862293	O14788	rs200862293	H139Y	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200862293	O14788	rs200862293	H139Y	0.98		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200862293	O14788	rs200862293	H139Y	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		200862293	O14788	rs200862293	H139Y	0.49		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	200887697	O14788	rs200887697	R118I	0.149		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	200887697	O14788	rs200887697	R118I	0.09		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201151635	O14788	rs201151635	K282T	0.999		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201151635	O14788	rs201151635	K282T	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		201220225						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201389502	O14788	rs201389502	V135F	0.015		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201389502	O14788	rs201389502	V135F	0.17		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201389502	O14788	rs201389502	V135I	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201389502	O14788	rs201389502	V135I	0.48		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201652399	O14788	rs201652399	G28D	0.007		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	201652399	O14788	rs201652399	G28D	0.07		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		201966726	O14788	rs201966726	E81G	0.045		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		201966726	O14788	rs201966726	E81G	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		201966726	O14788	rs201966726	E81G	0.047		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		201966726	O14788	rs201966726	E81G	0.1		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		202093135						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2058170898						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137852268	O14788	rs2137852268	K10E	0.972		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137852268	O14788	rs2137852268	K10E	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137852368	O14788	rs2137852368	M18K	0.017		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137852368	O14788	rs2137852368	M18K	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137852408	O14788	rs2137852408	P22S	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137852408	O14788	rs2137852408	P22S	0.6		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137852612						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137866371						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137867020						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137867049	O14788	rs2137867049	R117K	0.001		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137867049	O14788	rs2137867049	R117K	0.21		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137867169						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137915962	O14788	rs2137915962	V240M	0.497		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2137915962	O14788	rs2137915962	V240M	0.11		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137916102						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137916225						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137916440						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		2137916509						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2500694241						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2500694446						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2500712037						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2500780286						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	2500780823						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	369479969	O14788	rs369479969	T103I	0.051		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	369479969	O14788	rs369479969	T103I	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		370210320						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	370229620	O14788	rs370229620	H224R	0.972		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	370229620	O14788	rs370229620	H224R	0.08		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		371355310						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		371687612						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		372944045						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		373980979						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	374798454						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		375945802						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		376376644						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		377671078						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		536686560						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	544390018	O14788	rs544390018	F70L	0.072		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	544390018	O14788	rs544390018	F70L	0.05		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		551013307						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	552798107	O14788	rs552798107	R191Q	0.385		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	552798107	O14788	rs552798107	R191Q	0.03		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	552798107	O14788	rs552798107	R191Q	0.755		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	552798107	O14788	rs552798107	R191Q	0.08		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		567626840						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		571875062						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	benign	61735535						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	61761332	O14788	rs61761332	R284Q	0.499		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	61761332	O14788	rs61761332	R284Q	0.05		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	likely benign	745737334						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	746313384	O14788	rs746313384	D174N	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	746313384	O14788	rs746313384	D174N	1.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	746313384	O14788	rs746313384	D174N	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	746313384	O14788	rs746313384	D174N	1.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	746686599	O14788	rs746686599	T254I	0.327		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	746686599	O14788	rs746686599	T254I	0.28		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	746971311	O14788	rs746971311	T109I	0.017		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	746971311	O14788	rs746971311	T109I	0.18		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	747293103	O14788	rs747293103	G178V	0.943		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	747293103	O14788	rs747293103	G178V	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	747449633	O14788	rs747449633	Y88C	0.229		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	747449633	O14788	rs747449633	Y88C	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	748143072	O14788	rs748143072	Y69C	0.823		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	748143072	O14788	rs748143072	Y69C	0.03		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		749110346	O14788	rs749110346	P36S	0.099		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		749110346	O14788	rs749110346	P36S	0.75		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		749110346	O14788	rs749110346	P36S	0.037		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		749110346	O14788	rs749110346	P36S	0.39		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		749448531						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		749608736						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	750006547	O14788	rs750006547	M48K	0.007		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	750006547	O14788	rs750006547	M48K	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		750522085						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	752837461						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		753106632						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	753163145	O14788	rs753163145	V313I	0.029		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	753163145	O14788	rs753163145	V313I	0.5		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		753490049						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	753589384	O14788	rs753589384	L160F	0.047		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	753589384	O14788	rs753589384	L160F	0.21		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		754155938						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	754256379	O14788	rs754256379	V242I	0.062		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	754256379	O14788	rs754256379	V242I	0.19		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		754708478	O14788	rs754708478	L104P	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		754708478	O14788	rs754708478	L104P	0.03		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		754708478	O14788	rs754708478	L104P	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		754708478	O14788	rs754708478	L104P	0.1		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		755246798						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		755512420						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		757365248						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	757600401	O14788	rs757600401	S47F	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	757600401	O14788	rs757600401	S47F	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		757912373						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		759824547						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	760748407	O14788	rs760748407	D304G	0.963		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	760748407	O14788	rs760748407	D304G	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	760985300	O14788	rs760985300	V277I	0.005		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	760985300	O14788	rs760985300	V277I	0.45		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	760985300	O14788	rs760985300	V277I	0.003		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	760985300	O14788	rs760985300	V277I	0.19		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	761066893	O14788	rs761066893	D98H	0.015		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	761066893	O14788	rs761066893	D98H	0.18		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		761277197						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	761441027						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	763230247	O14788	rs763230247	A162T	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	763230247	O14788	rs763230247	A162T	0.57		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		764876340						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		765164850						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		765323728						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		766129528						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		766500104						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		767060979						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		767460194						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		767851173						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		768529038						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		768617032						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		769261349						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		769473543						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		771552762						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		774289441						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		774485295	O14788	rs774485295	P38L	0.007		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		774485295	O14788	rs774485295	P38L	0.05		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		774485295	O14788	rs774485295	P38L	0.007		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		774485295	O14788	rs774485295	P38L	0.31		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		774612444						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	774928469	O14788	rs774928469	S285T	0.024		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	774928469	O14788	rs774928469	S285T	0.07		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		775093601						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	775270513	O14788	rs775270513	R6G	0.952		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	775270513	O14788	rs775270513	R6G	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		775440686	O14788	rs775440686	R223Q	0.999		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		775440686	O14788	rs775440686	R223Q	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		775440686	O14788	rs775440686	R223Q	1.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		775440686	O14788	rs775440686	R223Q	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		775640642						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		776385743						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		776693818						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		779363839	O14788	rs779363839	R191W	0.977		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		779363839	O14788	rs779363839	R191W	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		779363839	O14788	rs779363839	R191W	0.982		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		779363839	O14788	rs779363839	R191W	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	779371056	O14788	rs779371056	V50M	0.001		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	779371056	O14788	rs779371056	V50M	0.1		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	780113615	O14788	rs780113615	L298F	0.997		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	780113615	O14788	rs780113615	L298F	0.03		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	780672646						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		780768396						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		781638608						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		865907686						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		865986893						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	868453312	O14788	rs868453312	K10N	0.988		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance, likely benign	868453312	O14788	rs868453312	K10N	0.01		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	889679429	O14788	rs889679429	L52V	0.095		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	889679429	O14788	rs889679429	L52V	0.08		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		900243490						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	949821650	O14788	rs949821650	I207T	0.001		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	949821650	O14788	rs949821650	I207T	0.43		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		950471670						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	953829901	O14788	rs953829901	S5G	0.017		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	953829901	O14788	rs953829901	S5G	0.0		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		970507560						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	982726281	O14788	rs982726281	E27D	0.001		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	982726281	O14788	rs982726281	E27D	0.15		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	992827347	O14788	rs992827347	E292K	0.025		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	992827347	O14788	rs992827347	E292K	0.11		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	992827347	O14788	rs992827347	E292K	0.024		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant	uncertain significance	992827347	O14788	rs992827347	E292K	0.14		O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788
+TNFSF11	missense_variant		994097453						O14788	Tumor necrosis factor ligand superfamily member 11	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O14788

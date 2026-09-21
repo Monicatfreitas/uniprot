@@ -1,0 +1,716 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+MCAM	missense_variant		1001098778						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1001376773						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1001551617						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1005866751						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1007234320						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1008074269						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1010137774						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1011266381	P43121	rs1011266381	E354K	0.078		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1011266381	P43121	rs1011266381	E354K	0.71		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1012116958						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1024423215	P43121	rs1024423215	E639D	0.991		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1024423215	P43121	rs1024423215	E639D	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1024423215	P43121	rs1024423215	E639D	0.83		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1024423215	P43121	rs1024423215	E639D	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1028436167						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1032989352						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1036616901	P43121	rs1036616901	P589L	0.629		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1036616901	P43121	rs1036616901	P589L	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1036616901	P43121	rs1036616901	P589L	0.624		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1036616901	P43121	rs1036616901	P589L	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1038264220						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1039370776						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1040469276						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1041417556						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1054994169						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1131437						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1131438						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	benign	115730438	P43121	rs115730438	L394M	0.999		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	benign	115730438	P43121	rs115730438	L394M	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1160001589						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1163586583						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1164361749						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1167165627						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1168981214						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1173695301						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1175088212						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1179650187						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1182097983						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1185613413						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1186050643						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1186485167						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1186829910						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1187695474						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1188228515						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1192552804						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1193778034						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1196676741						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1196681910						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1198478445						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1203716039						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1206413292						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1209400645						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1209677769						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1212058206						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1212462381						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1214983135						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1216882775						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1217113221						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1220613665						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1220671330						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1224410091						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1225574490						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1226423770						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1228401314						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1232616618						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1241581974						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1247340506						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1248922808						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1250171482						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1251410840						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1252845152						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1253441741						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1253587133						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1254439182						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1256320218						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1257078640						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1258544452						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1259790820						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1262051881						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1263769165						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1266794499						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1271818541						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	1273791046	P43121	rs1273791046	K153E	0.001		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	1273791046	P43121	rs1273791046	K153E	0.68		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1277785204						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1278912763						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1279777990						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1284827237						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1287346839						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1290252839						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1290665987						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1291103839						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1293567383						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1294468488						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1296852437						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1304896449						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1310090818						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1312436958						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1313293357						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1315186457						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1321626328						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1322595877						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1327008692						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1327100632						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1327199233						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1327712477						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1329060645						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1333653536						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1342501335						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1342921051						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1348401063						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1350562480						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1355470665						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1357142592						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1360808660						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1362785176						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1363964016						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1366199302						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1366678976						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1367585745						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1367586167						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1370093851						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1376331531						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		137883572						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1379085429	P43121	rs1379085429	V21I	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1379085429	P43121	rs1379085429	V21I	0.12		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138068064	P43121	rs138068064	V259L	0.02		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138068064	P43121	rs138068064	V259L	0.04		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138068064	P43121	rs138068064	V259M	0.321		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138068064	P43121	rs138068064	V259M	0.1		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138068064	P43121	rs138068064	V259M	0.317		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138068064	P43121	rs138068064	V259M	0.06		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1382770828						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1383280049						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1383310678						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1383376209						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1385230404						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1385542534						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1386412752						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1386424525						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138745100	P43121	rs138745100	L572P	0.995		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	138745100	P43121	rs138745100	L572P	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		138873873						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1390088837						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1391298330						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1392505539						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1393004420						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		139348270						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1394579082						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		139488333	P43121	rs139488333	D643N	0.397		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		139488333	P43121	rs139488333	D643N	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		139488333	P43121	rs139488333	D643N	0.995		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		139488333	P43121	rs139488333	D643N	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1395242865						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1399264496						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1405225068						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	140543033	P43121	rs140543033	G276A	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	140543033	P43121	rs140543033	G276A	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	140575559						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1407229378						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1409621620						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		140965114						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	140968439	P43121	rs140968439	P309R	0.045		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	140968439	P43121	rs140968439	P309R	0.14		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	141351877	P43121	rs141351877	P555L	0.014		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	141351877	P43121	rs141351877	P555L	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	141604694	P43121	rs141604694	K616E	0.12		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	141604694	P43121	rs141604694	K616E	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1416914070						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		141753525						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		141853834						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		141858125						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1418900465						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1419447133						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	142042661						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		142651763						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1429533158						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1430347946						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1432214488						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1432863963						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1433373852						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1435604857						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	143742912	P43121	rs143742912	G303R	0.923		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	143742912	P43121	rs143742912	G303R	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		143968118						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1440792081						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1441797963						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1444273073						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	144935056						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1449463697						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1450363933						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1451233168						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1451592996						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	145230274						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		145425191						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1456104078						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1458150266						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1460095700						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1460356462						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1460651641						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		146231211						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1472378463						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	147390678	P43121	rs147390678	R127L	0.657		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	147390678	P43121	rs147390678	R127L	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	147390678	P43121	rs147390678	R127L	0.518		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	147390678	P43121	rs147390678	R127L	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	147543251	P43121	rs147543251	R317H	0.731		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	147543251	P43121	rs147543251	R317H	0.19		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1480226655						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1480924168						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		148112558						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1481882536						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1482296683						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		148248363						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	148555580	P43121	rs148555580	R317S	0.074		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	148555580	P43121	rs148555580	R317S	0.04		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1485829683						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		148607290						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1486271050						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1486453417						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1488952014						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		149117088						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		149170996						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		149271449						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		149483362						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	150221287	P43121	rs150221287	A310V	0.056		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	150221287	P43121	rs150221287	A310V	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		150423005						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		150531273						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1565279851						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1565279860						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1565280056						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1565280100						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1565282379						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1565283156						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282067						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282087						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282116						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282161						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282169						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282904						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591282932						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591283267						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591284589						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591285022						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591287199						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591287529						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591287976						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1591289720						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1851173573						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	185936018	P43121	rs185936018	P248L	0.965		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	185936018	P43121	rs185936018	P248L	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950202191						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950203063						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950212580						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950212688						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950213380						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950213622						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950214463						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950220021						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950220044						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950220338						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950220454						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950221433						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950221763						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950222107						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950222421						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950224098						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950227950						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950228287						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950228360						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950228423						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950230303						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950230352						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950230642						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1950230821						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950231754						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950231891						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1950232130						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950233953						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950234817						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950234869						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950235106						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950235142						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950235432						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950235547						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950235685						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950235709						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950238349						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950238442						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950238652						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950238753						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950240223						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242068						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242101						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242165						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242323						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242506						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242922						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950242967						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950243476						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950245963						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950246071						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950246597						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950246873						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950247489						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950247552						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950250522						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950250775						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950251111						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950251190						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950251418						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950251571						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950251941						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1950254244	P43121	rs1950254244	M235I	0.687		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1950254244	P43121	rs1950254244	M235I	0.05		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950254918						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950255024						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950255356						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950255510						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950279501						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950280136						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950283749						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950283860						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950286847						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	1950287770						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950289257						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950289517						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950289559						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950290527						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950290693						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950291065						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950291862						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950293761						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950294336						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950294799						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950295031						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950295201						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950295235						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950318686						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950318789						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950318826						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950318902						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		1950319235						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199521090						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199610718						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199772617						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199820957	P43121	rs199820957	G416S	0.716		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199820957	P43121	rs199820957	G416S	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199820957	P43121	rs199820957	G416S	0.712		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		199820957	P43121	rs199820957	G416S	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200173269						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200431291						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200709459	P43121	rs200709459	R311W	0.849		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200709459	P43121	rs200709459	R311W	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200709459	P43121	rs200709459	R311W	0.846		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200709459	P43121	rs200709459	R311W	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200795578	P43121	rs200795578	A409V	0.285		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200795578	P43121	rs200795578	A409V	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200795578	P43121	rs200795578	A409V	0.281		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		200795578	P43121	rs200795578	A409V	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	200915659	P43121	rs200915659	T107S	0.115		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	200915659	P43121	rs200915659	T107S	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201060118						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201149343	P43121	rs201149343	E607K	0.048		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201149343	P43121	rs201149343	E607K	0.54		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201149343	P43121	rs201149343	E607K	0.047		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201149343	P43121	rs201149343	E607K	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201770134						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201949425						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		201956849						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135335412						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135335489						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135336588						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135337184						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135337189						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135337428						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135337821						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135338535						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135338545						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135339932						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135339941						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135339970						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135340456						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135340644						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135340686						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135342035						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135345268						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2135349203						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2276081	P43121	rs2276081	G629S	0.926		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2276081	P43121	rs2276081	G629S	0.06		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2276081	P43121	rs2276081	G629S	0.925		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		2276081	P43121	rs2276081	G629S	0.09		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	2497013511						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	2497015540						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	2497032355						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		34587557						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	367852618						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		368133346						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		368813514						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		369044315	P43121	rs369044315	R267H	0.009		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		369044315	P43121	rs369044315	R267H	0.4		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		369044315	P43121	rs369044315	R267H	0.009		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		369044315	P43121	rs369044315	R267H	0.31		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		369875108						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	369964948	P43121	rs369964948	R604H	0.438		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	369964948	P43121	rs369964948	R604H	0.05		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	369988600	P43121	rs369988600	E472V	0.074		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	369988600	P43121	rs369988600	E472V	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		370418184						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		370712443						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		370812902						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		370970803						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		371872002						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		372037320						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		372702161						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		372892369						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	373274464						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		373305901						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374860225	P43121	rs374860225	S330L	0.011		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374860225	P43121	rs374860225	S330L	0.08		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374860225	P43121	rs374860225	S330L	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374860225	P43121	rs374860225	S330L	0.06		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374860225	P43121	rs374860225	S330W	0.041		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374860225	P43121	rs374860225	S330W	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374949303	P43121	rs374949303	T546N	0.991		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	374949303	P43121	rs374949303	T546N	0.1		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	375032785						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	375856085						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		376481635						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		376841709						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		376896297	P43121	rs376896297	V243I	0.055		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		376896297	P43121	rs376896297	V243I	0.33		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		376896297	P43121	rs376896297	V243I	0.054		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		376896297	P43121	rs376896297	V243I	0.23		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		377133422						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	377133656						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		377282179						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		377301042						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		528808258	P43121	rs528808258	P602L	0.003		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		528808258	P43121	rs528808258	P602L	0.05		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		528808258	P43121	rs528808258	P602L	0.003		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		528808258	P43121	rs528808258	P602L	0.06		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		533490416						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		534168830						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		534990019						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	537622832	P43121	rs537622832	R91G	0.995		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	537622832	P43121	rs537622832	R91G	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		539621487						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		544761038						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		544907258						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	546534922	P43121	rs546534922	P415A	0.992		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	546534922	P43121	rs546534922	P415A	0.02		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		548426342						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		550592393						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		550922304						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		555085608						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		560440649	P43121	rs560440649	V268M	0.999		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		560440649	P43121	rs560440649	V268M	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		560440649	P43121	rs560440649	V268M	0.999		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		560440649	P43121	rs560440649	V268M	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		561613315						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	561819460	P43121	rs561819460	K153M	0.734		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	561819460	P43121	rs561819460	K153M	0.03		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	569708081	P43121	rs569708081	P553L	0.009		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	569708081	P43121	rs569708081	P553L	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		570398778						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	571296143						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		572637227						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		574572993						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	577757305	P43121	rs577757305	G586D	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	577757305	P43121	rs577757305	G586D	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	benign	61747734						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		745479499						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		746132949						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		746247051						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		746497130						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		746515685						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	746532377	P43121	rs746532377	R228Q	0.366		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	746532377	P43121	rs746532377	R228Q	0.36		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		747092303						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		747113949						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		747157300						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		747378748						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		747480871						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		747985132						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	747992430	P43121	rs747992430	R112H	0.993		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	747992430	P43121	rs747992430	R112H	0.04		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	747992430	P43121	rs747992430	R112H	0.993		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	747992430	P43121	rs747992430	R112H	0.02		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748225145	P43121	rs748225145	E334K	0.026		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748225145	P43121	rs748225145	E334K	0.47		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748225145	P43121	rs748225145	E334K	0.027		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748225145	P43121	rs748225145	E334K	0.57		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748355853						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748503572						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748524620						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748724954	P43121	rs748724954	E111K	0.939		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748724954	P43121	rs748724954	E111K	0.24		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748724954	P43121	rs748724954	E111K	0.938		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748724954	P43121	rs748724954	E111K	0.23		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748815442						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		748928523						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		749075742						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		749091492						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		749237727						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		749525108						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		749750537						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		750414496						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		750525236						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		750849286						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		751281609						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		751316994						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		751468006						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		752453748						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		752486930						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		752552756						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		752916379						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753088799						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753620628						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753665014						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753825047	P43121	rs753825047	L204S	0.714		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753825047	P43121	rs753825047	L204S	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753825047	P43121	rs753825047	L204S	0.723		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753825047	P43121	rs753825047	L204S	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753827007						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753858877	P43121	rs753858877	R120H	0.75		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753858877	P43121	rs753858877	R120H	0.16		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753858877	P43121	rs753858877	R120H	0.747		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		753858877	P43121	rs753858877	R120H	0.08		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	754491611						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		754583808	P43121	rs754583808	R187Q	0.022		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		754583808	P43121	rs754583808	R187Q	0.21		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		754583808	P43121	rs754583808	R187Q	0.022		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		754583808	P43121	rs754583808	R187Q	0.41		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	754816315						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		754893633						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		754941729						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		755723391						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	755944376	P43121	rs755944376	R406H	0.735		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	755944376	P43121	rs755944376	R406H	0.06		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	755944376	P43121	rs755944376	R406H	0.731		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	755944376	P43121	rs755944376	R406H	0.03		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		755951590						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	756506896	P43121	rs756506896	V447L	0.015		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	756506896	P43121	rs756506896	V447L	0.26		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		756616232						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		756862205	P43121	rs756862205	R70Q	0.007		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		756862205	P43121	rs756862205	R70Q	0.48		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		756862205	P43121	rs756862205	R70Q	0.007		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		756862205	P43121	rs756862205	R70Q	0.46		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		757212032						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		757619654						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		757708628						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	758032103	P43121	rs758032103	N56K	0.193		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	758032103	P43121	rs758032103	N56K	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		758106564						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		758159085						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		758591606						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		758626683						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		758872525						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		758892586						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	759466837						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		759481275						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		759982576						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	760113555	P43121	rs760113555	A573V	0.985		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	760113555	P43121	rs760113555	A573V	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760226793	P43121	rs760226793	E556D	0.037		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760226793	P43121	rs760226793	E556D	0.02		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760226793	P43121	rs760226793	E556D	0.039		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760226793	P43121	rs760226793	E556D	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760274509						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760448545						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760716423						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		760803136						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		761049298						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		761333183						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		761793791						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		762805260						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		762915958						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		763165581						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		763184609						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		763192013						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		763801017						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		763991464						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		763997313						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		764073388						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		764669628						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		764875151						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		764921421						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		765044934						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	765322796						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		765647621						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		765792211	P43121	rs765792211	G166R	0.999		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		765792211	P43121	rs765792211	G166R	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		765792211	P43121	rs765792211	G166R	0.999		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		765792211	P43121	rs765792211	G166R	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766043918						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766156389						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766198942						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766518254						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766641160						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766838453						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	766911415						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		766964039						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		767067121						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		767164239						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		767733634						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		767824232						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		768090855						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		768385888						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		768567713						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		768743790						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		768852696						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		769594870						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	769715417						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		769950187						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	770023296						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770082501						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770146162						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770425833						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770572311	P43121	rs770572311	R267C	0.806		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770572311	P43121	rs770572311	R267C	0.03		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770572311	P43121	rs770572311	R267C	0.803		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770572311	P43121	rs770572311	R267C	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770749828						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770926903						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		770956687						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	771005107	P43121	rs771005107	R179Q	0.007		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	771005107	P43121	rs771005107	R179Q	0.23		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		771280059						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		771303443						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		771568241						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		771668845						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		772013952						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		772127034	P43121	rs772127034	N302S	0.314		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		772127034	P43121	rs772127034	N302S	0.5		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		772127034	P43121	rs772127034	N302S	0.323		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		772127034	P43121	rs772127034	N302S	0.99		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		772456559						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	772695042	P43121	rs772695042	E293K	0.547		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	772695042	P43121	rs772695042	E293K	0.04		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		773467248						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		773480140						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	773674401	P43121	rs773674401	G265E	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	773674401	P43121	rs773674401	G265E	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	773674401	P43121	rs773674401	G265E	1.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	773674401	P43121	rs773674401	G265E	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		774089706						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		774270714						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	774446032	P43121	rs774446032	T599M	0.804		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	774446032	P43121	rs774446032	T599M	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		774715305						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	774799498						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		775051209						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	775638687	P43121	rs775638687	D301N	0.027		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	775638687	P43121	rs775638687	D301N	0.41		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		775986010						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		776813926						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		776941354						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	776965140						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		777450325						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	777935531						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		778411997						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		778430816						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	779468597	P43121	rs779468597	I566T	0.039		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	779468597	P43121	rs779468597	I566T	0.17		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		779569469						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		779912841						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780145542	P43121	rs780145542	N226S	0.006		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780145542	P43121	rs780145542	N226S	0.7		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780145542	P43121	rs780145542	N226S	0.007		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780145542	P43121	rs780145542	N226S	0.62		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780209931						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780302769						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780358157						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780438696	P43121	rs780438696	V563M	0.987		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780438696	P43121	rs780438696	V563M	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780438696	P43121	rs780438696	V563M	0.986		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780438696	P43121	rs780438696	V563M	0.01		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		780595710						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		781047731						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		781333582						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		781604324						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		78257620						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		889103798						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	889906708	P43121	rs889906708	E515K	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	889906708	P43121	rs889906708	E515K	0.14		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		889925223						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	likely benign	894869864						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		901618967						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		907011366						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		907826321						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		914223357						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		919444277						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		930533096						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		931739508						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		933445692						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		942141271						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		951042368						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		956215491						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		956311336						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		971973024						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	978961296	P43121	rs978961296	G147D	0.992		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant	uncertain significance	978961296	P43121	rs978961296	G147D	0.0		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		981978123	P43121	rs981978123	P555S	0.023		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		981978123	P43121	rs981978123	P555S	0.17		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		981978123	P43121	rs981978123	P555S	0.024		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		981978123	P43121	rs981978123	P555S	0.2		P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		983672689						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		984620753						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		986740501						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		995549047						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		995692401						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121
+MCAM	missense_variant		995923896						P43121	Cell surface glycoprotein MUC18	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P43121

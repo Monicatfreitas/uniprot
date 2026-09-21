@@ -1,0 +1,628 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CD19	missense_variant		1001307869						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1010611591	P15391	rs1010611591	P60S	0.401		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1010611591	P15391	rs1010611591	P60S	0.24		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1027091378						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1028550245						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1038801404	P15391	rs1038801404	K291N	0.15		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1038801404	P15391	rs1038801404	K291N	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1043892288						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1056128085						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1064796075	P15391	rs1064796075	G505R	0.923		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1064796075	P15391	rs1064796075	G505R	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	113797527						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1156449511						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	1159832284	P15391	rs1159832284	R549H	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	1159832284	P15391	rs1159832284	R549H	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	1159832284	P15391	rs1159832284	R549L	0.007		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	1159832284	P15391	rs1159832284	R549L	0.11		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1167037034	P15391	rs1167037034	P176S	0.001		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1167037034	P15391	rs1167037034	P176S	0.14		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1174480734						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1177117089						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1177666606						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1178866828						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1179468070	P15391	rs1179468070	P344L	0.018		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1179468070	P15391	rs1179468070	P344L	0.04		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1179468070	P15391	rs1179468070	P344R	0.052		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1179468070	P15391	rs1179468070	P344R	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1180293979						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1180915089						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1184068021						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1188604193						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1190926293						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1191772436						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1192916846						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1199875482						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1201291811	P15391	rs1201291811	G360S	0.332		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1201291811	P15391	rs1201291811	G360S	0.06		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1205037232						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1207272578						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1209047957						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1209980412						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1210029653						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1211081319	P15391	rs1211081319	Y461C	0.995		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1211081319	P15391	rs1211081319	Y461C	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1211480700						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1212135669						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1214805316						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1215006936						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1216239970						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1219608188						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1219672267						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1224098003	P15391	rs1224098003	V472F	0.778		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1224098003	P15391	rs1224098003	V472F	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1230009963						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1230171913						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1230825115						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1230981805						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1234670591						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1235231113						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1235287950						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1237526110						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1240334018						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1240633849						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1241372922	P15391	rs1241372922	D453N	0.992		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1241372922	P15391	rs1241372922	D453N	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1246353532						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1249840316	P15391	rs1249840316	R209G	0.112		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1249840316	P15391	rs1249840316	R209G	0.05		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1250674037						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1253717773						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1257746500						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1258141013						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1259371156						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1259404210						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1262041170						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1267898075						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1268104136	P15391	rs1268104136	E532K	0.979		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1268104136	P15391	rs1268104136	E532K	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1268180714						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1270518763						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1274305791						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1275186898						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1279940718						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1281294709						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1282404790						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1284325453						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1289103595						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1290689623						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1291527603						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1297743299						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1298128050						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1299451015						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1300166332						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1309483574						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1311330238						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1311585688						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1314818454						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1315616475						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1319719546						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1319868184						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1323236750						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1323250610						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1327207135						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	1334300817						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1334692887						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1338503625						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1339543880						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1340227026						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1340580072	P15391	rs1340580072	N423S	0.969		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1340580072	P15391	rs1340580072	N423S	0.04		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1343419258						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1346128809	P15391	rs1346128809	R123W	0.985		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1346128809	P15391	rs1346128809	R123W	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1346945485						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1349878263	P15391	rs1349878263	P60R	0.862		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1349878263	P15391	rs1349878263	P60R	0.08		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1351121582						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1352769325						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1354845001						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1357074260	P15391	rs1357074260	T555I	0.006		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1357074260	P15391	rs1357074260	T555I	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1358475631	P15391	rs1358475631	S383R	0.358		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1358475631	P15391	rs1358475631	S383R	0.47		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1358538134						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1358970008						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1362199823	P15391	rs1362199823	Y378S	0.991		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1362199823	P15391	rs1362199823	Y378S	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1366984000	P15391	rs1366984000	L78P	0.706		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1366984000	P15391	rs1366984000	L78P	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1370300064						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1371358312						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1372743235						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1373325615						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1378572982	P15391	rs1378572982	V385I	0.954		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1378572982	P15391	rs1378572982	V385I	0.28		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1381225793						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1381855256						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1388370835	P15391	rs1388370835	K322Q	0.986		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1388370835	P15391	rs1388370835	K322Q	0.24		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1388930208						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1392302820						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1395977719						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1400829787	P15391	rs1400829787	G119R	0.998		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1400829787	P15391	rs1400829787	G119R	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	140125005						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1409258310						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1411080629						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1412632811						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1413901334						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1414153845						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1417395113	P15391	rs1417395113	V35M	0.054		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1417395113	P15391	rs1417395113	V35M	0.14		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1417603723						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1420142844						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1422022893	P15391	rs1422022893	R549C	0.093		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1422022893	P15391	rs1422022893	R549C	0.04		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1422194270						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	142443743	P15391	rs142443743	N441D	0.969		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	142443743	P15391	rs142443743	N441D	0.05		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1424714301	P15391	rs1424714301	E404K	0.969		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1424714301	P15391	rs1424714301	E404K	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1426792906						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1427589379						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	142818579	P15391	rs142818579	S425F	0.991		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	142818579	P15391	rs142818579	S425F	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1434266587						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1437700003						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1438341104						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1441783478						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	144178895	P15391	rs144178895	L507V	0.988		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	144178895	P15391	rs144178895	L507V	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1449836047						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	145255205	P15391	rs145255205	S65N	0.007		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	145255205	P15391	rs145255205	S65N	0.37		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1452943145						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1453893043						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1456575449						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1458389072						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		145855245						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	146126284	P15391	rs146126284	R263H	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	146126284	P15391	rs146126284	R263H	0.9		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	146223289	P15391	rs146223289	R490Q	0.988		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	146223289	P15391	rs146223289	R490Q	0.07		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	146795664	P15391	rs146795664	L132R	0.026		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	146795664	P15391	rs146795664	L132R	0.69		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1474473023						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	147626581	P15391	rs147626581	P471L	0.506		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	147626581	P15391	rs147626581	P471L	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1476550159	P15391	rs1476550159	T374S	0.069		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1476550159	P15391	rs1476550159	T374S	0.16		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1479530669						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	148200569	P15391	rs148200569	P176L	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	148200569	P15391	rs148200569	P176L	0.05		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1483409301						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1483752320						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1484426617						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	148576690	P15391	rs148576690	V351M	0.066		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	148576690	P15391	rs148576690	V351M	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1488844762	P15391	rs1488844762	G373R	0.611		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1488844762	P15391	rs1488844762	G373R	0.27		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1488873463						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		149157381						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		150438147						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	151258764	P15391	rs151258764	D32N	0.136		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	151258764	P15391	rs151258764	D32N	0.13		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1567504893	P15391	rs1567504893	R177T	0.113		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1567504893	P15391	rs1567504893	R177T	0.23		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1567506579	P15391	rs1567506579	R321K	0.938		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1567506579	P15391	rs1567506579	R321K	0.06		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1567507774						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596712690						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596712738						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596713320						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596713493						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1596713664	P15391	rs1596713664	D178N	0.011		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1596713664	P15391	rs1596713664	D178N	0.17		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596716166						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1596717340	P15391	rs1596717340	Y348H	0.991		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1596717340	P15391	rs1596717340	Y348H	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596718190						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596718794						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1596719325						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1751535578						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1770407371	P15391	rs1770407371	G428R	0.776		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1770407371	P15391	rs1770407371	G428R	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1821495419						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	185062613	P15391	rs185062613	P57L	0.094		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	185062613	P15391	rs185062613	P57L	0.11		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		189652694						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964646858						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964650090						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964658684						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964660150						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964663290						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964663388						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964663650						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964664462						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964666138						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964666554						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964667229						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964668287						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964682836						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964683993						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964684514						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964685642						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964686437						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964686543						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964687311						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964688984						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964691141						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964695763	P15391	rs1964695763	P211S	0.025		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964695763	P15391	rs1964695763	P211S	0.46		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964695843						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964695969	P15391	rs1964695969	W214R	0.685		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964695969	P15391	rs1964695969	W214R	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964696605						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964696676						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964696897						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964697869						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964698794						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964699599						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964699847						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964700931						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964701377	P15391	rs1964701377	R277W	0.441		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964701377	P15391	rs1964701377	R277W	0.06		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964701708						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964743998						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964744416						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964745044						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964759725						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964760594						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964770473						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964773298						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964773843						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964789310	P15391	rs1964789310	A369T	0.215		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964789310	P15391	rs1964789310	A369T	0.06		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964790757						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964790891						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964791348						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964791769						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964792787						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964793099						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964796278						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964796768						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964800184						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964800373						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964800435						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964803948						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964804958						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964805512						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964807594						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964808111						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964808180						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964808507						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964808748						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964809357	P15391	rs1964809357	M476V	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964809357	P15391	rs1964809357	M476V	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964811647						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964811898						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964811993						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964812267						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964812950						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964837338						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964837988						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964838233						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964838686						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964844047						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964844429						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964844705						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964845016						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		1964845114						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964845692	P15391	rs1964845692	M550V	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	1964845692	P15391	rs1964845692	M550V	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	199570434						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	199902537	P15391	rs199902537	A364G	0.32		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	199902537	P15391	rs199902537	A364G	0.37		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	200428347	P15391	rs200428347	A387E	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	200428347	P15391	rs200428347	A387E	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		200592415						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		200763532						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		200792237						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		200945139						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		201308929						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	201434626						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		201490370						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	201783945	P15391	rs201783945	P329A	0.987		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	201783945	P15391	rs201783945	P329A	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		201945320						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152228244						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	2152228631						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152228641						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152228678	P15391	rs2152228678	P147A	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152228678	P15391	rs2152228678	P147A	0.22		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152228907						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152229031	P15391	rs2152229031	D238N	0.035		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152229031	P15391	rs2152229031	D238N	0.09		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152229116	P15391	rs2152229116	H262Y	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152229116	P15391	rs2152229116	H262Y	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152229128	P15391	rs2152229128	M268T	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152229128	P15391	rs2152229128	M268T	0.65		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152230322	P15391	rs2152230322	W283S	0.991		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152230322	P15391	rs2152230322	W283S	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152230404						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152231009						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152231668	P15391	rs2152231668	E405K	0.969		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152231668	P15391	rs2152231668	E405K	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152231818	P15391	rs2152231818	G438S	0.596		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152231818	P15391	rs2152231818	G438S	0.07		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152231854						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152232046	P15391	rs2152232046	S480R	0.992		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152232046	P15391	rs2152232046	S480R	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152232050	P15391	rs2152232050	H482P	0.028		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2152232050	P15391	rs2152232050	H482P	0.08		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152232546						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		2152232586						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506454364						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506454488						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506454776						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506458205						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506461549						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506461665						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506468993						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506476326						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506477936						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	2506482820						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		267604499						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		267604500						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	benign	2904880						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	benign	34763945						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	367858870	P15391	rs367858870	A106S	0.011		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	367858870	P15391	rs367858870	A106S	0.26		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		368034864						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	370534110	P15391	rs370534110	R277Q	0.003		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	370534110	P15391	rs370534110	R277Q	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	373066835	P15391	rs373066835	T330A	0.201		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	373066835	P15391	rs373066835	T330A	0.45		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	373563104	P15391	rs373563104	R123Q	0.952		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	373563104	P15391	rs373563104	R123Q	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		374084189						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		374321123	P15391	rs374321123	P99L	0.003		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		374321123	P15391	rs374321123	P99L	0.39		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	374870034	P15391	rs374870034	R517Q	0.952		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	374870034	P15391	rs374870034	R517Q	0.09		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	375877386						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	375965055	P15391	rs375965055	T47I	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	375965055	P15391	rs375965055	T47I	0.17		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	375965055	P15391	rs375965055	T47N	0.042		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	375965055	P15391	rs375965055	T47N	0.16		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	376395490	P15391	rs376395490	R234C	0.194		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	376395490	P15391	rs376395490	R234C	0.18		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	376715546						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		377257177						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	533120247	P15391	rs533120247	Q345H	0.007		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	533120247	P15391	rs533120247	Q345H	0.27		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	533648795	P15391	rs533648795	P109S	0.054		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	533648795	P15391	rs533648795	P109S	0.25		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	539190420	P15391	rs539190420	A390V	0.103		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	539190420	P15391	rs539190420	A390V	0.07		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	542387169	P15391	rs542387169	D538N	0.818		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	542387169	P15391	rs542387169	D538N	0.21		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		542495782						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		552997888						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	556457823	P15391	rs556457823	R5C	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	556457823	P15391	rs556457823	R5C	0.07		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		557406713						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	558660062	P15391	rs558660062	N114S	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	558660062	P15391	rs558660062	N114S	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		559057405						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	561262269	P15391	rs561262269	R514C	0.994		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	561262269	P15391	rs561262269	R514C	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		561660848	P15391	rs561660848	R163C	0.244		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		561660848	P15391	rs561660848	R163C	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	562369410						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		566122505						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		566183838						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		572331785						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	745681190	P15391	rs745681190	M16T	0.001		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	745681190	P15391	rs745681190	M16T	0.25		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		745692453						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		746025937						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		746141220						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		746204841						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		746489218						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		747163274						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		747384939						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		747751841						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	747855991	P15391	rs747855991	A473S	0.001		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	747855991	P15391	rs747855991	A473S	0.2		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	747855991	P15391	rs747855991	A473T	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	747855991	P15391	rs747855991	A473T	0.51		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	747967568	P15391	rs747967568	F420L	0.938		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	747967568	P15391	rs747967568	F420L	0.25		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		748449748						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	749281580	P15391	rs749281580	G149R	0.207		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	749281580	P15391	rs749281580	G149R	0.11		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	749441583	P15391	rs749441583	L11F	0.598		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	749441583	P15391	rs749441583	L11F	0.07		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		749717373						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		749926807						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		749944778						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		750438736						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		750521248						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		750625293						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		750661786						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	750753013	P15391	rs750753013	R263C	0.543		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	750753013	P15391	rs750753013	R263C	0.2		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		750825735	P15391	rs750825735	R234H	0.138		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		750825735	P15391	rs750825735	R234H	0.6		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		751139487						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	751791834	P15391	rs751791834	L96M	0.998		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	751791834	P15391	rs751791834	L96M	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		751873334						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		752060314						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		752079921						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	752270549	P15391	rs752270549	D233N	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	752270549	P15391	rs752270549	D233N	0.2		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		752874800						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		753138134						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		753382498						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	753721854	P15391	rs753721854	E165D	0.026		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	753721854	P15391	rs753721854	E165D	0.04		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		753808363						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		754243708						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	754293950	P15391	rs754293950	P102R	0.438		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	754293950	P15391	rs754293950	P102R	0.01		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	755536874	P15391	rs755536874	E273K	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	755536874	P15391	rs755536874	E273K	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		755547755						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	756204094	P15391	rs756204094	H282Q	0.007		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	756204094	P15391	rs756204094	H282Q	0.17		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		756222583						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		757328326						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		757503904						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		757640129						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	757806171	P15391	rs757806171	P397L	0.643		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	757806171	P15391	rs757806171	P397L	0.12		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		757998713						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		758296383						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		758533376						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely pathogenic	758555433	P15391	rs758555433	G92W	0.976		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely pathogenic	758555433	P15391	rs758555433	G92W	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	758662669	P15391	rs758662669	R54W	0.935		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	758662669	P15391	rs758662669	R54W	0.14		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	758919478	P15391	rs758919478	P235L	0.034		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	758919478	P15391	rs758919478	P235L	0.2		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		759044816						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		759262975	P15391	rs759262975	G408D	0.411		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		759262975	P15391	rs759262975	G408D	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		759389206						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	759521235	P15391	rs759521235	R250W	0.262		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	759521235	P15391	rs759521235	R250W	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	760199654	P15391	rs760199654	A256T	0.215		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	760199654	P15391	rs760199654	A256T	0.08		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		760385277						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	760461186	P15391	rs760461186	P542S	0.062		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	760461186	P15391	rs760461186	P542S	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		760542464						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		760634117						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		760726729						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761039208	P15391	rs761039208	D44Y	0.516		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761039208	P15391	rs761039208	D44Y	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761197862	P15391	rs761197862	V318A	0.057		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761197862	P15391	rs761197862	V318A	0.34		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761320831						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		761763925						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761879994	P15391	rs761879994	D328N	0.992		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	761879994	P15391	rs761879994	D328N	0.07		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		762359138						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		762741803						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		762828020						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		762935612						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	763174199	P15391	rs763174199	P339A	0.987		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	763174199	P15391	rs763174199	P339A	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		763492717						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		763500099	P15391	rs763500099	P446L	0.027		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		763500099	P15391	rs763500099	P446L	0.08		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	763944262	P15391	rs763944262	L361F	0.138		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	763944262	P15391	rs763944262	L361F	0.1		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		764039362						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	764208673	P15391	rs764208673	L285P	0.362		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	764208673	P15391	rs764208673	L285P	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		764433136						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	764616913	P15391	rs764616913	G373D	0.511		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	764616913	P15391	rs764616913	G373D	0.28		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		765272658						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		765552103						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	766009282	P15391	rs766009282	D384N	0.102		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	766009282	P15391	rs766009282	D384N	0.11		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	766314772	P15391	rs766314772	G221A	0.012		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	766314772	P15391	rs766314772	G221A	0.23		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		766808956						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		767468582						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		767532543						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	768648927	P15391	rs768648927	G546E	0.193		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	768648927	P15391	rs768648927	G546E	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	768672649	P15391	rs768672649	T493A	0.007		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	768672649	P15391	rs768672649	T493A	0.18		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		768936030						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		769440514						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		769495907						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		770076541						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		770118431						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		770731258						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		771098761						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		771361830						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		771403335						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	771929657	P15391	rs771929657	E21K	0.015		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	771929657	P15391	rs771929657	E21K	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	771929657	P15391	rs771929657	E21Q	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	771929657	P15391	rs771929657	E21Q	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	772346128	P15391	rs772346128	R163H	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	772346128	P15391	rs772346128	R163H	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	772553592	P15391	rs772553592	R490W	0.998		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	772553592	P15391	rs772553592	R490W	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		773108911						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		773206812						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		773691767						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		773737539						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	773781983	P15391	rs773781983	E229D	0.007		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	773781983	P15391	rs773781983	E229D	0.46		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		773934388						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		774087748						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		774259710	P15391	rs774259710	L247F	0.228		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		774259710	P15391	rs774259710	L247F	0.08		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		775402324						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		775448491						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		775841308						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		776605529						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		776720290						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	776903049	P15391	rs776903049	Q108P	0.3		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance, likely benign	776903049	P15391	rs776903049	Q108P	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		777288454						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		777371854						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		777373134						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		778050639						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		778061704						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		778620388						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		779079259						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		779246948						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	779280213	P15391	rs779280213	D487Y	0.997		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	779280213	P15391	rs779280213	D487Y	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	779384297	P15391	rs779384297	A191T	0.992		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	779384297	P15391	rs779384297	A191T	0.16		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		779560611						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		779674954						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	780040144	P15391	rs780040144	V295M	0.553		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	780040144	P15391	rs780040144	V295M	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		780324215						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	likely benign	780897095						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		781082879						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		781369027						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		781541929	P15391	rs781541929	E525K	0.979		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		781541929	P15391	rs781541929	E525K	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		781580271						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	781764596	P15391	rs781764596	R5H	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	781764596	P15391	rs781764596	R5H	0.03		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	79073646	P15391	rs79073646	S140F	0.731		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	79073646	P15391	rs79073646	S140F	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	pathogenic	886037920	P15391	rs886037920	W52C	0.868		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	pathogenic	886037920	P15391	rs886037920	W52C	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	886051886	P15391	rs886051886	L6R	0.774		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	886051886	P15391	rs886051886	L6R	0.09		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	886051887	P15391	rs886051887	E402K	0.686		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	886051887	P15391	rs886051887	E402K	0.16		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		886948983						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	896098197	P15391	rs896098197	P172L	0.003		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	896098197	P15391	rs896098197	P172L	0.33		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		898412557						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	901961639	P15391	rs901961639	N423D	0.969		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	901961639	P15391	rs901961639	N423D	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	901961639	P15391	rs901961639	N423Y	0.993		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	901961639	P15391	rs901961639	N423Y	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	906793959	P15391	rs906793959	K40R	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	906793959	P15391	rs906793959	K40R	0.44		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		917602503						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		917690839						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		935022728						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		943484881						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		944597391						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		957595759						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		959104503						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		964014420						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant		979613327						P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	997451899	P15391	rs997451899	R250Q	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	997451899	P15391	rs997451899	R250Q	1.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	999692059	P15391	rs999692059	R76S	0.0		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391
+CD19	missense_variant	uncertain significance	999692059	P15391	rs999692059	R76S	0.02		P15391	B-lymphocyte antigen CD19	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/P15391

@@ -1,0 +1,488 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+MYNN	missense_variant		1000135495						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1004070446						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1007132582						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1007554625						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1018393010						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1030832101						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1033224954						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1039069915						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1041837417						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1051880004	Q9NPC7	rs1051880004	T340S	0.974		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1051880004	Q9NPC7	rs1051880004	T340S	0.04		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	association	10936599						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		113291870	Q9NPC7	rs113291870	D100G	0.987		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		113291870	Q9NPC7	rs113291870	D100G	0.32		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		113291870	Q9NPC7	rs113291870	D100G	0.998		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		113291870	Q9NPC7	rs113291870	D100G	0.2		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		11553294						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1158568893						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1160451696						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1167977825						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1170682896	Q9NPC7	rs1170682896	I28V	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1170682896	Q9NPC7	rs1170682896	I28V	0.99		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1170682896	Q9NPC7	rs1170682896	I28V	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1170682896	Q9NPC7	rs1170682896	I28V	1.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1171252877						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		11714841						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1174849953						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1176283777						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1189430863						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1198504343						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1200435629						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1202102032						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1206577944						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1211775301						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1213540039						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1217863172						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1220618841	Q9NPC7	rs1220618841	D535E	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1220618841	Q9NPC7	rs1220618841	D535E	0.28		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1220618841	Q9NPC7	rs1220618841	D535E	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1220618841	Q9NPC7	rs1220618841	D535E	0.14		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1223054406						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1223449890						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1224076850						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1238222961						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1240446533						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1241324537						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1242858317	Q9NPC7	rs1242858317	S177P	0.91		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1242858317	Q9NPC7	rs1242858317	S177P	0.39		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1242858317	Q9NPC7	rs1242858317	S177P	0.914		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1242858317	Q9NPC7	rs1242858317	S177P	0.37		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1247360609						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1248859166						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1253209104	Q9NPC7	rs1253209104	T253S	0.903		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1253209104	Q9NPC7	rs1253209104	T253S	0.3		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1253410341						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1254610359						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1254967145						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1258430499						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1258937758						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1260391815						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1264607287						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1266170673						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1269190446						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1272092027						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1273866091						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1275228596	Q9NPC7	rs1275228596	D117N	0.989		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1275228596	Q9NPC7	rs1275228596	D117N	0.24		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1275228596	Q9NPC7	rs1275228596	D117N	0.989		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1275228596	Q9NPC7	rs1275228596	D117N	0.07		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1276576973						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1280542901						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1281623839						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1282480786	Q9NPC7	rs1282480786	R378H	0.998		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1282480786	Q9NPC7	rs1282480786	R378H	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1282480786	Q9NPC7	rs1282480786	R378H	0.995		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1282480786	Q9NPC7	rs1282480786	R378H	0.08		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1284521817						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1287155056						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1294869946						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1300233018						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1301763052						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1306453975						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1307832589						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1318154227						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1318687116						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1318703022	Q9NPC7	rs1318703022	E534D	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1318703022	Q9NPC7	rs1318703022	E534D	0.62		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1318703022	Q9NPC7	rs1318703022	E534D	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1318703022	Q9NPC7	rs1318703022	E534D	0.61		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1320938484	Q9NPC7	rs1320938484	R463Q	0.977		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1320938484	Q9NPC7	rs1320938484	R463Q	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1320938484	Q9NPC7	rs1320938484	R463Q	0.985		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1320938484	Q9NPC7	rs1320938484	R463Q	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1325056875						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1329164422						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1329800901						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1330302641						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1332133565						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1336886013						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1341718798						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1343270789						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1350665090						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1356597987						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1357125442						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1361328125						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1362511653						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1363278410	Q9NPC7	rs1363278410	M321I	0.824		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1363278410	Q9NPC7	rs1363278410	M321I	0.43		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1363278410	Q9NPC7	rs1363278410	M321I	0.717		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1363278410	Q9NPC7	rs1363278410	M321I	0.04		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1363508523						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1364126854						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1365678361						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1371978713						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1372468446						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1375010071						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1377123197						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1379239377						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1381019644						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1381356603						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1383591636						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1384147904						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1385413436						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1386844976						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1387940622						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1389286193						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		139065735						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1390789705						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1392529863						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1393428856						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1393625869						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1402394307						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1403759344						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1405904382						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1406949467						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1412108640						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1413351227						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1413576783						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		141609462						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1418047049						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1419262347						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1420702794						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1422419927						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1425493646						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		142875546						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		142931874						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1432391493						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1437356336						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1442112572						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1443882427						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1448658159						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1449026932						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1451201587						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1451498111						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1452384397						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1452678929						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1454507578						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1458677398						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1460939672						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1461390864						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1462310622						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1463205558						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1465627673						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		147165329						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1474347766						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		147441397	Q9NPC7	rs147441397	A173V	0.022		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		147441397	Q9NPC7	rs147441397	A173V	0.23		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		147441397	Q9NPC7	rs147441397	A173V	0.022		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		147441397	Q9NPC7	rs147441397	A173V	0.24		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		147694345						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1477369557						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1477479307						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1489419595						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1489993539						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		149700988						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		150524698						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		151055732						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560586671						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560587085						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560587239						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560587892						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560589459						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560590279						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1560590516						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1577396439						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1577400257						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778264346						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778264548						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778264616						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778265046						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778265712						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778266462						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778267138						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778267211						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778267377						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778270527						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778424733						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778425386						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778426779						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778427073						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778427709						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778427767						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778428843						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1778429247						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778429483						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778429538						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778429878						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778430240						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778430485						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778430889						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778431092						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	1778431380						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778431453						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778432699						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778435114						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778435220						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778435925						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778437501						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778438642						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778439078						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778439718						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778440980						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778441938						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778442632						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778442706						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778443150						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778443727						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778443893						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778444467						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778444615						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778445145						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778445945						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778446488						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778446816						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778448603						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778481819						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778481961						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778482035						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778482378						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778484105						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778485530						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778547984						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778548534						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778549195						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778549403						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778549524						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778549651						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778550092						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778550555						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778550900						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778577441						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778577515						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778618663						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778621023						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778679102						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778679646						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778681311						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778681931						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778682476						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778682554						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778682639						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778684218						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778685516						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778685583						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778685832						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		1778685890						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		183188973						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		186909924						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		187052986						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		188625148						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		191325753						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		199911803						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		199962374						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	200309187	Q9NPC7	rs200309187	N86T	0.935		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	200309187	Q9NPC7	rs200309187	N86T	0.03		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		200617627						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201069814						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201352850						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201851716						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201860864	Q9NPC7	rs201860864	R258Q	0.885		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201860864	Q9NPC7	rs201860864	R258Q	0.95		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201860864	Q9NPC7	rs201860864	R258Q	0.883		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		201860864	Q9NPC7	rs201860864	R258Q	0.84		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		202149737						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		2108195668						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		2108201965						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		2108202105						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		2108202349						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		2108202370						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	2474290930						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		35294030						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		367946936						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		368002667						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		368204978						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		368467500						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		368733155						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		369446786	Q9NPC7	rs369446786	R491W	0.98		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		369446786	Q9NPC7	rs369446786	R491W	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		369446786	Q9NPC7	rs369446786	R491W	0.847		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		369446786	Q9NPC7	rs369446786	R491W	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		369877049						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		370494498						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		372726113						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		373064805						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	373083056						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		373127460						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	374143807	Q9NPC7	rs374143807	E502K	0.857		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	374143807	Q9NPC7	rs374143807	E502K	0.28		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	374143807	Q9NPC7	rs374143807	E502K	0.1		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	374143807	Q9NPC7	rs374143807	E502K	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		374921080						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	375360988						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		375743196						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	377574590						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		530715265	Q9NPC7	rs530715265	T347M	0.999		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		530715265	Q9NPC7	rs530715265	T347M	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		530715265	Q9NPC7	rs530715265	T347M	0.996		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		530715265	Q9NPC7	rs530715265	T347M	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		533705179						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		535038917						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		536906238						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		545176834						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		554923763						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		557417257						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	559298897						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		563594296						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		576001456						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		577993235						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		745645728						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		745899599						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		746502406						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		746696845						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		746880942						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747161611						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747312323						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747581519	Q9NPC7	rs747581519	Y387C	0.999		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747581519	Q9NPC7	rs747581519	Y387C	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747581519	Q9NPC7	rs747581519	Y387C	0.999		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747581519	Q9NPC7	rs747581519	Y387C	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747631092						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747696403						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		747828571						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	748585458						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	749066571	Q9NPC7	rs749066571	K184E	0.903		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	749066571	Q9NPC7	rs749066571	K184E	0.12		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	749546554						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		750575228						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		750758184						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		750800437						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		750905911						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	751180330						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		751623996						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		752211561						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		752299433						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		752690208						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		752787469						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		753258214						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		755298260						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		755960491						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	756358574	Q9NPC7	rs756358574	I250T	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	756358574	Q9NPC7	rs756358574	I250T	0.18		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		756433548						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	757082996						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		757084126						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758083346						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	758173459	Q9NPC7	rs758173459	G50D	0.997		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	758173459	Q9NPC7	rs758173459	G50D	0.02		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	758209090	Q9NPC7	rs758209090	V280I	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	758209090	Q9NPC7	rs758209090	V280I	0.19		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758293221	Q9NPC7	rs758293221	T580M	0.321		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758293221	Q9NPC7	rs758293221	T580M	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758293221	Q9NPC7	rs758293221	T580M	0.317		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758293221	Q9NPC7	rs758293221	T580M	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758316953						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758656401						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		758960260						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		759176462						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		759319161						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		759590366						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		760153992						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		760157000						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		760263422						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		760377376						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	761396977	Q9NPC7	rs761396977	V226F	0.06		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	761396977	Q9NPC7	rs761396977	V226F	0.25		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		761891493						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	762160662	Q9NPC7	rs762160662	Q193P	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	762160662	Q9NPC7	rs762160662	Q193P	0.11		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		762547768	Q9NPC7	rs762547768	S483L	0.487		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		762547768	Q9NPC7	rs762547768	S483L	0.04		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		762547768	Q9NPC7	rs762547768	S483L	0.316		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		762547768	Q9NPC7	rs762547768	S483L	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		762924111						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		762994181						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763013313						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763099051						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763197153	Q9NPC7	rs763197153	S4L	0.043		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763197153	Q9NPC7	rs763197153	S4L	0.13		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763197153	Q9NPC7	rs763197153	S4L	0.883		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763197153	Q9NPC7	rs763197153	S4L	0.75		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	763359355	Q9NPC7	rs763359355	K262I	0.98		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	763359355	Q9NPC7	rs763359355	K262I	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		7634698						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763501903						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763591534						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763705502						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		763965351						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		764285926						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		764466451	Q9NPC7	rs764466451	A171V	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		764466451	Q9NPC7	rs764466451	A171V	0.18		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		764466451	Q9NPC7	rs764466451	A171V	0.0		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		764466451	Q9NPC7	rs764466451	A171V	0.3		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		765062823						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		765331445						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		765453822						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	765541791						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		766007065						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		767228827						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		767270693						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		767676979						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		767730167						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		767769266						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		768267689						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		768361705						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		769071875						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		769722576						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		769871340						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		770164049						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		770867674						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	771045925	Q9NPC7	rs771045925	K184T	0.934		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	771045925	Q9NPC7	rs771045925	K184T	0.16		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		771197585						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		771498796						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	771584188	Q9NPC7	rs771584188	Q541R	0.782		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	771584188	Q9NPC7	rs771584188	Q541R	0.13		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		771782466						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		772569408						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		772915137						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773090803						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773285657						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773324179	Q9NPC7	rs773324179	N60S	0.006		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773324179	Q9NPC7	rs773324179	N60S	0.76		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773324179	Q9NPC7	rs773324179	N60S	0.93		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773324179	Q9NPC7	rs773324179	N60S	0.39		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773422274						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773786665						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773957029	Q9NPC7	rs773957029	D149H	0.99		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773957029	Q9NPC7	rs773957029	D149H	0.02		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773957029	Q9NPC7	rs773957029	D149H	0.991		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		773957029	Q9NPC7	rs773957029	D149H	0.01		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		774549310						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		774904137						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		775006758						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		775019710						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		775131902						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		775408710						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		775763323						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		776819666	Q9NPC7	rs776819666	V391I	0.134		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		776819666	Q9NPC7	rs776819666	V391I	0.41		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		776819666	Q9NPC7	rs776819666	V391I	0.938		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		776819666	Q9NPC7	rs776819666	V391I	0.14		Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		777016434						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		777747682						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		777747775						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		778047782						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		778714964						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		778996179						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		779765235						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		780026202						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		780029603						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		780122785						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant	uncertain significance	780231347						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		781355992						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		781543771						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		781546676						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		893365781						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		912171297						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		918711280						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		920483554						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		936321835						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		939210887						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		939278547						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		955619915						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		957917872						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		970193811						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		971849587						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7
+MYNN	missense_variant		974111190						Q9NPC7	Myoneurin	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q9NPC7

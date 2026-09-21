@@ -1,0 +1,605 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+MAF	missense_variant		1005881837						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1011640696						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1017920924						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely benign	1022938471	O75444	rs1022938471	G154S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely benign	1022938471	O75444	rs1022938471	G154S	0.28		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1024824528						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1026008725						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1030258012	O75444	rs1030258012	G219S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1030258012	O75444	rs1030258012	G219S	0.74		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1031704678						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1039515515						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1046957						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	1057518878	O75444	rs1057518878	P63R	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	1057518878	O75444	rs1057518878	P63R	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		11549798						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1156582588						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1156713798						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1159249016						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1160371415						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1163537848						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1177654429						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1177937115						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1178381878						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1183759983	O75444	rs1183759983	E156D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1183759983	O75444	rs1183759983	E156D	0.42		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1184450398						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1188113484						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1190224107						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1192205278						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1192964171						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1197303267						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1202221700	O75444	rs1202221700	N23D	0.968		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1202221700	O75444	rs1202221700	N23D	0.02		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1202221700	O75444	rs1202221700	N23D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1202221700	O75444	rs1202221700	N23D	0.03		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1204992225						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1206789868	O75444	rs1206789868	A202T	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1206789868	O75444	rs1206789868	A202T	0.39		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1207439564						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1208481890						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1208555979						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1210195937	O75444	rs1210195937	G232V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1210195937	O75444	rs1210195937	G232V	0.55		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1212289834						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1215837270						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1215996340						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	121917735						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	121917736						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1223564198						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1223990243						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1226314276						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1230233783						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1233952521						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1235995708						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1239219565						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1242796493						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1242827280						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1251371757	O75444	rs1251371757	R276Q	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1251371757	O75444	rs1251371757	R276Q	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1251371757	O75444	rs1251371757	R276Q	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1251371757	O75444	rs1251371757	R276Q	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1252947227						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1258827600						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1259005100						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1259671052						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely benign	1262562851	O75444	rs1262562851	H183N	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely benign	1262562851	O75444	rs1262562851	H183N	0.07		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1262729919						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1267058889						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1268493730						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1270529044						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1272788917						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1276602552						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1277001334						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1280877937						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1282026092						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1289919892						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1291958107						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1296186188						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1297043276						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1298068547						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1303484283						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1307294823						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1311166228						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1314454952						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1314853403						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1315244189						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1316225081						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1316735017	O75444	rs1316735017	G215D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1316735017	O75444	rs1316735017	G215D	0.72		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1319323589						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1323052889						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1323954068						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1328774944						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1336500986						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1338561234						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1339306952						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1341194954						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1344280354						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1344334096						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1347247273						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1355304290						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1358640209						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1358852647						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1363689953						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1364189912						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1369223885						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1370950750						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1371448299						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1371763856						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1373611152	O75444	rs1373611152	G204S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1373611152	O75444	rs1373611152	G204S	0.34		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1373647011						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1374309183						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1374312220						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1376128722						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1376554446						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1377954240						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1382132771						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1386704154						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1387220358						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1390496744						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely benign	139380519						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1394443602						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1394823985						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1397647728						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1403554683						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1405180090						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1413035701						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1415724885						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1418155778						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1421319626						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1421442218						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1421696997						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	142230647						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1422755371						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1423244186	O75444	rs1423244186	G244V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1423244186	O75444	rs1423244186	G244V	0.34		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1425301678						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1431720145						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1432507404						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1435247084						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1438395710	O75444	rs1438395710	G126C	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1438395710	O75444	rs1438395710	G126C	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1438467900						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1440326761						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1441481776						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1441864147						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1442503378						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1449809891						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1453839000						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1456467683						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		145798231						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1460184131						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1461182848						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1469200494						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1473252552						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1477185072						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1477840509	O75444	rs1477840509	E83K	0.086		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1477840509	O75444	rs1477840509	E83K	0.22		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1477840509	O75444	rs1477840509	E83K	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1477840509	O75444	rs1477840509	E83K	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1478822766						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1481677921						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1481963503	O75444	rs1481963503	A302D	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1481963503	O75444	rs1481963503	A302D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1481963503	O75444	rs1481963503	A302V	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1481963503	O75444	rs1481963503	A302V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1481963503	O75444	rs1481963503	A302V	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1481963503	O75444	rs1481963503	A302V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1485387151						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1486598761						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1487257220						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1488234895						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1490693997						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		151185935						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1555529827	O75444	rs1555529827	H256Q	0.095		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1555529827	O75444	rs1555529827	H256Q	0.08		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	1555530080	O75444	rs1555530080	S57F	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	1555530080	O75444	rs1555530080	S57F	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1567566292						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1567566853						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1567567593						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1567567893						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597841623						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597847308						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597847402						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597847519						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	1597847611	O75444	rs1597847611	R294Q	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	1597847611	O75444	rs1597847611	R294Q	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597847657						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597847928						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597848192						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597848632						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1597849227						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1764753196						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913384276						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913389047						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913390590						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913392793						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913394378						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913395516						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913761573						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913762715						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913763316						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913764509						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913764724						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913765394						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913765590						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913768733	O75444	rs1913768733	E346G	0.789		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913768733	O75444	rs1913768733	E346G	0.11		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913769694						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913772860						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913774587						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913774818						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913775964						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913778690						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	1913779276	O75444	rs1913779276	H314P	0.996		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	1913779276	O75444	rs1913779276	H314P	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913779901						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic, pathogenic	1913781557	O75444	rs1913781557	R306G	0.998		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic, pathogenic	1913781557	O75444	rs1913781557	R306G	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1913782042	O75444	rs1913782042	C305Y	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic	1913782042	O75444	rs1913782042	C305Y	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913784440	O75444	rs1913784440	L296P	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913784440	O75444	rs1913784440	L296P	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913788857						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913792356						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913795299						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913803108						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913806278						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913813070						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913814726						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913815415						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913816264						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913816466						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913816874						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913817151						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913818927						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913819118						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913823172						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913824222						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913826764						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913828604						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913828821						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913829245						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913829683						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913830222	O75444	rs1913830222	G198D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913830222	O75444	rs1913830222	G198D	0.27		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	1913830403	O75444	rs1913830403	G198S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	1913830403	O75444	rs1913830403	G198S	0.58		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913831531						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913833521						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913833962						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913834387						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913837852						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913838070						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913840206						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913841711						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913842725						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913843439						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913843729						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913844555						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913845054						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913845255	O75444	rs1913845255	V163L	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913845255	O75444	rs1913845255	V163L	0.39		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913845255	O75444	rs1913845255	V163M	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913845255	O75444	rs1913845255	V163M	0.13		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913846170						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913846627						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913846847	O75444	rs1913846847	A160T	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913846847	O75444	rs1913846847	A160T	0.19		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913847274						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913848886						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913851256						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913854615						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913860569						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913860751						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913861873						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913863269						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913864250						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913865096						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913870597						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913872891						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913873324						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913873950						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913874858						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913875482						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913876884						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913877571						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913878007						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913879694	O75444	rs1913879694	A75V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913879694	O75444	rs1913879694	A75V	0.08		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913881743						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913882981						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913886969						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913888187						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913890093						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913893112						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913893557						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913894901	O75444	rs1913894901	E20D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	1913894901	O75444	rs1913894901	E20D	0.24		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913895314						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913896007						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		1913896220						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely benign	200484908	O75444	rs200484908	P103H	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely benign	200484908	O75444	rs200484908	P103H	0.01		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		200671196						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	201126542	O75444	rs201126542	A343V	0.583		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	201126542	O75444	rs201126542	A343V	0.02		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		201215541						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143758375						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143758672						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143796969						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143797012						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143797185						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143797432						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143798139						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143798345						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143798447						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143798505						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143798567						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143799134						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143799169						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143799206						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143799637						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143800024						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143800199						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143800332						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143800629						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143800672	O75444	rs2143800672	G300S	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143800672	O75444	rs2143800672	G300S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143800725						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143801031						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143801497						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143801750						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143801796						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143801831						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802073						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802306						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802419						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802443						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143802492	O75444	rs2143802492	L266R	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143802492	O75444	rs2143802492	L266R	0.01		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802527						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802558						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802622						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143802877						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143803547						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143803620						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143803861						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143804078						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143804428						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143805584						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143806590						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143806815						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143807095						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely benign	2143807424	O75444	rs2143807424	A207S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely benign	2143807424	O75444	rs2143807424	A207S	0.88		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143807576						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143807730						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143807806						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143808032						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143808140						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143808215	O75444	rs2143808215	T196P	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143808215	O75444	rs2143808215	T196P	0.22		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143808286						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143808493	O75444	rs2143808493	H193P	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143808493	O75444	rs2143808493	H193P	0.11		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143808578						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143809212						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143809373						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143809455						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143809538						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143809780						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143809957	O75444	rs2143809957	Q174E	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143809957	O75444	rs2143809957	Q174E	0.11		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810142						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810197						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810225						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810265						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810318						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810344						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810370						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810436						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810506						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143810847						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143811105						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143811216						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143811243						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143811333						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143811589						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143811635						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143812590						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143812625						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143812704						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143812940						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143813022						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143813046						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143813493						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143813583						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143813942						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143813970						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814033						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814319						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814476						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814618						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814735						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814790						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814823						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143814914						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143815210						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143815311						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143815425						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143815504						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816221						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816360						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816462						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816670						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816800						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816822						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143816976						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	2143817131						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143817157						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143817359						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143817378						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143817489						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143817972						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818014						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818092						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818208						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818236						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143818279						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818412						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818552						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818802						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818886						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818912						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143818962						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819001						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819067						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819115						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819268						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2143819331						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819452						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819657						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819683						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819700						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819755						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819806						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819856						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819938						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143819973						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143820066						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143820110						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143820236						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		2143820257						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507653847						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507654121						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507654398						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507654561						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507654850						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507654866						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507654983						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507655006						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	2507660679						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		370393708						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		373001569						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		373128580						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	373316975	O75444	rs373316975	L55V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	373316975	O75444	rs373316975	L55V	0.83		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		374654507						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	374681006						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		377735141						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		532734158						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	533140349	O75444	rs533140349	D112Y	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	533140349	O75444	rs533140349	D112Y	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign, likely benign	550438083	O75444	rs550438083	G145S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign, likely benign	550438083	O75444	rs550438083	G145S	0.17		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign, likely benign	561314990	O75444	rs561314990	A239T	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign, likely benign	561314990	O75444	rs561314990	A239T	0.4		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		562376619						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		567633285						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		578113546						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	727502766						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	727502767						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic, pathogenic	727502768						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	727502769						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic, pathogenic	727502770						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic, pathogenic	727502771	O75444	rs727502771	T62M	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic, pathogenic	727502771	O75444	rs727502771	T62M	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		747345240						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		747352903						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		747887687						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		749981151						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		749986121						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		751341494						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		752097590						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	752338390						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		752490523						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		754099605	O75444	rs754099605	G241E	0.012		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		754099605	O75444	rs754099605	G241E	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		754099605	O75444	rs754099605	G241E	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		754099605	O75444	rs754099605	G241E	0.67		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		755051166						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		755359211						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		756444937						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	758854502	O75444	rs758854502	A148S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	758854502	O75444	rs758854502	A148S	0.62		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		758977376						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		759100360						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		759815012	O75444	rs759815012	A105V	0.898		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		759815012	O75444	rs759815012	A105V	0.04		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		759815012	O75444	rs759815012	A105V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		759815012	O75444	rs759815012	A105V	0.02		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		760217558						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		761533991						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		761758894						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		762044711						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		762777790						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		763005764						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		763208768						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	764041224	O75444	rs764041224	P248Q	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	764041224	O75444	rs764041224	P248Q	0.4		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	764719107	O75444	rs764719107	G254R	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	764719107	O75444	rs764719107	G254R	0.1		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		765387783						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely benign	765806184						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		766723369						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		766735177						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		766881042						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		769465937						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		769615452						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		770572154						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		770753092						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely benign	771268967	O75444	rs771268967	L138M	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely benign	771268967	O75444	rs771268967	L138M	0.4		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		772531000						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	772989511	O75444	rs772989511	I287S	0.954		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	772989511	O75444	rs772989511	I287S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		773429267						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		774288860						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		774445613						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	774933231						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		775537453						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		775611485						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	775799498	O75444	rs775799498	E370D	0.243		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	775799498	O75444	rs775799498	E370D	0.14		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		776147989						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	777544349	O75444	rs777544349	L289Q	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	777544349	O75444	rs777544349	L289Q	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		778650605	O75444	rs778650605	Y348C	0.242		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		778650605	O75444	rs778650605	Y348C	0.15		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		778650605	O75444	rs778650605	Y348C	0.25		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		778650605	O75444	rs778650605	Y348C	0.1		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		779633071						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		780885771						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		781512888						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic, pathogenic	786205221	O75444	rs786205221	R299C	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic, pathogenic	786205221	O75444	rs786205221	R299C	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic, pathogenic	786205221	O75444	rs786205221	R299S	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, likely pathogenic, pathogenic	786205221	O75444	rs786205221	R299S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	786205222	O75444	rs786205222	Q303P	0.999		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	pathogenic	786205222	O75444	rs786205222	Q303P	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	864309678	O75444	rs864309678	E273D	0.924		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	864309678	O75444	rs864309678	E273D	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	864309695	O75444	rs864309695	R294W	1.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	likely pathogenic	864309695	O75444	rs864309695	R294W	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		866051						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		866623761						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		866888843						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		867010422						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	867401075	O75444	rs867401075	G204V	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	867401075	O75444	rs867401075	G204V	0.03		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		868135750						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		868856946						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	878873480	O75444	rs878873480	P98Q	0.133		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	878873480	O75444	rs878873480	P98Q	0.9		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	878873480	O75444	rs878873480	P98Q	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign	878873480	O75444	rs878873480	P98Q	0.72		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	891318416						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		909010261						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		910719352						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		914347699						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		915878123						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		922669496						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		932989801						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		935935471						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		935986287						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		942419237						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		948657750						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		955545590						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, benign	957401703	O75444	rs957401703	G214A	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance, benign	957401703	O75444	rs957401703	G214A	0.61		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		957455472						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign, likely benign	977933498	O75444	rs977933498	G217S	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	benign, likely benign	977933498	O75444	rs977933498	G217S	0.63		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		980153642						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		990163793						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	995203630	O75444	rs995203630	M60I	0.0		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant	uncertain significance	995203630	O75444	rs995203630	M60I	0.61		O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		997076965						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		997528120						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444
+MAF	missense_variant		998971123						O75444	Transcription factor Maf	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/O75444

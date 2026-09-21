@@ -1,0 +1,711 @@
+Gene	Consequencia	Significancia_Clinica	rs_key	UniProt_ID	rsID_dbSNP	Proteina_Mudanca	AlphaMissense_Score	AlphaMissense_Classificacao	ID_UniProt	Nome_Proteina	Organismo	Status	Link_AlphaFold
+CYP4F22	missense_variant		1005392453						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1010764420						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1010835839						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1015071704						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1020207330						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1020605650						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1022909389						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1028358496						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1043553914	Q6NT55	rs1043553914	P467H	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1043553914	Q6NT55	rs1043553914	P467H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1049252967						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	1159994392	Q6NT55	rs1159994392	D304E	0.953		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	1159994392	Q6NT55	rs1159994392	D304E	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1161121259						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1166123748						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		116743462	Q6NT55	rs116743462	A80V	0.042		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		116743462	Q6NT55	rs116743462	A80V	0.06		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		116743462	Q6NT55	rs116743462	A80V	0.042		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		116743462	Q6NT55	rs116743462	A80V	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1167473603	Q6NT55	rs1167473603	E511G	0.773		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1167473603	Q6NT55	rs1167473603	E511G	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1173493385						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1173793578						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1175206577						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1178371211						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1178865666						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	benign, likely benign, likely pathogenic, pathogenic	118091316						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1181402358						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	118203935						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	118203936						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	118203937						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1183250924						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1190194212						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1190888030						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1193556561						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1194221563						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1194401616						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1195825885						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1196294694						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1196730154						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1200119109						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1200443014						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1201493019						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1205955917						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1210213695						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1210375918						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1217520219						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1220342758						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1223245099						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1225207120						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1225637644						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1226429065						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1229363083						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1237200992						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1237952550						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1238119389	Q6NT55	rs1238119389	S178I	0.776		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1238119389	Q6NT55	rs1238119389	S178I	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1238119389	Q6NT55	rs1238119389	S178I	0.783		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1238119389	Q6NT55	rs1238119389	S178I	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1245360473						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1246215641						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1247392687						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1252125166						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1253231223						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1253844875						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1255107265						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1256611519						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1256722526	Q6NT55	rs1256722526	A297V	0.089		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1256722526	Q6NT55	rs1256722526	A297V	0.11		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1256722526	Q6NT55	rs1256722526	A297V	0.093		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1256722526	Q6NT55	rs1256722526	A297V	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1257925978						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1258041521						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1263562542						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1265356032	Q6NT55	rs1265356032	A483T	0.052		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1265356032	Q6NT55	rs1265356032	A483T	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1265356032	Q6NT55	rs1265356032	A483T	0.054		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1265356032	Q6NT55	rs1265356032	A483T	0.5		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1268900093						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1269121970						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1270893927						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1273936208						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1274865444						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1275294707						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1277228567						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1277300022						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1279609534	Q6NT55	rs1279609534	S147N	0.768		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1279609534	Q6NT55	rs1279609534	S147N	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1279609534	Q6NT55	rs1279609534	S147N	0.776		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1279609534	Q6NT55	rs1279609534	S147N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1285696003	Q6NT55	rs1285696003	T503M	0.16		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1285696003	Q6NT55	rs1285696003	T503M	0.08		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1285696003	Q6NT55	rs1285696003	T503M	0.157		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1285696003	Q6NT55	rs1285696003	T503M	0.07		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1287004723						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1289739165						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1291750714	Q6NT55	rs1291750714	M206I	0.497		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1291750714	Q6NT55	rs1291750714	M206I	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1291750714	Q6NT55	rs1291750714	M206I	0.508		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1291750714	Q6NT55	rs1291750714	M206I	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1295378293						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1296735881						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	1297078466	Q6NT55	rs1297078466	L520P	0.986		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	1297078466	Q6NT55	rs1297078466	L520P	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1297242220						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1298819140						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1299622995						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1300128657						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1302809651						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1306854762	Q6NT55	rs1306854762	R495H	0.231		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1306854762	Q6NT55	rs1306854762	R495H	0.07		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1306854762	Q6NT55	rs1306854762	R495H	0.227		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1306854762	Q6NT55	rs1306854762	R495H	0.08		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1317291123	Q6NT55	rs1317291123	D84V	0.003		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1317291123	Q6NT55	rs1317291123	D84V	0.63		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1322641696						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1322668573	Q6NT55	rs1322668573	G290W	0.999		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1322668573	Q6NT55	rs1322668573	G290W	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1328885611						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1329001480						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1329007058						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1330271344						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1330435195						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1338887487						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1339653186						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1341719659						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1349961584						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1350368328						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1350463292						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1355267943						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1356671281						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1366849095						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1368806849	Q6NT55	rs1368806849	R282Q	0.867		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1368806849	Q6NT55	rs1368806849	R282Q	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1368806849	Q6NT55	rs1368806849	R282Q	0.864		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1368806849	Q6NT55	rs1368806849	R282Q	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1378307093						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		137942239						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1380468237	Q6NT55	rs1380468237	D307N	0.998		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1380468237	Q6NT55	rs1380468237	D307N	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1380468237	Q6NT55	rs1380468237	D307N	0.998		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1380468237	Q6NT55	rs1380468237	D307N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1383191277						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1385402394						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1387632338						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	139163760	Q6NT55	rs139163760	E292K	0.014		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	139163760	Q6NT55	rs139163760	E292K	0.04		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	139927884	Q6NT55	rs139927884	R54H	0.009		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	139927884	Q6NT55	rs139927884	R54H	0.24		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	139927884	Q6NT55	rs139927884	R54H	0.009		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	139927884	Q6NT55	rs139927884	R54H	0.27		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1400065192						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	1403531884	Q6NT55	rs1403531884	C475Y	0.998		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	1403531884	Q6NT55	rs1403531884	C475Y	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1403594398						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1406070399						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1406746601						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	140968002	Q6NT55	rs140968002	R65H	0.903		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	140968002	Q6NT55	rs140968002	R65H	0.05		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	140968002	Q6NT55	rs140968002	R65H	0.901		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	140968002	Q6NT55	rs140968002	R65H	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1410774326						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	141382984	Q6NT55	rs141382984	H155Y	0.994		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	141382984	Q6NT55	rs141382984	H155Y	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	141631745	Q6NT55	rs141631745	R262Q	0.387		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	141631745	Q6NT55	rs141631745	R262Q	0.31		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1418647036						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	141902603	Q6NT55	rs141902603	R283Q	0.743		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	141902603	Q6NT55	rs141902603	R283Q	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1419731471	Q6NT55	rs1419731471	R407H	0.841		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1419731471	Q6NT55	rs1419731471	R407H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1419731471	Q6NT55	rs1419731471	R407H	0.838		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1419731471	Q6NT55	rs1419731471	R407H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1422130987						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	142364533	Q6NT55	rs142364533	R187W	0.035		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	142364533	Q6NT55	rs142364533	R187W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1425964436	Q6NT55	rs1425964436	R515L	0.998		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1425964436	Q6NT55	rs1425964436	R515L	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1426528208						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	142720535	Q6NT55	rs142720535	R41Q	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	142720535	Q6NT55	rs142720535	R41Q	0.23		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	142720535	Q6NT55	rs142720535	R41Q	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	142720535	Q6NT55	rs142720535	R41Q	0.39		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1429203330						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1430532183	Q6NT55	rs1430532183	Y432C	0.899		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1430532183	Q6NT55	rs1430532183	Y432C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1432388141	Q6NT55	rs1432388141	K509N	0.995		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1432388141	Q6NT55	rs1432388141	K509N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		143346937						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1438887054						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1439340885						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1444179313						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	144569785	Q6NT55	rs144569785	R265W	0.903		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	144569785	Q6NT55	rs144569785	R265W	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	144569785	Q6NT55	rs144569785	R265W	0.901		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	144569785	Q6NT55	rs144569785	R265W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1445943409						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1447106813						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	144743413	Q6NT55	rs144743413	Y357H	0.676		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	144743413	Q6NT55	rs144743413	Y357H	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	144961059	Q6NT55	rs144961059	R451H	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	144961059	Q6NT55	rs144961059	R451H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	144961059	Q6NT55	rs144961059	R451P	0.999		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	144961059	Q6NT55	rs144961059	R451P	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	1449980834	Q6NT55	rs1449980834	E79G	0.773		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	1449980834	Q6NT55	rs1449980834	E79G	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1451191116						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	145440178						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	145830520	Q6NT55	rs145830520	Y245C	0.858		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	145830520	Q6NT55	rs145830520	Y245C	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	146026019	Q6NT55	rs146026019	R54C	0.006		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	146026019	Q6NT55	rs146026019	R54C	0.31		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146036982						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146265982	Q6NT55	rs146265982	R287H	0.005		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146265982	Q6NT55	rs146265982	R287H	0.15		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146265982	Q6NT55	rs146265982	R287H	0.005		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146265982	Q6NT55	rs146265982	R287H	0.14		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	1462998683	Q6NT55	rs1462998683	T26A	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	1462998683	Q6NT55	rs1462998683	T26A	0.62		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146689227	Q6NT55	rs146689227	A126T	0.746		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146689227	Q6NT55	rs146689227	A126T	0.2		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146689227	Q6NT55	rs146689227	A126T	0.743		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		146689227	Q6NT55	rs146689227	A126T	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	146904240	Q6NT55	rs146904240	S237R	0.991		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	146904240	Q6NT55	rs146904240	S237R	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1476159506						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1476212289						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1476795714						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	147680222	Q6NT55	rs147680222	S406F	0.075		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	147680222	Q6NT55	rs147680222	S406F	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		147748244						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	147818390	Q6NT55	rs147818390	P127S	0.945		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	147818390	Q6NT55	rs147818390	P127S	0.04		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1478431719						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1478536308						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1481805874						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	148402706	Q6NT55	rs148402706	A23V	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	148402706	Q6NT55	rs148402706	A23V	0.15		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		148454445						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1486175931						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1486409087						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1488341682						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1488392418						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		148922687						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	148977089	Q6NT55	rs148977089	R246C	0.693		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	148977089	Q6NT55	rs148977089	R246C	0.06		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	149247930						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	149500476						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		150443867						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, benign	150739429						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	151269464	Q6NT55	rs151269464	A194V	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	151269464	Q6NT55	rs151269464	A194V	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	151269464	Q6NT55	rs151269464	A194V	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	151269464	Q6NT55	rs151269464	A194V	0.19		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		151317392						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1555729701	Q6NT55	rs1555729701	M333I	0.981		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1555729701	Q6NT55	rs1555729701	M333I	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1555730246	Q6NT55	rs1555730246	L404P	0.015		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1555730246	Q6NT55	rs1555730246	L404P	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1568360319						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568360348						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568360526	Q6NT55	rs1568360526	D198Y	0.98		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568360526	Q6NT55	rs1568360526	D198Y	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568361250	Q6NT55	rs1568361250	I233L	0.27		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568361250	Q6NT55	rs1568361250	I233L	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1568361303						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1568361468						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568364117	Q6NT55	rs1568364117	T388K	0.623		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568364117	Q6NT55	rs1568364117	T388K	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568365205	Q6NT55	rs1568365205	F496L	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	1568365205	Q6NT55	rs1568365205	F496L	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1568365210	Q6NT55	rs1568365210	L498R	0.871		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1568365210	Q6NT55	rs1568365210	L498R	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599796326						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599799369						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599799401						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599799451						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599799477						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599799488						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599813894						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599820112						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599820588						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1599820876						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	benign	16980531						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1766710762						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	184021211	Q6NT55	rs184021211	R246H	0.005		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	184021211	Q6NT55	rs184021211	R246H	0.2		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	187004457	Q6NT55	rs187004457	A162G	0.949		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	187004457	Q6NT55	rs187004457	A162G	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1871440426						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	188702643	Q6NT55	rs188702643	A259G	0.163		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	188702643	Q6NT55	rs188702643	A259G	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		189645644	Q6NT55	rs189645644	D381N	0.858		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		189645644	Q6NT55	rs189645644	D381N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		189645644	Q6NT55	rs189645644	D381N	0.855		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		189645644	Q6NT55	rs189645644	D381N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		192866147						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971269431						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971270115						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971270582						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971270895						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971270944						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971271056						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971272240						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971272286						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971272660						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971273197						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971273613						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971273926						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971321702						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971321751						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971321871						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971322352						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971322390						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971323020						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971323196						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971408671						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971408708						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971410839						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971412241						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971412644						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971412863						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971412905						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971413368						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971413548						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971417146						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971417793						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971417975						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971418063						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971418636						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971418917						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971444268						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971444991						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971446000	Q6NT55	rs1971446000	Y250H	0.003		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971446000	Q6NT55	rs1971446000	Y250H	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971446995						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971447042						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971447118						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971447263						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	1971448761						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971449129						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971492918						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971492955						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971493856						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971495749	Q6NT55	rs1971495749	T339K	0.995		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971495749	Q6NT55	rs1971495749	T339K	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971495796						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971495916						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971497362						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971553503						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971553864						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971554010						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971555259						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971555383						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971555526						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971555554						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971555635						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971555903						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971566182						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971566268						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971566382						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971566864						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971567039						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971584049						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971584494						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971585061						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971585469	Q6NT55	rs1971585469	A470V	0.855		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	1971585469	Q6NT55	rs1971585469	A470V	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971585595						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971585629						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971594584						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971594693						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		1971595123						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	199641250	Q6NT55	rs199641250	R157H	0.165		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	199641250	Q6NT55	rs199641250	R157H	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		199675676						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	199782025	Q6NT55	rs199782025	R284W	0.763		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	199782025	Q6NT55	rs199782025	R284W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	200005567	Q6NT55	rs200005567	R257H	0.003		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	200005567	Q6NT55	rs200005567	R257H	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	200005567	Q6NT55	rs200005567	R257H	0.003		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	200005567	Q6NT55	rs200005567	R257H	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	200171674	Q6NT55	rs200171674	R495C	0.423		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	200171674	Q6NT55	rs200171674	R495C	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	200174659	Q6NT55	rs200174659	D330V	0.988		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	200174659	Q6NT55	rs200174659	D330V	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely pathogenic, pathogenic	200581968	Q6NT55	rs200581968	R451C	0.931		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely pathogenic, pathogenic	200581968	Q6NT55	rs200581968	R451C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		200712099						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		200732696						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		200883622						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	201129618						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	201148124	Q6NT55	rs201148124	P117L	0.081		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	201148124	Q6NT55	rs201148124	P117L	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		201426377						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		201717667						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	201853168	Q6NT55	rs201853168	E511Q	0.996		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	201853168	Q6NT55	rs201853168	E511Q	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		201919272						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, benign, likely benign	202066269	Q6NT55	rs202066269	R7H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, benign, likely benign	202066269	Q6NT55	rs202066269	R7H	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		207477012						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144512427						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144518326						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144518335						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144528514						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144532649						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144532672						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		2144532853						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	2144549775	Q6NT55	rs2144549775	V466A	0.217		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	2144549775	Q6NT55	rs2144549775	V466A	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	2513156213						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	2513163934						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	2513164010	Q6NT55	rs2513164010	R486C	0.849		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	2513164010	Q6NT55	rs2513164010	R486C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	2513164035						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		267605318						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		367667200						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		368320642						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	368699374						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		368738530						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	368781436						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	368958384	Q6NT55	rs368958384	R419H	0.344		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	368958384	Q6NT55	rs368958384	R419H	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	369559047						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	369811073	Q6NT55	rs369811073	G81D	0.36		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	369811073	Q6NT55	rs369811073	G81D	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		369811543	Q6NT55	rs369811543	R257C	0.003		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		369811543	Q6NT55	rs369811543	R257C	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		369811543	Q6NT55	rs369811543	R257C	0.003		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		369811543	Q6NT55	rs369811543	R257C	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	370734976	Q6NT55	rs370734976	I306T	0.995		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	370734976	Q6NT55	rs370734976	I306T	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	371097842	Q6NT55	rs371097842	S220T	0.823		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	371097842	Q6NT55	rs371097842	S220T	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		371459332						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	371788862						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		371945146						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		372984405						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		373223970						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		374190832						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		374502872						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		374530747						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		374714583						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		375092463						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		375434045						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		376061100						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		376273710						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	376675683	Q6NT55	rs376675683	R242W	0.769		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	376675683	Q6NT55	rs376675683	R242W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		377542346						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		377611165						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		531670218						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		539182601						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		539896338						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	549559441	Q6NT55	rs549559441	Q288K	0.001		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	549559441	Q6NT55	rs549559441	Q288K	0.42		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		556353361						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		561480298	Q6NT55	rs561480298	R419C	0.26		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		561480298	Q6NT55	rs561480298	R419C	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		561480298	Q6NT55	rs561480298	R419C	0.255		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		561480298	Q6NT55	rs561480298	R419C	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		562637818						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	569166154	Q6NT55	rs569166154	A162T	0.916		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	569166154	Q6NT55	rs569166154	A162T	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	570906384						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		571757470						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		571776726						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	572278771	Q6NT55	rs572278771	A238T	0.402		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, likely benign	572278771	Q6NT55	rs572278771	A238T	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		572335692						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	572771583						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		574635980						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		577229558						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	benign	7256787						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745666110	Q6NT55	rs745666110	R64W	0.022		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745666110	Q6NT55	rs745666110	R64W	0.07		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745666110	Q6NT55	rs745666110	R64W	0.021		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745666110	Q6NT55	rs745666110	R64W	0.13		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232S	0.212		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232S	0.05		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232S	0.131		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232S	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232T	0.144		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232T	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232T	0.142		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		745682521	Q6NT55	rs745682521	A232T	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	745942843	Q6NT55	rs745942843	R407C	0.999		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic	745942843	Q6NT55	rs745942843	R407C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		746956755						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	746979996	Q6NT55	rs746979996	R37H	0.001		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	746979996	Q6NT55	rs746979996	R37H	0.36		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	746979996	Q6NT55	rs746979996	R37H	0.001		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	746979996	Q6NT55	rs746979996	R37H	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	746979996	Q6NT55	rs746979996	R37L	0.106		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	746979996	Q6NT55	rs746979996	R37L	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		747319915						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		747372231						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		747628875						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		748177003						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	748463754	Q6NT55	rs748463754	R397H	0.999		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	748463754	Q6NT55	rs748463754	R397H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	748463754	Q6NT55	rs748463754	R397H	0.999		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	748463754	Q6NT55	rs748463754	R397H	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		749026805						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		749926972						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	749972738	Q6NT55	rs749972738	P105L	0.365		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	749972738	Q6NT55	rs749972738	P105L	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	749972738	Q6NT55	rs749972738	P105L	0.36		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance, pathogenic	749972738	Q6NT55	rs749972738	P105L	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		750057163						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		750472966						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	750733757	Q6NT55	rs750733757	R55W	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	750733757	Q6NT55	rs750733757	R55W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		750743002						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	750775216	Q6NT55	rs750775216	F30S	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	750775216	Q6NT55	rs750775216	F30S	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		750797007						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		750977499						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		751327927						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		751335732	Q6NT55	rs751335732	G149D	0.981		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		751335732	Q6NT55	rs751335732	G149D	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		751335732	Q6NT55	rs751335732	G149D	0.982		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		751335732	Q6NT55	rs751335732	G149D	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		751954643						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752040877						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	752130618						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752192760						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752196556						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752418864						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752778252	Q6NT55	rs752778252	R20H	0.719		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752778252	Q6NT55	rs752778252	R20H	0.43		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752778252	Q6NT55	rs752778252	R20H	0.715		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752778252	Q6NT55	rs752778252	R20H	0.22		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		752999090						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	753753497						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		753883685						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	754377557						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		754604524						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755129541	Q6NT55	rs755129541	R284Q	0.015		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755129541	Q6NT55	rs755129541	R284Q	0.31		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755129541	Q6NT55	rs755129541	R284Q	0.015		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755129541	Q6NT55	rs755129541	R284Q	0.24		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755273482	Q6NT55	rs755273482	R154W	0.428		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755273482	Q6NT55	rs755273482	R154W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755273482	Q6NT55	rs755273482	R154W	0.423		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755273482	Q6NT55	rs755273482	R154W	0.04		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		755471652						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	755885838	Q6NT55	rs755885838	R283W	0.999		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	755885838	Q6NT55	rs755885838	R283W	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	755919126						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756321971						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756447723	Q6NT55	rs756447723	R55Q	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756447723	Q6NT55	rs756447723	R55Q	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756447723	Q6NT55	rs756447723	R55Q	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756447723	Q6NT55	rs756447723	R55Q	0.07		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756581830						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		756800456						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		757051294						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	757078629	Q6NT55	rs757078629	D252N	0.365		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	757078629	Q6NT55	rs757078629	D252N	0.04		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	757078629	Q6NT55	rs757078629	D252N	0.36		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	757078629	Q6NT55	rs757078629	D252N	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		757780967						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758040339						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758385025						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758816247	Q6NT55	rs758816247	A179T	0.001		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758816247	Q6NT55	rs758816247	A179T	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758816247	Q6NT55	rs758816247	A179T	0.001		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758816247	Q6NT55	rs758816247	A179T	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		758915198						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		759221556						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		759304313						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		759342592						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		759994562						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	760550354	Q6NT55	rs760550354	M199V	0.169		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	760550354	Q6NT55	rs760550354	M199V	0.1		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		760569680						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		760569775						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	760727576	Q6NT55	rs760727576	P355L	0.593		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	760727576	Q6NT55	rs760727576	P355L	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	761113998	Q6NT55	rs761113998	Q244R	0.29		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	761113998	Q6NT55	rs761113998	Q244R	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761196649						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761198340						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761445302						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761963345	Q6NT55	rs761963345	E328K	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761963345	Q6NT55	rs761963345	E328K	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761963345	Q6NT55	rs761963345	E328K	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		761963345	Q6NT55	rs761963345	E328K	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		762055044						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	762090356						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		762300969						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		762338873						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		762779449						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		763409773						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		763867966						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		764409492						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		764969665						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		764981944						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		765395884						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	765490114						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		765946425						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		766072305						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	766560113	Q6NT55	rs766560113	D453V	0.98		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	766560113	Q6NT55	rs766560113	D453V	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		766987265						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		767055256						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		767066474						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	767352854	Q6NT55	rs767352854	R282W	0.812		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	767352854	Q6NT55	rs767352854	R282W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	767352854	Q6NT55	rs767352854	R282W	0.809		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	767352854	Q6NT55	rs767352854	R282W	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic, pathogenic	768098854	Q6NT55	rs768098854	R243C	0.996		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic, pathogenic	768098854	Q6NT55	rs768098854	R243C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		768181440						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		768745902						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		768795742						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	769033721	Q6NT55	rs769033721	I426V	0.036		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	769033721	Q6NT55	rs769033721	I426V	0.24		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic, pathogenic	769229606	Q6NT55	rs769229606	R362Q	0.995		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely pathogenic, pathogenic	769229606	Q6NT55	rs769229606	R362Q	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		770004839						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		770450984						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		770465694						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	770500550	Q6NT55	rs770500550	R156C	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	770500550	Q6NT55	rs770500550	R156C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	770500550	Q6NT55	rs770500550	R156C	1.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	770500550	Q6NT55	rs770500550	R156C	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		770947816						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		771126991						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		771458701						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		772654580						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	772977381						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773295754	Q6NT55	rs773295754	T17M	0.732		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773295754	Q6NT55	rs773295754	T17M	0.11		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773295754	Q6NT55	rs773295754	T17M	0.728		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773295754	Q6NT55	rs773295754	T17M	0.05		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		773736322						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773826320	Q6NT55	rs773826320	R262W	0.329		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773826320	Q6NT55	rs773826320	R262W	0.09		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773826320	Q6NT55	rs773826320	R262W	0.325		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	773826320	Q6NT55	rs773826320	R262W	0.11		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	774309866	Q6NT55	rs774309866	D338N	0.998		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	774309866	Q6NT55	rs774309866	D338N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	774309866	Q6NT55	rs774309866	D338N	0.998		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	774309866	Q6NT55	rs774309866	D338N	0.0		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		774374262						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		774525657						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775270460						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775288087						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775571688						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775751524						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775752466	Q6NT55	rs775752466	R65C	0.082		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775752466	Q6NT55	rs775752466	R65C	0.04		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775752466	Q6NT55	rs775752466	R65C	0.081		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775752466	Q6NT55	rs775752466	R65C	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		775957739						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	776275777	Q6NT55	rs776275777	R156H	0.979		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	776275777	Q6NT55	rs776275777	R156H	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	776275777	Q6NT55	rs776275777	R156H	0.979		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	pathogenic	776275777	Q6NT55	rs776275777	R156H	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		776523823						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		776771681						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		776967520						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		777093774						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	777194622	Q6NT55	rs777194622	E517D	0.773		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	777194622	Q6NT55	rs777194622	E517D	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		777845525						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		778434392						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		778608608						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779007203						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779100501						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779195003						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779206543	Q6NT55	rs779206543	R287C	0.009		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779206543	Q6NT55	rs779206543	R287C	0.07		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779206543	Q6NT55	rs779206543	R287C	0.009		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779206543	Q6NT55	rs779206543	R287C	0.04		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	779288178	Q6NT55	rs779288178	R154Q	0.485		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	uncertain significance	779288178	Q6NT55	rs779288178	R154Q	0.12		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		779679449						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		780704118						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		780816103						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		781206441						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	likely benign	781553299						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		781609308						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		781757068						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	benign	79603814	Q6NT55	rs79603814	S196C	0.022		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant	benign	79603814	Q6NT55	rs79603814	S196C	0.18		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		865925497						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		867086582						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		868030805						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		868275131						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		868549151						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		923139582	Q6NT55	rs923139582	L140V	0.85		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		923139582	Q6NT55	rs923139582	L140V	0.03		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		923139582	Q6NT55	rs923139582	L140V	0.855		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		923139582	Q6NT55	rs923139582	L140V	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		946591987						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		954923071						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		961001839						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		973011727						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		976103098						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		979190117						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		980417941						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		990606848	Q6NT55	rs990606848	Q223R	0.893		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		990606848	Q6NT55	rs990606848	Q223R	0.02		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		990606848	Q6NT55	rs990606848	Q223R	0.897		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		990606848	Q6NT55	rs990606848	Q223R	0.01		Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
+CYP4F22	missense_variant		992089967						Q6NT55	Ultra-long-chain fatty acid omega-hydroxylase	Homo sapiens	Encontrado	https://alphafold.ebi.ac.uk/entry/Q6NT55
